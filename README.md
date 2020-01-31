@@ -14,7 +14,7 @@ In order to use ASICAKaldiNNETRecipe:
 - A UNIX-type OS must be used.
 - Kaldi is correctly installed in your system
 - Python3 is correctly installed, and the following libraries: pandas, time, subprocess, os, errno, csv, shutil
-- You must have a training and testing corpus (see section 7).
+- You must have a training and testing corpus (see section 4).
 
 ##### 2. Download and cheking instalation
 
@@ -93,7 +93,7 @@ Each line corresponds to a single utterance in the audio file, and it is compose
 
 In order to facilitate creating these .kal files, you can use Praat textGrids. In Praat you should create two annotation tiers, one for syllables (tier 1) and another for phonemes (tier 2) using the syntax described above (fileds 3 and for). Then you can export using our Praat script Praat2Kaldi.praat and saving them with .kal extension.
 
-##### 4. Running a basic experiment with ASICAKaldiGMMRecipe
+##### 5. Running a basic experiment with ASICAKaldiGMMRecipe
 
   - 1º: Place the audio files in the folder audio/experiment_lm (if you prefer another location, you must specify in config.py, configTrain.py, configTest.py)
   - 2º: Place the training .kal files in info_user/control
