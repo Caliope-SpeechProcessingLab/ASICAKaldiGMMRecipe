@@ -48,7 +48,7 @@ steps/train_mono.sh --nj $njTrain --boost-silence 1.25 --cmd "$train_cmd" data/t
 #Mono-graph
 utils/mkgraph.sh --mono data/lang exp/mono exp/mono/graph
 #Mono-decoding
-steps/decode.sh --config conf/decode.config --nj $njTrain --cmd "$decode_cmd" exp/mono/graph data/test exp/mono/decode
+#steps/decode.sh --config conf/decode.config --nj $njTrain --cmd "$decode_cmd" exp/mono/graph data/test exp/mono/decode
 #Mono-ali
 steps/align_si.sh --nj $njTrain --cmd "$train_cmd" data/train data/lang exp/mono exp/mono_ali
 
@@ -58,8 +58,8 @@ steps/train_deltas.sh --cmd "$train_cmd" 2000 11000 data/train data/lang exp/mon
 #Tri-graph
 utils/mkgraph.sh data/lang exp/tri1 exp/tri1/graph || exit 1;
 #tri-decoding
-steps/decode.sh --config conf/decode.config --nj $njTrain --cmd "$decode_cmd" exp/tri1/graph data/test exp/tri1/decode
-# steps/align_si.sh --nj $njTrain --cmd "$train_cmd" data/train data/lang exp/tri1 exp/tri1_ali
+#steps/decode.sh --config conf/decode.config --nj $njTrain --cmd "$decode_cmd" exp/tri1/graph data/test exp/tri1/decode
+#steps/align_si.sh --nj $njTrain --cmd "$train_cmd" data/train data/lang exp/tri1 exp/tri1_ali
 
 #---------------------------------------------------------------NNET2 TRAINING---------------------------------------------------------------------------------------------------------
 

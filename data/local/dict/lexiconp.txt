@@ -95,11 +95,11 @@ ru 1.0 r u
 e 1.0 e
 su 1.0 s u
 gue 1.0 g u e
-rru 1.0 rr u
 ho 1.0 h o
 u 1.0 u
 fes 1.0 f e s
 chi 1.0 ch i
+rru 1.0 rr u
 o 1.0 o
 tir 1.0 t i r
 bru 1.0 b r u

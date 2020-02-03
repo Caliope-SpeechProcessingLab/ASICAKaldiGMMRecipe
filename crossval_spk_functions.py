@@ -85,18 +85,26 @@ def global_result_reformat(result_reformat):
     # global_result_reformat takes every .csv file in results/reformat and merge in a single .txt file to SPSS
     #   result_reformat: path results/reformat/'
 
-    txt_file = result_reformat+'global_result_reformat.txt'
-    if os.path.exists(txt_file):
-        os.remove(txt_file)
-    os.mknod(txt_file)
+    file_global = result_reformat+'global_result_reformat.txt'
+    if os.path.exists(file_global):
+        os.remove(file_global)
+    os.mknod(file_global)
 
-    with open(txt_file, "w") as output_file:
+    with open(file_global, "w") as output_file:
         # Open txt output and goes for every .csv file
         index_file = 0
-        list_file = os.listdir(result_reformat)
-        list_file.sort()
-        for file in list_file:
-            if file.endswith(".csv"):
+        list_results = os.listdir(result_reformat)
+        list_results.sort()
+
+        # Make a list of all speakers unique
+        speakers_list = list()
+        for spk in list_results:
+            speakers_list.append(spk[0:5])  # ----    Check this if your IDs are different from above
+        # end for
+        speakers_list = list(set(speakers_list))
+
+        for file in list_results:
+            if file.endswith(".csv") and (file[0:5] in speakers_list):
                 with open(os.path.join(result_reformat,file), "r") as input_file:
                     # all rows are readed
                     index_row = 0
@@ -106,14 +114,14 @@ def global_result_reformat(result_reformat):
                         # end if
                         index_row = index_row + 1
                     # end for row
+                    speakers_list.remove(file[0:5])
+                # end with
             index_file = index_file + 1
             # end if
         # end for
         output_file.close()
     # end with
-
-# end function
-
+# end global_result_reformat
 
 def save_raw_result(results_decode_path):
     # Extract output
@@ -152,7 +160,7 @@ def save_raw_result(results_decode_path):
         output = open('results/raw/'+speaker+'_raw.txt','+w')
         output.write(r)
 
-        # result_format.extract_results(True, speaker)
+        result_format.extract_results(True, speaker)
     return speaker
 # end save_raw_result
 

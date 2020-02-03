@@ -1,6 +1,6 @@
 #!/bin/bash
 
-train_cmd="utils/run.pl" 
+train_cmd="utils/run.pl"
 decode_cmd="utils/run.pl"
 
 kalFileDirectory=$1
@@ -9,11 +9,11 @@ kalFileDirectory=$1
 
 # Calculo el número de procesadores y lo guardo en nj
 if [[ "$OSTYPE" == "linux-gnu" ]]; then
-		nj=$(nproc) 
+		nj=$(nproc)
 elif [[ "$OSTYPE" == "darwin"* ]]; then
-		nj=$(sysctl -n hw.ncpu) 
+		nj=$(sysctl -n hw.ncpu)
 else    # ...
-	echo Lo siento, tu SO no lo he estudidado aún. 
+	echo Lo siento, tu SO no lo he estudidado aún.
 	echo Asumo Número de procesos paralelos = 1
 	nj=1
 fi
@@ -27,9 +27,9 @@ else
 	njTest=$nj
 fi
 
-# Ad-hoc solution for the apparently problema that kaldi has errors with nj>8. 
+# Ad-hoc solution for the apparently problema that kaldi has errors with nj>8.
 # This occurs in laptop with 8 cores (but for which sysctl -n hw.ncpu returns 16).
-# So maybe the problem is that kaldi has problems with multithreading 
+# So maybe the problem is that kaldi has problems with multithreading
 # A more general solution should be found
 if [ $njTest -ge 8 ]
 then
@@ -43,7 +43,7 @@ steps/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/d
 
 
 printf "\n#### BEGIN SCORING ####\n"
-    
+
 local/score.sh --cmd "$decode_cmd" data/test exp/tri1/graph $dir/decode || exit 1;
 
 printf "\n#### END SCORING ####\n"
@@ -58,13 +58,13 @@ printf "\n#### END SCORING ####\n"
 
 #Usage: $0 [options] <graph-dir> <data-dir> <decode-dir>
 
-dir=exp/nnet2/nnet2_simple
-steps/nnet2/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/decode
+#dir=exp/nnet2/nnet2_simple
+#steps/nnet2/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/decode
 
 
-printf "\n#### BEGIN SCORING ####\n"
-    
-local/score.sh --cmd "$decode_cmd" data/test exp/tri1/graph $dir/decode || exit 1;
+#printf "\n#### BEGIN SCORING ####\n"
 
-printf "\n#### END SCORING ####\n"
+#local/score.sh --cmd "$decode_cmd" data/test exp/tri1/graph $dir/decode || exit 1;
+
+#printf "\n#### END SCORING ####\n"
 
