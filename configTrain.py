@@ -1,9 +1,11 @@
+
+
 import os
 import shutil
 import errno
-import csv
+#import csv
 import pandas as pd
-import subprocess
+#import subprocess
 import re
 
 # ----------------------------------------- auxiliar function utils ---------------------------------------------
@@ -265,10 +267,15 @@ def main(train_ID):
     trInfo_path = 'info_user/train/'
     audiosTrain_path = 'audio/experiment_lm/'
 
-    dataTrain_path = 'data_init/train/'
+#    dataTrain_path = 'data_init/train/'
+#
+#    dataLocal = 'data_init/local/'
+#    dataLocalDict = 'data_init/local/dict/'
 
-    dataLocal = 'data_init/local/'
-    dataLocalDict = 'data_init/local/dict/'
+    dataTrain_path = 'data/train/'
+
+    dataLocal = 'data/local/'
+    dataLocalDict = 'data/local/dict/'
 
 
     check_path_names([trInfo_path,dataTrain_path,dataLocal,dataLocalDict,audiosTrain_path])
@@ -283,13 +290,13 @@ def main(train_ID):
     trDataDict = {}
 
 
-    silentDirectory_remove('data_init')
-    os.mkdir('data_init')
-    os.mkdir('data_init/lang')
-    os.mkdir('data_init/local')
-    os.mkdir('data_init/local/lang')
-    os.mkdir('data_init/local/tmp')
-    os.mkdir('data_init/local/dict')
+    silentDirectory_remove('data')
+    os.mkdir('data')
+    os.mkdir('data/lang')
+    os.mkdir('data/local')
+    os.mkdir('data/local/lang')
+    os.mkdir('data/local/tmp')
+    os.mkdir('data/local/dict')
     os.mkdir(dataTrain_path)
 
     #Check .kal filename format:

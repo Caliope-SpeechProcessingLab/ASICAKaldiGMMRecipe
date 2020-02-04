@@ -42,11 +42,11 @@ dir=exp/tri1
 steps/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/decode
 
 
-printf "\n#### BEGIN SCORING ####\n"
+printf "\n#### BEGIN SCORING ####"
 
 local/score.sh --cmd "$decode_cmd" data/test exp/tri1/graph $dir/decode || exit 1;
 
-printf "\n#### END SCORING ####\n"
+printf "#### END SCORING ####\n"
 
 
 #-------------------------------------------------------NNET2 DECODING--------------------------------------------------------------------------------------------------------

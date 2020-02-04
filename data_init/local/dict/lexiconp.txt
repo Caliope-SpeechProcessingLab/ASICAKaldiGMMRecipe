@@ -1,110 +1,108 @@
 <SIL> 1.0 SIL
+se 1.0 s e
 ya 1.0 y a
+be 1.0 b e
+ta 1.0 t a
+sa 1.0 s a
 te 1.0 t e
-no 1.0 n o
-lu 1.0 l u
-ba 1.0 b a
-fe 1.0 f e
-ti 1.0 t i
-tu 1.0 t u
-lo 1.0 l o
-mo 1.0 m o
-de 1.0 d e
-pe 1.0 p e
-xe 1.0 x e
-ra 1.0 r a
-pa 1.0 p a
-le 1.0 l e
+li 1.0 l i
+rri 1.0 rr i
+bu 1.0 b u
+po 1.0 p o
+me 1.0 m e
+ma 1.0 m a
+nya 1.0 ny a
+na 1.0 n a
+gi 1.0 g i
+da 1.0 d a
 ka 1.0 k a
 rro 1.0 rr o
-za 1.0 z a
-ma 1.0 m a
-po 1.0 p o
-chu 1.0 ch u
-rim 1.0 r i m
-ko 1.0 k o
-di 1.0 d i
-li 1.0 l i
+bi 1.0 b i
 ga 1.0 g a
-be 1.0 b e
-yo 1.0 y o
-so 1.0 s o
-to 1.0 t o
+mo 1.0 m o
+pe 1.0 p e
+di 1.0 d i
+do 1.0 d o
+ku 1.0 k u
+lo 1.0 l o
+ra 1.0 r a
+mi 1.0 m i
+ri 1.0 r i
+fa 1.0 f a
+fe 1.0 f e
+ni 1.0 n i
 re 1.0 r e
 xa 1.0 x a
-nu 1.0 n u
-me 1.0 m e
-ro 1.0 r o
-pi 1.0 p i
-bo 1.0 b o
-bi 1.0 b i
-ye 1.0 y e
-fo 1.0 f o
+so 1.0 s o
+ke 1.0 k e
+du 1.0 d u
 ne 1.0 n e
-sa 1.0 s a
-cha 1.0 ch a
-ni 1.0 n i
-do 1.0 d o
-nyo 1.0 ny o
-nya 1.0 ny a
-da 1.0 d a
+pi 1.0 p i
+yo 1.0 y o
+no 1.0 n o
+ki 1.0 k i
 la 1.0 l a
-zi 1.0 z i
-se 1.0 s e
-ri 1.0 r i
-ta 1.0 t a
-ku 1.0 k u
-xo 1.0 x o
+mu 1.0 m u
+lu 1.0 l u
+to 1.0 t o
+si 1.0 s i
+de 1.0 d e
+ba 1.0 b a
+ti 1.0 t i
+ro 1.0 r o
+i 1.0 i
 fu 1.0 f u
+ko 1.0 k o
+zi 1.0 z i
+pa 1.0 p a
+bo 1.0 b o
+che 1.0 ch e
+fi 1.0 f i
+fo 1.0 f o
+tu 1.0 t u
+ye 1.0 y e
+ze 1.0 z e
+xe 1.0 x e
+za 1.0 z a
+zo 1.0 z o
+le 1.0 l e
+chu 1.0 ch u
+nu 1.0 n u
+yi 1.0 y i
+cha 1.0 ch a
+nyo 1.0 ny o
+xo 1.0 x o
 rre 1.0 rr e
 go 1.0 g o
-ze 1.0 z e
-mu 1.0 m u
-gu 1.0 g u
-na 1.0 n a
-si 1.0 s i
-mi 1.0 m i
-zo 1.0 z o
-fi 1.0 fi
-bu 1.0 b u
 ge 1.0 g e
-ke 1.0 k e
 rra 1.0 rr a
-tie 1.0 t ie
-du 1.0 d u
-gi 1.0 g i
+gu 1.0 g u
 cho 1.0 ch o
 xi 1.0 x i
-rri 1.0 rr i
-fa 1.0 f a
-che 1.0 ch e
+tie 1.0 t ie
 a 1.0 a
-yi 1.0 y i
-ki 1.0 k i
-kro 1.0 k r o
-pu 1.0 p u
+rim 1.0 r i m
 yu 1.0 y u
-f* 1.0 f *
-zu 1.0 z u
-sol 1.0 s o l
-mon 1.0 m o n
-i 1.0 i
-xu 1.0 x u
-she 1.0 sh e
-ru 1.0 r u
+ho 1.0 h o
+kri 1.0 k r i
+u 1.0 u
+pu 1.0 p u
 e 1.0 e
+sho 1.0 sh o
+kro 1.0 k r o
+zu 1.0 z u
+fle 1.0 f l e
+ce 1.0 c e
+chi 1.0 ch i
 su 1.0 s u
 gue 1.0 g u e
-ho 1.0 h o
-u 1.0 u
-fes 1.0 f e s
-chi 1.0 ch i
-rru 1.0 rr u
+ru 1.0 r u
+sol 1.0 s o l
+mon 1.0 m o n
+he 1.0 he
+gui 1.0 gu i
 o 1.0 o
-tir 1.0 t i r
-bru 1.0 b r u
-kri 1.0 k r i
+sha 1.0 sh a
 ha 1.0 h a
-ran 1.0 r a n
-kof 1.0 k o f
-fle 1.0 f l e
+tir 1.0 t i r
+she 1.0 sh e

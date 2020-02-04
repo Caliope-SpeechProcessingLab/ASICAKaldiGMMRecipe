@@ -248,7 +248,7 @@ def main(argv):
 
             num_lines = sum(1 for line in open(resultFilename+'_'+excludedSpk))
             file = open(resultFilename+'_'+excludedSpk)
-            fileGlobal = open('results/resultGlobal', 'a')
+            fileGlobal = open('results/global_spk', 'a')
             for i in range(0,num_lines-1):
                 line = file.readline()
                 fileGlobal.write(line)
