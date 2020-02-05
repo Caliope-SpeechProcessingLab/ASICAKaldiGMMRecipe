@@ -4,7 +4,7 @@ te t_B e_E
 no n_B o_E
 lu l_B u_E
 ba b_B a_E
-fe f_B e_E
+ze z_B e_E
 ti t_B i_E
 tu t_B u_E
 lo l_B o_E
@@ -21,10 +21,9 @@ za z_B a_E
 ma m_B a_E
 po p_B o_E
 chu ch_B u_E
-rim r_B i_I m_E
+li l_B i_E
 ko k_B o_E
 di d_B i_E
-li l_B i_E
 ga g_B a_E
 be b_B e_E
 yo y_B o_E
@@ -37,75 +36,49 @@ me m_B e_E
 ro r_B o_E
 pi p_B i_E
 bo b_B o_E
-bi b_B i_E
-ye y_B e_E
+mi m_B i_E
+yi y_B i_E
 fo f_B o_E
 ne n_B e_E
 sa s_B a_E
+fe f_B e_E
 cha ch_B a_E
 ni n_B i_E
+bi b_B i_E
+ye y_B e_E
 do d_B o_E
 nyo ny_B o_E
 nya ny_B a_E
 da d_B a_E
+fa f_B a_E
 la l_B a_E
 zi z_B i_E
 se s_B e_E
 ri r_B i_E
 ta t_B a_E
+na n_B a_E
 ku k_B u_E
 xo x_B o_E
 fu f_B u_E
 rre rr_B e_E
 go g_B o_E
-ze z_B e_E
-mu m_B u_E
-gu g_B u_E
-na n_B a_E
-si s_B i_E
-mi m_B i_E
 zo z_B o_E
-fi fi_S
-bu b_B u_E
 ge g_B e_E
-ke k_B e_E
 rra rr_B a_E
 tie t_B ie_E
 du d_B u_E
 gi g_B i_E
 cho ch_B o_E
+bu b_B u_E
 xi x_B i_E
-rri rr_B i_E
-fa f_B a_E
-che ch_B e_E
-a a_S
-yi y_B i_E
-ki k_B i_E
-kro k_B r_I o_E
-pu p_B u_E
-yu y_B u_E
+si s_B i_E
 f* f_B *_E
-zu z_B u_E
 sol s_B o_I l_E
 mon m_B o_I n_E
-i i_S
-xu x_B u_E
-she sh_B e_E
-ru r_B u_E
-e e_S
-su s_B u_E
-gue g_B u_I e_E
-ho h_B o_E
-u u_S
-fes f_B e_I s_E
-chi ch_B i_E
-rru rr_B u_E
-o o_S
-tir t_B i_I r_E
-bru b_B r_I u_E
-kri k_B r_I i_E
-ha h_B a_E
-ran r_B a_I n_E
-kof k_B o_I f_E
-fle f_B l_I e_E
+mu m_B u_E
+gu g_B u_E
+fi f_B i_E
+ke k_B e_E
+rri rr_B i_E
+che ch_B e_E
 <eps> SIL

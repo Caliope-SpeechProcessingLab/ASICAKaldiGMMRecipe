@@ -1,1 +1,12 @@
-CA202QL1_M20 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:13
+CA016QL1_H36 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:13
+CA016QL2_H36 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:265
+CA016QL3_H36 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:517
+CA016QL4_H36 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:769
+CA017QL1_M66 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:1021
+CA017QL2_M66 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:1273
+CA017QL3_M66 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:1525
+CA017QL4_M66 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:1777
+CA018QL1_M69 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:2029
+CA018QL2_M69 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:2281
+CA018QL3_M69 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:2533
+CA018QL4_M69 /home/andres/kaldi/egs/ASICAKaldiGMMRecipe/mfcc/cmvn_test.ark:2785

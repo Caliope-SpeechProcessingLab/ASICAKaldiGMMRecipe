@@ -8,7 +8,7 @@ shared split o_B o_E o_I o_S
 shared split l_B l_E l_I l_S
 shared split u_B u_E u_I u_S
 shared split b_B b_E b_I b_S
-shared split f_B f_E f_I f_S
+shared split z_B z_E z_I z_S
 shared split i_B i_E i_I i_S
 shared split m_B m_E m_I m_S
 shared split d_B d_E d_I d_S
@@ -17,13 +17,10 @@ shared split x_B x_E x_I x_S
 shared split r_B r_E r_I r_S
 shared split k_B k_E k_I k_S
 shared split rr_B rr_E rr_I rr_S
-shared split z_B z_E z_I z_S
 shared split ch_B ch_E ch_I ch_S
 shared split g_B g_E g_I g_S
 shared split s_B s_E s_I s_S
+shared split f_B f_E f_I f_S
 shared split ny_B ny_E ny_I ny_S
-shared split fi_B fi_E fi_I fi_S
 shared split ie_B ie_E ie_I ie_S
 shared split *_B *_E *_I *_S
-shared split sh_B sh_E sh_I sh_S
-shared split h_B h_E h_I h_S

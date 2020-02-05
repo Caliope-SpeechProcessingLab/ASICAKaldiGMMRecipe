@@ -142,7 +142,9 @@ if args.test:
     print("\n-----------------EXTRACT RESULTS----------------------\n")
     pathTo_perSpk = 'exp/tri1/decode/scoring_kaldi/wer_details/per_spk'
     result_format.simpleFormat(pathTo_perSpk,'results/' + resultFilename)
-#    result_format.extract_results(True, speaker):
+
+    import result_format
+
 # end if
 
 print("--- %s seconds ---" % (time.time() - start_time))

@@ -8,7 +8,7 @@ o o_B o_E o_I o_S
 l l_B l_E l_I l_S 
 u u_B u_E u_I u_S 
 b b_B b_E b_I b_S 
-f f_B f_E f_I f_S 
+z z_B z_E z_I z_S 
 i i_B i_E i_I i_S 
 m m_B m_E m_I m_S 
 d d_B d_E d_I d_S 
@@ -17,13 +17,10 @@ x x_B x_E x_I x_S
 r r_B r_E r_I r_S 
 k k_B k_E k_I k_S 
 rr rr_B rr_E rr_I rr_S 
-z z_B z_E z_I z_S 
 ch ch_B ch_E ch_I ch_S 
 g g_B g_E g_I g_S 
 s s_B s_E s_I s_S 
+f f_B f_E f_I f_S 
 ny ny_B ny_E ny_I ny_S 
-fi fi_B fi_E fi_I fi_S 
 ie ie_B ie_E ie_I ie_S 
 * *_B *_E *_I *_S 
-sh sh_B sh_E sh_I sh_S 
-h h_B h_E h_I h_S 

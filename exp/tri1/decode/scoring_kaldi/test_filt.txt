@@ -1,48 +1,569 @@
-CA202QL1_M20-utt0 so so so
-CA202QL1_M20-utt1 so so so
-CA202QL1_M20-utt10 so so so
-CA202QL1_M20-utt11 so so so
-CA202QL1_M20-utt12 so so so
-CA202QL1_M20-utt13 so so so
-CA202QL1_M20-utt14 so so so
-CA202QL1_M20-utt15 so so so
-CA202QL1_M20-utt16 so so so
-CA202QL1_M20-utt17 so so so
-CA202QL1_M20-utt18 so so so
-CA202QL1_M20-utt19 so so so
-CA202QL1_M20-utt2 so so so
-CA202QL1_M20-utt20 so so so
-CA202QL1_M20-utt21 so so so
-CA202QL1_M20-utt22 so so so
-CA202QL1_M20-utt23 so so so
-CA202QL1_M20-utt24 so so so
-CA202QL1_M20-utt25 so so so
-CA202QL1_M20-utt26 so so so
-CA202QL1_M20-utt27 so so so
-CA202QL1_M20-utt28 so so so
-CA202QL1_M20-utt29 so so so
-CA202QL1_M20-utt3 so so so
-CA202QL1_M20-utt30 so so so
-CA202QL1_M20-utt31 so so so
-CA202QL1_M20-utt32 so so so
-CA202QL1_M20-utt33 so so so
-CA202QL1_M20-utt34 so so so
-CA202QL1_M20-utt35 so so so
-CA202QL1_M20-utt36 so so so
-CA202QL1_M20-utt37 so so so
-CA202QL1_M20-utt38 so so so
-CA202QL1_M20-utt39 so so so
-CA202QL1_M20-utt4 so so so
-CA202QL1_M20-utt40 so so so
-CA202QL1_M20-utt41 so so so
-CA202QL1_M20-utt42 so so so
-CA202QL1_M20-utt43 so so so
-CA202QL1_M20-utt44 so so so
-CA202QL1_M20-utt45 so so so
-CA202QL1_M20-utt46 so so so
-CA202QL1_M20-utt47 so so so
-CA202QL1_M20-utt5 so so so
-CA202QL1_M20-utt6 so so so
-CA202QL1_M20-utt7 so so so
-CA202QL1_M20-utt8 so so so
-CA202QL1_M20-utt9 so so so
+CA016QL1_H36-utt0 ya te
+CA016QL1_H36-utt1 no lu
+CA016QL1_H36-utt10 chu lo
+CA016QL1_H36-utt11 pa pe ri no
+CA016QL1_H36-utt12 ko pa di
+CA016QL1_H36-utt13 li ga
+CA016QL1_H36-utt14 be yo lu
+CA016QL1_H36-utt15 so te to
+CA016QL1_H36-utt16 ma re xa za
+CA016QL1_H36-utt17 nu me ro
+CA016QL1_H36-utt18 ka pi tu lo
+CA016QL1_H36-utt19 bi ka
+CA016QL1_H36-utt2 ba fe
+CA016QL1_H36-utt20 ti bo
+CA016QL1_H36-utt21 ka li
+CA016QL1_H36-utt22 fo bo xe na
+CA016QL1_H36-utt23 pa ne
+CA016QL1_H36-utt24 tu fo
+CA016QL1_H36-utt25 sa te li to
+CA016QL1_H36-utt26 fe cha
+CA016QL1_H36-utt27 pe ni
+CA016QL1_H36-utt28 bi ne so
+CA016QL1_H36-utt29 ka ba ye te
+CA016QL1_H36-utt3 ti tu lo
+CA016QL1_H36-utt30 ko li za
+CA016QL1_H36-utt31 ka rro ma do
+CA016QL1_H36-utt32 gi nyo
+CA016QL1_H36-utt33 ma nya da
+CA016QL1_H36-utt34 za fe lu bi
+CA016QL1_H36-utt35 la ro
+CA016QL1_H36-utt36 zi ne
+CA016QL1_H36-utt37 se nyo ri ta
+CA016QL1_H36-utt38 no fe
+CA016QL1_H36-utt39 pe li ku la
+CA016QL1_H36-utt4 mo de
+CA016QL1_H36-utt40 ku xo ga
+CA016QL1_H36-utt41 fu xo
+CA016QL1_H36-utt42 se ku
+CA016QL1_H36-utt43 to rre
+CA016QL1_H36-utt44 do ze
+CA016QL1_H36-utt45 ba rre nyo
+CA016QL1_H36-utt46 me la ni to
+CA016QL1_H36-utt47 pa le go
+CA016QL1_H36-utt5 pe no
+CA016QL1_H36-utt6 xe ra
+CA016QL1_H36-utt7 pa le ti ya
+CA016QL1_H36-utt8 ka rro za
+CA016QL1_H36-utt9 ma po
+CA016QL2_H36-utt0 so ya
+CA016QL2_H36-utt1 be ta
+CA016QL2_H36-utt10 me ze do ta
+CA016QL2_H36-utt11 ko li ya
+CA016QL2_H36-utt12 bu de
+CA016QL2_H36-utt13 mo ku
+CA016QL2_H36-utt14 lo ra
+CA016QL2_H36-utt15 mi ri za
+CA016QL2_H36-utt16 xe ta
+CA016QL2_H36-utt17 bu fe lu
+CA016QL2_H36-utt18 ma ri be za
+CA016QL2_H36-utt19 ma re xa da
+CA016QL2_H36-utt2 sa te li te
+CA016QL2_H36-utt20 pe so
+CA016QL2_H36-utt21 bi ra ni
+CA016QL2_H36-utt22 ti fe du ne
+CA016QL2_H36-utt23 ti yo
+CA016QL2_H36-utt24 no fe
+CA016QL2_H36-utt25 pe ta ti
+CA016QL2_H36-utt26 la do
+CA016QL2_H36-utt27 mu no
+CA016QL2_H36-utt28 za lu
+CA016QL2_H36-utt29 ka rro ma to
+CA016QL2_H36-utt3 rri bu po
+CA016QL2_H36-utt30 mu si na
+CA016QL2_H36-utt31 de ba ti
+CA016QL2_H36-utt32 di ne ro
+CA016QL2_H36-utt33 ni fu ba ni
+CA016QL2_H36-utt34 mo te
+CA016QL2_H36-utt35 ko da
+CA016QL2_H36-utt36 ko zi
+CA016QL2_H36-utt37 di ku li te
+CA016QL2_H36-utt38 ko pa te
+CA016QL2_H36-utt39 do bo
+CA016QL2_H36-utt4 me po
+CA016QL2_H36-utt40 no che
+CA016QL2_H36-utt41 fi lo so fo
+CA016QL2_H36-utt42 pa do
+CA016QL2_H36-utt43 ka yo
+CA016QL2_H36-utt44 ka pi tu lo
+CA016QL2_H36-utt45 lu xa
+CA016QL2_H36-utt46 ba ye
+CA016QL2_H36-utt47 ka ba ye ro
+CA016QL2_H36-utt5 ma nya na
+CA016QL2_H36-utt6 zi da
+CA016QL2_H36-utt7 ka rro nya
+CA016QL2_H36-utt8 bi ga
+CA016QL2_H36-utt9 mo pe di ta
+CA016QL3_H36-utt0 so ri
+CA016QL3_H36-utt1 ye da
+CA016QL3_H36-utt10 ku fe
+CA016QL3_H36-utt11 so ma
+CA016QL3_H36-utt12 ka ba ye ro
+CA016QL3_H36-utt13 be na
+CA016QL3_H36-utt14 mu si ka
+CA016QL3_H36-utt15 bi ku
+CA016QL3_H36-utt16 ka mi ro
+CA016QL3_H36-utt17 me ze do ra
+CA016QL3_H36-utt18 ze bi
+CA016QL3_H36-utt19 ka xo
+CA016QL3_H36-utt2 pa li xo
+CA016QL3_H36-utt20 bi la
+CA016QL3_H36-utt21 me di zi na
+CA016QL3_H36-utt22 la ti ga fo
+CA016QL3_H36-utt23 no fe ba
+CA016QL3_H36-utt24 lu fo
+CA016QL3_H36-utt25 ta po di no
+CA016QL3_H36-utt26 fi lo so fo
+CA016QL3_H36-utt27 ni bo fe na
+CA016QL3_H36-utt28 mi ri ya
+CA016QL3_H36-utt29 zi bu fe ni
+CA016QL3_H36-utt3 so ga
+CA016QL3_H36-utt30 mo ka so pa
+CA016QL3_H36-utt31 ma ni be la
+CA016QL3_H36-utt32 pe ta te
+CA016QL3_H36-utt33 de ba te
+CA016QL3_H36-utt34 lu cha
+CA016QL3_H36-utt35 ka mo
+CA016QL3_H36-utt36 ko di so
+CA016QL3_H36-utt37 so ma fi
+CA016QL3_H36-utt38 lo na
+CA016QL3_H36-utt39 rro ko
+CA016QL3_H36-utt4 ko pa
+CA016QL3_H36-utt40 pe ta ma
+CA016QL3_H36-utt41 ge za
+CA016QL3_H36-utt42 ma no ka go
+CA016QL3_H36-utt43 bu ke
+CA016QL3_H36-utt44 me te
+CA016QL3_H36-utt45 pe ta
+CA016QL3_H36-utt46 rre ti ra za
+CA016QL3_H36-utt47 ti bu
+CA016QL3_H36-utt5 be ya fe
+CA016QL3_H36-utt6 mu lo
+CA016QL3_H36-utt7 zi ma
+CA016QL3_H36-utt8 no be ya
+CA016QL3_H36-utt9 ni bu
+CA016QL4_H36-utt0 chu so
+CA016QL4_H36-utt1 fe za
+CA016QL4_H36-utt10 pe ta ka
+CA016QL4_H36-utt11 do ya
+CA016QL4_H36-utt12 li ya
+CA016QL4_H36-utt13 ka mi no
+CA016QL4_H36-utt14 pa de so
+CA016QL4_H36-utt15 so da
+CA016QL4_H36-utt16 ti tu lo
+CA016QL4_H36-utt17 di ma ko
+CA016QL4_H36-utt18 ka nyo
+CA016QL4_H36-utt19 ko ga
+CA016QL4_H36-utt2 ye ma
+CA016QL4_H36-utt20 mo pe
+CA016QL4_H36-utt21 na fe
+CA016QL4_H36-utt22 ge rra
+CA016QL4_H36-utt23 so ga li na
+CA016QL4_H36-utt24 e li ku za
+CA016QL4_H36-utt25 di la
+CA016QL4_H36-utt26 no be la
+CA016QL4_H36-utt27 pe ku la ta
+CA016QL4_H36-utt28 la ti ga zo
+CA016QL4_H36-utt29 rro ka
+CA016QL4_H36-utt3 zi fo
+CA016QL4_H36-utt30 pa le te rra
+CA016QL4_H36-utt31 ze bo
+CA016QL4_H36-utt32 pa li yo
+CA016QL4_H36-utt33 ka ba ye to
+CA016QL4_H36-utt34 lo fe lu ne
+CA016QL4_H36-utt35 ya to
+CA016QL4_H36-utt36 gi cho
+CA016QL4_H36-utt37 pe na
+CA016QL4_H36-utt38 bi ya
+CA016QL4_H36-utt39 to ye
+CA016QL4_H36-utt4 pa ni
+CA016QL4_H36-utt40 ze bu xo
+CA016QL4_H36-utt41 rre ti ra da
+CA016QL4_H36-utt42 nu be so
+CA016QL4_H36-utt43 ta le bo
+CA016QL4_H36-utt44 me di zi na
+CA016QL4_H36-utt45 zi se
+CA016QL4_H36-utt46 fe xi
+CA016QL4_H36-utt5 za bo lu
+CA016QL4_H36-utt6 ma no ta zo
+CA016QL4_H36-utt7 ba rre yo
+CA016QL4_H36-utt8 se nyo ri da
+CA016QL4_H36-utt9 tu fo
+CA017QL1_M66-utt0 ya te
+CA017QL1_M66-utt1 na lu
+CA017QL1_M66-utt10 chu lo
+CA017QL1_M66-utt11 pa ba ri mo
+CA017QL1_M66-utt12 ko pa di
+CA017QL1_M66-utt13 li ga
+CA017QL1_M66-utt14 be yo lu
+CA017QL1_M66-utt15 so te to
+CA017QL1_M66-utt16 ma re xa za
+CA017QL1_M66-utt17 nu me ro
+CA017QL1_M66-utt18 ka pi tu bo
+CA017QL1_M66-utt19 bi ka
+CA017QL1_M66-utt2 ba fe
+CA017QL1_M66-utt20 ti bo
+CA017QL1_M66-utt21 ka yi
+CA017QL1_M66-utt22 fo bo xe ma
+CA017QL1_M66-utt23 pa ne
+CA017QL1_M66-utt24 tu fo
+CA017QL1_M66-utt25 sa te li to
+CA017QL1_M66-utt26 fe cha
+CA017QL1_M66-utt27 pe mi
+CA017QL1_M66-utt28 di ne so
+CA017QL1_M66-utt29 ka ba ye te
+CA017QL1_M66-utt3 ti tu lo
+CA017QL1_M66-utt30 ko li za
+CA017QL1_M66-utt31 ka rro ma do
+CA017QL1_M66-utt32 gi nyo
+CA017QL1_M66-utt33 ma nya da
+CA017QL1_M66-utt34 fa ze lu bi
+CA017QL1_M66-utt35 la ro
+CA017QL1_M66-utt36 zi ne
+CA017QL1_M66-utt37 se nyo ri ta
+CA017QL1_M66-utt38 na fe
+CA017QL1_M66-utt39 pe li ku la
+CA017QL1_M66-utt4 mo de
+CA017QL1_M66-utt40 ku xo ba
+CA017QL1_M66-utt41 fu xo
+CA017QL1_M66-utt42 se ku
+CA017QL1_M66-utt43 to rre
+CA017QL1_M66-utt44 do ze
+CA017QL1_M66-utt45 ba rre nyo
+CA017QL1_M66-utt46 me la ni to
+CA017QL1_M66-utt5 pe no
+CA017QL1_M66-utt6 xe ra
+CA017QL1_M66-utt7 pa le ti ya
+CA017QL1_M66-utt8 ka rro za
+CA017QL1_M66-utt9 ma po
+CA017QL2_M66-utt0 so ya
+CA017QL2_M66-utt1 be ta
+CA017QL2_M66-utt10 me ze do ta
+CA017QL2_M66-utt11 ko li ya
+CA017QL2_M66-utt12 bu de
+CA017QL2_M66-utt13 mo ku
+CA017QL2_M66-utt14 lo ra
+CA017QL2_M66-utt15 mi ri za
+CA017QL2_M66-utt16 xe ta
+CA017QL2_M66-utt17 bu fe lu
+CA017QL2_M66-utt18 ma ni be za
+CA017QL2_M66-utt19 ma re xa da
+CA017QL2_M66-utt2 sa te li te
+CA017QL2_M66-utt20 pe so
+CA017QL2_M66-utt21 di ra ni
+CA017QL2_M66-utt22 ti ze du ne
+CA017QL2_M66-utt23 ti yo
+CA017QL2_M66-utt24 no fe
+CA017QL2_M66-utt25 pe ta ti
+CA017QL2_M66-utt26 la do
+CA017QL2_M66-utt27 mu no
+CA017QL2_M66-utt28 za lu
+CA017QL2_M66-utt29 ka rro ma to
+CA017QL2_M66-utt3 rri bu po
+CA017QL2_M66-utt30 mu si ma
+CA017QL2_M66-utt31 de ba ti
+CA017QL2_M66-utt32 di ne ro
+CA017QL2_M66-utt33 ni fu ba mi
+CA017QL2_M66-utt34 mo te
+CA017QL2_M66-utt35 ko da
+CA017QL2_M66-utt36 ko zi
+CA017QL2_M66-utt37 di ku li te
+CA017QL2_M66-utt38 ko pa te
+CA017QL2_M66-utt39 do bu
+CA017QL2_M66-utt4 me po
+CA017QL2_M66-utt40 no che
+CA017QL2_M66-utt41 pa do
+CA017QL2_M66-utt42 ka yo
+CA017QL2_M66-utt43 ka pi tu lo
+CA017QL2_M66-utt44 lu xa
+CA017QL2_M66-utt45 ba ye
+CA017QL2_M66-utt46 ka ba ye mo
+CA017QL2_M66-utt5 ma nya na
+CA017QL2_M66-utt6 fi da
+CA017QL2_M66-utt7 ka rro nya
+CA017QL2_M66-utt8 bi ga
+CA017QL2_M66-utt9 mo pe di ta
+CA017QL3_M66-utt0 so ri
+CA017QL3_M66-utt1 ye da
+CA017QL3_M66-utt10 ku fe
+CA017QL3_M66-utt11 so ma
+CA017QL3_M66-utt12 ka ba ye ro
+CA017QL3_M66-utt13 be na
+CA017QL3_M66-utt14 mu si ka
+CA017QL3_M66-utt15 bi ku
+CA017QL3_M66-utt16 ka mi ro
+CA017QL3_M66-utt17 me ze do ra
+CA017QL3_M66-utt18 ze bi
+CA017QL3_M66-utt19 ta xo
+CA017QL3_M66-utt2 pa li xo
+CA017QL3_M66-utt20 bi la
+CA017QL3_M66-utt21 me di zi ra
+CA017QL3_M66-utt22 la ti ga fo
+CA017QL3_M66-utt23 no fe ba
+CA017QL3_M66-utt24 lu fo
+CA017QL3_M66-utt25 ta po di no
+CA017QL3_M66-utt26 fi lo so fo
+CA017QL3_M66-utt27 mi bo fe ma
+CA017QL3_M66-utt28 mi ri ya
+CA017QL3_M66-utt29 zi bu fe ni
+CA017QL3_M66-utt3 so ga
+CA017QL3_M66-utt30 mo pa so ka
+CA017QL3_M66-utt31 ma ni be la
+CA017QL3_M66-utt32 pe ta te
+CA017QL3_M66-utt33 de ba te
+CA017QL3_M66-utt34 lu cha
+CA017QL3_M66-utt35 ka mo
+CA017QL3_M66-utt36 ko di so
+CA017QL3_M66-utt37 so ma zi
+CA017QL3_M66-utt38 lo na
+CA017QL3_M66-utt39 rro ko
+CA017QL3_M66-utt4 ko pa
+CA017QL3_M66-utt40 pe ta ma
+CA017QL3_M66-utt41 ge za
+CA017QL3_M66-utt42 ma no ta go
+CA017QL3_M66-utt43 bu ke
+CA017QL3_M66-utt44 me pe
+CA017QL3_M66-utt45 pe ta
+CA017QL3_M66-utt46 rre ti ra za
+CA017QL3_M66-utt47 ti bu
+CA017QL3_M66-utt5 be ya fe
+CA017QL3_M66-utt6 mu lo
+CA017QL3_M66-utt7 zi ma
+CA017QL3_M66-utt8 no be ya
+CA017QL3_M66-utt9 mi gu
+CA017QL4_M66-utt0 chu so
+CA017QL4_M66-utt1 fe za
+CA017QL4_M66-utt10 pe ta ka
+CA017QL4_M66-utt11 do ya
+CA017QL4_M66-utt12 li ya
+CA017QL4_M66-utt13 ka mi no
+CA017QL4_M66-utt14 pa de so
+CA017QL4_M66-utt15 so da
+CA017QL4_M66-utt16 ti tu mo
+CA017QL4_M66-utt17 di ma ko
+CA017QL4_M66-utt18 ka nyo
+CA017QL4_M66-utt19 ko ga
+CA017QL4_M66-utt2 ye ma
+CA017QL4_M66-utt20 mo pe
+CA017QL4_M66-utt21 na fe
+CA017QL4_M66-utt22 ge rra
+CA017QL4_M66-utt23 so ga li na
+CA017QL4_M66-utt24 pe li ku za
+CA017QL4_M66-utt25 di la
+CA017QL4_M66-utt26 no be la
+CA017QL4_M66-utt27 pe ku ga ta
+CA017QL4_M66-utt28 la ti ga zo
+CA017QL4_M66-utt29 rro ka
+CA017QL4_M66-utt3 zi fo
+CA017QL4_M66-utt30 pa le ti rra
+CA017QL4_M66-utt31 fe bo
+CA017QL4_M66-utt32 pa li yo
+CA017QL4_M66-utt33 ka ba ye to
+CA017QL4_M66-utt34 lo fe du ne
+CA017QL4_M66-utt35 ya to
+CA017QL4_M66-utt36 gi cho
+CA017QL4_M66-utt37 pe na
+CA017QL4_M66-utt38 bi ya
+CA017QL4_M66-utt39 to ye
+CA017QL4_M66-utt4 pa ni
+CA017QL4_M66-utt40 fe bu xo
+CA017QL4_M66-utt41 rre ti ra da
+CA017QL4_M66-utt42 nu me so
+CA017QL4_M66-utt43 ta le bo
+CA017QL4_M66-utt44 me di zi na
+CA017QL4_M66-utt45 fi se
+CA017QL4_M66-utt46 fe xi
+CA017QL4_M66-utt5 za bo lu
+CA017QL4_M66-utt6 ma no ta zo
+CA017QL4_M66-utt7 ba rre yo
+CA017QL4_M66-utt8 se nyo ri da
+CA017QL4_M66-utt9 tu zo
+CA018QL1_M69-utt0 ya te
+CA018QL1_M69-utt1 no lu
+CA018QL1_M69-utt10 pa ba ri mo
+CA018QL1_M69-utt11 ko pa di
+CA018QL1_M69-utt12 li ga
+CA018QL1_M69-utt13 be yo lu
+CA018QL1_M69-utt14 so te to
+CA018QL1_M69-utt15 ma re xa za
+CA018QL1_M69-utt16 nu me ro
+CA018QL1_M69-utt17 ka pi tu bo
+CA018QL1_M69-utt18 bi ka
+CA018QL1_M69-utt19 ti mo
+CA018QL1_M69-utt2 ba se
+CA018QL1_M69-utt20 ka yi
+CA018QL1_M69-utt21 fo bo xe ma
+CA018QL1_M69-utt22 pa ne
+CA018QL1_M69-utt23 tu fo
+CA018QL1_M69-utt24 sa te li to
+CA018QL1_M69-utt25 fe cha
+CA018QL1_M69-utt26 pe ni
+CA018QL1_M69-utt27 bi ne so
+CA018QL1_M69-utt28 ka ba ye te
+CA018QL1_M69-utt29 ko li za
+CA018QL1_M69-utt3 mo de
+CA018QL1_M69-utt30 ka rro ma do
+CA018QL1_M69-utt31 gi nyo
+CA018QL1_M69-utt32 ma nya da
+CA018QL1_M69-utt33 za fe lu di
+CA018QL1_M69-utt34 la ro
+CA018QL1_M69-utt35 zi ne
+CA018QL1_M69-utt36 se nyo ri ta
+CA018QL1_M69-utt37 na fe
+CA018QL1_M69-utt38 pe li ku la
+CA018QL1_M69-utt39 ku xo ba
+CA018QL1_M69-utt4 pe no
+CA018QL1_M69-utt40 fu xo
+CA018QL1_M69-utt41 se ku
+CA018QL1_M69-utt42 to rre
+CA018QL1_M69-utt43 do ze
+CA018QL1_M69-utt44 ba rre nyo
+CA018QL1_M69-utt45 me la ni to
+CA018QL1_M69-utt46 pa le go
+CA018QL1_M69-utt5 xe ra
+CA018QL1_M69-utt6 pa le ti ya
+CA018QL1_M69-utt7 ka rro za
+CA018QL1_M69-utt8 ma po
+CA018QL1_M69-utt9 chu lo
+CA018QL2_M69-utt0 so ya
+CA018QL2_M69-utt1 be ta
+CA018QL2_M69-utt10 me ze do ta
+CA018QL2_M69-utt11 ko li ya
+CA018QL2_M69-utt12 bu de
+CA018QL2_M69-utt13 mo ku
+CA018QL2_M69-utt14 lo ra
+CA018QL2_M69-utt15 mi ri za
+CA018QL2_M69-utt16 xe ta
+CA018QL2_M69-utt17 bu fe lu
+CA018QL2_M69-utt18 ma ni be za
+CA018QL2_M69-utt19 ma re xa da
+CA018QL2_M69-utt2 sa te li te
+CA018QL2_M69-utt20 pe so
+CA018QL2_M69-utt21 bi ra ni
+CA018QL2_M69-utt22 ti zi du ne
+CA018QL2_M69-utt23 ti yo
+CA018QL2_M69-utt24 no fe
+CA018QL2_M69-utt25 pe ta ti
+CA018QL2_M69-utt26 la do
+CA018QL2_M69-utt27 mu no
+CA018QL2_M69-utt28 za lu
+CA018QL2_M69-utt29 ta rro ma to
+CA018QL2_M69-utt3 rri bu po
+CA018QL2_M69-utt30 mu si ma
+CA018QL2_M69-utt31 de ba ti
+CA018QL2_M69-utt32 di ne ro
+CA018QL2_M69-utt33 ni fu ma bi
+CA018QL2_M69-utt34 mo te
+CA018QL2_M69-utt35 ko da
+CA018QL2_M69-utt36 ko zi
+CA018QL2_M69-utt37 di ku li te
+CA018QL2_M69-utt38 ko pa te
+CA018QL2_M69-utt39 do bu
+CA018QL2_M69-utt4 me po
+CA018QL2_M69-utt40 no che
+CA018QL2_M69-utt41 pa do
+CA018QL2_M69-utt42 ka yo
+CA018QL2_M69-utt43 ta pi ku lo
+CA018QL2_M69-utt44 lu xa
+CA018QL2_M69-utt45 ba ye
+CA018QL2_M69-utt46 ka ba ye mo
+CA018QL2_M69-utt5 ma nya na
+CA018QL2_M69-utt6 zi da
+CA018QL2_M69-utt7 ka rro nya
+CA018QL2_M69-utt8 bi ga
+CA018QL2_M69-utt9 mo pe di ta
+CA018QL3_M69-utt0 so ri
+CA018QL3_M69-utt1 ye da
+CA018QL3_M69-utt10 ku fe
+CA018QL3_M69-utt11 so ma
+CA018QL3_M69-utt12 ka ba ye ro
+CA018QL3_M69-utt13 be na
+CA018QL3_M69-utt14 mu si ka
+CA018QL3_M69-utt15 di ku
+CA018QL3_M69-utt16 ka mi ro
+CA018QL3_M69-utt17 me ze do ra
+CA018QL3_M69-utt18 ze ni
+CA018QL3_M69-utt19 ka xo
+CA018QL3_M69-utt2 pa li xo
+CA018QL3_M69-utt20 be la
+CA018QL3_M69-utt21 me di zi na
+CA018QL3_M69-utt22 la ti ga zo
+CA018QL3_M69-utt23 no fe ba
+CA018QL3_M69-utt24 lu fo
+CA018QL3_M69-utt25 ta po di no
+CA018QL3_M69-utt26 fi lo so fo
+CA018QL3_M69-utt27 ni bu fe ma
+CA018QL3_M69-utt28 mi di ya
+CA018QL3_M69-utt29 zi fu ze ni
+CA018QL3_M69-utt3 so ga
+CA018QL3_M69-utt30 mo pa so ka
+CA018QL3_M69-utt31 ma ni be la
+CA018QL3_M69-utt32 pe ta te
+CA018QL3_M69-utt33 de ba te
+CA018QL3_M69-utt34 lu cha
+CA018QL3_M69-utt35 ta mo
+CA018QL3_M69-utt36 ko di so
+CA018QL3_M69-utt37 so ma zi
+CA018QL3_M69-utt38 lo na
+CA018QL3_M69-utt39 rro ko
+CA018QL3_M69-utt4 ko pa
+CA018QL3_M69-utt40 pe ta ma
+CA018QL3_M69-utt41 de za
+CA018QL3_M69-utt42 ma no ta go
+CA018QL3_M69-utt43 bu ke
+CA018QL3_M69-utt44 me pe
+CA018QL3_M69-utt45 pe ta
+CA018QL3_M69-utt46 rre ti ra za
+CA018QL3_M69-utt5 be ya ze
+CA018QL3_M69-utt6 mu lo
+CA018QL3_M69-utt7 zi ma
+CA018QL3_M69-utt8 no be ya
+CA018QL3_M69-utt9 mi gu
+CA018QL4_M69-utt0 chu so
+CA018QL4_M69-utt1 fe za
+CA018QL4_M69-utt10 pe ta ka
+CA018QL4_M69-utt11 do ya
+CA018QL4_M69-utt12 li ya
+CA018QL4_M69-utt13 ka mi no
+CA018QL4_M69-utt14 pa de so
+CA018QL4_M69-utt15 so da
+CA018QL4_M69-utt16 ti tu mo
+CA018QL4_M69-utt17 di ma ko
+CA018QL4_M69-utt18 ka nyo
+CA018QL4_M69-utt19 ko ga
+CA018QL4_M69-utt2 ye ma
+CA018QL4_M69-utt20 mo pe
+CA018QL4_M69-utt21 na ze
+CA018QL4_M69-utt22 ge rra
+CA018QL4_M69-utt23 so ga li na
+CA018QL4_M69-utt24 pe li ku za
+CA018QL4_M69-utt25 di la
+CA018QL4_M69-utt26 no be la
+CA018QL4_M69-utt27 pe gu ga ta
+CA018QL4_M69-utt28 la ti ga zo
+CA018QL4_M69-utt29 rro ka
+CA018QL4_M69-utt3 zi fo
+CA018QL4_M69-utt30 pa le tie rra
+CA018QL4_M69-utt31 ze bo
+CA018QL4_M69-utt32 pa li yo
+CA018QL4_M69-utt33 ka ba ye to
+CA018QL4_M69-utt34 lo ze du ne
+CA018QL4_M69-utt35 ya to
+CA018QL4_M69-utt36 gi cho
+CA018QL4_M69-utt37 pe na
+CA018QL4_M69-utt38 bi ya
+CA018QL4_M69-utt39 to ye
+CA018QL4_M69-utt4 pa ni
+CA018QL4_M69-utt40 fe bu xo
+CA018QL4_M69-utt41 rre di ra da
+CA018QL4_M69-utt42 nu me so
+CA018QL4_M69-utt43 ta le bo
+CA018QL4_M69-utt44 me di zi na
+CA018QL4_M69-utt45 zi se
+CA018QL4_M69-utt46 fe xi
+CA018QL4_M69-utt47 be fu pe si
+CA018QL4_M69-utt5 sa bo lu
+CA018QL4_M69-utt6 ma no ta zo
+CA018QL4_M69-utt7 ba rre yo
+CA018QL4_M69-utt8 se nyo ri da
+CA018QL4_M69-utt9 tu zo

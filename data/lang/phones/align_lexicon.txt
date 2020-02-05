@@ -1,15 +1,12 @@
 <SIL> <SIL> SIL_S
 <eps> <eps> SIL
-a a a_S
 ba ba b_B a_E
 be be b_B e_E
 bi bi b_B i_E
 bo bo b_B o_E
-bru bru b_B r_I u_E
 bu bu b_B u_E
 cha cha ch_B a_E
 che che ch_B e_E
-chi chi ch_B i_E
 cho cho ch_B o_E
 chu chu ch_B u_E
 da da d_B a_E
@@ -17,13 +14,10 @@ de de d_B e_E
 di di d_B i_E
 do do d_B o_E
 du du d_B u_E
-e e e_S
 f* f* f_B *_E
 fa fa f_B a_E
 fe fe f_B e_E
-fes fes f_B e_I s_E
-fi fi fi_S
-fle fle f_B l_I e_E
+fi fi f_B i_E
 fo fo f_B o_E
 fu fu f_B u_E
 ga ga g_B a_E
@@ -31,17 +25,9 @@ ge ge g_B e_E
 gi gi g_B i_E
 go go g_B o_E
 gu gu g_B u_E
-gue gue g_B u_I e_E
-ha ha h_B a_E
-ho ho h_B o_E
-i i i_S
 ka ka k_B a_E
 ke ke k_B e_E
-ki ki k_B i_E
 ko ko k_B o_E
-kof kof k_B o_I f_E
-kri kri k_B r_I i_E
-kro kro k_B r_I o_E
 ku ku k_B u_E
 la la l_B a_E
 le le l_B e_E
@@ -61,51 +47,38 @@ no no n_B o_E
 nu nu n_B u_E
 nya nya ny_B a_E
 nyo nyo ny_B o_E
-o o o_S
 pa pa p_B a_E
 pe pe p_B e_E
 pi pi p_B i_E
 po po p_B o_E
-pu pu p_B u_E
 ra ra r_B a_E
-ran ran r_B a_I n_E
 re re r_B e_E
 ri ri r_B i_E
-rim rim r_B i_I m_E
 ro ro r_B o_E
 rra rra rr_B a_E
 rre rre rr_B e_E
 rri rri rr_B i_E
 rro rro rr_B o_E
-rru rru rr_B u_E
-ru ru r_B u_E
 sa sa s_B a_E
 se se s_B e_E
-she she sh_B e_E
 si si s_B i_E
 so so s_B o_E
 sol sol s_B o_I l_E
-su su s_B u_E
 ta ta t_B a_E
 te te t_B e_E
 ti ti t_B i_E
 tie tie t_B ie_E
-tir tir t_B i_I r_E
 to to t_B o_E
 tu tu t_B u_E
-u u u_S
 xa xa x_B a_E
 xe xe x_B e_E
 xi xi x_B i_E
 xo xo x_B o_E
-xu xu x_B u_E
 ya ya y_B a_E
 ye ye y_B e_E
 yi yi y_B i_E
 yo yo y_B o_E
-yu yu y_B u_E
 za za z_B a_E
 ze ze z_B e_E
 zi zi z_B i_E
 zo zo z_B o_E
-zu zu z_B u_E
