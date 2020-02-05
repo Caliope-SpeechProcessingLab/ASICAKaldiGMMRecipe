@@ -25,7 +25,7 @@ Thumbs.db
 *.wav
 *.kal
 *.TextGrid
-.txt
+*.txt
 utt*
 spk*
 *.xlsx
