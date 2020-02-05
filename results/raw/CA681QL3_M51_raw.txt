@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA681QL1_M51    raw         48        132        123          9          0          0          9          9
+CA681QL1_M51    sys         48        132      93.18       6.82       0.00       0.00       6.82      18.75
+CA681QL2_M51    raw         48        132        115         17          0          0         17         17
+CA681QL2_M51    sys         48        132      87.12      12.88       0.00       0.00      12.88      35.42
+CA681QL3_M51    raw         48        132        122         10          0          0         10         10
+CA681QL3_M51    sys         48        132      92.42       7.58       0.00       0.00       7.58      20.83
+CA681QL4_M51    raw         48        132        123          9          0          0          9          9
+CA681QL4_M51    sys         48        132      93.18       6.82       0.00       0.00       6.82      18.75
+SUM             raw        192        528        483         45          0          0         45         45
+SUM             sys        192        528      91.48       8.52       0.00       0.00       8.52      23.44
+
+--------------------------------------------------------------------
+CA681QL1_M51-utt0 ref  ya  te
+CA681QL1_M51-utt0 hyp  ya  ti
+CA681QL1_M51-utt0 op    C   S
+CA681QL1_M51-utt0 #csid 1 1 0 0
+CA681QL1_M51-utt1 ref  no  lu
+CA681QL1_M51-utt1 hyp  no  lu
+CA681QL1_M51-utt1 op    C   C
+CA681QL1_M51-utt1 #csid 2 0 0 0
+CA681QL1_M51-utt10 ref  chu  lo
+CA681QL1_M51-utt10 hyp  chu  lo
+CA681QL1_M51-utt10 op    C    C
+CA681QL1_M51-utt10 #csid 2 0 0 0
+CA681QL1_M51-utt11 ref  pa  ba  ri  mo
+CA681QL1_M51-utt11 hyp  pa  ba  ri  mo
+CA681QL1_M51-utt11 op    C   C   C   C
+CA681QL1_M51-utt11 #csid 4 0 0 0
+CA681QL1_M51-utt12 ref  ko  pa  de
+CA681QL1_M51-utt12 hyp  ko  pa  de
+CA681QL1_M51-utt12 op    C   C   C
+CA681QL1_M51-utt12 #csid 3 0 0 0
+CA681QL1_M51-utt13 ref  li  ga
+CA681QL1_M51-utt13 hyp  li  ga
+CA681QL1_M51-utt13 op    C   C
+CA681QL1_M51-utt13 #csid 2 0 0 0
+CA681QL1_M51-utt14 ref  be  yo  lu
+CA681QL1_M51-utt14 hyp  be  yo  lu
+CA681QL1_M51-utt14 op    C   C   C
+CA681QL1_M51-utt14 #csid 3 0 0 0
+CA681QL1_M51-utt15 ref  so  te  to
+CA681QL1_M51-utt15 hyp  so  te  to
+CA681QL1_M51-utt15 op    C   C   C
+CA681QL1_M51-utt15 #csid 3 0 0 0
+CA681QL1_M51-utt16 ref  ma  re  xa  za
+CA681QL1_M51-utt16 hyp  ma  re  xa  za
+CA681QL1_M51-utt16 op    C   C   C   C
+CA681QL1_M51-utt16 #csid 4 0 0 0
+CA681QL1_M51-utt17 ref  nu  me  ro
+CA681QL1_M51-utt17 hyp  nu  me  ro
+CA681QL1_M51-utt17 op    C   C   C
+CA681QL1_M51-utt17 #csid 3 0 0 0
+CA681QL1_M51-utt18 ref  ka  pi  tu  bo
+CA681QL1_M51-utt18 hyp  ka  pi  tu  bu
+CA681QL1_M51-utt18 op    C   C   C   S
+CA681QL1_M51-utt18 #csid 3 1 0 0
+CA681QL1_M51-utt19 ref  bi  ka
+CA681QL1_M51-utt19 hyp  bi  ka
+CA681QL1_M51-utt19 op    C   C
+CA681QL1_M51-utt19 #csid 2 0 0 0
+CA681QL1_M51-utt2 ref  ba  fe
+CA681QL1_M51-utt2 hyp  ba  fe
+CA681QL1_M51-utt2 op    C   C
+CA681QL1_M51-utt2 #csid 2 0 0 0
+CA681QL1_M51-utt20 ref  ti  bo
+CA681QL1_M51-utt20 hyp  ti  bo
+CA681QL1_M51-utt20 op    C   C
+CA681QL1_M51-utt20 #csid 2 0 0 0
+CA681QL1_M51-utt21 ref  ka  yi
+CA681QL1_M51-utt21 hyp  ka  yi
+CA681QL1_M51-utt21 op    C   C
+CA681QL1_M51-utt21 #csid 2 0 0 0
+CA681QL1_M51-utt22 ref  fo  bo  xe  ma
+CA681QL1_M51-utt22 hyp  fo  bo  xe  ma
+CA681QL1_M51-utt22 op    C   C   C   C
+CA681QL1_M51-utt22 #csid 4 0 0 0
+CA681QL1_M51-utt23 ref  pa  ne
+CA681QL1_M51-utt23 hyp  pa  ne
+CA681QL1_M51-utt23 op    C   C
+CA681QL1_M51-utt23 #csid 2 0 0 0
+CA681QL1_M51-utt24 ref  tu  fo
+CA681QL1_M51-utt24 hyp  tu  fo
+CA681QL1_M51-utt24 op    C   C
+CA681QL1_M51-utt24 #csid 2 0 0 0
+CA681QL1_M51-utt25 ref  sa  te  li  to
+CA681QL1_M51-utt25 hyp  sa  te  li  to
+CA681QL1_M51-utt25 op    C   C   C   C
+CA681QL1_M51-utt25 #csid 4 0 0 0
+CA681QL1_M51-utt26 ref  fe  cha
+CA681QL1_M51-utt26 hyp  fe  cha
+CA681QL1_M51-utt26 op    C   C 
+CA681QL1_M51-utt26 #csid 2 0 0 0
+CA681QL1_M51-utt27 ref  pe  mi
+CA681QL1_M51-utt27 hyp  pe  mi
+CA681QL1_M51-utt27 op    C   C
+CA681QL1_M51-utt27 #csid 2 0 0 0
+CA681QL1_M51-utt28 ref  bi  ne  so
+CA681QL1_M51-utt28 hyp  di  ne  so
+CA681QL1_M51-utt28 op    S   C   C
+CA681QL1_M51-utt28 #csid 2 1 0 0
+CA681QL1_M51-utt29 ref  ka  ba  ye  te
+CA681QL1_M51-utt29 hyp  ka  ba  ye  te
+CA681QL1_M51-utt29 op    C   C   C   C
+CA681QL1_M51-utt29 #csid 4 0 0 0
+CA681QL1_M51-utt3 ref  ti  tu  lo
+CA681QL1_M51-utt3 hyp  ti  tu  lo
+CA681QL1_M51-utt3 op    C   C   C
+CA681QL1_M51-utt3 #csid 3 0 0 0
+CA681QL1_M51-utt30 ref  ko  li  za
+CA681QL1_M51-utt30 hyp  ko  li  za
+CA681QL1_M51-utt30 op    C   C   C
+CA681QL1_M51-utt30 #csid 3 0 0 0
+CA681QL1_M51-utt31 ref  ka  rro  ma  do
+CA681QL1_M51-utt31 hyp  ka  rro  ma  do
+CA681QL1_M51-utt31 op    C   C    C   C
+CA681QL1_M51-utt31 #csid 4 0 0 0
+CA681QL1_M51-utt32 ref  gi  nyo
+CA681QL1_M51-utt32 hyp  gi  nyo
+CA681QL1_M51-utt32 op    C   C 
+CA681QL1_M51-utt32 #csid 2 0 0 0
+CA681QL1_M51-utt33 ref  ma  nya  da
+CA681QL1_M51-utt33 hyp  ma  nya  ra
+CA681QL1_M51-utt33 op    C   C    S
+CA681QL1_M51-utt33 #csid 2 1 0 0
+CA681QL1_M51-utt34 ref  za  fe  lu  di
+CA681QL1_M51-utt34 hyp  za  ze  lu  di
+CA681QL1_M51-utt34 op    C   S   C   C
+CA681QL1_M51-utt34 #csid 3 1 0 0
+CA681QL1_M51-utt35 ref  la  ro
+CA681QL1_M51-utt35 hyp  la  ro
+CA681QL1_M51-utt35 op    C   C
+CA681QL1_M51-utt35 #csid 2 0 0 0
+CA681QL1_M51-utt36 ref  zi  ne
+CA681QL1_M51-utt36 hyp  zi  ne
+CA681QL1_M51-utt36 op    C   C
+CA681QL1_M51-utt36 #csid 2 0 0 0
+CA681QL1_M51-utt37 ref  se  nyo  ri  ta
+CA681QL1_M51-utt37 hyp  si  nyo  ri  ta
+CA681QL1_M51-utt37 op    S   C    C   C
+CA681QL1_M51-utt37 #csid 3 1 0 0
+CA681QL1_M51-utt38 ref  no  fe
+CA681QL1_M51-utt38 hyp  no  fe
+CA681QL1_M51-utt38 op    C   C
+CA681QL1_M51-utt38 #csid 2 0 0 0
+CA681QL1_M51-utt39 ref  pe  li  ku  la
+CA681QL1_M51-utt39 hyp  pe  li  ku  la
+CA681QL1_M51-utt39 op    C   C   C   C
+CA681QL1_M51-utt39 #csid 4 0 0 0
+CA681QL1_M51-utt4 ref  mo  de
+CA681QL1_M51-utt4 hyp  mo  de
+CA681QL1_M51-utt4 op    C   C
+CA681QL1_M51-utt4 #csid 2 0 0 0
+CA681QL1_M51-utt40 ref  ku  xo  ga
+CA681QL1_M51-utt40 hyp  ku  xo  ga
+CA681QL1_M51-utt40 op    C   C   C
+CA681QL1_M51-utt40 #csid 3 0 0 0
+CA681QL1_M51-utt41 ref  fu  xo
+CA681QL1_M51-utt41 hyp  fu  xo
+CA681QL1_M51-utt41 op    C   C
+CA681QL1_M51-utt41 #csid 2 0 0 0
+CA681QL1_M51-utt42 ref  se  ku
+CA681QL1_M51-utt42 hyp  se  ku
+CA681QL1_M51-utt42 op    C   C
+CA681QL1_M51-utt42 #csid 2 0 0 0
+CA681QL1_M51-utt43 ref  to  rre
+CA681QL1_M51-utt43 hyp  to  rre
+CA681QL1_M51-utt43 op    C   C 
+CA681QL1_M51-utt43 #csid 2 0 0 0
+CA681QL1_M51-utt44 ref  do  fe
+CA681QL1_M51-utt44 hyp  do  fe
+CA681QL1_M51-utt44 op    C   C
+CA681QL1_M51-utt44 #csid 2 0 0 0
+CA681QL1_M51-utt45 ref  ba  rre  nyo
+CA681QL1_M51-utt45 hyp  ba  rre  nyo
+CA681QL1_M51-utt45 op    C   C    C 
+CA681QL1_M51-utt45 #csid 3 0 0 0
+CA681QL1_M51-utt46 ref  me  la  ni  to
+CA681QL1_M51-utt46 hyp  me  la  ni  to
+CA681QL1_M51-utt46 op    C   C   C   C
+CA681QL1_M51-utt46 #csid 4 0 0 0
+CA681QL1_M51-utt47 ref  ta  le  go
+CA681QL1_M51-utt47 hyp  ta  le  gu
+CA681QL1_M51-utt47 op    C   C   S
+CA681QL1_M51-utt47 #csid 2 1 0 0
+CA681QL1_M51-utt5 ref  pe  no
+CA681QL1_M51-utt5 hyp  pe  no
+CA681QL1_M51-utt5 op    C   C
+CA681QL1_M51-utt5 #csid 2 0 0 0
+CA681QL1_M51-utt6 ref  xe  ra
+CA681QL1_M51-utt6 hyp  xe  ra
+CA681QL1_M51-utt6 op    C   C
+CA681QL1_M51-utt6 #csid 2 0 0 0
+CA681QL1_M51-utt7 ref  pa  le  ti  ya
+CA681QL1_M51-utt7 hyp  ta  le  ti  ya
+CA681QL1_M51-utt7 op    S   C   C   C
+CA681QL1_M51-utt7 #csid 3 1 0 0
+CA681QL1_M51-utt8 ref  ka  rro  za
+CA681QL1_M51-utt8 hyp  ka  rro  fa
+CA681QL1_M51-utt8 op    C   C    S
+CA681QL1_M51-utt8 #csid 2 1 0 0
+CA681QL1_M51-utt9 ref  ma  po
+CA681QL1_M51-utt9 hyp  ma  po
+CA681QL1_M51-utt9 op    C   C
+CA681QL1_M51-utt9 #csid 2 0 0 0
+CA681QL2_M51-utt0 ref  so  ya
+CA681QL2_M51-utt0 hyp  so  ya
+CA681QL2_M51-utt0 op    C   C
+CA681QL2_M51-utt0 #csid 2 0 0 0
+CA681QL2_M51-utt1 ref  be  ta
+CA681QL2_M51-utt1 hyp  be  ta
+CA681QL2_M51-utt1 op    C   C
+CA681QL2_M51-utt1 #csid 2 0 0 0
+CA681QL2_M51-utt10 ref  me  ze  do  ta
+CA681QL2_M51-utt10 hyp  me  ze  to  ta
+CA681QL2_M51-utt10 op    C   C   S   C
+CA681QL2_M51-utt10 #csid 3 1 0 0
+CA681QL2_M51-utt11 ref  ko  li  ya
+CA681QL2_M51-utt11 hyp  ko  ni  ya
+CA681QL2_M51-utt11 op    C   S   C
+CA681QL2_M51-utt11 #csid 2 1 0 0
+CA681QL2_M51-utt12 ref  bu  de
+CA681QL2_M51-utt12 hyp  bu  de
+CA681QL2_M51-utt12 op    C   C
+CA681QL2_M51-utt12 #csid 2 0 0 0
+CA681QL2_M51-utt13 ref  mo  ku
+CA681QL2_M51-utt13 hyp  mo  ku
+CA681QL2_M51-utt13 op    C   C
+CA681QL2_M51-utt13 #csid 2 0 0 0
+CA681QL2_M51-utt14 ref  lo  ra
+CA681QL2_M51-utt14 hyp  lo  ra
+CA681QL2_M51-utt14 op    C   C
+CA681QL2_M51-utt14 #csid 2 0 0 0
+CA681QL2_M51-utt15 ref  mi  ri  za
+CA681QL2_M51-utt15 hyp  mi  yi  za
+CA681QL2_M51-utt15 op    C   S   C
+CA681QL2_M51-utt15 #csid 2 1 0 0
+CA681QL2_M51-utt16 ref  xe  ta
+CA681QL2_M51-utt16 hyp  xe  ta
+CA681QL2_M51-utt16 op    C   C
+CA681QL2_M51-utt16 #csid 2 0 0 0
+CA681QL2_M51-utt17 ref  bu  fe  lu
+CA681QL2_M51-utt17 hyp  bu  fe  lu
+CA681QL2_M51-utt17 op    C   C   C
+CA681QL2_M51-utt17 #csid 3 0 0 0
+CA681QL2_M51-utt18 ref  ma  ni  be  za
+CA681QL2_M51-utt18 hyp  ma  ni  be  za
+CA681QL2_M51-utt18 op    C   C   C   C
+CA681QL2_M51-utt18 #csid 4 0 0 0
+CA681QL2_M51-utt19 ref  ma   re  xa  da
+CA681QL2_M51-utt19 hyp  ma  rre  xa  da
+CA681QL2_M51-utt19 op    C   S    C   C
+CA681QL2_M51-utt19 #csid 3 1 0 0
+CA681QL2_M51-utt2 ref  sa  te  li  te
+CA681QL2_M51-utt2 hyp  sa  te  li  te
+CA681QL2_M51-utt2 op    C   C   C   C
+CA681QL2_M51-utt2 #csid 4 0 0 0
+CA681QL2_M51-utt20 ref  pe  so
+CA681QL2_M51-utt20 hyp  pe  so
+CA681QL2_M51-utt20 op    C   C
+CA681QL2_M51-utt20 #csid 2 0 0 0
+CA681QL2_M51-utt21 ref  ti  ra  ni
+CA681QL2_M51-utt21 hyp  ti  ya  ni
+CA681QL2_M51-utt21 op    C   S   C
+CA681QL2_M51-utt21 #csid 2 1 0 0
+CA681QL2_M51-utt22 ref  ti  ze  du  ne
+CA681QL2_M51-utt22 hyp  yi  ze  du  ne
+CA681QL2_M51-utt22 op    S   C   C   C
+CA681QL2_M51-utt22 #csid 3 1 0 0
+CA681QL2_M51-utt23 ref  ti  yo
+CA681QL2_M51-utt23 hyp  ti  yo
+CA681QL2_M51-utt23 op    C   C
+CA681QL2_M51-utt23 #csid 2 0 0 0
+CA681QL2_M51-utt24 ref  no  fe
+CA681QL2_M51-utt24 hyp  no  fe
+CA681QL2_M51-utt24 op    C   C
+CA681QL2_M51-utt24 #csid 2 0 0 0
+CA681QL2_M51-utt25 ref  pe  ta  te
+CA681QL2_M51-utt25 hyp  pe  ta  te
+CA681QL2_M51-utt25 op    C   C   C
+CA681QL2_M51-utt25 #csid 3 0 0 0
+CA681QL2_M51-utt26 ref  la  do
+CA681QL2_M51-utt26 hyp  la  ro
+CA681QL2_M51-utt26 op    C   S
+CA681QL2_M51-utt26 #csid 1 1 0 0
+CA681QL2_M51-utt27 ref  mu  no
+CA681QL2_M51-utt27 hyp  mu  no
+CA681QL2_M51-utt27 op    C   C
+CA681QL2_M51-utt27 #csid 2 0 0 0
+CA681QL2_M51-utt28 ref  za  lu
+CA681QL2_M51-utt28 hyp  za  lu
+CA681QL2_M51-utt28 op    C   C
+CA681QL2_M51-utt28 #csid 2 0 0 0
+CA681QL2_M51-utt29 ref  ka  rro  ma  to
+CA681QL2_M51-utt29 hyp  ka  rro  ma  to
+CA681QL2_M51-utt29 op    C   C    C   C
+CA681QL2_M51-utt29 #csid 4 0 0 0
+CA681QL2_M51-utt3 ref  rri  bu  po
+CA681QL2_M51-utt3 hyp  rri  bu  po
+CA681QL2_M51-utt3 op    C    C   C
+CA681QL2_M51-utt3 #csid 3 0 0 0
+CA681QL2_M51-utt30 ref  mu  si  ma
+CA681QL2_M51-utt30 hyp  mu  si  ma
+CA681QL2_M51-utt30 op    C   C   C
+CA681QL2_M51-utt30 #csid 3 0 0 0
+CA681QL2_M51-utt31 ref  de  ba  te
+CA681QL2_M51-utt31 hyp  de  ba  ti
+CA681QL2_M51-utt31 op    C   C   S
+CA681QL2_M51-utt31 #csid 2 1 0 0
+CA681QL2_M51-utt32 ref  di  ne  ro
+CA681QL2_M51-utt32 hyp  di  ne  ro
+CA681QL2_M51-utt32 op    C   C   C
+CA681QL2_M51-utt32 #csid 3 0 0 0
+CA681QL2_M51-utt33 ref  ni  fu  ba  mi
+CA681QL2_M51-utt33 hyp  ni  fu  ba  mi
+CA681QL2_M51-utt33 op    C   C   C   C
+CA681QL2_M51-utt33 #csid 4 0 0 0
+CA681QL2_M51-utt34 ref  mo  te
+CA681QL2_M51-utt34 hyp  ma  te
+CA681QL2_M51-utt34 op    S   C
+CA681QL2_M51-utt34 #csid 1 1 0 0
+CA681QL2_M51-utt35 ref  ko  da
+CA681QL2_M51-utt35 hyp  ko  da
+CA681QL2_M51-utt35 op    C   C
+CA681QL2_M51-utt35 #csid 2 0 0 0
+CA681QL2_M51-utt36 ref  ko   zi
+CA681QL2_M51-utt36 hyp  ko  chi
+CA681QL2_M51-utt36 op    C   S 
+CA681QL2_M51-utt36 #csid 1 1 0 0
+CA681QL2_M51-utt37 ref  di  ku  li  te
+CA681QL2_M51-utt37 hyp  gi  ku  li  te
+CA681QL2_M51-utt37 op    S   C   C   C
+CA681QL2_M51-utt37 #csid 3 1 0 0
+CA681QL2_M51-utt38 ref  ko  pa  te
+CA681QL2_M51-utt38 hyp  ko  pa  te
+CA681QL2_M51-utt38 op    C   C   C
+CA681QL2_M51-utt38 #csid 3 0 0 0
+CA681QL2_M51-utt39 ref  do  gu
+CA681QL2_M51-utt39 hyp  do  bu
+CA681QL2_M51-utt39 op    C   S
+CA681QL2_M51-utt39 #csid 1 1 0 0
+CA681QL2_M51-utt4 ref  me  po
+CA681QL2_M51-utt4 hyp  me  po
+CA681QL2_M51-utt4 op    C   C
+CA681QL2_M51-utt4 #csid 2 0 0 0
+CA681QL2_M51-utt40 ref  no  che
+CA681QL2_M51-utt40 hyp  no  che
+CA681QL2_M51-utt40 op    C   C 
+CA681QL2_M51-utt40 #csid 2 0 0 0
+CA681QL2_M51-utt41 ref  fi  lo  so  zo
+CA681QL2_M51-utt41 hyp  fi  lo  so  zo
+CA681QL2_M51-utt41 op    C   C   C   C
+CA681QL2_M51-utt41 #csid 4 0 0 0
+CA681QL2_M51-utt42 ref  pa  do
+CA681QL2_M51-utt42 hyp  pa  ro
+CA681QL2_M51-utt42 op    C   S
+CA681QL2_M51-utt42 #csid 1 1 0 0
+CA681QL2_M51-utt43 ref  ka  yo
+CA681QL2_M51-utt43 hyp  ka  yo
+CA681QL2_M51-utt43 op    C   C
+CA681QL2_M51-utt43 #csid 2 0 0 0
+CA681QL2_M51-utt44 ref  ka  pi  tu  lo
+CA681QL2_M51-utt44 hyp  ka  pi  tu  lo
+CA681QL2_M51-utt44 op    C   C   C   C
+CA681QL2_M51-utt44 #csid 4 0 0 0
+CA681QL2_M51-utt45 ref  lu  xa
+CA681QL2_M51-utt45 hyp  lu  xa
+CA681QL2_M51-utt45 op    C   C
+CA681QL2_M51-utt45 #csid 2 0 0 0
+CA681QL2_M51-utt46 ref  ba  ye
+CA681QL2_M51-utt46 hyp  ba  ye
+CA681QL2_M51-utt46 op    C   C
+CA681QL2_M51-utt46 #csid 2 0 0 0
+CA681QL2_M51-utt47 ref  ka  ba  ye  mo
+CA681QL2_M51-utt47 hyp  ka  ma  ye  mo
+CA681QL2_M51-utt47 op    C   S   C   C
+CA681QL2_M51-utt47 #csid 3 1 0 0
+CA681QL2_M51-utt5 ref  ma  nya  na
+CA681QL2_M51-utt5 hyp  ma  nya  na
+CA681QL2_M51-utt5 op    C   C    C
+CA681QL2_M51-utt5 #csid 3 0 0 0
+CA681QL2_M51-utt6 ref  zi  da
+CA681QL2_M51-utt6 hyp  zi  ra
+CA681QL2_M51-utt6 op    C   S
+CA681QL2_M51-utt6 #csid 1 1 0 0
+CA681QL2_M51-utt7 ref  ka  rro  nya
+CA681QL2_M51-utt7 hyp  ka  rro  nyo
+CA681QL2_M51-utt7 op    C   C    S 
+CA681QL2_M51-utt7 #csid 2 1 0 0
+CA681QL2_M51-utt8 ref  bi  ga
+CA681QL2_M51-utt8 hyp  bi  ga
+CA681QL2_M51-utt8 op    C   C
+CA681QL2_M51-utt8 #csid 2 0 0 0
+CA681QL2_M51-utt9 ref  mo  pe  di  ta
+CA681QL2_M51-utt9 hyp  mo  te  di  ta
+CA681QL2_M51-utt9 op    C   S   C   C
+CA681QL2_M51-utt9 #csid 3 1 0 0
+CA681QL3_M51-utt0 ref  so  ri
+CA681QL3_M51-utt0 hyp  so  di
+CA681QL3_M51-utt0 op    C   S
+CA681QL3_M51-utt0 #csid 1 1 0 0
+CA681QL3_M51-utt1 ref  ye  da
+CA681QL3_M51-utt1 hyp  ye  ra
+CA681QL3_M51-utt1 op    C   S
+CA681QL3_M51-utt1 #csid 1 1 0 0
+CA681QL3_M51-utt10 ref  ku  fe
+CA681QL3_M51-utt10 hyp  ku  fe
+CA681QL3_M51-utt10 op    C   C
+CA681QL3_M51-utt10 #csid 2 0 0 0
+CA681QL3_M51-utt11 ref  so  ma
+CA681QL3_M51-utt11 hyp  so  ma
+CA681QL3_M51-utt11 op    C   C
+CA681QL3_M51-utt11 #csid 2 0 0 0
+CA681QL3_M51-utt12 ref  ka  ba  ye  ro
+CA681QL3_M51-utt12 hyp  ka  ba  ye  ro
+CA681QL3_M51-utt12 op    C   C   C   C
+CA681QL3_M51-utt12 #csid 4 0 0 0
+CA681QL3_M51-utt13 ref  be  na
+CA681QL3_M51-utt13 hyp  be  na
+CA681QL3_M51-utt13 op    C   C
+CA681QL3_M51-utt13 #csid 2 0 0 0
+CA681QL3_M51-utt14 ref  mu  si  ka
+CA681QL3_M51-utt14 hyp  mu  si  ka
+CA681QL3_M51-utt14 op    C   C   C
+CA681QL3_M51-utt14 #csid 3 0 0 0
+CA681QL3_M51-utt15 ref  di  ku
+CA681QL3_M51-utt15 hyp  gi  ku
+CA681QL3_M51-utt15 op    S   C
+CA681QL3_M51-utt15 #csid 1 1 0 0
+CA681QL3_M51-utt16 ref  ka  mi  ro
+CA681QL3_M51-utt16 hyp  ka  mi  ro
+CA681QL3_M51-utt16 op    C   C   C
+CA681QL3_M51-utt16 #csid 3 0 0 0
+CA681QL3_M51-utt17 ref  me  ze  do  ra
+CA681QL3_M51-utt17 hyp  me  ze  do  ra
+CA681QL3_M51-utt17 op    C   C   C   C
+CA681QL3_M51-utt17 #csid 4 0 0 0
+CA681QL3_M51-utt18 ref  ze  bi
+CA681QL3_M51-utt18 hyp  ze  bi
+CA681QL3_M51-utt18 op    C   C
+CA681QL3_M51-utt18 #csid 2 0 0 0
+CA681QL3_M51-utt19 ref  ka  xo
+CA681QL3_M51-utt19 hyp  ka  xo
+CA681QL3_M51-utt19 op    C   C
+CA681QL3_M51-utt19 #csid 2 0 0 0
+CA681QL3_M51-utt2 ref  pa  li  xo
+CA681QL3_M51-utt2 hyp  pa  li  xo
+CA681QL3_M51-utt2 op    C   C   C
+CA681QL3_M51-utt2 #csid 3 0 0 0
+CA681QL3_M51-utt20 ref  bi  la
+CA681QL3_M51-utt20 hyp  gi  la
+CA681QL3_M51-utt20 op    S   C
+CA681QL3_M51-utt20 #csid 1 1 0 0
+CA681QL3_M51-utt21 ref  me  di  zi  ra
+CA681QL3_M51-utt21 hyp  me  di  zi  ra
+CA681QL3_M51-utt21 op    C   C   C   C
+CA681QL3_M51-utt21 #csid 4 0 0 0
+CA681QL3_M51-utt22 ref  la  ti  ga  fo
+CA681QL3_M51-utt22 hyp  la  ti  ga  fo
+CA681QL3_M51-utt22 op    C   C   C   C
+CA681QL3_M51-utt22 #csid 4 0 0 0
+CA681QL3_M51-utt23 ref  no  fe  ba
+CA681QL3_M51-utt23 hyp  no  ze  ba
+CA681QL3_M51-utt23 op    C   S   C
+CA681QL3_M51-utt23 #csid 2 1 0 0
+CA681QL3_M51-utt24 ref  lu  fo
+CA681QL3_M51-utt24 hyp  lu  fo
+CA681QL3_M51-utt24 op    C   C
+CA681QL3_M51-utt24 #csid 2 0 0 0
+CA681QL3_M51-utt25 ref  ta  po  di  no
+CA681QL3_M51-utt25 hyp  ta  po  di  lo
+CA681QL3_M51-utt25 op    C   C   C   S
+CA681QL3_M51-utt25 #csid 3 1 0 0
+CA681QL3_M51-utt26 ref  fi  lo  so  fo
+CA681QL3_M51-utt26 hyp  fi  lo  so  fo
+CA681QL3_M51-utt26 op    C   C   C   C
+CA681QL3_M51-utt26 #csid 4 0 0 0
+CA681QL3_M51-utt27 ref  ni  bo  fe  ma
+CA681QL3_M51-utt27 hyp  ni  bo  fe  ma
+CA681QL3_M51-utt27 op    C   C   C   C
+CA681QL3_M51-utt27 #csid 4 0 0 0
+CA681QL3_M51-utt28 ref  mi  ri  ya
+CA681QL3_M51-utt28 hyp  mi  ri  ya
+CA681QL3_M51-utt28 op    C   C   C
+CA681QL3_M51-utt28 #csid 3 0 0 0
+CA681QL3_M51-utt29 ref  zi  bu  fe  ne
+CA681QL3_M51-utt29 hyp  zi  bu  fe  ne
+CA681QL3_M51-utt29 op    C   C   C   C
+CA681QL3_M51-utt29 #csid 4 0 0 0
+CA681QL3_M51-utt3 ref  so  ga
+CA681QL3_M51-utt3 hyp  so  ga
+CA681QL3_M51-utt3 op    C   C
+CA681QL3_M51-utt3 #csid 2 0 0 0
+CA681QL3_M51-utt30 ref  mo  pa  so  ka
+CA681QL3_M51-utt30 hyp  mo  pa  so  ga
+CA681QL3_M51-utt30 op    C   C   C   S
+CA681QL3_M51-utt30 #csid 3 1 0 0
+CA681QL3_M51-utt31 ref  ma  ni  be  la
+CA681QL3_M51-utt31 hyp  ma  ni  be  la
+CA681QL3_M51-utt31 op    C   C   C   C
+CA681QL3_M51-utt31 #csid 4 0 0 0
+CA681QL3_M51-utt32 ref  pe  ta  te
+CA681QL3_M51-utt32 hyp  pe  ta  te
+CA681QL3_M51-utt32 op    C   C   C
+CA681QL3_M51-utt32 #csid 3 0 0 0
+CA681QL3_M51-utt33 ref  de  ba  te
+CA681QL3_M51-utt33 hyp  de  ba  ti
+CA681QL3_M51-utt33 op    C   C   S
+CA681QL3_M51-utt33 #csid 2 1 0 0
+CA681QL3_M51-utt34 ref  lu  cha
+CA681QL3_M51-utt34 hyp  lu  cha
+CA681QL3_M51-utt34 op    C   C 
+CA681QL3_M51-utt34 #csid 2 0 0 0
+CA681QL3_M51-utt35 ref  ka  mo
+CA681QL3_M51-utt35 hyp  ka  mo
+CA681QL3_M51-utt35 op    C   C
+CA681QL3_M51-utt35 #csid 2 0 0 0
+CA681QL3_M51-utt36 ref  ko  di  so
+CA681QL3_M51-utt36 hyp  ko  di  so
+CA681QL3_M51-utt36 op    C   C   C
+CA681QL3_M51-utt36 #csid 3 0 0 0
+CA681QL3_M51-utt37 ref  so  ma  zi
+CA681QL3_M51-utt37 hyp  so  ma  zi
+CA681QL3_M51-utt37 op    C   C   C
+CA681QL3_M51-utt37 #csid 3 0 0 0
+CA681QL3_M51-utt38 ref  lo  na
+CA681QL3_M51-utt38 hyp  lo  na
+CA681QL3_M51-utt38 op    C   C
+CA681QL3_M51-utt38 #csid 2 0 0 0
+CA681QL3_M51-utt39 ref  rro  ko
+CA681QL3_M51-utt39 hyp  rro  ku
+CA681QL3_M51-utt39 op    C    S
+CA681QL3_M51-utt39 #csid 1 1 0 0
+CA681QL3_M51-utt4 ref  ko  pa
+CA681QL3_M51-utt4 hyp  ko  pa
+CA681QL3_M51-utt4 op    C   C
+CA681QL3_M51-utt4 #csid 2 0 0 0
+CA681QL3_M51-utt40 ref  pe  ta  ma
+CA681QL3_M51-utt40 hyp  pe  ta  ma
+CA681QL3_M51-utt40 op    C   C   C
+CA681QL3_M51-utt40 #csid 3 0 0 0
+CA681QL3_M51-utt41 ref  ge  za
+CA681QL3_M51-utt41 hyp  ge  za
+CA681QL3_M51-utt41 op    C   C
+CA681QL3_M51-utt41 #csid 2 0 0 0
+CA681QL3_M51-utt42 ref  ma  no  ta  go
+CA681QL3_M51-utt42 hyp  ma  no  ta  go
+CA681QL3_M51-utt42 op    C   C   C   C
+CA681QL3_M51-utt42 #csid 4 0 0 0
+CA681QL3_M51-utt43 ref  bu  ke
+CA681QL3_M51-utt43 hyp  bu  ke
+CA681QL3_M51-utt43 op    C   C
+CA681QL3_M51-utt43 #csid 2 0 0 0
+CA681QL3_M51-utt44 ref  me  pe
+CA681QL3_M51-utt44 hyp  me  pe
+CA681QL3_M51-utt44 op    C   C
+CA681QL3_M51-utt44 #csid 2 0 0 0
+CA681QL3_M51-utt45 ref  pe  ta
+CA681QL3_M51-utt45 hyp  pe  ta
+CA681QL3_M51-utt45 op    C   C
+CA681QL3_M51-utt45 #csid 2 0 0 0
+CA681QL3_M51-utt46 ref  rre  ti  ra  fa
+CA681QL3_M51-utt46 hyp  rre  ti  ra  fa
+CA681QL3_M51-utt46 op    C    C   C   C
+CA681QL3_M51-utt46 #csid 4 0 0 0
+CA681QL3_M51-utt47 ref  ti  bu
+CA681QL3_M51-utt47 hyp  ti  bu
+CA681QL3_M51-utt47 op    C   C
+CA681QL3_M51-utt47 #csid 2 0 0 0
+CA681QL3_M51-utt5 ref  be  ya  fe
+CA681QL3_M51-utt5 hyp  de  ya  fe
+CA681QL3_M51-utt5 op    S   C   C
+CA681QL3_M51-utt5 #csid 2 1 0 0
+CA681QL3_M51-utt6 ref  mu  lo
+CA681QL3_M51-utt6 hyp  mu  lo
+CA681QL3_M51-utt6 op    C   C
+CA681QL3_M51-utt6 #csid 2 0 0 0
+CA681QL3_M51-utt7 ref  zi  ma
+CA681QL3_M51-utt7 hyp  zi  ma
+CA681QL3_M51-utt7 op    C   C
+CA681QL3_M51-utt7 #csid 2 0 0 0
+CA681QL3_M51-utt8 ref  no  be  ya
+CA681QL3_M51-utt8 hyp  no  be  ya
+CA681QL3_M51-utt8 op    C   C   C
+CA681QL3_M51-utt8 #csid 3 0 0 0
+CA681QL3_M51-utt9 ref  ni  gu
+CA681QL3_M51-utt9 hyp  ni  gu
+CA681QL3_M51-utt9 op    C   C
+CA681QL3_M51-utt9 #csid 2 0 0 0
+CA681QL4_M51-utt0 ref  chu  so
+CA681QL4_M51-utt0 hyp  chu  so
+CA681QL4_M51-utt0 op    C    C
+CA681QL4_M51-utt0 #csid 2 0 0 0
+CA681QL4_M51-utt1 ref  fe  za
+CA681QL4_M51-utt1 hyp  fe  za
+CA681QL4_M51-utt1 op    C   C
+CA681QL4_M51-utt1 #csid 2 0 0 0
+CA681QL4_M51-utt10 ref  pe  ta  ka
+CA681QL4_M51-utt10 hyp  pe  ta  ka
+CA681QL4_M51-utt10 op    C   C   C
+CA681QL4_M51-utt10 #csid 3 0 0 0
+CA681QL4_M51-utt11 ref  do  ya
+CA681QL4_M51-utt11 hyp  do  ya
+CA681QL4_M51-utt11 op    C   C
+CA681QL4_M51-utt11 #csid 2 0 0 0
+CA681QL4_M51-utt12 ref  li  ya
+CA681QL4_M51-utt12 hyp  li  ya
+CA681QL4_M51-utt12 op    C   C
+CA681QL4_M51-utt12 #csid 2 0 0 0
+CA681QL4_M51-utt13 ref  ka  mi  no
+CA681QL4_M51-utt13 hyp  ka  mi  no
+CA681QL4_M51-utt13 op    C   C   C
+CA681QL4_M51-utt13 #csid 3 0 0 0
+CA681QL4_M51-utt14 ref  pa  de  so
+CA681QL4_M51-utt14 hyp  pa  de  so
+CA681QL4_M51-utt14 op    C   C   C
+CA681QL4_M51-utt14 #csid 3 0 0 0
+CA681QL4_M51-utt15 ref  so  da
+CA681QL4_M51-utt15 hyp  so  da
+CA681QL4_M51-utt15 op    C   C
+CA681QL4_M51-utt15 #csid 2 0 0 0
+CA681QL4_M51-utt16 ref  ti  tu  mo
+CA681QL4_M51-utt16 hyp  ti  tu  mo
+CA681QL4_M51-utt16 op    C   C   C
+CA681QL4_M51-utt16 #csid 3 0 0 0
+CA681QL4_M51-utt17 ref  di  ma  ko
+CA681QL4_M51-utt17 hyp  di  ma  ko
+CA681QL4_M51-utt17 op    C   C   C
+CA681QL4_M51-utt17 #csid 3 0 0 0
+CA681QL4_M51-utt18 ref  ka  nyo
+CA681QL4_M51-utt18 hyp  ka  nyo
+CA681QL4_M51-utt18 op    C   C 
+CA681QL4_M51-utt18 #csid 2 0 0 0
+CA681QL4_M51-utt19 ref  ko  ga
+CA681QL4_M51-utt19 hyp  ko  ga
+CA681QL4_M51-utt19 op    C   C
+CA681QL4_M51-utt19 #csid 2 0 0 0
+CA681QL4_M51-utt2 ref  ye  ma
+CA681QL4_M51-utt2 hyp  ye  ma
+CA681QL4_M51-utt2 op    C   C
+CA681QL4_M51-utt2 #csid 2 0 0 0
+CA681QL4_M51-utt20 ref  mo  pe
+CA681QL4_M51-utt20 hyp  mo  pe
+CA681QL4_M51-utt20 op    C   C
+CA681QL4_M51-utt20 #csid 2 0 0 0
+CA681QL4_M51-utt21 ref  na  fe
+CA681QL4_M51-utt21 hyp  na  fe
+CA681QL4_M51-utt21 op    C   C
+CA681QL4_M51-utt21 #csid 2 0 0 0
+CA681QL4_M51-utt22 ref  ge  rra
+CA681QL4_M51-utt22 hyp  ge  rra
+CA681QL4_M51-utt22 op    C   C 
+CA681QL4_M51-utt22 #csid 2 0 0 0
+CA681QL4_M51-utt23 ref  so  ga  li  na
+CA681QL4_M51-utt23 hyp  so  ga  li  na
+CA681QL4_M51-utt23 op    C   C   C   C
+CA681QL4_M51-utt23 #csid 4 0 0 0
+CA681QL4_M51-utt24 ref  pe  li  ku  za
+CA681QL4_M51-utt24 hyp  pe  li  ku  za
+CA681QL4_M51-utt24 op    C   C   C   C
+CA681QL4_M51-utt24 #csid 4 0 0 0
+CA681QL4_M51-utt25 ref  di  la
+CA681QL4_M51-utt25 hyp  di  la
+CA681QL4_M51-utt25 op    C   C
+CA681QL4_M51-utt25 #csid 2 0 0 0
+CA681QL4_M51-utt26 ref  no  be  la
+CA681QL4_M51-utt26 hyp  no  be  la
+CA681QL4_M51-utt26 op    C   C   C
+CA681QL4_M51-utt26 #csid 3 0 0 0
+CA681QL4_M51-utt27 ref  pe  ku  ga  ta
+CA681QL4_M51-utt27 hyp  pe  ku  ga  ta
+CA681QL4_M51-utt27 op    C   C   C   C
+CA681QL4_M51-utt27 #csid 4 0 0 0
+CA681QL4_M51-utt28 ref  la  di  ga  zo
+CA681QL4_M51-utt28 hyp  la  ti  ga  zo
+CA681QL4_M51-utt28 op    C   S   C   C
+CA681QL4_M51-utt28 #csid 3 1 0 0
+CA681QL4_M51-utt29 ref  rro  ka
+CA681QL4_M51-utt29 hyp  rro  ka
+CA681QL4_M51-utt29 op    C    C
+CA681QL4_M51-utt29 #csid 2 0 0 0
+CA681QL4_M51-utt3 ref  zi  fo
+CA681QL4_M51-utt3 hyp  zi  fo
+CA681QL4_M51-utt3 op    C   C
+CA681QL4_M51-utt3 #csid 2 0 0 0
+CA681QL4_M51-utt30 ref  pa  le  tie  rra
+CA681QL4_M51-utt30 hyp  pa  le  tie  rra
+CA681QL4_M51-utt30 op    C   C   C    C 
+CA681QL4_M51-utt30 #csid 4 0 0 0
+CA681QL4_M51-utt31 ref  ze  bo
+CA681QL4_M51-utt31 hyp  ze  bo
+CA681QL4_M51-utt31 op    C   C
+CA681QL4_M51-utt31 #csid 2 0 0 0
+CA681QL4_M51-utt32 ref  pa  li  yo
+CA681QL4_M51-utt32 hyp  pa  li  yo
+CA681QL4_M51-utt32 op    C   C   C
+CA681QL4_M51-utt32 #csid 3 0 0 0
+CA681QL4_M51-utt33 ref  ka  ba  ye  to
+CA681QL4_M51-utt33 hyp  ka  ba  ye  to
+CA681QL4_M51-utt33 op    C   C   C   C
+CA681QL4_M51-utt33 #csid 4 0 0 0
+CA681QL4_M51-utt34 ref  lo  fe  du  ne
+CA681QL4_M51-utt34 hyp  lo  fe  du  ne
+CA681QL4_M51-utt34 op    C   C   C   C
+CA681QL4_M51-utt34 #csid 4 0 0 0
+CA681QL4_M51-utt35 ref  ya  to
+CA681QL4_M51-utt35 hyp  ya  to
+CA681QL4_M51-utt35 op    C   C
+CA681QL4_M51-utt35 #csid 2 0 0 0
+CA681QL4_M51-utt36 ref  gi  cho
+CA681QL4_M51-utt36 hyp  gi  cho
+CA681QL4_M51-utt36 op    C   C 
+CA681QL4_M51-utt36 #csid 2 0 0 0
+CA681QL4_M51-utt37 ref  pe  na
+CA681QL4_M51-utt37 hyp  pe  na
+CA681QL4_M51-utt37 op    C   C
+CA681QL4_M51-utt37 #csid 2 0 0 0
+CA681QL4_M51-utt38 ref  bi  ya
+CA681QL4_M51-utt38 hyp  bi  ya
+CA681QL4_M51-utt38 op    C   C
+CA681QL4_M51-utt38 #csid 2 0 0 0
+CA681QL4_M51-utt39 ref  to  ye
+CA681QL4_M51-utt39 hyp  to  ye
+CA681QL4_M51-utt39 op    C   C
+CA681QL4_M51-utt39 #csid 2 0 0 0
+CA681QL4_M51-utt4 ref  pa  ni
+CA681QL4_M51-utt4 hyp  pa  mi
+CA681QL4_M51-utt4 op    C   S
+CA681QL4_M51-utt4 #csid 1 1 0 0
+CA681QL4_M51-utt40 ref  ze  bu  xo
+CA681QL4_M51-utt40 hyp  fe  bu  xo
+CA681QL4_M51-utt40 op    S   C   C
+CA681QL4_M51-utt40 #csid 2 1 0 0
+CA681QL4_M51-utt41 ref  rre  ti  ra  da
+CA681QL4_M51-utt41 hyp  rre  ti  ra  da
+CA681QL4_M51-utt41 op    C    C   C   C
+CA681QL4_M51-utt41 #csid 4 0 0 0
+CA681QL4_M51-utt42 ref  nu  me  so
+CA681QL4_M51-utt42 hyp  nu  ne  so
+CA681QL4_M51-utt42 op    C   S   C
+CA681QL4_M51-utt42 #csid 2 1 0 0
+CA681QL4_M51-utt43 ref  ta  le  bo
+CA681QL4_M51-utt43 hyp  ta  le  bu
+CA681QL4_M51-utt43 op    C   C   S
+CA681QL4_M51-utt43 #csid 2 1 0 0
+CA681QL4_M51-utt44 ref  me  di  zi  na
+CA681QL4_M51-utt44 hyp  me  di  xi  na
+CA681QL4_M51-utt44 op    C   C   S   C
+CA681QL4_M51-utt44 #csid 3 1 0 0
+CA681QL4_M51-utt45 ref  zi  se
+CA681QL4_M51-utt45 hyp  zi  se
+CA681QL4_M51-utt45 op    C   C
+CA681QL4_M51-utt45 #csid 2 0 0 0
+CA681QL4_M51-utt46 ref  fe  xi
+CA681QL4_M51-utt46 hyp  ze  xi
+CA681QL4_M51-utt46 op    S   C
+CA681QL4_M51-utt46 #csid 1 1 0 0
+CA681QL4_M51-utt47 ref  bi  fu  pe  si
+CA681QL4_M51-utt47 hyp  bi  fu  pe  si
+CA681QL4_M51-utt47 op    C   C   C   C
+CA681QL4_M51-utt47 #csid 4 0 0 0
+CA681QL4_M51-utt5 ref  za   bo  lu
+CA681QL4_M51-utt5 hyp  za  rro  lu
+CA681QL4_M51-utt5 op    C   S    C
+CA681QL4_M51-utt5 #csid 2 1 0 0
+CA681QL4_M51-utt6 ref  ma   no  ta  zo
+CA681QL4_M51-utt6 hyp  ma  rra  ta  zo
+CA681QL4_M51-utt6 op    C   S    C   C
+CA681QL4_M51-utt6 #csid 3 1 0 0
+CA681QL4_M51-utt7 ref  ba  rre  yo
+CA681QL4_M51-utt7 hyp  ba  rre  yo
+CA681QL4_M51-utt7 op    C   C    C
+CA681QL4_M51-utt7 #csid 3 0 0 0
+CA681QL4_M51-utt8 ref  se  nyo  ri  da
+CA681QL4_M51-utt8 hyp  se  nyo  ri  da
+CA681QL4_M51-utt8 op    C   C    C   C
+CA681QL4_M51-utt8 #csid 4 0 0 0
+CA681QL4_M51-utt9 ref  tu  zo
+CA681QL4_M51-utt9 hyp  tu  zo
+CA681QL4_M51-utt9 op    C   C
+CA681QL4_M51-utt9 #csid 2 0 0 0

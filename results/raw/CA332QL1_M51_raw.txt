@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA332QL1_M51    raw         48        132        122          9          0          1         10         10
+CA332QL1_M51    sys         48        132      92.42       6.82       0.00       0.76       7.58      20.83
+CA332QL2_M51    raw         48        132        116         16          0          0         16         14
+CA332QL2_M51    sys         48        132      87.88      12.12       0.00       0.00      12.12      29.17
+CA332QL3_M51    raw         48        132        126          6          0          0          6          6
+CA332QL3_M51    sys         48        132      95.45       4.55       0.00       0.00       4.55      12.50
+CA332QL4_M51    raw         48        132        124          8          0          0          8          8
+CA332QL4_M51    sys         48        132      93.94       6.06       0.00       0.00       6.06      16.67
+SUM             raw        192        528        488         39          0          1         40         38
+SUM             sys        192        528      92.42       7.39       0.00       0.19       7.58      19.79
+
+--------------------------------------------------------------------
+CA332QL1_M51-utt0 ref  ya  te
+CA332QL1_M51-utt0 hyp  ya  te
+CA332QL1_M51-utt0 op    C   C
+CA332QL1_M51-utt0 #csid 2 0 0 0
+CA332QL1_M51-utt1 ref  no  lu
+CA332QL1_M51-utt1 hyp  no  lu
+CA332QL1_M51-utt1 op    C   C
+CA332QL1_M51-utt1 #csid 2 0 0 0
+CA332QL1_M51-utt10 ref  chu  lo
+CA332QL1_M51-utt10 hyp  chu  lo
+CA332QL1_M51-utt10 op    C    C
+CA332QL1_M51-utt10 #csid 2 0 0 0
+CA332QL1_M51-utt11 ref  pa  ba  ri  no
+CA332QL1_M51-utt11 hyp  pa  ba  li  no
+CA332QL1_M51-utt11 op    C   C   S   C
+CA332QL1_M51-utt11 #csid 3 1 0 0
+CA332QL1_M51-utt12 ref  ko  pa  de
+CA332QL1_M51-utt12 hyp  ko  pa  de
+CA332QL1_M51-utt12 op    C   C   C
+CA332QL1_M51-utt12 #csid 3 0 0 0
+CA332QL1_M51-utt13 ref  li  ga
+CA332QL1_M51-utt13 hyp  li  da
+CA332QL1_M51-utt13 op    C   S
+CA332QL1_M51-utt13 #csid 1 1 0 0
+CA332QL1_M51-utt14 ref  be  yo  lu
+CA332QL1_M51-utt14 hyp  be  yo  lu
+CA332QL1_M51-utt14 op    C   C   C
+CA332QL1_M51-utt14 #csid 3 0 0 0
+CA332QL1_M51-utt15 ref  so  te  to
+CA332QL1_M51-utt15 hyp  so  te  to
+CA332QL1_M51-utt15 op    C   C   C
+CA332QL1_M51-utt15 #csid 3 0 0 0
+CA332QL1_M51-utt16 ref  ma  re  xa  za
+CA332QL1_M51-utt16 hyp  ma  re  xa  za
+CA332QL1_M51-utt16 op    C   C   C   C
+CA332QL1_M51-utt16 #csid 4 0 0 0
+CA332QL1_M51-utt17 ref  nu  me  ro
+CA332QL1_M51-utt17 hyp  no  me  ro
+CA332QL1_M51-utt17 op    S   C   C
+CA332QL1_M51-utt17 #csid 2 1 0 0
+CA332QL1_M51-utt18 ref  ka  pi  tu  bo
+CA332QL1_M51-utt18 hyp  ka  pi  tu  bo
+CA332QL1_M51-utt18 op    C   C   C   C
+CA332QL1_M51-utt18 #csid 4 0 0 0
+CA332QL1_M51-utt19 ref  bi  ka
+CA332QL1_M51-utt19 hyp  di  ka
+CA332QL1_M51-utt19 op    S   C
+CA332QL1_M51-utt19 #csid 1 1 0 0
+CA332QL1_M51-utt2 ref  ba  ze
+CA332QL1_M51-utt2 hyp  ba  fe
+CA332QL1_M51-utt2 op    C   S
+CA332QL1_M51-utt2 #csid 1 1 0 0
+CA332QL1_M51-utt20 ref  ti  bo
+CA332QL1_M51-utt20 hyp  ti  bo
+CA332QL1_M51-utt20 op    C   C
+CA332QL1_M51-utt20 #csid 2 0 0 0
+CA332QL1_M51-utt21 ref  ka  yi
+CA332QL1_M51-utt21 hyp  ka  yi
+CA332QL1_M51-utt21 op    C   C
+CA332QL1_M51-utt21 #csid 2 0 0 0
+CA332QL1_M51-utt22 ref  fo   go  xe  ma
+CA332QL1_M51-utt22 hyp  fo  ***  xe  ma
+CA332QL1_M51-utt22 op    C   D    C   C
+CA332QL1_M51-utt22 #csid 3 0 0 1
+CA332QL1_M51-utt23 ref  pa  ne
+CA332QL1_M51-utt23 hyp  pa  ne
+CA332QL1_M51-utt23 op    C   C
+CA332QL1_M51-utt23 #csid 2 0 0 0
+CA332QL1_M51-utt24 ref  tu  fo
+CA332QL1_M51-utt24 hyp  tu  fo
+CA332QL1_M51-utt24 op    C   C
+CA332QL1_M51-utt24 #csid 2 0 0 0
+CA332QL1_M51-utt25 ref  sa  te  li  to
+CA332QL1_M51-utt25 hyp  sa  te  li  to
+CA332QL1_M51-utt25 op    C   C   C   C
+CA332QL1_M51-utt25 #csid 4 0 0 0
+CA332QL1_M51-utt26 ref  fe  cha
+CA332QL1_M51-utt26 hyp  fe  cha
+CA332QL1_M51-utt26 op    C   C 
+CA332QL1_M51-utt26 #csid 2 0 0 0
+CA332QL1_M51-utt27 ref  pe  mi
+CA332QL1_M51-utt27 hyp  pe  mi
+CA332QL1_M51-utt27 op    C   C
+CA332QL1_M51-utt27 #csid 2 0 0 0
+CA332QL1_M51-utt28 ref  di  me  so
+CA332QL1_M51-utt28 hyp  gi  me  so
+CA332QL1_M51-utt28 op    S   C   C
+CA332QL1_M51-utt28 #csid 2 1 0 0
+CA332QL1_M51-utt29 ref  ka  ba  ye  te
+CA332QL1_M51-utt29 hyp  ka  ba  ye  te
+CA332QL1_M51-utt29 op    C   C   C   C
+CA332QL1_M51-utt29 #csid 4 0 0 0
+CA332QL1_M51-utt3 ref  ti  tu  lo
+CA332QL1_M51-utt3 hyp  ti  tu  lo
+CA332QL1_M51-utt3 op    C   C   C
+CA332QL1_M51-utt3 #csid 3 0 0 0
+CA332QL1_M51-utt30 ref  ko  li  za
+CA332QL1_M51-utt30 hyp  ko  li  za
+CA332QL1_M51-utt30 op    C   C   C
+CA332QL1_M51-utt30 #csid 3 0 0 0
+CA332QL1_M51-utt31 ref  ka  rro  ma  do
+CA332QL1_M51-utt31 hyp  ka  rro  ma  do
+CA332QL1_M51-utt31 op    C   C    C   C
+CA332QL1_M51-utt31 #csid 4 0 0 0
+CA332QL1_M51-utt32 ref  di  nyo
+CA332QL1_M51-utt32 hyp  di  nyo
+CA332QL1_M51-utt32 op    C   C 
+CA332QL1_M51-utt32 #csid 2 0 0 0
+CA332QL1_M51-utt33 ref  ma  nya  da
+CA332QL1_M51-utt33 hyp  ma  nya  da
+CA332QL1_M51-utt33 op    C   C    C
+CA332QL1_M51-utt33 #csid 3 0 0 0
+CA332QL1_M51-utt34 ref  za  fe  lu  di
+CA332QL1_M51-utt34 hyp  za  fe  lu  di
+CA332QL1_M51-utt34 op    C   C   C   C
+CA332QL1_M51-utt34 #csid 4 0 0 0
+CA332QL1_M51-utt35 ref  la  ro
+CA332QL1_M51-utt35 hyp  la  ro
+CA332QL1_M51-utt35 op    C   C
+CA332QL1_M51-utt35 #csid 2 0 0 0
+CA332QL1_M51-utt36 ref  zi  ne
+CA332QL1_M51-utt36 hyp  zi  ne
+CA332QL1_M51-utt36 op    C   C
+CA332QL1_M51-utt36 #csid 2 0 0 0
+CA332QL1_M51-utt37 ref  se  nyo  ri  ta
+CA332QL1_M51-utt37 hyp  se  nyo  li  ta
+CA332QL1_M51-utt37 op    C   C    S   C
+CA332QL1_M51-utt37 #csid 3 1 0 0
+CA332QL1_M51-utt38 ref  no  fe
+CA332QL1_M51-utt38 hyp  no  fe
+CA332QL1_M51-utt38 op    C   C
+CA332QL1_M51-utt38 #csid 2 0 0 0
+CA332QL1_M51-utt39 ref  pe  li  ku  la
+CA332QL1_M51-utt39 hyp  pe  li  ku  la
+CA332QL1_M51-utt39 op    C   C   C   C
+CA332QL1_M51-utt39 #csid 4 0 0 0
+CA332QL1_M51-utt4 ref  mo  de
+CA332QL1_M51-utt4 hyp  mo  ne
+CA332QL1_M51-utt4 op    C   S
+CA332QL1_M51-utt4 #csid 1 1 0 0
+CA332QL1_M51-utt40 ref  ku  xo  ba
+CA332QL1_M51-utt40 hyp  ku  xo  ba
+CA332QL1_M51-utt40 op    C   C   C
+CA332QL1_M51-utt40 #csid 3 0 0 0
+CA332QL1_M51-utt41 ref  fu  xo
+CA332QL1_M51-utt41 hyp  fu  xo
+CA332QL1_M51-utt41 op    C   C
+CA332QL1_M51-utt41 #csid 2 0 0 0
+CA332QL1_M51-utt42 ref  se  ku
+CA332QL1_M51-utt42 hyp  se  ko
+CA332QL1_M51-utt42 op    C   S
+CA332QL1_M51-utt42 #csid 1 1 0 0
+CA332QL1_M51-utt43 ref  to  rre
+CA332QL1_M51-utt43 hyp  to  rre
+CA332QL1_M51-utt43 op    C   C 
+CA332QL1_M51-utt43 #csid 2 0 0 0
+CA332QL1_M51-utt44 ref  do  fe
+CA332QL1_M51-utt44 hyp  do  fe
+CA332QL1_M51-utt44 op    C   C
+CA332QL1_M51-utt44 #csid 2 0 0 0
+CA332QL1_M51-utt45 ref  ba  rre  nyo
+CA332QL1_M51-utt45 hyp  ba  rre  nyo
+CA332QL1_M51-utt45 op    C   C    C 
+CA332QL1_M51-utt45 #csid 3 0 0 0
+CA332QL1_M51-utt46 ref  me  la  ni  to
+CA332QL1_M51-utt46 hyp  me  la  ni  to
+CA332QL1_M51-utt46 op    C   C   C   C
+CA332QL1_M51-utt46 #csid 4 0 0 0
+CA332QL1_M51-utt47 ref  ta  le  go
+CA332QL1_M51-utt47 hyp  ta  le  go
+CA332QL1_M51-utt47 op    C   C   C
+CA332QL1_M51-utt47 #csid 3 0 0 0
+CA332QL1_M51-utt5 ref  pe  no
+CA332QL1_M51-utt5 hyp  pe  no
+CA332QL1_M51-utt5 op    C   C
+CA332QL1_M51-utt5 #csid 2 0 0 0
+CA332QL1_M51-utt6 ref  xe  ra
+CA332QL1_M51-utt6 hyp  xe  ra
+CA332QL1_M51-utt6 op    C   C
+CA332QL1_M51-utt6 #csid 2 0 0 0
+CA332QL1_M51-utt7 ref  pa  le  ti  ya
+CA332QL1_M51-utt7 hyp  pa  le  ti  ya
+CA332QL1_M51-utt7 op    C   C   C   C
+CA332QL1_M51-utt7 #csid 4 0 0 0
+CA332QL1_M51-utt8 ref  ka  rro  za
+CA332QL1_M51-utt8 hyp  ka  rro  za
+CA332QL1_M51-utt8 op    C   C    C
+CA332QL1_M51-utt8 #csid 3 0 0 0
+CA332QL1_M51-utt9 ref  ma  po
+CA332QL1_M51-utt9 hyp  ma  po
+CA332QL1_M51-utt9 op    C   C
+CA332QL1_M51-utt9 #csid 2 0 0 0
+CA332QL2_M51-utt0 ref  so  ya
+CA332QL2_M51-utt0 hyp  so  ya
+CA332QL2_M51-utt0 op    C   C
+CA332QL2_M51-utt0 #csid 2 0 0 0
+CA332QL2_M51-utt1 ref  be  ta
+CA332QL2_M51-utt1 hyp  be  ta
+CA332QL2_M51-utt1 op    C   C
+CA332QL2_M51-utt1 #csid 2 0 0 0
+CA332QL2_M51-utt10 ref  me  ze  do  ta
+CA332QL2_M51-utt10 hyp  me  ze  do  ta
+CA332QL2_M51-utt10 op    C   C   C   C
+CA332QL2_M51-utt10 #csid 4 0 0 0
+CA332QL2_M51-utt11 ref  ko  li  ya
+CA332QL2_M51-utt11 hyp  ko  li  ya
+CA332QL2_M51-utt11 op    C   C   C
+CA332QL2_M51-utt11 #csid 3 0 0 0
+CA332QL2_M51-utt12 ref  bu  de
+CA332QL2_M51-utt12 hyp  mu  de
+CA332QL2_M51-utt12 op    S   C
+CA332QL2_M51-utt12 #csid 1 1 0 0
+CA332QL2_M51-utt13 ref  mo  ku
+CA332QL2_M51-utt13 hyp  mo  ku
+CA332QL2_M51-utt13 op    C   C
+CA332QL2_M51-utt13 #csid 2 0 0 0
+CA332QL2_M51-utt14 ref  lo  ra
+CA332QL2_M51-utt14 hyp  lo  ra
+CA332QL2_M51-utt14 op    C   C
+CA332QL2_M51-utt14 #csid 2 0 0 0
+CA332QL2_M51-utt15 ref  mi  ri  za
+CA332QL2_M51-utt15 hyp  mi  ri  za
+CA332QL2_M51-utt15 op    C   C   C
+CA332QL2_M51-utt15 #csid 3 0 0 0
+CA332QL2_M51-utt16 ref  ze  ta
+CA332QL2_M51-utt16 hyp  ze  ta
+CA332QL2_M51-utt16 op    C   C
+CA332QL2_M51-utt16 #csid 2 0 0 0
+CA332QL2_M51-utt17 ref  bu  fe  lu
+CA332QL2_M51-utt17 hyp  bu  fe  lu
+CA332QL2_M51-utt17 op    C   C   C
+CA332QL2_M51-utt17 #csid 3 0 0 0
+CA332QL2_M51-utt18 ref  ma  ni  be  za
+CA332QL2_M51-utt18 hyp  ma  ni  be  za
+CA332QL2_M51-utt18 op    C   C   C   C
+CA332QL2_M51-utt18 #csid 4 0 0 0
+CA332QL2_M51-utt19 ref  ma  re  xa  da
+CA332QL2_M51-utt19 hyp  ma  re  xa  ta
+CA332QL2_M51-utt19 op    C   C   C   S
+CA332QL2_M51-utt19 #csid 3 1 0 0
+CA332QL2_M51-utt2 ref  sa  te  li  te
+CA332QL2_M51-utt2 hyp  sa  te  li  te
+CA332QL2_M51-utt2 op    C   C   C   C
+CA332QL2_M51-utt2 #csid 4 0 0 0
+CA332QL2_M51-utt20 ref  pe  so
+CA332QL2_M51-utt20 hyp  pe  so
+CA332QL2_M51-utt20 op    C   C
+CA332QL2_M51-utt20 #csid 2 0 0 0
+CA332QL2_M51-utt21 ref  bi  ra  ni
+CA332QL2_M51-utt21 hyp  bi  ra  ni
+CA332QL2_M51-utt21 op    C   C   C
+CA332QL2_M51-utt21 #csid 3 0 0 0
+CA332QL2_M51-utt22 ref  ti  ze  du  ne
+CA332QL2_M51-utt22 hyp  ti  ze  du  ne
+CA332QL2_M51-utt22 op    C   C   C   C
+CA332QL2_M51-utt22 #csid 4 0 0 0
+CA332QL2_M51-utt23 ref  ti  yo
+CA332QL2_M51-utt23 hyp  ti  yo
+CA332QL2_M51-utt23 op    C   C
+CA332QL2_M51-utt23 #csid 2 0 0 0
+CA332QL2_M51-utt24 ref  no  fe
+CA332QL2_M51-utt24 hyp  no  ze
+CA332QL2_M51-utt24 op    C   S
+CA332QL2_M51-utt24 #csid 1 1 0 0
+CA332QL2_M51-utt25 ref  pe  ta  te
+CA332QL2_M51-utt25 hyp  pe  ta  te
+CA332QL2_M51-utt25 op    C   C   C
+CA332QL2_M51-utt25 #csid 3 0 0 0
+CA332QL2_M51-utt26 ref  la  do
+CA332QL2_M51-utt26 hyp  la  do
+CA332QL2_M51-utt26 op    C   C
+CA332QL2_M51-utt26 #csid 2 0 0 0
+CA332QL2_M51-utt27 ref  mu  no
+CA332QL2_M51-utt27 hyp  mu  no
+CA332QL2_M51-utt27 op    C   C
+CA332QL2_M51-utt27 #csid 2 0 0 0
+CA332QL2_M51-utt28 ref  za  lu
+CA332QL2_M51-utt28 hyp  za  lu
+CA332QL2_M51-utt28 op    C   C
+CA332QL2_M51-utt28 #csid 2 0 0 0
+CA332QL2_M51-utt29 ref  ka  rro  ma  to
+CA332QL2_M51-utt29 hyp  ka  rro  ma  to
+CA332QL2_M51-utt29 op    C   C    C   C
+CA332QL2_M51-utt29 #csid 4 0 0 0
+CA332QL2_M51-utt3 ref  rri  bu  po
+CA332QL2_M51-utt3 hyp  rri  bu  po
+CA332QL2_M51-utt3 op    C    C   C
+CA332QL2_M51-utt3 #csid 3 0 0 0
+CA332QL2_M51-utt30 ref  mu  si  ma
+CA332QL2_M51-utt30 hyp  mo  zi  ma
+CA332QL2_M51-utt30 op    S   S   C
+CA332QL2_M51-utt30 #csid 1 2 0 0
+CA332QL2_M51-utt31 ref  de  ba  te
+CA332QL2_M51-utt31 hyp  de  ma  te
+CA332QL2_M51-utt31 op    C   S   C
+CA332QL2_M51-utt31 #csid 2 1 0 0
+CA332QL2_M51-utt32 ref  di  ne  ro
+CA332QL2_M51-utt32 hyp  de  ye  ro
+CA332QL2_M51-utt32 op    S   S   C
+CA332QL2_M51-utt32 #csid 1 2 0 0
+CA332QL2_M51-utt33 ref  ni  fu  ga  mi
+CA332QL2_M51-utt33 hyp  mi  fu  ga  mi
+CA332QL2_M51-utt33 op    S   C   C   C
+CA332QL2_M51-utt33 #csid 3 1 0 0
+CA332QL2_M51-utt34 ref  mo  te
+CA332QL2_M51-utt34 hyp  ma  te
+CA332QL2_M51-utt34 op    S   C
+CA332QL2_M51-utt34 #csid 1 1 0 0
+CA332QL2_M51-utt35 ref  ko  da
+CA332QL2_M51-utt35 hyp  ko  da
+CA332QL2_M51-utt35 op    C   C
+CA332QL2_M51-utt35 #csid 2 0 0 0
+CA332QL2_M51-utt36 ref  ko  zi
+CA332QL2_M51-utt36 hyp  ko  ze
+CA332QL2_M51-utt36 op    C   S
+CA332QL2_M51-utt36 #csid 1 1 0 0
+CA332QL2_M51-utt37 ref  di  ku  le  te
+CA332QL2_M51-utt37 hyp  di  ku  le  te
+CA332QL2_M51-utt37 op    C   C   C   C
+CA332QL2_M51-utt37 #csid 4 0 0 0
+CA332QL2_M51-utt38 ref  ko  pa  te
+CA332QL2_M51-utt38 hyp  ko  pa  te
+CA332QL2_M51-utt38 op    C   C   C
+CA332QL2_M51-utt38 #csid 3 0 0 0
+CA332QL2_M51-utt39 ref  do  bu
+CA332QL2_M51-utt39 hyp  do  go
+CA332QL2_M51-utt39 op    C   S
+CA332QL2_M51-utt39 #csid 1 1 0 0
+CA332QL2_M51-utt4 ref  me  po
+CA332QL2_M51-utt4 hyp  me  po
+CA332QL2_M51-utt4 op    C   C
+CA332QL2_M51-utt4 #csid 2 0 0 0
+CA332QL2_M51-utt40 ref  no  che
+CA332QL2_M51-utt40 hyp  no  che
+CA332QL2_M51-utt40 op    C   C 
+CA332QL2_M51-utt40 #csid 2 0 0 0
+CA332QL2_M51-utt41 ref  fi  lo  so  zo
+CA332QL2_M51-utt41 hyp  zi  lo  so  zo
+CA332QL2_M51-utt41 op    S   C   C   C
+CA332QL2_M51-utt41 #csid 3 1 0 0
+CA332QL2_M51-utt42 ref  pa  do
+CA332QL2_M51-utt42 hyp  pa  da
+CA332QL2_M51-utt42 op    C   S
+CA332QL2_M51-utt42 #csid 1 1 0 0
+CA332QL2_M51-utt43 ref  ka  yo
+CA332QL2_M51-utt43 hyp  ka  yo
+CA332QL2_M51-utt43 op    C   C
+CA332QL2_M51-utt43 #csid 2 0 0 0
+CA332QL2_M51-utt44 ref  ka  pi  tu  lo
+CA332QL2_M51-utt44 hyp  ka  pe  tu  lo
+CA332QL2_M51-utt44 op    C   S   C   C
+CA332QL2_M51-utt44 #csid 3 1 0 0
+CA332QL2_M51-utt45 ref  lu  xa
+CA332QL2_M51-utt45 hyp  lu  xa
+CA332QL2_M51-utt45 op    C   C
+CA332QL2_M51-utt45 #csid 2 0 0 0
+CA332QL2_M51-utt46 ref  ba  ye
+CA332QL2_M51-utt46 hyp  ba  ye
+CA332QL2_M51-utt46 op    C   C
+CA332QL2_M51-utt46 #csid 2 0 0 0
+CA332QL2_M51-utt47 ref  ka  ba  ye  mo
+CA332QL2_M51-utt47 hyp  ka  ba  ye  mo
+CA332QL2_M51-utt47 op    C   C   C   C
+CA332QL2_M51-utt47 #csid 4 0 0 0
+CA332QL2_M51-utt5 ref  ma  nya  na
+CA332QL2_M51-utt5 hyp  ma  nya  na
+CA332QL2_M51-utt5 op    C   C    C
+CA332QL2_M51-utt5 #csid 3 0 0 0
+CA332QL2_M51-utt6 ref  zi  da
+CA332QL2_M51-utt6 hyp  zi  da
+CA332QL2_M51-utt6 op    C   C
+CA332QL2_M51-utt6 #csid 2 0 0 0
+CA332QL2_M51-utt7 ref  ka  rro  nya
+CA332QL2_M51-utt7 hyp  ka  rro  nya
+CA332QL2_M51-utt7 op    C   C    C 
+CA332QL2_M51-utt7 #csid 3 0 0 0
+CA332QL2_M51-utt8 ref  bi  ga
+CA332QL2_M51-utt8 hyp  bi  da
+CA332QL2_M51-utt8 op    C   S
+CA332QL2_M51-utt8 #csid 1 1 0 0
+CA332QL2_M51-utt9 ref  mo  pe  di  ta
+CA332QL2_M51-utt9 hyp  mo  pe  di  ta
+CA332QL2_M51-utt9 op    C   C   C   C
+CA332QL2_M51-utt9 #csid 4 0 0 0
+CA332QL3_M51-utt0 ref  so  ri
+CA332QL3_M51-utt0 hyp  so  ri
+CA332QL3_M51-utt0 op    C   C
+CA332QL3_M51-utt0 #csid 2 0 0 0
+CA332QL3_M51-utt1 ref  ye  da
+CA332QL3_M51-utt1 hyp  ye  da
+CA332QL3_M51-utt1 op    C   C
+CA332QL3_M51-utt1 #csid 2 0 0 0
+CA332QL3_M51-utt10 ref  ku  fe
+CA332QL3_M51-utt10 hyp  ku  fe
+CA332QL3_M51-utt10 op    C   C
+CA332QL3_M51-utt10 #csid 2 0 0 0
+CA332QL3_M51-utt11 ref  so  ma
+CA332QL3_M51-utt11 hyp  so  ma
+CA332QL3_M51-utt11 op    C   C
+CA332QL3_M51-utt11 #csid 2 0 0 0
+CA332QL3_M51-utt12 ref  ka  ba  ye  ro
+CA332QL3_M51-utt12 hyp  ka  ba  ye  ro
+CA332QL3_M51-utt12 op    C   C   C   C
+CA332QL3_M51-utt12 #csid 4 0 0 0
+CA332QL3_M51-utt13 ref  be  na
+CA332QL3_M51-utt13 hyp  be  na
+CA332QL3_M51-utt13 op    C   C
+CA332QL3_M51-utt13 #csid 2 0 0 0
+CA332QL3_M51-utt14 ref  mu  si  ka
+CA332QL3_M51-utt14 hyp  mu  si  ka
+CA332QL3_M51-utt14 op    C   C   C
+CA332QL3_M51-utt14 #csid 3 0 0 0
+CA332QL3_M51-utt15 ref  di  ku
+CA332QL3_M51-utt15 hyp  di  ku
+CA332QL3_M51-utt15 op    C   C
+CA332QL3_M51-utt15 #csid 2 0 0 0
+CA332QL3_M51-utt16 ref  ka  mi  ro
+CA332QL3_M51-utt16 hyp  ka  mi  ro
+CA332QL3_M51-utt16 op    C   C   C
+CA332QL3_M51-utt16 #csid 3 0 0 0
+CA332QL3_M51-utt17 ref  me  ze  do  ra
+CA332QL3_M51-utt17 hyp  me  ze  do  ra
+CA332QL3_M51-utt17 op    C   C   C   C
+CA332QL3_M51-utt17 #csid 4 0 0 0
+CA332QL3_M51-utt18 ref  ze  bi
+CA332QL3_M51-utt18 hyp  ze  bi
+CA332QL3_M51-utt18 op    C   C
+CA332QL3_M51-utt18 #csid 2 0 0 0
+CA332QL3_M51-utt19 ref  ka  xo
+CA332QL3_M51-utt19 hyp  ka  xo
+CA332QL3_M51-utt19 op    C   C
+CA332QL3_M51-utt19 #csid 2 0 0 0
+CA332QL3_M51-utt2 ref  pa  li  xo
+CA332QL3_M51-utt2 hyp  pa  li  xo
+CA332QL3_M51-utt2 op    C   C   C
+CA332QL3_M51-utt2 #csid 3 0 0 0
+CA332QL3_M51-utt20 ref  bi  la
+CA332QL3_M51-utt20 hyp  bi  la
+CA332QL3_M51-utt20 op    C   C
+CA332QL3_M51-utt20 #csid 2 0 0 0
+CA332QL3_M51-utt21 ref  me  di  zi  ra
+CA332QL3_M51-utt21 hyp  me  di  zi  ra
+CA332QL3_M51-utt21 op    C   C   C   C
+CA332QL3_M51-utt21 #csid 4 0 0 0
+CA332QL3_M51-utt22 ref  la  ti  ga  fo
+CA332QL3_M51-utt22 hyp  la  ti  ga  fo
+CA332QL3_M51-utt22 op    C   C   C   C
+CA332QL3_M51-utt22 #csid 4 0 0 0
+CA332QL3_M51-utt23 ref  no  ze  ba
+CA332QL3_M51-utt23 hyp  no  fe  ba
+CA332QL3_M51-utt23 op    C   S   C
+CA332QL3_M51-utt23 #csid 2 1 0 0
+CA332QL3_M51-utt24 ref  lu  fo
+CA332QL3_M51-utt24 hyp  lu  fo
+CA332QL3_M51-utt24 op    C   C
+CA332QL3_M51-utt24 #csid 2 0 0 0
+CA332QL3_M51-utt25 ref  ta  po  di  no
+CA332QL3_M51-utt25 hyp  ta  po  di  no
+CA332QL3_M51-utt25 op    C   C   C   C
+CA332QL3_M51-utt25 #csid 4 0 0 0
+CA332QL3_M51-utt26 ref  fi  lo  so  fo
+CA332QL3_M51-utt26 hyp  fi  lo  so  fo
+CA332QL3_M51-utt26 op    C   C   C   C
+CA332QL3_M51-utt26 #csid 4 0 0 0
+CA332QL3_M51-utt27 ref  ni  bo  fe  ma
+CA332QL3_M51-utt27 hyp  ni  bo  fe  ma
+CA332QL3_M51-utt27 op    C   C   C   C
+CA332QL3_M51-utt27 #csid 4 0 0 0
+CA332QL3_M51-utt28 ref  mi  ri  ya
+CA332QL3_M51-utt28 hyp  mi  ri  ya
+CA332QL3_M51-utt28 op    C   C   C
+CA332QL3_M51-utt28 #csid 3 0 0 0
+CA332QL3_M51-utt29 ref  zi  bu  fe  ni
+CA332QL3_M51-utt29 hyp  zi  bu  fe  ni
+CA332QL3_M51-utt29 op    C   C   C   C
+CA332QL3_M51-utt29 #csid 4 0 0 0
+CA332QL3_M51-utt3 ref  so  ga
+CA332QL3_M51-utt3 hyp  so  ga
+CA332QL3_M51-utt3 op    C   C
+CA332QL3_M51-utt3 #csid 2 0 0 0
+CA332QL3_M51-utt30 ref  mo  pa  so  ka
+CA332QL3_M51-utt30 hyp  mo  pa  so  ka
+CA332QL3_M51-utt30 op    C   C   C   C
+CA332QL3_M51-utt30 #csid 4 0 0 0
+CA332QL3_M51-utt31 ref  ma  ni  be  la
+CA332QL3_M51-utt31 hyp  ma  ni  be  la
+CA332QL3_M51-utt31 op    C   C   C   C
+CA332QL3_M51-utt31 #csid 4 0 0 0
+CA332QL3_M51-utt32 ref  pe  ta  te
+CA332QL3_M51-utt32 hyp  pe  ta  te
+CA332QL3_M51-utt32 op    C   C   C
+CA332QL3_M51-utt32 #csid 3 0 0 0
+CA332QL3_M51-utt33 ref  de  ba  te
+CA332QL3_M51-utt33 hyp  de  ba  te
+CA332QL3_M51-utt33 op    C   C   C
+CA332QL3_M51-utt33 #csid 3 0 0 0
+CA332QL3_M51-utt34 ref  lu  cha
+CA332QL3_M51-utt34 hyp  lu  cha
+CA332QL3_M51-utt34 op    C   C 
+CA332QL3_M51-utt34 #csid 2 0 0 0
+CA332QL3_M51-utt35 ref  ka  mo
+CA332QL3_M51-utt35 hyp  ka  mo
+CA332QL3_M51-utt35 op    C   C
+CA332QL3_M51-utt35 #csid 2 0 0 0
+CA332QL3_M51-utt36 ref  ko  di  so
+CA332QL3_M51-utt36 hyp  ko  di  so
+CA332QL3_M51-utt36 op    C   C   C
+CA332QL3_M51-utt36 #csid 3 0 0 0
+CA332QL3_M51-utt37 ref  so  ma  ze
+CA332QL3_M51-utt37 hyp  so  ma  fe
+CA332QL3_M51-utt37 op    C   C   S
+CA332QL3_M51-utt37 #csid 2 1 0 0
+CA332QL3_M51-utt38 ref  lo  na
+CA332QL3_M51-utt38 hyp  lo  na
+CA332QL3_M51-utt38 op    C   C
+CA332QL3_M51-utt38 #csid 2 0 0 0
+CA332QL3_M51-utt39 ref  rro  ko
+CA332QL3_M51-utt39 hyp  rro  ko
+CA332QL3_M51-utt39 op    C    C
+CA332QL3_M51-utt39 #csid 2 0 0 0
+CA332QL3_M51-utt4 ref  ko  pa
+CA332QL3_M51-utt4 hyp  ko  ka
+CA332QL3_M51-utt4 op    C   S
+CA332QL3_M51-utt4 #csid 1 1 0 0
+CA332QL3_M51-utt40 ref  pe  ta  ma
+CA332QL3_M51-utt40 hyp  pe  ta  ma
+CA332QL3_M51-utt40 op    C   C   C
+CA332QL3_M51-utt40 #csid 3 0 0 0
+CA332QL3_M51-utt41 ref  ge  za
+CA332QL3_M51-utt41 hyp  ge  za
+CA332QL3_M51-utt41 op    C   C
+CA332QL3_M51-utt41 #csid 2 0 0 0
+CA332QL3_M51-utt42 ref  ma  no  ta  go
+CA332QL3_M51-utt42 hyp  ma  no  ta  go
+CA332QL3_M51-utt42 op    C   C   C   C
+CA332QL3_M51-utt42 #csid 4 0 0 0
+CA332QL3_M51-utt43 ref  bu  ke
+CA332QL3_M51-utt43 hyp  mo  ke
+CA332QL3_M51-utt43 op    S   C
+CA332QL3_M51-utt43 #csid 1 1 0 0
+CA332QL3_M51-utt44 ref  me  pe
+CA332QL3_M51-utt44 hyp  me  pe
+CA332QL3_M51-utt44 op    C   C
+CA332QL3_M51-utt44 #csid 2 0 0 0
+CA332QL3_M51-utt45 ref  pe  ta
+CA332QL3_M51-utt45 hyp  pe  ta
+CA332QL3_M51-utt45 op    C   C
+CA332QL3_M51-utt45 #csid 2 0 0 0
+CA332QL3_M51-utt46 ref  rre  ti  ra  za
+CA332QL3_M51-utt46 hyp  rre  ti  ga  za
+CA332QL3_M51-utt46 op    C    C   S   C
+CA332QL3_M51-utt46 #csid 3 1 0 0
+CA332QL3_M51-utt47 ref  ti  bu
+CA332QL3_M51-utt47 hyp  ti  bu
+CA332QL3_M51-utt47 op    C   C
+CA332QL3_M51-utt47 #csid 2 0 0 0
+CA332QL3_M51-utt5 ref  be  ya  ze
+CA332QL3_M51-utt5 hyp  be  ya  ze
+CA332QL3_M51-utt5 op    C   C   C
+CA332QL3_M51-utt5 #csid 3 0 0 0
+CA332QL3_M51-utt6 ref  mu  lo
+CA332QL3_M51-utt6 hyp  mu  lo
+CA332QL3_M51-utt6 op    C   C
+CA332QL3_M51-utt6 #csid 2 0 0 0
+CA332QL3_M51-utt7 ref  zi  ma
+CA332QL3_M51-utt7 hyp  zi  ma
+CA332QL3_M51-utt7 op    C   C
+CA332QL3_M51-utt7 #csid 2 0 0 0
+CA332QL3_M51-utt8 ref  no  be  ya
+CA332QL3_M51-utt8 hyp  no  be  ya
+CA332QL3_M51-utt8 op    C   C   C
+CA332QL3_M51-utt8 #csid 3 0 0 0
+CA332QL3_M51-utt9 ref  ni  gu
+CA332QL3_M51-utt9 hyp  ni  go
+CA332QL3_M51-utt9 op    C   S
+CA332QL3_M51-utt9 #csid 1 1 0 0
+CA332QL4_M51-utt0 ref  chu  zo
+CA332QL4_M51-utt0 hyp  chu  zo
+CA332QL4_M51-utt0 op    C    C
+CA332QL4_M51-utt0 #csid 2 0 0 0
+CA332QL4_M51-utt1 ref  ze  za
+CA332QL4_M51-utt1 hyp  ze  za
+CA332QL4_M51-utt1 op    C   C
+CA332QL4_M51-utt1 #csid 2 0 0 0
+CA332QL4_M51-utt10 ref  pe  ta  ka
+CA332QL4_M51-utt10 hyp  pe  ta  ka
+CA332QL4_M51-utt10 op    C   C   C
+CA332QL4_M51-utt10 #csid 3 0 0 0
+CA332QL4_M51-utt11 ref  do  ya
+CA332QL4_M51-utt11 hyp  do  ya
+CA332QL4_M51-utt11 op    C   C
+CA332QL4_M51-utt11 #csid 2 0 0 0
+CA332QL4_M51-utt12 ref  li  ya
+CA332QL4_M51-utt12 hyp  li  ya
+CA332QL4_M51-utt12 op    C   C
+CA332QL4_M51-utt12 #csid 2 0 0 0
+CA332QL4_M51-utt13 ref  ka  mi  no
+CA332QL4_M51-utt13 hyp  ka  mi  no
+CA332QL4_M51-utt13 op    C   C   C
+CA332QL4_M51-utt13 #csid 3 0 0 0
+CA332QL4_M51-utt14 ref  pa  de  so
+CA332QL4_M51-utt14 hyp  pa  de  so
+CA332QL4_M51-utt14 op    C   C   C
+CA332QL4_M51-utt14 #csid 3 0 0 0
+CA332QL4_M51-utt15 ref  so  da
+CA332QL4_M51-utt15 hyp  so  da
+CA332QL4_M51-utt15 op    C   C
+CA332QL4_M51-utt15 #csid 2 0 0 0
+CA332QL4_M51-utt16 ref  ti  tu  mo
+CA332QL4_M51-utt16 hyp  ke  tu  mo
+CA332QL4_M51-utt16 op    S   C   C
+CA332QL4_M51-utt16 #csid 2 1 0 0
+CA332QL4_M51-utt17 ref  di  ma  ko
+CA332QL4_M51-utt17 hyp  gi  ma  ko
+CA332QL4_M51-utt17 op    S   C   C
+CA332QL4_M51-utt17 #csid 2 1 0 0
+CA332QL4_M51-utt18 ref  ka  nyo
+CA332QL4_M51-utt18 hyp  ka  nyo
+CA332QL4_M51-utt18 op    C   C 
+CA332QL4_M51-utt18 #csid 2 0 0 0
+CA332QL4_M51-utt19 ref  ko  ga
+CA332QL4_M51-utt19 hyp  ko  ba
+CA332QL4_M51-utt19 op    C   S
+CA332QL4_M51-utt19 #csid 1 1 0 0
+CA332QL4_M51-utt2 ref  ye  ma
+CA332QL4_M51-utt2 hyp  ye  ma
+CA332QL4_M51-utt2 op    C   C
+CA332QL4_M51-utt2 #csid 2 0 0 0
+CA332QL4_M51-utt20 ref  mo  pe
+CA332QL4_M51-utt20 hyp  mo  pe
+CA332QL4_M51-utt20 op    C   C
+CA332QL4_M51-utt20 #csid 2 0 0 0
+CA332QL4_M51-utt21 ref  na  ze
+CA332QL4_M51-utt21 hyp  na  ze
+CA332QL4_M51-utt21 op    C   C
+CA332QL4_M51-utt21 #csid 2 0 0 0
+CA332QL4_M51-utt22 ref  ge  rra
+CA332QL4_M51-utt22 hyp  ge  rra
+CA332QL4_M51-utt22 op    C   C 
+CA332QL4_M51-utt22 #csid 2 0 0 0
+CA332QL4_M51-utt23 ref  so  ga  li  na
+CA332QL4_M51-utt23 hyp  so  ga  li  na
+CA332QL4_M51-utt23 op    C   C   C   C
+CA332QL4_M51-utt23 #csid 4 0 0 0
+CA332QL4_M51-utt24 ref  pe  li  ku  za
+CA332QL4_M51-utt24 hyp  pe  le  ku  za
+CA332QL4_M51-utt24 op    C   S   C   C
+CA332QL4_M51-utt24 #csid 3 1 0 0
+CA332QL4_M51-utt25 ref  di  la
+CA332QL4_M51-utt25 hyp  di  la
+CA332QL4_M51-utt25 op    C   C
+CA332QL4_M51-utt25 #csid 2 0 0 0
+CA332QL4_M51-utt26 ref  no  be  la
+CA332QL4_M51-utt26 hyp  no  be  la
+CA332QL4_M51-utt26 op    C   C   C
+CA332QL4_M51-utt26 #csid 3 0 0 0
+CA332QL4_M51-utt27 ref  pe  ku  ga  ta
+CA332QL4_M51-utt27 hyp  pe  ku  ga  ta
+CA332QL4_M51-utt27 op    C   C   C   C
+CA332QL4_M51-utt27 #csid 4 0 0 0
+CA332QL4_M51-utt28 ref  la  ti  ga  zo
+CA332QL4_M51-utt28 hyp  la  ti  ga  zo
+CA332QL4_M51-utt28 op    C   C   C   C
+CA332QL4_M51-utt28 #csid 4 0 0 0
+CA332QL4_M51-utt29 ref  rro  ka
+CA332QL4_M51-utt29 hyp  rro  ka
+CA332QL4_M51-utt29 op    C    C
+CA332QL4_M51-utt29 #csid 2 0 0 0
+CA332QL4_M51-utt3 ref  zi  fo
+CA332QL4_M51-utt3 hyp  zi  fo
+CA332QL4_M51-utt3 op    C   C
+CA332QL4_M51-utt3 #csid 2 0 0 0
+CA332QL4_M51-utt30 ref  pa  le  te  rra
+CA332QL4_M51-utt30 hyp  pa  le  te  rra
+CA332QL4_M51-utt30 op    C   C   C   C 
+CA332QL4_M51-utt30 #csid 4 0 0 0
+CA332QL4_M51-utt31 ref  ze  bo
+CA332QL4_M51-utt31 hyp  fe  bo
+CA332QL4_M51-utt31 op    S   C
+CA332QL4_M51-utt31 #csid 1 1 0 0
+CA332QL4_M51-utt32 ref  pa  li  yo
+CA332QL4_M51-utt32 hyp  pa  li  yo
+CA332QL4_M51-utt32 op    C   C   C
+CA332QL4_M51-utt32 #csid 3 0 0 0
+CA332QL4_M51-utt33 ref  ka  ba  ye  to
+CA332QL4_M51-utt33 hyp  ka  ba  ye  to
+CA332QL4_M51-utt33 op    C   C   C   C
+CA332QL4_M51-utt33 #csid 4 0 0 0
+CA332QL4_M51-utt34 ref  lo  fe  du  ne
+CA332QL4_M51-utt34 hyp  lo  fe  du  ne
+CA332QL4_M51-utt34 op    C   C   C   C
+CA332QL4_M51-utt34 #csid 4 0 0 0
+CA332QL4_M51-utt35 ref  ya  to
+CA332QL4_M51-utt35 hyp  ya  to
+CA332QL4_M51-utt35 op    C   C
+CA332QL4_M51-utt35 #csid 2 0 0 0
+CA332QL4_M51-utt36 ref  gi  cho
+CA332QL4_M51-utt36 hyp  gi  cho
+CA332QL4_M51-utt36 op    C   C 
+CA332QL4_M51-utt36 #csid 2 0 0 0
+CA332QL4_M51-utt37 ref  pe  na
+CA332QL4_M51-utt37 hyp  te  na
+CA332QL4_M51-utt37 op    S   C
+CA332QL4_M51-utt37 #csid 1 1 0 0
+CA332QL4_M51-utt38 ref  bi  ya
+CA332QL4_M51-utt38 hyp  bi  ya
+CA332QL4_M51-utt38 op    C   C
+CA332QL4_M51-utt38 #csid 2 0 0 0
+CA332QL4_M51-utt39 ref  to  ye
+CA332QL4_M51-utt39 hyp  to  ye
+CA332QL4_M51-utt39 op    C   C
+CA332QL4_M51-utt39 #csid 2 0 0 0
+CA332QL4_M51-utt4 ref  pa  ni
+CA332QL4_M51-utt4 hyp  pa  ni
+CA332QL4_M51-utt4 op    C   C
+CA332QL4_M51-utt4 #csid 2 0 0 0
+CA332QL4_M51-utt40 ref  ze  bu  xo
+CA332QL4_M51-utt40 hyp  ze  bu  xo
+CA332QL4_M51-utt40 op    C   C   C
+CA332QL4_M51-utt40 #csid 3 0 0 0
+CA332QL4_M51-utt41 ref  rre  ti  ra  da
+CA332QL4_M51-utt41 hyp  rre  ti  ra  da
+CA332QL4_M51-utt41 op    C    C   C   C
+CA332QL4_M51-utt41 #csid 4 0 0 0
+CA332QL4_M51-utt42 ref  nu  me  so
+CA332QL4_M51-utt42 hyp  nu  me  so
+CA332QL4_M51-utt42 op    C   C   C
+CA332QL4_M51-utt42 #csid 3 0 0 0
+CA332QL4_M51-utt43 ref  ta  le  bo
+CA332QL4_M51-utt43 hyp  ta  le  bo
+CA332QL4_M51-utt43 op    C   C   C
+CA332QL4_M51-utt43 #csid 3 0 0 0
+CA332QL4_M51-utt44 ref  me  di  zi  na
+CA332QL4_M51-utt44 hyp  me  di  zi  na
+CA332QL4_M51-utt44 op    C   C   C   C
+CA332QL4_M51-utt44 #csid 4 0 0 0
+CA332QL4_M51-utt45 ref  zi  se
+CA332QL4_M51-utt45 hyp  zi  se
+CA332QL4_M51-utt45 op    C   C
+CA332QL4_M51-utt45 #csid 2 0 0 0
+CA332QL4_M51-utt46 ref  ze  xi
+CA332QL4_M51-utt46 hyp  ze  xi
+CA332QL4_M51-utt46 op    C   C
+CA332QL4_M51-utt46 #csid 2 0 0 0
+CA332QL4_M51-utt47 ref  bi  fu  pe  zi
+CA332QL4_M51-utt47 hyp  bi  fu  pe  ti
+CA332QL4_M51-utt47 op    C   C   C   S
+CA332QL4_M51-utt47 #csid 3 1 0 0
+CA332QL4_M51-utt5 ref  za  bo  lu
+CA332QL4_M51-utt5 hyp  za  bo  lu
+CA332QL4_M51-utt5 op    C   C   C
+CA332QL4_M51-utt5 #csid 3 0 0 0
+CA332QL4_M51-utt6 ref  ma  no  ta  zo
+CA332QL4_M51-utt6 hyp  ma  no  ta  zo
+CA332QL4_M51-utt6 op    C   C   C   C
+CA332QL4_M51-utt6 #csid 4 0 0 0
+CA332QL4_M51-utt7 ref  ba  rre  yo
+CA332QL4_M51-utt7 hyp  ba  rre  yo
+CA332QL4_M51-utt7 op    C   C    C
+CA332QL4_M51-utt7 #csid 3 0 0 0
+CA332QL4_M51-utt8 ref  se  nyo  ri  da
+CA332QL4_M51-utt8 hyp  se  nyo  ri  ra
+CA332QL4_M51-utt8 op    C   C    C   S
+CA332QL4_M51-utt8 #csid 3 1 0 0
+CA332QL4_M51-utt9 ref  to  zo
+CA332QL4_M51-utt9 hyp  to  zo
+CA332QL4_M51-utt9 op    C   C
+CA332QL4_M51-utt9 #csid 2 0 0 0

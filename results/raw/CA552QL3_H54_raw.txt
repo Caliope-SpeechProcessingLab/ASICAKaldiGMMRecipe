@@ -1,0 +1,771 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA552QL1_H54    raw         48        132         99         32          0          1         33         22
+CA552QL1_H54    sys         48        132      75.00      24.24       0.00       0.76      25.00      45.83
+CA552QL2_H54    raw         47        128        101         26          2          1         29         19
+CA552QL2_H54    sys         47        128      78.91      20.31       1.56       0.78      22.66      40.43
+CA552QL3_H54    raw         47        128        105         21          0          2         23         17
+CA552QL3_H54    sys         47        128      82.03      16.41       0.00       1.56      17.97      36.17
+CA552QL4_H54    raw         47        128         95         29          1          4         34         24
+CA552QL4_H54    sys         47        128      74.22      22.66       0.78       3.12      26.56      51.06
+SUM             raw        189        516        400        108          3          8        119         82
+SUM             sys        189        516      77.52      20.93       0.58       1.55      23.06      43.39
+
+--------------------------------------------------------------------
+CA552QL1_H54-utt0 ref  ya  te
+CA552QL1_H54-utt0 hyp  ya  te
+CA552QL1_H54-utt0 op    C   C
+CA552QL1_H54-utt0 #csid 2 0 0 0
+CA552QL1_H54-utt1 ref  no  lu
+CA552QL1_H54-utt1 hyp  no  lu
+CA552QL1_H54-utt1 op    C   C
+CA552QL1_H54-utt1 #csid 2 0 0 0
+CA552QL1_H54-utt10 ref  chu  lo
+CA552QL1_H54-utt10 hyp  chu  lo
+CA552QL1_H54-utt10 op    C    C
+CA552QL1_H54-utt10 #csid 2 0 0 0
+CA552QL1_H54-utt11 ref  pa  ba  rim  no
+CA552QL1_H54-utt11 hyp  pa  ba  rri  mo
+CA552QL1_H54-utt11 op    C   C   S    S
+CA552QL1_H54-utt11 #csid 2 2 0 0
+CA552QL1_H54-utt12 ref  ko  pa   di
+CA552QL1_H54-utt12 hyp  ko  pa  gue
+CA552QL1_H54-utt12 op    C   C   S 
+CA552QL1_H54-utt12 #csid 2 1 0 0
+CA552QL1_H54-utt13 ref  li  ga
+CA552QL1_H54-utt13 hyp  li  ga
+CA552QL1_H54-utt13 op    C   C
+CA552QL1_H54-utt13 #csid 2 0 0 0
+CA552QL1_H54-utt14 ref  be  yo  lu
+CA552QL1_H54-utt14 hyp  be  yo  lu
+CA552QL1_H54-utt14 op    C   C   C
+CA552QL1_H54-utt14 #csid 3 0 0 0
+CA552QL1_H54-utt15 ref  so  te  to
+CA552QL1_H54-utt15 hyp  so  pe  to
+CA552QL1_H54-utt15 op    C   S   C
+CA552QL1_H54-utt15 #csid 2 1 0 0
+CA552QL1_H54-utt16 ref  ma   re  xa  za
+CA552QL1_H54-utt16 hyp  ba  rre  xa  zo
+CA552QL1_H54-utt16 op    S   S    C   S
+CA552QL1_H54-utt16 #csid 1 3 0 0
+CA552QL1_H54-utt17 ref  nu  me  ro
+CA552QL1_H54-utt17 hyp  nu  me  ro
+CA552QL1_H54-utt17 op    C   C   C
+CA552QL1_H54-utt17 #csid 3 0 0 0
+CA552QL1_H54-utt18 ref  ka  pi  tu  bo
+CA552QL1_H54-utt18 hyp  ka  pi  tu  bo
+CA552QL1_H54-utt18 op    C   C   C   C
+CA552QL1_H54-utt18 #csid 4 0 0 0
+CA552QL1_H54-utt19 ref  bi  ka
+CA552QL1_H54-utt19 hyp  bi  ka
+CA552QL1_H54-utt19 op    C   C
+CA552QL1_H54-utt19 #csid 2 0 0 0
+CA552QL1_H54-utt2 ref  ba  fe
+CA552QL1_H54-utt2 hyp  bo  fe
+CA552QL1_H54-utt2 op    S   C
+CA552QL1_H54-utt2 #csid 1 1 0 0
+CA552QL1_H54-utt20 ref  ti  bo
+CA552QL1_H54-utt20 hyp  ti  bo
+CA552QL1_H54-utt20 op    C   C
+CA552QL1_H54-utt20 #csid 2 0 0 0
+CA552QL1_H54-utt21 ref  ka  ye
+CA552QL1_H54-utt21 hyp  ka  yi
+CA552QL1_H54-utt21 op    C   S
+CA552QL1_H54-utt21 #csid 1 1 0 0
+CA552QL1_H54-utt22 ref  fo  bo  xe  ma
+CA552QL1_H54-utt22 hyp  fo  bo  xe  ma
+CA552QL1_H54-utt22 op    C   C   C   C
+CA552QL1_H54-utt22 #csid 4 0 0 0
+CA552QL1_H54-utt23 ref  pa  ne
+CA552QL1_H54-utt23 hyp  pa  ne
+CA552QL1_H54-utt23 op    C   C
+CA552QL1_H54-utt23 #csid 2 0 0 0
+CA552QL1_H54-utt24 ref  tu  fo
+CA552QL1_H54-utt24 hyp  tu  fo
+CA552QL1_H54-utt24 op    C   C
+CA552QL1_H54-utt24 #csid 2 0 0 0
+CA552QL1_H54-utt25 ref  sa  te  ti  lo
+CA552QL1_H54-utt25 hyp  sa  te  li  to
+CA552QL1_H54-utt25 op    C   C   S   S
+CA552QL1_H54-utt25 #csid 2 2 0 0
+CA552QL1_H54-utt26 ref  fe  cha
+CA552QL1_H54-utt26 hyp  fe  cha
+CA552QL1_H54-utt26 op    C   C 
+CA552QL1_H54-utt26 #csid 2 0 0 0
+CA552QL1_H54-utt27 ref  pe  mi
+CA552QL1_H54-utt27 hyp  pe  ni
+CA552QL1_H54-utt27 op    C   S
+CA552QL1_H54-utt27 #csid 1 1 0 0
+CA552QL1_H54-utt28 ref  bi  ne  so
+CA552QL1_H54-utt28 hyp  bi  ne  so
+CA552QL1_H54-utt28 op    C   C   C
+CA552QL1_H54-utt28 #csid 3 0 0 0
+CA552QL1_H54-utt29 ref   ka   ba  ye  te
+CA552QL1_H54-utt29 hyp  ***  rro  ye  te
+CA552QL1_H54-utt29 op    D    S    C   C
+CA552QL1_H54-utt29 #csid 2 1 0 1
+CA552QL1_H54-utt3 ref  ti  tu  lo
+CA552QL1_H54-utt3 hyp  ti  tu  lo
+CA552QL1_H54-utt3 op    C   C   C
+CA552QL1_H54-utt3 #csid 3 0 0 0
+CA552QL1_H54-utt30 ref  ko  li  sa
+CA552QL1_H54-utt30 hyp  ko  ri  so
+CA552QL1_H54-utt30 op    C   S   S
+CA552QL1_H54-utt30 #csid 1 2 0 0
+CA552QL1_H54-utt31 ref  ka  rro  ma  do
+CA552QL1_H54-utt31 hyp  ka  rro  pa  go
+CA552QL1_H54-utt31 op    C   C    S   S
+CA552QL1_H54-utt31 #csid 2 2 0 0
+CA552QL1_H54-utt32 ref  ki  nyo
+CA552QL1_H54-utt32 hyp  pi   yo
+CA552QL1_H54-utt32 op    S   S 
+CA552QL1_H54-utt32 #csid 0 2 0 0
+CA552QL1_H54-utt33 ref  ma  nya  da
+CA552QL1_H54-utt33 hyp  ma  nya  ga
+CA552QL1_H54-utt33 op    C   C    S
+CA552QL1_H54-utt33 #csid 2 1 0 0
+CA552QL1_H54-utt34 ref  sa  fe  lu  di
+CA552QL1_H54-utt34 hyp  fa  fe  lu  de
+CA552QL1_H54-utt34 op    S   C   C   S
+CA552QL1_H54-utt34 #csid 2 2 0 0
+CA552QL1_H54-utt35 ref  la  ro
+CA552QL1_H54-utt35 hyp  la  do
+CA552QL1_H54-utt35 op    C   S
+CA552QL1_H54-utt35 #csid 1 1 0 0
+CA552QL1_H54-utt36 ref  si  ne
+CA552QL1_H54-utt36 hyp  si  ne
+CA552QL1_H54-utt36 op    C   C
+CA552QL1_H54-utt36 #csid 2 0 0 0
+CA552QL1_H54-utt37 ref  se  nyo   ri  ta
+CA552QL1_H54-utt37 hyp  se  nyo  rri  ka
+CA552QL1_H54-utt37 op    C   C    S    S
+CA552QL1_H54-utt37 #csid 2 2 0 0
+CA552QL1_H54-utt38 ref  no  fe
+CA552QL1_H54-utt38 hyp  no  fe
+CA552QL1_H54-utt38 op    C   C
+CA552QL1_H54-utt38 #csid 2 0 0 0
+CA552QL1_H54-utt39 ref  pe  li  ku  la
+CA552QL1_H54-utt39 hyp  pe  li  ku  la
+CA552QL1_H54-utt39 op    C   C   C   C
+CA552QL1_H54-utt39 #csid 4 0 0 0
+CA552QL1_H54-utt4 ref  mo  de
+CA552QL1_H54-utt4 hyp  mo  de
+CA552QL1_H54-utt4 op    C   C
+CA552QL1_H54-utt4 #csid 2 0 0 0
+CA552QL1_H54-utt40 ref  ku  xo  ba
+CA552QL1_H54-utt40 hyp  ku  xo  ba
+CA552QL1_H54-utt40 op    C   C   C
+CA552QL1_H54-utt40 #csid 3 0 0 0
+CA552QL1_H54-utt41 ref  fu  xo
+CA552QL1_H54-utt41 hyp  fu  xo
+CA552QL1_H54-utt41 op    C   C
+CA552QL1_H54-utt41 #csid 2 0 0 0
+CA552QL1_H54-utt42 ref  se  ku
+CA552QL1_H54-utt42 hyp  se  ku
+CA552QL1_H54-utt42 op    C   C
+CA552QL1_H54-utt42 #csid 2 0 0 0
+CA552QL1_H54-utt43 ref  to  rre
+CA552QL1_H54-utt43 hyp  to  rre
+CA552QL1_H54-utt43 op    C   C 
+CA552QL1_H54-utt43 #csid 2 0 0 0
+CA552QL1_H54-utt44 ref  do  ze
+CA552QL1_H54-utt44 hyp  do  fe
+CA552QL1_H54-utt44 op    C   S
+CA552QL1_H54-utt44 #csid 1 1 0 0
+CA552QL1_H54-utt45 ref  ba  rre  nyo
+CA552QL1_H54-utt45 hyp  ba  rre  nyo
+CA552QL1_H54-utt45 op    C   C    C 
+CA552QL1_H54-utt45 #csid 3 0 0 0
+CA552QL1_H54-utt46 ref  me  la  ni  to
+CA552QL1_H54-utt46 hyp  me  la  ni  to
+CA552QL1_H54-utt46 op    C   C   C   C
+CA552QL1_H54-utt46 #csid 4 0 0 0
+CA552QL1_H54-utt47 ref  ta  le  go
+CA552QL1_H54-utt47 hyp  pa  le  bo
+CA552QL1_H54-utt47 op    S   C   S
+CA552QL1_H54-utt47 #csid 1 2 0 0
+CA552QL1_H54-utt5 ref  pe  no
+CA552QL1_H54-utt5 hyp  pe  ro
+CA552QL1_H54-utt5 op    C   S
+CA552QL1_H54-utt5 #csid 1 1 0 0
+CA552QL1_H54-utt6 ref  xe  ra
+CA552QL1_H54-utt6 hyp  xe  da
+CA552QL1_H54-utt6 op    C   S
+CA552QL1_H54-utt6 #csid 1 1 0 0
+CA552QL1_H54-utt7 ref  pa  le  ti  ya
+CA552QL1_H54-utt7 hyp  ta  le  ti  ya
+CA552QL1_H54-utt7 op    S   C   C   C
+CA552QL1_H54-utt7 #csid 3 1 0 0
+CA552QL1_H54-utt8 ref  ka  rro  sa
+CA552QL1_H54-utt8 hyp  ka  rro  so
+CA552QL1_H54-utt8 op    C   C    S
+CA552QL1_H54-utt8 #csid 2 1 0 0
+CA552QL1_H54-utt9 ref  ma  po
+CA552QL1_H54-utt9 hyp  ma  po
+CA552QL1_H54-utt9 op    C   C
+CA552QL1_H54-utt9 #csid 2 0 0 0
+CA552QL2_H54-utt0 ref  be  ta
+CA552QL2_H54-utt0 hyp  ge  ta
+CA552QL2_H54-utt0 op    S   C
+CA552QL2_H54-utt0 #csid 1 1 0 0
+CA552QL2_H54-utt1 ref  sa  te  li  te
+CA552QL2_H54-utt1 hyp  so  pe  li  te
+CA552QL2_H54-utt1 op    S   S   C   C
+CA552QL2_H54-utt1 #csid 2 2 0 0
+CA552QL2_H54-utt10 ref  ko  li  ya
+CA552QL2_H54-utt10 hyp  ku  li  ya
+CA552QL2_H54-utt10 op    S   C   C
+CA552QL2_H54-utt10 #csid 2 1 0 0
+CA552QL2_H54-utt11 ref  bu  de
+CA552QL2_H54-utt11 hyp  bu  de
+CA552QL2_H54-utt11 op    C   C
+CA552QL2_H54-utt11 #csid 2 0 0 0
+CA552QL2_H54-utt12 ref  mo  ku
+CA552QL2_H54-utt12 hyp  mo  ku
+CA552QL2_H54-utt12 op    C   C
+CA552QL2_H54-utt12 #csid 2 0 0 0
+CA552QL2_H54-utt13 ref  lo  ra
+CA552QL2_H54-utt13 hyp  nu  ra
+CA552QL2_H54-utt13 op    S   C
+CA552QL2_H54-utt13 #csid 1 1 0 0
+CA552QL2_H54-utt14 ref  mi  ri  fa
+CA552QL2_H54-utt14 hyp  mi  ri  fa
+CA552QL2_H54-utt14 op    C   C   C
+CA552QL2_H54-utt14 #csid 3 0 0 0
+CA552QL2_H54-utt15 ref  xe  ta
+CA552QL2_H54-utt15 hyp  xe  ta
+CA552QL2_H54-utt15 op    C   C
+CA552QL2_H54-utt15 #csid 2 0 0 0
+CA552QL2_H54-utt16 ref  bu  fe  lu
+CA552QL2_H54-utt16 hyp  bu  fe  lu
+CA552QL2_H54-utt16 op    C   C   C
+CA552QL2_H54-utt16 #csid 3 0 0 0
+CA552QL2_H54-utt17 ref  ma  ni  be  fa
+CA552QL2_H54-utt17 hyp  ma  ne  pe  za
+CA552QL2_H54-utt17 op    C   S   S   S
+CA552QL2_H54-utt17 #csid 1 3 0 0
+CA552QL2_H54-utt18 ref  ma   re  xa  da
+CA552QL2_H54-utt18 hyp  ma  rre  xa  ga
+CA552QL2_H54-utt18 op    C   S    C   S
+CA552QL2_H54-utt18 #csid 2 2 0 0
+CA552QL2_H54-utt19 ref  pe  so
+CA552QL2_H54-utt19 hyp  pe  so
+CA552QL2_H54-utt19 op    C   C
+CA552QL2_H54-utt19 #csid 2 0 0 0
+CA552QL2_H54-utt2 ref  rri   bu  po
+CA552QL2_H54-utt2 hyp  rri  ***  po
+CA552QL2_H54-utt2 op    C    D    C
+CA552QL2_H54-utt2 #csid 2 0 0 1
+CA552QL2_H54-utt20 ref  ***  bi  ran
+CA552QL2_H54-utt20 hyp   di  ra   mi
+CA552QL2_H54-utt20 op    I    S   S 
+CA552QL2_H54-utt20 #csid 0 2 1 0
+CA552QL2_H54-utt21 ref  ti  fe  du  ne
+CA552QL2_H54-utt21 hyp  ti  fe  gu  de
+CA552QL2_H54-utt21 op    C   C   S   S
+CA552QL2_H54-utt21 #csid 2 2 0 0
+CA552QL2_H54-utt22 ref  ti  yo
+CA552QL2_H54-utt22 hyp  ti  yo
+CA552QL2_H54-utt22 op    C   C
+CA552QL2_H54-utt22 #csid 2 0 0 0
+CA552QL2_H54-utt23 ref  no  fe
+CA552QL2_H54-utt23 hyp  no  fe
+CA552QL2_H54-utt23 op    C   C
+CA552QL2_H54-utt23 #csid 2 0 0 0
+CA552QL2_H54-utt24 ref  pe  ta  te
+CA552QL2_H54-utt24 hyp  pe  ta  te
+CA552QL2_H54-utt24 op    C   C   C
+CA552QL2_H54-utt24 #csid 3 0 0 0
+CA552QL2_H54-utt25 ref  la  do
+CA552QL2_H54-utt25 hyp  la  do
+CA552QL2_H54-utt25 op    C   C
+CA552QL2_H54-utt25 #csid 2 0 0 0
+CA552QL2_H54-utt26 ref  mo  no
+CA552QL2_H54-utt26 hyp  mu  mo
+CA552QL2_H54-utt26 op    S   S
+CA552QL2_H54-utt26 #csid 0 2 0 0
+CA552QL2_H54-utt27 ref  fa  lu
+CA552QL2_H54-utt27 hyp  fo  lu
+CA552QL2_H54-utt27 op    S   C
+CA552QL2_H54-utt27 #csid 1 1 0 0
+CA552QL2_H54-utt28 ref  ka  rro  ma  to
+CA552QL2_H54-utt28 hyp  ka  rro  ma  to
+CA552QL2_H54-utt28 op    C   C    C   C
+CA552QL2_H54-utt28 #csid 4 0 0 0
+CA552QL2_H54-utt29 ref  mu  si  ma
+CA552QL2_H54-utt29 hyp  mu  si  ma
+CA552QL2_H54-utt29 op    C   C   C
+CA552QL2_H54-utt29 #csid 3 0 0 0
+CA552QL2_H54-utt3 ref  me  po
+CA552QL2_H54-utt3 hyp  me  po
+CA552QL2_H54-utt3 op    C   C
+CA552QL2_H54-utt3 #csid 2 0 0 0
+CA552QL2_H54-utt30 ref  de  ba  ti
+CA552QL2_H54-utt30 hyp  de  ba  te
+CA552QL2_H54-utt30 op    C   C   S
+CA552QL2_H54-utt30 #csid 2 1 0 0
+CA552QL2_H54-utt31 ref  di  ne  ro
+CA552QL2_H54-utt31 hyp  di  ne  ro
+CA552QL2_H54-utt31 op    C   C   C
+CA552QL2_H54-utt31 #csid 3 0 0 0
+CA552QL2_H54-utt32 ref  ni  fu  ma
+CA552QL2_H54-utt32 hyp  mi  fu  ma
+CA552QL2_H54-utt32 op    S   C   C
+CA552QL2_H54-utt32 #csid 2 1 0 0
+CA552QL2_H54-utt33 ref  mo  te
+CA552QL2_H54-utt33 hyp  mo  te
+CA552QL2_H54-utt33 op    C   C
+CA552QL2_H54-utt33 #csid 2 0 0 0
+CA552QL2_H54-utt34 ref  ko  da
+CA552QL2_H54-utt34 hyp  ko  da
+CA552QL2_H54-utt34 op    C   C
+CA552QL2_H54-utt34 #csid 2 0 0 0
+CA552QL2_H54-utt35 ref  ***  kof  zi
+CA552QL2_H54-utt35 hyp   ko   zo  si
+CA552QL2_H54-utt35 op    I    S    S
+CA552QL2_H54-utt35 #csid 0 2 1 0
+CA552QL2_H54-utt36 ref  bi  ku  li  te
+CA552QL2_H54-utt36 hyp  bi  ku  ri  te
+CA552QL2_H54-utt36 op    C   C   S   C
+CA552QL2_H54-utt36 #csid 3 1 0 0
+CA552QL2_H54-utt37 ref  ko  pa  te
+CA552QL2_H54-utt37 hyp  ko  pa  te
+CA552QL2_H54-utt37 op    C   C   C
+CA552QL2_H54-utt37 #csid 3 0 0 0
+CA552QL2_H54-utt38 ref  do  gu
+CA552QL2_H54-utt38 hyp  do  bu
+CA552QL2_H54-utt38 op    C   S
+CA552QL2_H54-utt38 #csid 1 1 0 0
+CA552QL2_H54-utt39 ref  no  che
+CA552QL2_H54-utt39 hyp  no  cho
+CA552QL2_H54-utt39 op    C   S 
+CA552QL2_H54-utt39 #csid 1 1 0 0
+CA552QL2_H54-utt4 ref  ma  nya  na
+CA552QL2_H54-utt4 hyp  ma  nya  na
+CA552QL2_H54-utt4 op    C   C    C
+CA552QL2_H54-utt4 #csid 3 0 0 0
+CA552QL2_H54-utt40 ref  fi  lo  so  fo
+CA552QL2_H54-utt40 hyp  fi  lo  so  fo
+CA552QL2_H54-utt40 op    C   C   C   C
+CA552QL2_H54-utt40 #csid 4 0 0 0
+CA552QL2_H54-utt41 ref  pa  do
+CA552QL2_H54-utt41 hyp  pa  do
+CA552QL2_H54-utt41 op    C   C
+CA552QL2_H54-utt41 #csid 2 0 0 0
+CA552QL2_H54-utt42 ref  ka  yo
+CA552QL2_H54-utt42 hyp  ka  yo
+CA552QL2_H54-utt42 op    C   C
+CA552QL2_H54-utt42 #csid 2 0 0 0
+CA552QL2_H54-utt43 ref  ka  pi  tu  lo
+CA552QL2_H54-utt43 hyp  ka  pi  tu  lo
+CA552QL2_H54-utt43 op    C   C   C   C
+CA552QL2_H54-utt43 #csid 4 0 0 0
+CA552QL2_H54-utt44 ref  lu  xa
+CA552QL2_H54-utt44 hyp  lu  xa
+CA552QL2_H54-utt44 op    C   C
+CA552QL2_H54-utt44 #csid 2 0 0 0
+CA552QL2_H54-utt45 ref  ba  ye
+CA552QL2_H54-utt45 hyp  ba  ye
+CA552QL2_H54-utt45 op    C   C
+CA552QL2_H54-utt45 #csid 2 0 0 0
+CA552QL2_H54-utt46 ref  ka  ba  ye  mo
+CA552QL2_H54-utt46 hyp  ka  ba  ye  mo
+CA552QL2_H54-utt46 op    C   C   C   C
+CA552QL2_H54-utt46 #csid 4 0 0 0
+CA552QL2_H54-utt5 ref  fi  ba
+CA552QL2_H54-utt5 hyp  fi  ba
+CA552QL2_H54-utt5 op    C   C
+CA552QL2_H54-utt5 #csid 2 0 0 0
+CA552QL2_H54-utt6 ref  ka  rro  nya
+CA552QL2_H54-utt6 hyp  ka  rro  nya
+CA552QL2_H54-utt6 op    C   C    C 
+CA552QL2_H54-utt6 #csid 3 0 0 0
+CA552QL2_H54-utt7 ref  bi  ga
+CA552QL2_H54-utt7 hyp  bi  ra
+CA552QL2_H54-utt7 op    C   S
+CA552QL2_H54-utt7 #csid 1 1 0 0
+CA552QL2_H54-utt8 ref  mo  pe  di  ta
+CA552QL2_H54-utt8 hyp  mo  pe  di  ta
+CA552QL2_H54-utt8 op    C   C   C   C
+CA552QL2_H54-utt8 #csid 4 0 0 0
+CA552QL2_H54-utt9 ref  me  ze  do  ta
+CA552QL2_H54-utt9 hyp  me  ze  bo  ta
+CA552QL2_H54-utt9 op    C   C   S   C
+CA552QL2_H54-utt9 #csid 3 1 0 0
+CA552QL3_H54-utt0 ref  so  ri
+CA552QL3_H54-utt0 hyp  so  de
+CA552QL3_H54-utt0 op    C   S
+CA552QL3_H54-utt0 #csid 1 1 0 0
+CA552QL3_H54-utt1 ref  ye  da
+CA552QL3_H54-utt1 hyp  ye  ga
+CA552QL3_H54-utt1 op    C   S
+CA552QL3_H54-utt1 #csid 1 1 0 0
+CA552QL3_H54-utt10 ref  ku  fe
+CA552QL3_H54-utt10 hyp  ku  fe
+CA552QL3_H54-utt10 op    C   C
+CA552QL3_H54-utt10 #csid 2 0 0 0
+CA552QL3_H54-utt11 ref  so  ma
+CA552QL3_H54-utt11 hyp  su  da
+CA552QL3_H54-utt11 op    S   S
+CA552QL3_H54-utt11 #csid 0 2 0 0
+CA552QL3_H54-utt12 ref  ka  ba  ye  ro
+CA552QL3_H54-utt12 hyp  ka  ba  ye  ro
+CA552QL3_H54-utt12 op    C   C   C   C
+CA552QL3_H54-utt12 #csid 4 0 0 0
+CA552QL3_H54-utt13 ref  be  na
+CA552QL3_H54-utt13 hyp  be  na
+CA552QL3_H54-utt13 op    C   C
+CA552QL3_H54-utt13 #csid 2 0 0 0
+CA552QL3_H54-utt14 ref  mu  si  ka
+CA552QL3_H54-utt14 hyp  mu  si  ka
+CA552QL3_H54-utt14 op    C   C   C
+CA552QL3_H54-utt14 #csid 3 0 0 0
+CA552QL3_H54-utt15 ref  bi  ku
+CA552QL3_H54-utt15 hyp  di  ku
+CA552QL3_H54-utt15 op    S   C
+CA552QL3_H54-utt15 #csid 1 1 0 0
+CA552QL3_H54-utt16 ref  ka  mi  ro
+CA552QL3_H54-utt16 hyp  ka  mi  ro
+CA552QL3_H54-utt16 op    C   C   C
+CA552QL3_H54-utt16 #csid 3 0 0 0
+CA552QL3_H54-utt17 ref  ze  bi
+CA552QL3_H54-utt17 hyp  se  de
+CA552QL3_H54-utt17 op    S   S
+CA552QL3_H54-utt17 #csid 0 2 0 0
+CA552QL3_H54-utt18 ref  ka  xo
+CA552QL3_H54-utt18 hyp  ka  fo
+CA552QL3_H54-utt18 op    C   S
+CA552QL3_H54-utt18 #csid 1 1 0 0
+CA552QL3_H54-utt19 ref  bi  la
+CA552QL3_H54-utt19 hyp  bi  la
+CA552QL3_H54-utt19 op    C   C
+CA552QL3_H54-utt19 #csid 2 0 0 0
+CA552QL3_H54-utt2 ref  pa  li  xo
+CA552QL3_H54-utt2 hyp  pa  li  xo
+CA552QL3_H54-utt2 op    C   C   C
+CA552QL3_H54-utt2 #csid 3 0 0 0
+CA552QL3_H54-utt20 ref  me  di  zi  ra
+CA552QL3_H54-utt20 hyp  me  di  zi  ra
+CA552QL3_H54-utt20 op    C   C   C   C
+CA552QL3_H54-utt20 #csid 4 0 0 0
+CA552QL3_H54-utt21 ref  la  ti  ga  so
+CA552QL3_H54-utt21 hyp  la  ti  ga  so
+CA552QL3_H54-utt21 op    C   C   C   C
+CA552QL3_H54-utt21 #csid 4 0 0 0
+CA552QL3_H54-utt22 ref  no  se  ba
+CA552QL3_H54-utt22 hyp  nu  se  bo
+CA552QL3_H54-utt22 op    S   C   S
+CA552QL3_H54-utt22 #csid 1 2 0 0
+CA552QL3_H54-utt23 ref   lu  fo
+CA552QL3_H54-utt23 hyp  rru  fo
+CA552QL3_H54-utt23 op    S    C
+CA552QL3_H54-utt23 #csid 1 1 0 0
+CA552QL3_H54-utt24 ref  ka  po  di  no
+CA552QL3_H54-utt24 hyp  ka  po  di  no
+CA552QL3_H54-utt24 op    C   C   C   C
+CA552QL3_H54-utt24 #csid 4 0 0 0
+CA552QL3_H54-utt25 ref  fi  lo  so  fo
+CA552QL3_H54-utt25 hyp  fi  lo  so  fo
+CA552QL3_H54-utt25 op    C   C   C   C
+CA552QL3_H54-utt25 #csid 4 0 0 0
+CA552QL3_H54-utt26 ref  ni  bo  fe  ma
+CA552QL3_H54-utt26 hyp  gi  bo  fe  ma
+CA552QL3_H54-utt26 op    S   C   C   C
+CA552QL3_H54-utt26 #csid 3 1 0 0
+CA552QL3_H54-utt27 ref  mi  ri  ya
+CA552QL3_H54-utt27 hyp  mi  ri  ya
+CA552QL3_H54-utt27 op    C   C   C
+CA552QL3_H54-utt27 #csid 3 0 0 0
+CA552QL3_H54-utt28 ref  ni  bu  fe  mi
+CA552QL3_H54-utt28 hyp  mi  bu  fe  bi
+CA552QL3_H54-utt28 op    S   C   C   S
+CA552QL3_H54-utt28 #csid 2 2 0 0
+CA552QL3_H54-utt29 ref  mo  pa  so  ka
+CA552QL3_H54-utt29 hyp  mo  pa  so  ka
+CA552QL3_H54-utt29 op    C   C   C   C
+CA552QL3_H54-utt29 #csid 4 0 0 0
+CA552QL3_H54-utt3 ref  so  ga
+CA552QL3_H54-utt3 hyp  so  ga
+CA552QL3_H54-utt3 op    C   C
+CA552QL3_H54-utt3 #csid 2 0 0 0
+CA552QL3_H54-utt30 ref  ma  ni  be  la
+CA552QL3_H54-utt30 hyp  ma  ni  be  la
+CA552QL3_H54-utt30 op    C   C   C   C
+CA552QL3_H54-utt30 #csid 4 0 0 0
+CA552QL3_H54-utt31 ref   pe   ta  te
+CA552QL3_H54-utt31 hyp  ***  rra  te
+CA552QL3_H54-utt31 op    D    S    C
+CA552QL3_H54-utt31 #csid 1 1 0 1
+CA552QL3_H54-utt32 ref  de  ba  te
+CA552QL3_H54-utt32 hyp  de  ba  te
+CA552QL3_H54-utt32 op    C   C   C
+CA552QL3_H54-utt32 #csid 3 0 0 0
+CA552QL3_H54-utt33 ref  lu  cha
+CA552QL3_H54-utt33 hyp  lu  cha
+CA552QL3_H54-utt33 op    C   C 
+CA552QL3_H54-utt33 #csid 2 0 0 0
+CA552QL3_H54-utt34 ref  ka  mo
+CA552QL3_H54-utt34 hyp  ka  mo
+CA552QL3_H54-utt34 op    C   C
+CA552QL3_H54-utt34 #csid 2 0 0 0
+CA552QL3_H54-utt35 ref  ko  di  so
+CA552QL3_H54-utt35 hyp  ko  di  so
+CA552QL3_H54-utt35 op    C   C   C
+CA552QL3_H54-utt35 #csid 3 0 0 0
+CA552QL3_H54-utt36 ref  so  ma  fi
+CA552QL3_H54-utt36 hyp  so  ma  fe
+CA552QL3_H54-utt36 op    C   C   S
+CA552QL3_H54-utt36 #csid 2 1 0 0
+CA552QL3_H54-utt37 ref  lo  na
+CA552QL3_H54-utt37 hyp  nu  na
+CA552QL3_H54-utt37 op    S   C
+CA552QL3_H54-utt37 #csid 1 1 0 0
+CA552QL3_H54-utt38 ref  rro   ko
+CA552QL3_H54-utt38 hyp  rro  ***
+CA552QL3_H54-utt38 op    C    D 
+CA552QL3_H54-utt38 #csid 1 0 0 1
+CA552QL3_H54-utt39 ref  pe  ta  ma
+CA552QL3_H54-utt39 hyp  pe  po  ma
+CA552QL3_H54-utt39 op    C   S   C
+CA552QL3_H54-utt39 #csid 2 1 0 0
+CA552QL3_H54-utt4 ref  ko  pa
+CA552QL3_H54-utt4 hyp  ko  pa
+CA552QL3_H54-utt4 op    C   C
+CA552QL3_H54-utt4 #csid 2 0 0 0
+CA552QL3_H54-utt40 ref  ge  za
+CA552QL3_H54-utt40 hyp  ge  za
+CA552QL3_H54-utt40 op    C   C
+CA552QL3_H54-utt40 #csid 2 0 0 0
+CA552QL3_H54-utt41 ref  ma  no  ta  go
+CA552QL3_H54-utt41 hyp  ma  no  pa  go
+CA552QL3_H54-utt41 op    C   C   S   C
+CA552QL3_H54-utt41 #csid 3 1 0 0
+CA552QL3_H54-utt42 ref  bu  ke
+CA552QL3_H54-utt42 hyp  bu  ke
+CA552QL3_H54-utt42 op    C   C
+CA552QL3_H54-utt42 #csid 2 0 0 0
+CA552QL3_H54-utt43 ref  me  pe
+CA552QL3_H54-utt43 hyp  me  pe
+CA552QL3_H54-utt43 op    C   C
+CA552QL3_H54-utt43 #csid 2 0 0 0
+CA552QL3_H54-utt44 ref  pe  ta
+CA552QL3_H54-utt44 hyp  pe  ta
+CA552QL3_H54-utt44 op    C   C
+CA552QL3_H54-utt44 #csid 2 0 0 0
+CA552QL3_H54-utt45 ref  rre  ti  ra  fa
+CA552QL3_H54-utt45 hyp  rre  ti  ga  zo
+CA552QL3_H54-utt45 op    C    C   S   S
+CA552QL3_H54-utt45 #csid 2 2 0 0
+CA552QL3_H54-utt46 ref  ti  bu
+CA552QL3_H54-utt46 hyp  ti  bu
+CA552QL3_H54-utt46 op    C   C
+CA552QL3_H54-utt46 #csid 2 0 0 0
+CA552QL3_H54-utt5 ref  be  ya  fe
+CA552QL3_H54-utt5 hyp  be  ya  fe
+CA552QL3_H54-utt5 op    C   C   C
+CA552QL3_H54-utt5 #csid 3 0 0 0
+CA552QL3_H54-utt6 ref  mu  lo
+CA552QL3_H54-utt6 hyp  mu  lo
+CA552QL3_H54-utt6 op    C   C
+CA552QL3_H54-utt6 #csid 2 0 0 0
+CA552QL3_H54-utt7 ref  si  ma
+CA552QL3_H54-utt7 hyp  si  ma
+CA552QL3_H54-utt7 op    C   C
+CA552QL3_H54-utt7 #csid 2 0 0 0
+CA552QL3_H54-utt8 ref  no  be  ya
+CA552QL3_H54-utt8 hyp  no  be  ya
+CA552QL3_H54-utt8 op    C   C   C
+CA552QL3_H54-utt8 #csid 3 0 0 0
+CA552QL3_H54-utt9 ref  mi  gu
+CA552QL3_H54-utt9 hyp  mi  gu
+CA552QL3_H54-utt9 op    C   C
+CA552QL3_H54-utt9 #csid 2 0 0 0
+CA552QL4_H54-utt0 ref  chu  so
+CA552QL4_H54-utt0 hyp  chu  so
+CA552QL4_H54-utt0 op    C    C
+CA552QL4_H54-utt0 #csid 2 0 0 0
+CA552QL4_H54-utt1 ref  ***  fes  fa
+CA552QL4_H54-utt1 hyp   fe   so  fa
+CA552QL4_H54-utt1 op    I    S    C
+CA552QL4_H54-utt1 #csid 1 1 1 0
+CA552QL4_H54-utt10 ref   pe  ta  ka
+CA552QL4_H54-utt10 hyp  rre  ta  ka
+CA552QL4_H54-utt10 op    S    C   C
+CA552QL4_H54-utt10 #csid 2 1 0 0
+CA552QL4_H54-utt11 ref  do  ya
+CA552QL4_H54-utt11 hyp  do  ya
+CA552QL4_H54-utt11 op    C   C
+CA552QL4_H54-utt11 #csid 2 0 0 0
+CA552QL4_H54-utt12 ref  li  ya
+CA552QL4_H54-utt12 hyp  li  ya
+CA552QL4_H54-utt12 op    C   C
+CA552QL4_H54-utt12 #csid 2 0 0 0
+CA552QL4_H54-utt13 ref  ka  mi  no
+CA552QL4_H54-utt13 hyp  ka  mi  no
+CA552QL4_H54-utt13 op    C   C   C
+CA552QL4_H54-utt13 #csid 3 0 0 0
+CA552QL4_H54-utt14 ref  pa  de  so
+CA552QL4_H54-utt14 hyp  pa  le  so
+CA552QL4_H54-utt14 op    C   S   C
+CA552QL4_H54-utt14 #csid 2 1 0 0
+CA552QL4_H54-utt15 ref  so  da
+CA552QL4_H54-utt15 hyp  so  ga
+CA552QL4_H54-utt15 op    C   S
+CA552QL4_H54-utt15 #csid 1 1 0 0
+CA552QL4_H54-utt16 ref  ti  tu  mo
+CA552QL4_H54-utt16 hyp  zi  tu  bo
+CA552QL4_H54-utt16 op    S   C   S
+CA552QL4_H54-utt16 #csid 1 2 0 0
+CA552QL4_H54-utt17 ref  di  ma   ko
+CA552QL4_H54-utt17 hyp  di  ma  ***
+CA552QL4_H54-utt17 op    C   C   D 
+CA552QL4_H54-utt17 #csid 2 0 0 1
+CA552QL4_H54-utt18 ref  ka  nyo
+CA552QL4_H54-utt18 hyp  ka  nyo
+CA552QL4_H54-utt18 op    C   C 
+CA552QL4_H54-utt18 #csid 2 0 0 0
+CA552QL4_H54-utt19 ref  ko  ga
+CA552QL4_H54-utt19 hyp  xo  ga
+CA552QL4_H54-utt19 op    S   C
+CA552QL4_H54-utt19 #csid 1 1 0 0
+CA552QL4_H54-utt2 ref  ye  ma
+CA552QL4_H54-utt2 hyp  ye  ma
+CA552QL4_H54-utt2 op    C   C
+CA552QL4_H54-utt2 #csid 2 0 0 0
+CA552QL4_H54-utt20 ref  mo  pe
+CA552QL4_H54-utt20 hyp  mo  pe
+CA552QL4_H54-utt20 op    C   C
+CA552QL4_H54-utt20 #csid 2 0 0 0
+CA552QL4_H54-utt21 ref  na  se
+CA552QL4_H54-utt21 hyp  da  so
+CA552QL4_H54-utt21 op    S   S
+CA552QL4_H54-utt21 #csid 0 2 0 0
+CA552QL4_H54-utt22 ref  ge  rra
+CA552QL4_H54-utt22 hyp  ge  rra
+CA552QL4_H54-utt22 op    C   C 
+CA552QL4_H54-utt22 #csid 2 0 0 0
+CA552QL4_H54-utt23 ref  so  ga  li  na
+CA552QL4_H54-utt23 hyp  so  ga  li  ra
+CA552QL4_H54-utt23 op    C   C   C   S
+CA552QL4_H54-utt23 #csid 3 1 0 0
+CA552QL4_H54-utt24 ref   pe   li  ku  sa
+CA552QL4_H54-utt24 hyp  ***  rri  ku  so
+CA552QL4_H54-utt24 op    D    S    C   S
+CA552QL4_H54-utt24 #csid 1 2 0 1
+CA552QL4_H54-utt25 ref  di  la
+CA552QL4_H54-utt25 hyp  di  la
+CA552QL4_H54-utt25 op    C   C
+CA552QL4_H54-utt25 #csid 2 0 0 0
+CA552QL4_H54-utt26 ref  no  be  la
+CA552QL4_H54-utt26 hyp  no  be  la
+CA552QL4_H54-utt26 op    C   C   C
+CA552QL4_H54-utt26 #csid 3 0 0 0
+CA552QL4_H54-utt27 ref  pe  ku  ga  ta
+CA552QL4_H54-utt27 hyp  pe  ku  ga  ta
+CA552QL4_H54-utt27 op    C   C   C   C
+CA552QL4_H54-utt27 #csid 4 0 0 0
+CA552QL4_H54-utt28 ref  la  ti  ga  so
+CA552QL4_H54-utt28 hyp  la  ti  ga  so
+CA552QL4_H54-utt28 op    C   C   C   C
+CA552QL4_H54-utt28 #csid 4 0 0 0
+CA552QL4_H54-utt29 ref  rro  ka
+CA552QL4_H54-utt29 hyp  rro  ka
+CA552QL4_H54-utt29 op    C    C
+CA552QL4_H54-utt29 #csid 2 0 0 0
+CA552QL4_H54-utt3 ref  si  fo
+CA552QL4_H54-utt3 hyp  si  fo
+CA552QL4_H54-utt3 op    C   C
+CA552QL4_H54-utt3 #csid 2 0 0 0
+CA552QL4_H54-utt30 ref  pa  le  te  rra
+CA552QL4_H54-utt30 hyp  pa  na  fe  rra
+CA552QL4_H54-utt30 op    C   S   S   C 
+CA552QL4_H54-utt30 #csid 2 2 0 0
+CA552QL4_H54-utt31 ref  se  bo
+CA552QL4_H54-utt31 hyp  se  bo
+CA552QL4_H54-utt31 op    C   C
+CA552QL4_H54-utt31 #csid 2 0 0 0
+CA552QL4_H54-utt32 ref  pa  li  yo
+CA552QL4_H54-utt32 hyp  pa  li  yo
+CA552QL4_H54-utt32 op    C   C   C
+CA552QL4_H54-utt32 #csid 3 0 0 0
+CA552QL4_H54-utt33 ref  ka  ba  ye  to
+CA552QL4_H54-utt33 hyp  ka  ba  ye  to
+CA552QL4_H54-utt33 op    C   C   C   C
+CA552QL4_H54-utt33 #csid 4 0 0 0
+CA552QL4_H54-utt34 ref  ya  to
+CA552QL4_H54-utt34 hyp  ya  do
+CA552QL4_H54-utt34 op    C   S
+CA552QL4_H54-utt34 #csid 1 1 0 0
+CA552QL4_H54-utt35 ref  gi  cho
+CA552QL4_H54-utt35 hyp  gi  cho
+CA552QL4_H54-utt35 op    C   C 
+CA552QL4_H54-utt35 #csid 2 0 0 0
+CA552QL4_H54-utt36 ref  pe  na
+CA552QL4_H54-utt36 hyp  te  na
+CA552QL4_H54-utt36 op    S   C
+CA552QL4_H54-utt36 #csid 1 1 0 0
+CA552QL4_H54-utt37 ref  bi  ya
+CA552QL4_H54-utt37 hyp  bi  ya
+CA552QL4_H54-utt37 op    C   C
+CA552QL4_H54-utt37 #csid 2 0 0 0
+CA552QL4_H54-utt38 ref  to  ye
+CA552QL4_H54-utt38 hyp  to  ye
+CA552QL4_H54-utt38 op    C   C
+CA552QL4_H54-utt38 #csid 2 0 0 0
+CA552QL4_H54-utt39 ref  fe  bu  xo
+CA552QL4_H54-utt39 hyp  fe  bu  xo
+CA552QL4_H54-utt39 op    C   C   C
+CA552QL4_H54-utt39 #csid 3 0 0 0
+CA552QL4_H54-utt4 ref  pa  ni
+CA552QL4_H54-utt4 hyp  pa  mi
+CA552QL4_H54-utt4 op    C   S
+CA552QL4_H54-utt4 #csid 1 1 0 0
+CA552QL4_H54-utt40 ref  rre  ti   ra  da
+CA552QL4_H54-utt40 hyp  rre  ti  ***  ga
+CA552QL4_H54-utt40 op    C    C   D    S
+CA552QL4_H54-utt40 #csid 2 1 0 1
+CA552QL4_H54-utt41 ref  nu  me  so
+CA552QL4_H54-utt41 hyp  nu  me  so
+CA552QL4_H54-utt41 op    C   C   C
+CA552QL4_H54-utt41 #csid 3 0 0 0
+CA552QL4_H54-utt42 ref  ta  le  bo
+CA552QL4_H54-utt42 hyp  ta  le  mo
+CA552QL4_H54-utt42 op    C   C   S
+CA552QL4_H54-utt42 #csid 2 1 0 0
+CA552QL4_H54-utt43 ref  me   di  si  na
+CA552QL4_H54-utt43 hyp  me  ***  si  na
+CA552QL4_H54-utt43 op    C   D    C   C
+CA552QL4_H54-utt43 #csid 3 0 0 1
+CA552QL4_H54-utt44 ref  zi  se
+CA552QL4_H54-utt44 hyp  zi  fe
+CA552QL4_H54-utt44 op    C   S
+CA552QL4_H54-utt44 #csid 1 1 0 0
+CA552QL4_H54-utt45 ref  fe  xi
+CA552QL4_H54-utt45 hyp  fe  zi
+CA552QL4_H54-utt45 op    C   S
+CA552QL4_H54-utt45 #csid 1 1 0 0
+CA552QL4_H54-utt46 ref  bi  fu  pe  si
+CA552QL4_H54-utt46 hyp  pi  fu  pe  si
+CA552QL4_H54-utt46 op    S   C   C   C
+CA552QL4_H54-utt46 #csid 3 1 0 0
+CA552QL4_H54-utt5 ref  sa  bo  lu
+CA552QL4_H54-utt5 hyp  za  bu  lu
+CA552QL4_H54-utt5 op    S   S   C
+CA552QL4_H54-utt5 #csid 1 2 0 0
+CA552QL4_H54-utt6 ref  ma  no  ta  so
+CA552QL4_H54-utt6 hyp  ma  mo  po  zi
+CA552QL4_H54-utt6 op    C   S   S   S
+CA552QL4_H54-utt6 #csid 1 3 0 0
+CA552QL4_H54-utt7 ref  ba  rre  yo
+CA552QL4_H54-utt7 hyp  ba  rre  yo
+CA552QL4_H54-utt7 op    C   C    C
+CA552QL4_H54-utt7 #csid 3 0 0 0
+CA552QL4_H54-utt8 ref  se  nyo  ri  da
+CA552QL4_H54-utt8 hyp  se  nyo  ri  ga
+CA552QL4_H54-utt8 op    C   C    C   S
+CA552QL4_H54-utt8 #csid 3 1 0 0
+CA552QL4_H54-utt9 ref  tu  so
+CA552QL4_H54-utt9 hyp  tu  fo
+CA552QL4_H54-utt9 op    C   S
+CA552QL4_H54-utt9 #csid 1 1 0 0

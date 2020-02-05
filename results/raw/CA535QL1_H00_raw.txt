@@ -1,0 +1,775 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA535QL1_H00    raw         48        132        117         15          0          0         15         12
+CA535QL1_H00    sys         48        132      88.64      11.36       0.00       0.00      11.36      25.00
+CA535QL2_H00    raw         47        130        126          4          0          0          4          3
+CA535QL2_H00    sys         47        130      96.92       3.08       0.00       0.00       3.08       6.38
+CA535QL3_H00    raw         47        128        116         12          0          0         12         11
+CA535QL3_H00    sys         47        128      90.62       9.38       0.00       0.00       9.38      23.40
+CA535QL4_H00    raw         48        132        118         14          0          0         14         13
+CA535QL4_H00    sys         48        132      89.39      10.61       0.00       0.00      10.61      27.08
+SUM             raw        190        522        477         45          0          0         45         39
+SUM             sys        190        522      91.38       8.62       0.00       0.00       8.62      20.53
+
+--------------------------------------------------------------------
+CA535QL1_H00-utt0 ref  ya  te
+CA535QL1_H00-utt0 hyp  ya  te
+CA535QL1_H00-utt0 op    C   C
+CA535QL1_H00-utt0 #csid 2 0 0 0
+CA535QL1_H00-utt1 ref  no  lu
+CA535QL1_H00-utt1 hyp  no  lu
+CA535QL1_H00-utt1 op    C   C
+CA535QL1_H00-utt1 #csid 2 0 0 0
+CA535QL1_H00-utt10 ref  chu  lo
+CA535QL1_H00-utt10 hyp  chu  lo
+CA535QL1_H00-utt10 op    C    C
+CA535QL1_H00-utt10 #csid 2 0 0 0
+CA535QL1_H00-utt11 ref  pa  ba   ri  mo
+CA535QL1_H00-utt11 hyp  pa  da  rim   o
+CA535QL1_H00-utt11 op    C   S   S    S
+CA535QL1_H00-utt11 #csid 1 3 0 0
+CA535QL1_H00-utt12 ref  ko  pa  di
+CA535QL1_H00-utt12 hyp  ko  pa  di
+CA535QL1_H00-utt12 op    C   C   C
+CA535QL1_H00-utt12 #csid 3 0 0 0
+CA535QL1_H00-utt13 ref  li  ga
+CA535QL1_H00-utt13 hyp  li  ga
+CA535QL1_H00-utt13 op    C   C
+CA535QL1_H00-utt13 #csid 2 0 0 0
+CA535QL1_H00-utt14 ref  be  yo  lu
+CA535QL1_H00-utt14 hyp  be  yo  lu
+CA535QL1_H00-utt14 op    C   C   C
+CA535QL1_H00-utt14 #csid 3 0 0 0
+CA535QL1_H00-utt15 ref  so  te  to
+CA535QL1_H00-utt15 hyp  so  te  to
+CA535QL1_H00-utt15 op    C   C   C
+CA535QL1_H00-utt15 #csid 3 0 0 0
+CA535QL1_H00-utt16 ref  ma  re  xa  za
+CA535QL1_H00-utt16 hyp  ma  re  xa  za
+CA535QL1_H00-utt16 op    C   C   C   C
+CA535QL1_H00-utt16 #csid 4 0 0 0
+CA535QL1_H00-utt17 ref  nu  me  ro
+CA535QL1_H00-utt17 hyp  no  me  ro
+CA535QL1_H00-utt17 op    S   C   C
+CA535QL1_H00-utt17 #csid 2 1 0 0
+CA535QL1_H00-utt18 ref  ka  pi  tu  bo
+CA535QL1_H00-utt18 hyp  ka  pi  tu  bo
+CA535QL1_H00-utt18 op    C   C   C   C
+CA535QL1_H00-utt18 #csid 4 0 0 0
+CA535QL1_H00-utt19 ref  bi  ka
+CA535QL1_H00-utt19 hyp  bi  ka
+CA535QL1_H00-utt19 op    C   C
+CA535QL1_H00-utt19 #csid 2 0 0 0
+CA535QL1_H00-utt2 ref  ba  fe
+CA535QL1_H00-utt2 hyp  ba  fe
+CA535QL1_H00-utt2 op    C   C
+CA535QL1_H00-utt2 #csid 2 0 0 0
+CA535QL1_H00-utt20 ref  ti  bo
+CA535QL1_H00-utt20 hyp  ti  bo
+CA535QL1_H00-utt20 op    C   C
+CA535QL1_H00-utt20 #csid 2 0 0 0
+CA535QL1_H00-utt21 ref  ka  yi
+CA535QL1_H00-utt21 hyp  ka  yi
+CA535QL1_H00-utt21 op    C   C
+CA535QL1_H00-utt21 #csid 2 0 0 0
+CA535QL1_H00-utt22 ref  fo  bo  xe  ma
+CA535QL1_H00-utt22 hyp  fu  bo  xe  ma
+CA535QL1_H00-utt22 op    S   C   C   C
+CA535QL1_H00-utt22 #csid 3 1 0 0
+CA535QL1_H00-utt23 ref  pa  ne
+CA535QL1_H00-utt23 hyp  pa  ne
+CA535QL1_H00-utt23 op    C   C
+CA535QL1_H00-utt23 #csid 2 0 0 0
+CA535QL1_H00-utt24 ref  tu  fo
+CA535QL1_H00-utt24 hyp  tu  fo
+CA535QL1_H00-utt24 op    C   C
+CA535QL1_H00-utt24 #csid 2 0 0 0
+CA535QL1_H00-utt25 ref  sa  te  li  to
+CA535QL1_H00-utt25 hyp  sa  te  li  to
+CA535QL1_H00-utt25 op    C   C   C   C
+CA535QL1_H00-utt25 #csid 4 0 0 0
+CA535QL1_H00-utt26 ref  fe  cha
+CA535QL1_H00-utt26 hyp  fe  cha
+CA535QL1_H00-utt26 op    C   C 
+CA535QL1_H00-utt26 #csid 2 0 0 0
+CA535QL1_H00-utt27 ref  pe  mi
+CA535QL1_H00-utt27 hyp  pe  mi
+CA535QL1_H00-utt27 op    C   C
+CA535QL1_H00-utt27 #csid 2 0 0 0
+CA535QL1_H00-utt28 ref  di  ne  so
+CA535QL1_H00-utt28 hyp  di  ne  so
+CA535QL1_H00-utt28 op    C   C   C
+CA535QL1_H00-utt28 #csid 3 0 0 0
+CA535QL1_H00-utt29 ref  ka  ba  ye  te
+CA535QL1_H00-utt29 hyp  ka  da  yi  te
+CA535QL1_H00-utt29 op    C   S   S   C
+CA535QL1_H00-utt29 #csid 2 2 0 0
+CA535QL1_H00-utt3 ref  ti  tu  lo
+CA535QL1_H00-utt3 hyp  ti  tu  lo
+CA535QL1_H00-utt3 op    C   C   C
+CA535QL1_H00-utt3 #csid 3 0 0 0
+CA535QL1_H00-utt30 ref  ko  li  za
+CA535QL1_H00-utt30 hyp  ko  li  za
+CA535QL1_H00-utt30 op    C   C   C
+CA535QL1_H00-utt30 #csid 3 0 0 0
+CA535QL1_H00-utt31 ref  ka  rro  ma  do
+CA535QL1_H00-utt31 hyp  ka  rro  ma  do
+CA535QL1_H00-utt31 op    C   C    C   C
+CA535QL1_H00-utt31 #csid 4 0 0 0
+CA535QL1_H00-utt32 ref  gi  nyo
+CA535QL1_H00-utt32 hyp  gi  nyo
+CA535QL1_H00-utt32 op    C   C 
+CA535QL1_H00-utt32 #csid 2 0 0 0
+CA535QL1_H00-utt33 ref  ma  nya  da
+CA535QL1_H00-utt33 hyp  ma  nya  ta
+CA535QL1_H00-utt33 op    C   C    S
+CA535QL1_H00-utt33 #csid 2 1 0 0
+CA535QL1_H00-utt34 ref  za  fe  lu  di
+CA535QL1_H00-utt34 hyp  za  fe  lu  mi
+CA535QL1_H00-utt34 op    C   C   C   S
+CA535QL1_H00-utt34 #csid 3 1 0 0
+CA535QL1_H00-utt35 ref  la  ro
+CA535QL1_H00-utt35 hyp  la  ro
+CA535QL1_H00-utt35 op    C   C
+CA535QL1_H00-utt35 #csid 2 0 0 0
+CA535QL1_H00-utt36 ref  zi  ne
+CA535QL1_H00-utt36 hyp  zi  ne
+CA535QL1_H00-utt36 op    C   C
+CA535QL1_H00-utt36 #csid 2 0 0 0
+CA535QL1_H00-utt37 ref  se  nyo  ri  ta
+CA535QL1_H00-utt37 hyp  si  nyo  ri  ta
+CA535QL1_H00-utt37 op    S   C    C   C
+CA535QL1_H00-utt37 #csid 3 1 0 0
+CA535QL1_H00-utt38 ref  no  fe
+CA535QL1_H00-utt38 hyp  no  fe
+CA535QL1_H00-utt38 op    C   C
+CA535QL1_H00-utt38 #csid 2 0 0 0
+CA535QL1_H00-utt39 ref  pe  li  ku  la
+CA535QL1_H00-utt39 hyp  pe  li  ku  la
+CA535QL1_H00-utt39 op    C   C   C   C
+CA535QL1_H00-utt39 #csid 4 0 0 0
+CA535QL1_H00-utt4 ref  mo  de
+CA535QL1_H00-utt4 hyp  mu  de
+CA535QL1_H00-utt4 op    S   C
+CA535QL1_H00-utt4 #csid 1 1 0 0
+CA535QL1_H00-utt40 ref  ku  xo  ba
+CA535QL1_H00-utt40 hyp  ku  xo  ba
+CA535QL1_H00-utt40 op    C   C   C
+CA535QL1_H00-utt40 #csid 3 0 0 0
+CA535QL1_H00-utt41 ref  fu  xo
+CA535QL1_H00-utt41 hyp  fu  xo
+CA535QL1_H00-utt41 op    C   C
+CA535QL1_H00-utt41 #csid 2 0 0 0
+CA535QL1_H00-utt42 ref  se  ku
+CA535QL1_H00-utt42 hyp  se  ku
+CA535QL1_H00-utt42 op    C   C
+CA535QL1_H00-utt42 #csid 2 0 0 0
+CA535QL1_H00-utt43 ref  to  rre
+CA535QL1_H00-utt43 hyp  do  rre
+CA535QL1_H00-utt43 op    S   C 
+CA535QL1_H00-utt43 #csid 1 1 0 0
+CA535QL1_H00-utt44 ref  do  fe
+CA535QL1_H00-utt44 hyp  do  fe
+CA535QL1_H00-utt44 op    C   C
+CA535QL1_H00-utt44 #csid 2 0 0 0
+CA535QL1_H00-utt45 ref  ba  rre  nyo
+CA535QL1_H00-utt45 hyp  ba  rre  nyo
+CA535QL1_H00-utt45 op    C   C    C 
+CA535QL1_H00-utt45 #csid 3 0 0 0
+CA535QL1_H00-utt46 ref  me  la  ni  to
+CA535QL1_H00-utt46 hyp  me  la  ni  to
+CA535QL1_H00-utt46 op    C   C   C   C
+CA535QL1_H00-utt46 #csid 4 0 0 0
+CA535QL1_H00-utt47 ref  ta  le  go
+CA535QL1_H00-utt47 hyp  ta  li  go
+CA535QL1_H00-utt47 op    C   S   C
+CA535QL1_H00-utt47 #csid 2 1 0 0
+CA535QL1_H00-utt5 ref  pe  no
+CA535QL1_H00-utt5 hyp  pe  ro
+CA535QL1_H00-utt5 op    C   S
+CA535QL1_H00-utt5 #csid 1 1 0 0
+CA535QL1_H00-utt6 ref  xe  ra
+CA535QL1_H00-utt6 hyp  xe  da
+CA535QL1_H00-utt6 op    C   S
+CA535QL1_H00-utt6 #csid 1 1 0 0
+CA535QL1_H00-utt7 ref  pa  le  ti  ya
+CA535QL1_H00-utt7 hyp  pa  le  ti  ya
+CA535QL1_H00-utt7 op    C   C   C   C
+CA535QL1_H00-utt7 #csid 4 0 0 0
+CA535QL1_H00-utt8 ref  ka  rro  fa
+CA535QL1_H00-utt8 hyp  ka  rro  fa
+CA535QL1_H00-utt8 op    C   C    C
+CA535QL1_H00-utt8 #csid 3 0 0 0
+CA535QL1_H00-utt9 ref  ma  po
+CA535QL1_H00-utt9 hyp  ma  po
+CA535QL1_H00-utt9 op    C   C
+CA535QL1_H00-utt9 #csid 2 0 0 0
+CA535QL2_H00-utt0 ref  so  ya
+CA535QL2_H00-utt0 hyp  so  ya
+CA535QL2_H00-utt0 op    C   C
+CA535QL2_H00-utt0 #csid 2 0 0 0
+CA535QL2_H00-utt1 ref  be  ta
+CA535QL2_H00-utt1 hyp  bi  ta
+CA535QL2_H00-utt1 op    S   C
+CA535QL2_H00-utt1 #csid 1 1 0 0
+CA535QL2_H00-utt10 ref  ko  li  ya
+CA535QL2_H00-utt10 hyp  ko  li  ya
+CA535QL2_H00-utt10 op    C   C   C
+CA535QL2_H00-utt10 #csid 3 0 0 0
+CA535QL2_H00-utt11 ref  bu  de
+CA535QL2_H00-utt11 hyp  bu  de
+CA535QL2_H00-utt11 op    C   C
+CA535QL2_H00-utt11 #csid 2 0 0 0
+CA535QL2_H00-utt12 ref  mo  ku
+CA535QL2_H00-utt12 hyp  mo  ku
+CA535QL2_H00-utt12 op    C   C
+CA535QL2_H00-utt12 #csid 2 0 0 0
+CA535QL2_H00-utt13 ref  lo  ra
+CA535QL2_H00-utt13 hyp  lo  ra
+CA535QL2_H00-utt13 op    C   C
+CA535QL2_H00-utt13 #csid 2 0 0 0
+CA535QL2_H00-utt14 ref  mi  ri  za
+CA535QL2_H00-utt14 hyp  mi  ri  za
+CA535QL2_H00-utt14 op    C   C   C
+CA535QL2_H00-utt14 #csid 3 0 0 0
+CA535QL2_H00-utt15 ref  xe  ta
+CA535QL2_H00-utt15 hyp  xe  ta
+CA535QL2_H00-utt15 op    C   C
+CA535QL2_H00-utt15 #csid 2 0 0 0
+CA535QL2_H00-utt16 ref  bu  fe  lu
+CA535QL2_H00-utt16 hyp  bu  fe  lu
+CA535QL2_H00-utt16 op    C   C   C
+CA535QL2_H00-utt16 #csid 3 0 0 0
+CA535QL2_H00-utt17 ref  ma  ni  be  za
+CA535QL2_H00-utt17 hyp  ma  ni  be  za
+CA535QL2_H00-utt17 op    C   C   C   C
+CA535QL2_H00-utt17 #csid 4 0 0 0
+CA535QL2_H00-utt18 ref  ma  re  xa  da
+CA535QL2_H00-utt18 hyp  ma  re  xa  da
+CA535QL2_H00-utt18 op    C   C   C   C
+CA535QL2_H00-utt18 #csid 4 0 0 0
+CA535QL2_H00-utt19 ref  pe  so
+CA535QL2_H00-utt19 hyp  pe  so
+CA535QL2_H00-utt19 op    C   C
+CA535QL2_H00-utt19 #csid 2 0 0 0
+CA535QL2_H00-utt2 ref  sa  te  li  te
+CA535QL2_H00-utt2 hyp  sa  te  li  te
+CA535QL2_H00-utt2 op    C   C   C   C
+CA535QL2_H00-utt2 #csid 4 0 0 0
+CA535QL2_H00-utt20 ref  bi  ra  ni
+CA535QL2_H00-utt20 hyp  bi  ra  ni
+CA535QL2_H00-utt20 op    C   C   C
+CA535QL2_H00-utt20 #csid 3 0 0 0
+CA535QL2_H00-utt21 ref  ti  fe  du  ne
+CA535QL2_H00-utt21 hyp  ti  fe  du  ne
+CA535QL2_H00-utt21 op    C   C   C   C
+CA535QL2_H00-utt21 #csid 4 0 0 0
+CA535QL2_H00-utt22 ref  ti  yo
+CA535QL2_H00-utt22 hyp  ti  yo
+CA535QL2_H00-utt22 op    C   C
+CA535QL2_H00-utt22 #csid 2 0 0 0
+CA535QL2_H00-utt23 ref  no  fe
+CA535QL2_H00-utt23 hyp  no  fe
+CA535QL2_H00-utt23 op    C   C
+CA535QL2_H00-utt23 #csid 2 0 0 0
+CA535QL2_H00-utt24 ref  pe  ta  ti
+CA535QL2_H00-utt24 hyp  pe  ta  ti
+CA535QL2_H00-utt24 op    C   C   C
+CA535QL2_H00-utt24 #csid 3 0 0 0
+CA535QL2_H00-utt25 ref  la  do
+CA535QL2_H00-utt25 hyp  la  do
+CA535QL2_H00-utt25 op    C   C
+CA535QL2_H00-utt25 #csid 2 0 0 0
+CA535QL2_H00-utt26 ref  mu  no
+CA535QL2_H00-utt26 hyp  mu  no
+CA535QL2_H00-utt26 op    C   C
+CA535QL2_H00-utt26 #csid 2 0 0 0
+CA535QL2_H00-utt27 ref  za  lu
+CA535QL2_H00-utt27 hyp  za  lu
+CA535QL2_H00-utt27 op    C   C
+CA535QL2_H00-utt27 #csid 2 0 0 0
+CA535QL2_H00-utt28 ref  ka  rro  ma  to
+CA535QL2_H00-utt28 hyp  ka  rro  ma  to
+CA535QL2_H00-utt28 op    C   C    C   C
+CA535QL2_H00-utt28 #csid 4 0 0 0
+CA535QL2_H00-utt29 ref  mu  si  ma
+CA535QL2_H00-utt29 hyp  mu  si  ma
+CA535QL2_H00-utt29 op    C   C   C
+CA535QL2_H00-utt29 #csid 3 0 0 0
+CA535QL2_H00-utt3 ref  rri  bu  po
+CA535QL2_H00-utt3 hyp  rri  bu  po
+CA535QL2_H00-utt3 op    C    C   C
+CA535QL2_H00-utt3 #csid 3 0 0 0
+CA535QL2_H00-utt30 ref  de  ba  ti
+CA535QL2_H00-utt30 hyp  de  ba  ti
+CA535QL2_H00-utt30 op    C   C   C
+CA535QL2_H00-utt30 #csid 3 0 0 0
+CA535QL2_H00-utt31 ref  di  ne  ro
+CA535QL2_H00-utt31 hyp  di  ne  ro
+CA535QL2_H00-utt31 op    C   C   C
+CA535QL2_H00-utt31 #csid 3 0 0 0
+CA535QL2_H00-utt32 ref  ni  fu  ba  ni
+CA535QL2_H00-utt32 hyp  ni  fu  ba  ni
+CA535QL2_H00-utt32 op    C   C   C   C
+CA535QL2_H00-utt32 #csid 4 0 0 0
+CA535QL2_H00-utt33 ref  mo  te
+CA535QL2_H00-utt33 hyp  mo  te
+CA535QL2_H00-utt33 op    C   C
+CA535QL2_H00-utt33 #csid 2 0 0 0
+CA535QL2_H00-utt34 ref  ko  da
+CA535QL2_H00-utt34 hyp  ko  da
+CA535QL2_H00-utt34 op    C   C
+CA535QL2_H00-utt34 #csid 2 0 0 0
+CA535QL2_H00-utt35 ref   ko  zi
+CA535QL2_H00-utt35 hyp  kof   i
+CA535QL2_H00-utt35 op    S    S
+CA535QL2_H00-utt35 #csid 0 2 0 0
+CA535QL2_H00-utt36 ref  di  ku  li  te
+CA535QL2_H00-utt36 hyp  di  ku  li  te
+CA535QL2_H00-utt36 op    C   C   C   C
+CA535QL2_H00-utt36 #csid 4 0 0 0
+CA535QL2_H00-utt37 ref  ko  pa  te
+CA535QL2_H00-utt37 hyp  ko  pa  te
+CA535QL2_H00-utt37 op    C   C   C
+CA535QL2_H00-utt37 #csid 3 0 0 0
+CA535QL2_H00-utt38 ref  do  bu
+CA535QL2_H00-utt38 hyp  do  bu
+CA535QL2_H00-utt38 op    C   C
+CA535QL2_H00-utt38 #csid 2 0 0 0
+CA535QL2_H00-utt39 ref  no  che
+CA535QL2_H00-utt39 hyp  no  che
+CA535QL2_H00-utt39 op    C   C 
+CA535QL2_H00-utt39 #csid 2 0 0 0
+CA535QL2_H00-utt4 ref  me  po
+CA535QL2_H00-utt4 hyp  me  po
+CA535QL2_H00-utt4 op    C   C
+CA535QL2_H00-utt4 #csid 2 0 0 0
+CA535QL2_H00-utt40 ref  fi  lo  so  zo
+CA535QL2_H00-utt40 hyp  fi  lo  so  zo
+CA535QL2_H00-utt40 op    C   C   C   C
+CA535QL2_H00-utt40 #csid 4 0 0 0
+CA535QL2_H00-utt41 ref  pa  do
+CA535QL2_H00-utt41 hyp  pa  do
+CA535QL2_H00-utt41 op    C   C
+CA535QL2_H00-utt41 #csid 2 0 0 0
+CA535QL2_H00-utt42 ref  ka  yo
+CA535QL2_H00-utt42 hyp  ka  yo
+CA535QL2_H00-utt42 op    C   C
+CA535QL2_H00-utt42 #csid 2 0 0 0
+CA535QL2_H00-utt43 ref  ka  pi  tu  lo
+CA535QL2_H00-utt43 hyp  ka  pi  tu  lo
+CA535QL2_H00-utt43 op    C   C   C   C
+CA535QL2_H00-utt43 #csid 4 0 0 0
+CA535QL2_H00-utt44 ref  lu  xa
+CA535QL2_H00-utt44 hyp  lu  xa
+CA535QL2_H00-utt44 op    C   C
+CA535QL2_H00-utt44 #csid 2 0 0 0
+CA535QL2_H00-utt45 ref  ba  ye
+CA535QL2_H00-utt45 hyp  ba  ye
+CA535QL2_H00-utt45 op    C   C
+CA535QL2_H00-utt45 #csid 2 0 0 0
+CA535QL2_H00-utt46 ref  ka  ba  ye  mo
+CA535QL2_H00-utt46 hyp  ka  da  ye  mo
+CA535QL2_H00-utt46 op    C   S   C   C
+CA535QL2_H00-utt46 #csid 3 1 0 0
+CA535QL2_H00-utt5 ref  ma  nya  na
+CA535QL2_H00-utt5 hyp  ma  nya  na
+CA535QL2_H00-utt5 op    C   C    C
+CA535QL2_H00-utt5 #csid 3 0 0 0
+CA535QL2_H00-utt6 ref  ka  rro  nya
+CA535QL2_H00-utt6 hyp  ka  rro  nya
+CA535QL2_H00-utt6 op    C   C    C 
+CA535QL2_H00-utt6 #csid 3 0 0 0
+CA535QL2_H00-utt7 ref  bi  ga
+CA535QL2_H00-utt7 hyp  bi  ga
+CA535QL2_H00-utt7 op    C   C
+CA535QL2_H00-utt7 #csid 2 0 0 0
+CA535QL2_H00-utt8 ref  mo  pe  di  ta
+CA535QL2_H00-utt8 hyp  mo  pe  di  ta
+CA535QL2_H00-utt8 op    C   C   C   C
+CA535QL2_H00-utt8 #csid 4 0 0 0
+CA535QL2_H00-utt9 ref  me  ze  do  ta
+CA535QL2_H00-utt9 hyp  me  ze  do  ta
+CA535QL2_H00-utt9 op    C   C   C   C
+CA535QL2_H00-utt9 #csid 4 0 0 0
+CA535QL3_H00-utt0 ref  so  ri
+CA535QL3_H00-utt0 hyp  so  di
+CA535QL3_H00-utt0 op    C   S
+CA535QL3_H00-utt0 #csid 1 1 0 0
+CA535QL3_H00-utt1 ref  ye  da
+CA535QL3_H00-utt1 hyp  gi  da
+CA535QL3_H00-utt1 op    S   C
+CA535QL3_H00-utt1 #csid 1 1 0 0
+CA535QL3_H00-utt10 ref  ku  fe
+CA535QL3_H00-utt10 hyp  ku  fe
+CA535QL3_H00-utt10 op    C   C
+CA535QL3_H00-utt10 #csid 2 0 0 0
+CA535QL3_H00-utt11 ref  so  ma
+CA535QL3_H00-utt11 hyp  so  ma
+CA535QL3_H00-utt11 op    C   C
+CA535QL3_H00-utt11 #csid 2 0 0 0
+CA535QL3_H00-utt12 ref  ka  ba  ye  ro
+CA535QL3_H00-utt12 hyp  ka  ba  ye  ro
+CA535QL3_H00-utt12 op    C   C   C   C
+CA535QL3_H00-utt12 #csid 4 0 0 0
+CA535QL3_H00-utt13 ref  be  na
+CA535QL3_H00-utt13 hyp  be  na
+CA535QL3_H00-utt13 op    C   C
+CA535QL3_H00-utt13 #csid 2 0 0 0
+CA535QL3_H00-utt14 ref  mu  si  ka
+CA535QL3_H00-utt14 hyp  mu  si  ka
+CA535QL3_H00-utt14 op    C   C   C
+CA535QL3_H00-utt14 #csid 3 0 0 0
+CA535QL3_H00-utt15 ref  di  ku
+CA535QL3_H00-utt15 hyp  di  ku
+CA535QL3_H00-utt15 op    C   C
+CA535QL3_H00-utt15 #csid 2 0 0 0
+CA535QL3_H00-utt16 ref  ka  mi  ro
+CA535QL3_H00-utt16 hyp  ka  mi  ro
+CA535QL3_H00-utt16 op    C   C   C
+CA535QL3_H00-utt16 #csid 3 0 0 0
+CA535QL3_H00-utt17 ref  me  ze  do  ra
+CA535QL3_H00-utt17 hyp  me  ze  do  ra
+CA535QL3_H00-utt17 op    C   C   C   C
+CA535QL3_H00-utt17 #csid 4 0 0 0
+CA535QL3_H00-utt18 ref  ze  bi
+CA535QL3_H00-utt18 hyp  ze  bi
+CA535QL3_H00-utt18 op    C   C
+CA535QL3_H00-utt18 #csid 2 0 0 0
+CA535QL3_H00-utt19 ref  ka  xo
+CA535QL3_H00-utt19 hyp  ka  xo
+CA535QL3_H00-utt19 op    C   C
+CA535QL3_H00-utt19 #csid 2 0 0 0
+CA535QL3_H00-utt2 ref  pa  li  xo
+CA535QL3_H00-utt2 hyp  pa  li  xo
+CA535QL3_H00-utt2 op    C   C   C
+CA535QL3_H00-utt2 #csid 3 0 0 0
+CA535QL3_H00-utt20 ref  bi  la
+CA535QL3_H00-utt20 hyp  di  la
+CA535QL3_H00-utt20 op    S   C
+CA535QL3_H00-utt20 #csid 1 1 0 0
+CA535QL3_H00-utt21 ref  me  di  zi  ra
+CA535QL3_H00-utt21 hyp  me  di  zi  ra
+CA535QL3_H00-utt21 op    C   C   C   C
+CA535QL3_H00-utt21 #csid 4 0 0 0
+CA535QL3_H00-utt22 ref  la  ti  ga  fo
+CA535QL3_H00-utt22 hyp  la  ti  ga  fo
+CA535QL3_H00-utt22 op    C   C   C   C
+CA535QL3_H00-utt22 #csid 4 0 0 0
+CA535QL3_H00-utt23 ref  no  fe  ba
+CA535QL3_H00-utt23 hyp  no  fe  ba
+CA535QL3_H00-utt23 op    C   C   C
+CA535QL3_H00-utt23 #csid 3 0 0 0
+CA535QL3_H00-utt24 ref  lu  fo
+CA535QL3_H00-utt24 hyp  lu  fo
+CA535QL3_H00-utt24 op    C   C
+CA535QL3_H00-utt24 #csid 2 0 0 0
+CA535QL3_H00-utt25 ref  ta  po  di  no
+CA535QL3_H00-utt25 hyp  ta  po  di  no
+CA535QL3_H00-utt25 op    C   C   C   C
+CA535QL3_H00-utt25 #csid 4 0 0 0
+CA535QL3_H00-utt26 ref  fi  lo  so  fo
+CA535QL3_H00-utt26 hyp  fi  lo  so  fo
+CA535QL3_H00-utt26 op    C   C   C   C
+CA535QL3_H00-utt26 #csid 4 0 0 0
+CA535QL3_H00-utt27 ref  mi  ri  ya
+CA535QL3_H00-utt27 hyp  mi  ri  ya
+CA535QL3_H00-utt27 op    C   C   C
+CA535QL3_H00-utt27 #csid 3 0 0 0
+CA535QL3_H00-utt28 ref  zi  bu  fe  ni
+CA535QL3_H00-utt28 hyp  zi  bu  fe  mi
+CA535QL3_H00-utt28 op    C   C   C   S
+CA535QL3_H00-utt28 #csid 3 1 0 0
+CA535QL3_H00-utt29 ref  mo  pa  so  ka
+CA535QL3_H00-utt29 hyp  mo  pa  so  ka
+CA535QL3_H00-utt29 op    C   C   C   C
+CA535QL3_H00-utt29 #csid 4 0 0 0
+CA535QL3_H00-utt3 ref  so  ga
+CA535QL3_H00-utt3 hyp  so  ga
+CA535QL3_H00-utt3 op    C   C
+CA535QL3_H00-utt3 #csid 2 0 0 0
+CA535QL3_H00-utt30 ref  ma  ni  be  la
+CA535QL3_H00-utt30 hyp  ma  ni  be  la
+CA535QL3_H00-utt30 op    C   C   C   C
+CA535QL3_H00-utt30 #csid 4 0 0 0
+CA535QL3_H00-utt31 ref  pe  ta  te
+CA535QL3_H00-utt31 hyp  pe  ta  te
+CA535QL3_H00-utt31 op    C   C   C
+CA535QL3_H00-utt31 #csid 3 0 0 0
+CA535QL3_H00-utt32 ref  de  ba  te
+CA535QL3_H00-utt32 hyp  de  ba  te
+CA535QL3_H00-utt32 op    C   C   C
+CA535QL3_H00-utt32 #csid 3 0 0 0
+CA535QL3_H00-utt33 ref  lu  cha
+CA535QL3_H00-utt33 hyp  lu  cha
+CA535QL3_H00-utt33 op    C   C 
+CA535QL3_H00-utt33 #csid 2 0 0 0
+CA535QL3_H00-utt34 ref  ka  mo
+CA535QL3_H00-utt34 hyp  ka  mo
+CA535QL3_H00-utt34 op    C   C
+CA535QL3_H00-utt34 #csid 2 0 0 0
+CA535QL3_H00-utt35 ref  ko  di  so
+CA535QL3_H00-utt35 hyp  ko  di  so
+CA535QL3_H00-utt35 op    C   C   C
+CA535QL3_H00-utt35 #csid 3 0 0 0
+CA535QL3_H00-utt36 ref  so  ma  fi
+CA535QL3_H00-utt36 hyp  so  ma  zi
+CA535QL3_H00-utt36 op    C   C   S
+CA535QL3_H00-utt36 #csid 2 1 0 0
+CA535QL3_H00-utt37 ref  lo  na
+CA535QL3_H00-utt37 hyp  lo  na
+CA535QL3_H00-utt37 op    C   C
+CA535QL3_H00-utt37 #csid 2 0 0 0
+CA535QL3_H00-utt38 ref  rro  ko
+CA535QL3_H00-utt38 hyp  rro  ko
+CA535QL3_H00-utt38 op    C    C
+CA535QL3_H00-utt38 #csid 2 0 0 0
+CA535QL3_H00-utt39 ref  pe  ta  ma
+CA535QL3_H00-utt39 hyp  li  ta  ma
+CA535QL3_H00-utt39 op    S   C   C
+CA535QL3_H00-utt39 #csid 2 1 0 0
+CA535QL3_H00-utt4 ref  ko  pa
+CA535QL3_H00-utt4 hyp  ku  pa
+CA535QL3_H00-utt4 op    S   C
+CA535QL3_H00-utt4 #csid 1 1 0 0
+CA535QL3_H00-utt40 ref  ge  za
+CA535QL3_H00-utt40 hyp  gi  za
+CA535QL3_H00-utt40 op    S   C
+CA535QL3_H00-utt40 #csid 1 1 0 0
+CA535QL3_H00-utt41 ref  ma  no  ta  go
+CA535QL3_H00-utt41 hyp  ma  lo  ta  zo
+CA535QL3_H00-utt41 op    C   S   C   S
+CA535QL3_H00-utt41 #csid 2 2 0 0
+CA535QL3_H00-utt42 ref  bu  ke
+CA535QL3_H00-utt42 hyp  bu  ke
+CA535QL3_H00-utt42 op    C   C
+CA535QL3_H00-utt42 #csid 2 0 0 0
+CA535QL3_H00-utt43 ref  me  pe
+CA535QL3_H00-utt43 hyp  me  te
+CA535QL3_H00-utt43 op    C   S
+CA535QL3_H00-utt43 #csid 1 1 0 0
+CA535QL3_H00-utt44 ref  pe  ta
+CA535QL3_H00-utt44 hyp  pe  ta
+CA535QL3_H00-utt44 op    C   C
+CA535QL3_H00-utt44 #csid 2 0 0 0
+CA535QL3_H00-utt45 ref  rre  ti  ra  za
+CA535QL3_H00-utt45 hyp  rre  ti  ra  za
+CA535QL3_H00-utt45 op    C    C   C   C
+CA535QL3_H00-utt45 #csid 4 0 0 0
+CA535QL3_H00-utt46 ref  ti  bu
+CA535QL3_H00-utt46 hyp  ti  bu
+CA535QL3_H00-utt46 op    C   C
+CA535QL3_H00-utt46 #csid 2 0 0 0
+CA535QL3_H00-utt5 ref  be  ya  ze
+CA535QL3_H00-utt5 hyp  be  ya  fe
+CA535QL3_H00-utt5 op    C   C   S
+CA535QL3_H00-utt5 #csid 2 1 0 0
+CA535QL3_H00-utt6 ref  mu  lo
+CA535QL3_H00-utt6 hyp  mu  lo
+CA535QL3_H00-utt6 op    C   C
+CA535QL3_H00-utt6 #csid 2 0 0 0
+CA535QL3_H00-utt7 ref  zi  ma
+CA535QL3_H00-utt7 hyp  zi  ma
+CA535QL3_H00-utt7 op    C   C
+CA535QL3_H00-utt7 #csid 2 0 0 0
+CA535QL3_H00-utt8 ref  no  be  ya
+CA535QL3_H00-utt8 hyp  no  be  ya
+CA535QL3_H00-utt8 op    C   C   C
+CA535QL3_H00-utt8 #csid 3 0 0 0
+CA535QL3_H00-utt9 ref  ni  gu
+CA535QL3_H00-utt9 hyp  ni  gu
+CA535QL3_H00-utt9 op    C   C
+CA535QL3_H00-utt9 #csid 2 0 0 0
+CA535QL4_H00-utt0 ref  chu  so
+CA535QL4_H00-utt0 hyp  chu  so
+CA535QL4_H00-utt0 op    C    C
+CA535QL4_H00-utt0 #csid 2 0 0 0
+CA535QL4_H00-utt1 ref  fe  za
+CA535QL4_H00-utt1 hyp  fe  za
+CA535QL4_H00-utt1 op    C   C
+CA535QL4_H00-utt1 #csid 2 0 0 0
+CA535QL4_H00-utt10 ref  pe  ta  ka
+CA535QL4_H00-utt10 hyp  pe  ta  ka
+CA535QL4_H00-utt10 op    C   C   C
+CA535QL4_H00-utt10 #csid 3 0 0 0
+CA535QL4_H00-utt11 ref  do  ya
+CA535QL4_H00-utt11 hyp  do  ya
+CA535QL4_H00-utt11 op    C   C
+CA535QL4_H00-utt11 #csid 2 0 0 0
+CA535QL4_H00-utt12 ref  li  ya
+CA535QL4_H00-utt12 hyp  li  ya
+CA535QL4_H00-utt12 op    C   C
+CA535QL4_H00-utt12 #csid 2 0 0 0
+CA535QL4_H00-utt13 ref  ka  mi  no
+CA535QL4_H00-utt13 hyp  ka  mi  no
+CA535QL4_H00-utt13 op    C   C   C
+CA535QL4_H00-utt13 #csid 3 0 0 0
+CA535QL4_H00-utt14 ref  pa  de  so
+CA535QL4_H00-utt14 hyp  pa  de  so
+CA535QL4_H00-utt14 op    C   C   C
+CA535QL4_H00-utt14 #csid 3 0 0 0
+CA535QL4_H00-utt15 ref  so  da
+CA535QL4_H00-utt15 hyp  so  do
+CA535QL4_H00-utt15 op    C   S
+CA535QL4_H00-utt15 #csid 1 1 0 0
+CA535QL4_H00-utt16 ref  ti  tu  mo
+CA535QL4_H00-utt16 hyp  ti  tu  mo
+CA535QL4_H00-utt16 op    C   C   C
+CA535QL4_H00-utt16 #csid 3 0 0 0
+CA535QL4_H00-utt17 ref  di  ma  ko
+CA535QL4_H00-utt17 hyp  di  ma  ko
+CA535QL4_H00-utt17 op    C   C   C
+CA535QL4_H00-utt17 #csid 3 0 0 0
+CA535QL4_H00-utt18 ref  ka  nyo
+CA535QL4_H00-utt18 hyp  ka  nyo
+CA535QL4_H00-utt18 op    C   C 
+CA535QL4_H00-utt18 #csid 2 0 0 0
+CA535QL4_H00-utt19 ref  ko  ga
+CA535QL4_H00-utt19 hyp  ko  ba
+CA535QL4_H00-utt19 op    C   S
+CA535QL4_H00-utt19 #csid 1 1 0 0
+CA535QL4_H00-utt2 ref  ye  ma
+CA535QL4_H00-utt2 hyp  ye  ma
+CA535QL4_H00-utt2 op    C   C
+CA535QL4_H00-utt2 #csid 2 0 0 0
+CA535QL4_H00-utt20 ref  mo  pe
+CA535QL4_H00-utt20 hyp  mo  pe
+CA535QL4_H00-utt20 op    C   C
+CA535QL4_H00-utt20 #csid 2 0 0 0
+CA535QL4_H00-utt21 ref  na  fe
+CA535QL4_H00-utt21 hyp  na  fe
+CA535QL4_H00-utt21 op    C   C
+CA535QL4_H00-utt21 #csid 2 0 0 0
+CA535QL4_H00-utt22 ref  ge  rra
+CA535QL4_H00-utt22 hyp  ge  rra
+CA535QL4_H00-utt22 op    C   C 
+CA535QL4_H00-utt22 #csid 2 0 0 0
+CA535QL4_H00-utt23 ref  so  ga  li  na
+CA535QL4_H00-utt23 hyp  so  ga  li  na
+CA535QL4_H00-utt23 op    C   C   C   C
+CA535QL4_H00-utt23 #csid 4 0 0 0
+CA535QL4_H00-utt24 ref  pe  li  ku  za
+CA535QL4_H00-utt24 hyp  pe  li  ku  za
+CA535QL4_H00-utt24 op    C   C   C   C
+CA535QL4_H00-utt24 #csid 4 0 0 0
+CA535QL4_H00-utt25 ref  di  la
+CA535QL4_H00-utt25 hyp  di  ya
+CA535QL4_H00-utt25 op    C   S
+CA535QL4_H00-utt25 #csid 1 1 0 0
+CA535QL4_H00-utt26 ref  no  be  la
+CA535QL4_H00-utt26 hyp  no  be  la
+CA535QL4_H00-utt26 op    C   C   C
+CA535QL4_H00-utt26 #csid 3 0 0 0
+CA535QL4_H00-utt27 ref  pe  ku  ga  ta
+CA535QL4_H00-utt27 hyp  pe  ku  ga  ta
+CA535QL4_H00-utt27 op    C   C   C   C
+CA535QL4_H00-utt27 #csid 4 0 0 0
+CA535QL4_H00-utt28 ref  la  ti  ga  zo
+CA535QL4_H00-utt28 hyp  la  ti  ga  so
+CA535QL4_H00-utt28 op    C   C   C   S
+CA535QL4_H00-utt28 #csid 3 1 0 0
+CA535QL4_H00-utt29 ref  rro  ka
+CA535QL4_H00-utt29 hyp  rro  ka
+CA535QL4_H00-utt29 op    C    C
+CA535QL4_H00-utt29 #csid 2 0 0 0
+CA535QL4_H00-utt3 ref  zi  fo
+CA535QL4_H00-utt3 hyp  zi  fo
+CA535QL4_H00-utt3 op    C   C
+CA535QL4_H00-utt3 #csid 2 0 0 0
+CA535QL4_H00-utt30 ref  pa  le  tie  rra
+CA535QL4_H00-utt30 hyp  pa  le   ti  rra
+CA535QL4_H00-utt30 op    C   C   S    C 
+CA535QL4_H00-utt30 #csid 3 1 0 0
+CA535QL4_H00-utt31 ref  ze  bo
+CA535QL4_H00-utt31 hyp  fe  bo
+CA535QL4_H00-utt31 op    S   C
+CA535QL4_H00-utt31 #csid 1 1 0 0
+CA535QL4_H00-utt32 ref  pa  li  yo
+CA535QL4_H00-utt32 hyp  pa  li  yo
+CA535QL4_H00-utt32 op    C   C   C
+CA535QL4_H00-utt32 #csid 3 0 0 0
+CA535QL4_H00-utt33 ref  ka  ba  ye  to
+CA535QL4_H00-utt33 hyp  ka  da  yi  to
+CA535QL4_H00-utt33 op    C   S   S   C
+CA535QL4_H00-utt33 #csid 2 2 0 0
+CA535QL4_H00-utt34 ref  lo  fe  du  ne
+CA535QL4_H00-utt34 hyp  lo  fe  du  ne
+CA535QL4_H00-utt34 op    C   C   C   C
+CA535QL4_H00-utt34 #csid 4 0 0 0
+CA535QL4_H00-utt35 ref  ya  to
+CA535QL4_H00-utt35 hyp  ya  to
+CA535QL4_H00-utt35 op    C   C
+CA535QL4_H00-utt35 #csid 2 0 0 0
+CA535QL4_H00-utt36 ref  gi  cho
+CA535QL4_H00-utt36 hyp  gi  cho
+CA535QL4_H00-utt36 op    C   C 
+CA535QL4_H00-utt36 #csid 2 0 0 0
+CA535QL4_H00-utt37 ref  pe  na
+CA535QL4_H00-utt37 hyp  pe  na
+CA535QL4_H00-utt37 op    C   C
+CA535QL4_H00-utt37 #csid 2 0 0 0
+CA535QL4_H00-utt38 ref  bi  ya
+CA535QL4_H00-utt38 hyp  bi  ya
+CA535QL4_H00-utt38 op    C   C
+CA535QL4_H00-utt38 #csid 2 0 0 0
+CA535QL4_H00-utt39 ref  to  ye
+CA535QL4_H00-utt39 hyp  to  ye
+CA535QL4_H00-utt39 op    C   C
+CA535QL4_H00-utt39 #csid 2 0 0 0
+CA535QL4_H00-utt4 ref  pa  ni
+CA535QL4_H00-utt4 hyp  pa  ni
+CA535QL4_H00-utt4 op    C   C
+CA535QL4_H00-utt4 #csid 2 0 0 0
+CA535QL4_H00-utt40 ref  ze  bu  xo
+CA535QL4_H00-utt40 hyp  zi  bu  xo
+CA535QL4_H00-utt40 op    S   C   C
+CA535QL4_H00-utt40 #csid 2 1 0 0
+CA535QL4_H00-utt41 ref  rre  ti  ra  da
+CA535QL4_H00-utt41 hyp  rre  ti  ra  da
+CA535QL4_H00-utt41 op    C    C   C   C
+CA535QL4_H00-utt41 #csid 4 0 0 0
+CA535QL4_H00-utt42 ref  nu  me  so
+CA535QL4_H00-utt42 hyp  no  me  so
+CA535QL4_H00-utt42 op    S   C   C
+CA535QL4_H00-utt42 #csid 2 1 0 0
+CA535QL4_H00-utt43 ref  ta  le  bo
+CA535QL4_H00-utt43 hyp  ta  le  go
+CA535QL4_H00-utt43 op    C   C   S
+CA535QL4_H00-utt43 #csid 2 1 0 0
+CA535QL4_H00-utt44 ref  me  di  zi  na
+CA535QL4_H00-utt44 hyp  me  di  si  na
+CA535QL4_H00-utt44 op    C   C   S   C
+CA535QL4_H00-utt44 #csid 3 1 0 0
+CA535QL4_H00-utt45 ref  zi  se
+CA535QL4_H00-utt45 hyp  zi  se
+CA535QL4_H00-utt45 op    C   C
+CA535QL4_H00-utt45 #csid 2 0 0 0
+CA535QL4_H00-utt46 ref  fe  xi
+CA535QL4_H00-utt46 hyp  xe  xi
+CA535QL4_H00-utt46 op    S   C
+CA535QL4_H00-utt46 #csid 1 1 0 0
+CA535QL4_H00-utt47 ref  bi  fu  pe  si
+CA535QL4_H00-utt47 hyp  bi  fu  pe  si
+CA535QL4_H00-utt47 op    C   C   C   C
+CA535QL4_H00-utt47 #csid 4 0 0 0
+CA535QL4_H00-utt5 ref  za  bo  lu
+CA535QL4_H00-utt5 hyp  za  bo  lu
+CA535QL4_H00-utt5 op    C   C   C
+CA535QL4_H00-utt5 #csid 3 0 0 0
+CA535QL4_H00-utt6 ref  ma  no  ta  zo
+CA535QL4_H00-utt6 hyp  ma  no  ta  zo
+CA535QL4_H00-utt6 op    C   C   C   C
+CA535QL4_H00-utt6 #csid 4 0 0 0
+CA535QL4_H00-utt7 ref  ba  rre  yo
+CA535QL4_H00-utt7 hyp  ba  rre  yo
+CA535QL4_H00-utt7 op    C   C    C
+CA535QL4_H00-utt7 #csid 3 0 0 0
+CA535QL4_H00-utt8 ref  se  nyo  ri  da
+CA535QL4_H00-utt8 hyp  se  nyo  ri  ra
+CA535QL4_H00-utt8 op    C   C    C   S
+CA535QL4_H00-utt8 #csid 3 1 0 0
+CA535QL4_H00-utt9 ref  tu  zo
+CA535QL4_H00-utt9 hyp  tu  zo
+CA535QL4_H00-utt9 op    C   C
+CA535QL4_H00-utt9 #csid 2 0 0 0

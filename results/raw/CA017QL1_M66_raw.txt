@@ -1,0 +1,771 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA017QL1_M66    raw         47        129        114         15          1          0         16         14
+CA017QL1_M66    sys         47        129      88.37      11.63       0.78       0.00      12.40      29.79
+CA017QL2_M66    raw         47        128        124          4          0          0          4          4
+CA017QL2_M66    sys         47        128      96.88       3.12       0.00       0.00       3.12       8.51
+CA017QL3_M66    raw         48        132        124          8          2          0         10          8
+CA017QL3_M66    sys         48        132      93.94       6.06       1.52       0.00       7.58      16.67
+CA017QL4_M66    raw         47        128        119          9          0          0          9          9
+CA017QL4_M66    sys         47        128      92.97       7.03       0.00       0.00       7.03      19.15
+SUM             raw        189        517        481         36          3          0         39         35
+SUM             sys        189        517      93.04       6.96       0.58       0.00       7.54      18.52
+
+--------------------------------------------------------------------
+CA017QL1_M66-utt0 ref  ya  te
+CA017QL1_M66-utt0 hyp  ya  te
+CA017QL1_M66-utt0 op    C   C
+CA017QL1_M66-utt0 #csid 2 0 0 0
+CA017QL1_M66-utt1 ref  na  lu
+CA017QL1_M66-utt1 hyp  na  lu
+CA017QL1_M66-utt1 op    C   C
+CA017QL1_M66-utt1 #csid 2 0 0 0
+CA017QL1_M66-utt10 ref  chu  lo
+CA017QL1_M66-utt10 hyp  chu  lo
+CA017QL1_M66-utt10 op    C    C
+CA017QL1_M66-utt10 #csid 2 0 0 0
+CA017QL1_M66-utt11 ref  pa  ba  ri  mo
+CA017QL1_M66-utt11 hyp  pa  ba  ri  mo
+CA017QL1_M66-utt11 op    C   C   C   C
+CA017QL1_M66-utt11 #csid 4 0 0 0
+CA017QL1_M66-utt12 ref  ko  pa  di
+CA017QL1_M66-utt12 hyp  ko  pa  ti
+CA017QL1_M66-utt12 op    C   C   S
+CA017QL1_M66-utt12 #csid 2 1 0 0
+CA017QL1_M66-utt13 ref  li  ga
+CA017QL1_M66-utt13 hyp  li  ga
+CA017QL1_M66-utt13 op    C   C
+CA017QL1_M66-utt13 #csid 2 0 0 0
+CA017QL1_M66-utt14 ref  ***  be  yo  lu
+CA017QL1_M66-utt14 hyp   nu  de  yo  lu
+CA017QL1_M66-utt14 op    I    S   C   C
+CA017QL1_M66-utt14 #csid 2 1 1 0
+CA017QL1_M66-utt15 ref  so  te  to
+CA017QL1_M66-utt15 hyp  so  te  to
+CA017QL1_M66-utt15 op    C   C   C
+CA017QL1_M66-utt15 #csid 3 0 0 0
+CA017QL1_M66-utt16 ref  ma  re  xa  za
+CA017QL1_M66-utt16 hyp  ma  de  xa  za
+CA017QL1_M66-utt16 op    C   S   C   C
+CA017QL1_M66-utt16 #csid 3 1 0 0
+CA017QL1_M66-utt17 ref  nu  me  ro
+CA017QL1_M66-utt17 hyp  nu  me  ru
+CA017QL1_M66-utt17 op    C   C   S
+CA017QL1_M66-utt17 #csid 2 1 0 0
+CA017QL1_M66-utt18 ref  ka  pi  tu  bo
+CA017QL1_M66-utt18 hyp  ka  pi  tu  bo
+CA017QL1_M66-utt18 op    C   C   C   C
+CA017QL1_M66-utt18 #csid 4 0 0 0
+CA017QL1_M66-utt19 ref  bi  ka
+CA017QL1_M66-utt19 hyp  bi  ka
+CA017QL1_M66-utt19 op    C   C
+CA017QL1_M66-utt19 #csid 2 0 0 0
+CA017QL1_M66-utt2 ref  ba  fe
+CA017QL1_M66-utt2 hyp  ba  fe
+CA017QL1_M66-utt2 op    C   C
+CA017QL1_M66-utt2 #csid 2 0 0 0
+CA017QL1_M66-utt20 ref  ti  bo
+CA017QL1_M66-utt20 hyp  ti  bo
+CA017QL1_M66-utt20 op    C   C
+CA017QL1_M66-utt20 #csid 2 0 0 0
+CA017QL1_M66-utt21 ref  ka  yi
+CA017QL1_M66-utt21 hyp  ka  yi
+CA017QL1_M66-utt21 op    C   C
+CA017QL1_M66-utt21 #csid 2 0 0 0
+CA017QL1_M66-utt22 ref  fo  bo  xe  ma
+CA017QL1_M66-utt22 hyp  fo  bo  xe  ma
+CA017QL1_M66-utt22 op    C   C   C   C
+CA017QL1_M66-utt22 #csid 4 0 0 0
+CA017QL1_M66-utt23 ref  pa  ne
+CA017QL1_M66-utt23 hyp  pa  ne
+CA017QL1_M66-utt23 op    C   C
+CA017QL1_M66-utt23 #csid 2 0 0 0
+CA017QL1_M66-utt24 ref  tu  fo
+CA017QL1_M66-utt24 hyp  tu  fo
+CA017QL1_M66-utt24 op    C   C
+CA017QL1_M66-utt24 #csid 2 0 0 0
+CA017QL1_M66-utt25 ref  sa  te  li  to
+CA017QL1_M66-utt25 hyp  sa  te  li  to
+CA017QL1_M66-utt25 op    C   C   C   C
+CA017QL1_M66-utt25 #csid 4 0 0 0
+CA017QL1_M66-utt26 ref  fe  cha
+CA017QL1_M66-utt26 hyp  ze  cha
+CA017QL1_M66-utt26 op    S   C 
+CA017QL1_M66-utt26 #csid 1 1 0 0
+CA017QL1_M66-utt27 ref  pe  mi
+CA017QL1_M66-utt27 hyp  pe  mi
+CA017QL1_M66-utt27 op    C   C
+CA017QL1_M66-utt27 #csid 2 0 0 0
+CA017QL1_M66-utt28 ref  di  ne  so
+CA017QL1_M66-utt28 hyp  di  me  so
+CA017QL1_M66-utt28 op    C   S   C
+CA017QL1_M66-utt28 #csid 2 1 0 0
+CA017QL1_M66-utt29 ref  ka  ba  ye  te
+CA017QL1_M66-utt29 hyp  ka  ba  ye  te
+CA017QL1_M66-utt29 op    C   C   C   C
+CA017QL1_M66-utt29 #csid 4 0 0 0
+CA017QL1_M66-utt3 ref  ti  tu  lo
+CA017QL1_M66-utt3 hyp  ti  tu  lo
+CA017QL1_M66-utt3 op    C   C   C
+CA017QL1_M66-utt3 #csid 3 0 0 0
+CA017QL1_M66-utt30 ref  ko  li  za
+CA017QL1_M66-utt30 hyp  ko  li  za
+CA017QL1_M66-utt30 op    C   C   C
+CA017QL1_M66-utt30 #csid 3 0 0 0
+CA017QL1_M66-utt31 ref  ka  rro  ma  do
+CA017QL1_M66-utt31 hyp  ka  rro  ma  do
+CA017QL1_M66-utt31 op    C   C    C   C
+CA017QL1_M66-utt31 #csid 4 0 0 0
+CA017QL1_M66-utt32 ref  gi  nyo
+CA017QL1_M66-utt32 hyp  gi  nyo
+CA017QL1_M66-utt32 op    C   C 
+CA017QL1_M66-utt32 #csid 2 0 0 0
+CA017QL1_M66-utt33 ref  ma  nya  da
+CA017QL1_M66-utt33 hyp  ma  nya  da
+CA017QL1_M66-utt33 op    C   C    C
+CA017QL1_M66-utt33 #csid 3 0 0 0
+CA017QL1_M66-utt34 ref  fa  ze  lu  bi
+CA017QL1_M66-utt34 hyp  za  ze  lu  di
+CA017QL1_M66-utt34 op    S   C   C   S
+CA017QL1_M66-utt34 #csid 2 2 0 0
+CA017QL1_M66-utt35 ref  la  ro
+CA017QL1_M66-utt35 hyp  la  ru
+CA017QL1_M66-utt35 op    C   S
+CA017QL1_M66-utt35 #csid 1 1 0 0
+CA017QL1_M66-utt36 ref  zi  ne
+CA017QL1_M66-utt36 hyp  zi  ni
+CA017QL1_M66-utt36 op    C   S
+CA017QL1_M66-utt36 #csid 1 1 0 0
+CA017QL1_M66-utt37 ref  se  nyo  ri  ta
+CA017QL1_M66-utt37 hyp  se  nyo  ri  ta
+CA017QL1_M66-utt37 op    C   C    C   C
+CA017QL1_M66-utt37 #csid 4 0 0 0
+CA017QL1_M66-utt38 ref  na  fe
+CA017QL1_M66-utt38 hyp  na  fe
+CA017QL1_M66-utt38 op    C   C
+CA017QL1_M66-utt38 #csid 2 0 0 0
+CA017QL1_M66-utt39 ref  pe  li  ku  la
+CA017QL1_M66-utt39 hyp  pe  li  ku  la
+CA017QL1_M66-utt39 op    C   C   C   C
+CA017QL1_M66-utt39 #csid 4 0 0 0
+CA017QL1_M66-utt4 ref  mo  de
+CA017QL1_M66-utt4 hyp  mu  de
+CA017QL1_M66-utt4 op    S   C
+CA017QL1_M66-utt4 #csid 1 1 0 0
+CA017QL1_M66-utt40 ref  ku  xo  ba
+CA017QL1_M66-utt40 hyp  ku  xo  ba
+CA017QL1_M66-utt40 op    C   C   C
+CA017QL1_M66-utt40 #csid 3 0 0 0
+CA017QL1_M66-utt41 ref  fu  xo
+CA017QL1_M66-utt41 hyp  fu  xo
+CA017QL1_M66-utt41 op    C   C
+CA017QL1_M66-utt41 #csid 2 0 0 0
+CA017QL1_M66-utt42 ref  se  ku
+CA017QL1_M66-utt42 hyp  se  ku
+CA017QL1_M66-utt42 op    C   C
+CA017QL1_M66-utt42 #csid 2 0 0 0
+CA017QL1_M66-utt43 ref  to  rre
+CA017QL1_M66-utt43 hyp  to  rre
+CA017QL1_M66-utt43 op    C   C 
+CA017QL1_M66-utt43 #csid 2 0 0 0
+CA017QL1_M66-utt44 ref  do  ze
+CA017QL1_M66-utt44 hyp  do  fe
+CA017QL1_M66-utt44 op    C   S
+CA017QL1_M66-utt44 #csid 1 1 0 0
+CA017QL1_M66-utt45 ref  ba  rre  nyo
+CA017QL1_M66-utt45 hyp  ma  rre  nyo
+CA017QL1_M66-utt45 op    S   C    C 
+CA017QL1_M66-utt45 #csid 2 1 0 0
+CA017QL1_M66-utt46 ref  me  la  ni  to
+CA017QL1_M66-utt46 hyp  me  la  ni  to
+CA017QL1_M66-utt46 op    C   C   C   C
+CA017QL1_M66-utt46 #csid 4 0 0 0
+CA017QL1_M66-utt5 ref  pe  no
+CA017QL1_M66-utt5 hyp  pe  no
+CA017QL1_M66-utt5 op    C   C
+CA017QL1_M66-utt5 #csid 2 0 0 0
+CA017QL1_M66-utt6 ref  xe  ra
+CA017QL1_M66-utt6 hyp  xe  ta
+CA017QL1_M66-utt6 op    C   S
+CA017QL1_M66-utt6 #csid 1 1 0 0
+CA017QL1_M66-utt7 ref  pa  le  ti  ya
+CA017QL1_M66-utt7 hyp  pa  li  ti  ya
+CA017QL1_M66-utt7 op    C   S   C   C
+CA017QL1_M66-utt7 #csid 3 1 0 0
+CA017QL1_M66-utt8 ref  ka  rro  za
+CA017QL1_M66-utt8 hyp  ka  rro  za
+CA017QL1_M66-utt8 op    C   C    C
+CA017QL1_M66-utt8 #csid 3 0 0 0
+CA017QL1_M66-utt9 ref  ma  po
+CA017QL1_M66-utt9 hyp  ma  po
+CA017QL1_M66-utt9 op    C   C
+CA017QL1_M66-utt9 #csid 2 0 0 0
+CA017QL2_M66-utt0 ref  so  ya
+CA017QL2_M66-utt0 hyp  so  ya
+CA017QL2_M66-utt0 op    C   C
+CA017QL2_M66-utt0 #csid 2 0 0 0
+CA017QL2_M66-utt1 ref  be  ta
+CA017QL2_M66-utt1 hyp  be  ta
+CA017QL2_M66-utt1 op    C   C
+CA017QL2_M66-utt1 #csid 2 0 0 0
+CA017QL2_M66-utt10 ref  me  ze  do  ta
+CA017QL2_M66-utt10 hyp  me  ze  do  ta
+CA017QL2_M66-utt10 op    C   C   C   C
+CA017QL2_M66-utt10 #csid 4 0 0 0
+CA017QL2_M66-utt11 ref  ko  li  ya
+CA017QL2_M66-utt11 hyp  ko  li  ya
+CA017QL2_M66-utt11 op    C   C   C
+CA017QL2_M66-utt11 #csid 3 0 0 0
+CA017QL2_M66-utt12 ref  bu  de
+CA017QL2_M66-utt12 hyp  bu  de
+CA017QL2_M66-utt12 op    C   C
+CA017QL2_M66-utt12 #csid 2 0 0 0
+CA017QL2_M66-utt13 ref  mo  ku
+CA017QL2_M66-utt13 hyp  mo  ku
+CA017QL2_M66-utt13 op    C   C
+CA017QL2_M66-utt13 #csid 2 0 0 0
+CA017QL2_M66-utt14 ref  lo  ra
+CA017QL2_M66-utt14 hyp  lo  ra
+CA017QL2_M66-utt14 op    C   C
+CA017QL2_M66-utt14 #csid 2 0 0 0
+CA017QL2_M66-utt15 ref  mi  ri  za
+CA017QL2_M66-utt15 hyp  mi  ri  ta
+CA017QL2_M66-utt15 op    C   C   S
+CA017QL2_M66-utt15 #csid 2 1 0 0
+CA017QL2_M66-utt16 ref  xe  ta
+CA017QL2_M66-utt16 hyp  xe  ta
+CA017QL2_M66-utt16 op    C   C
+CA017QL2_M66-utt16 #csid 2 0 0 0
+CA017QL2_M66-utt17 ref  bu  fe  lu
+CA017QL2_M66-utt17 hyp  bu  fe  lu
+CA017QL2_M66-utt17 op    C   C   C
+CA017QL2_M66-utt17 #csid 3 0 0 0
+CA017QL2_M66-utt18 ref  ma  ni  be  za
+CA017QL2_M66-utt18 hyp  ma  ni  be  za
+CA017QL2_M66-utt18 op    C   C   C   C
+CA017QL2_M66-utt18 #csid 4 0 0 0
+CA017QL2_M66-utt19 ref  ma  re  xa  da
+CA017QL2_M66-utt19 hyp  ma  re  xa  da
+CA017QL2_M66-utt19 op    C   C   C   C
+CA017QL2_M66-utt19 #csid 4 0 0 0
+CA017QL2_M66-utt2 ref  sa  te  li  te
+CA017QL2_M66-utt2 hyp  sa  te  li  te
+CA017QL2_M66-utt2 op    C   C   C   C
+CA017QL2_M66-utt2 #csid 4 0 0 0
+CA017QL2_M66-utt20 ref  pe  so
+CA017QL2_M66-utt20 hyp  pe  so
+CA017QL2_M66-utt20 op    C   C
+CA017QL2_M66-utt20 #csid 2 0 0 0
+CA017QL2_M66-utt21 ref  di  ra  ni
+CA017QL2_M66-utt21 hyp  di  ra  ni
+CA017QL2_M66-utt21 op    C   C   C
+CA017QL2_M66-utt21 #csid 3 0 0 0
+CA017QL2_M66-utt22 ref  ti  ze  du  ne
+CA017QL2_M66-utt22 hyp  ti  ze  du  ne
+CA017QL2_M66-utt22 op    C   C   C   C
+CA017QL2_M66-utt22 #csid 4 0 0 0
+CA017QL2_M66-utt23 ref  ti  yo
+CA017QL2_M66-utt23 hyp  ti  yo
+CA017QL2_M66-utt23 op    C   C
+CA017QL2_M66-utt23 #csid 2 0 0 0
+CA017QL2_M66-utt24 ref  no  fe
+CA017QL2_M66-utt24 hyp  no  fe
+CA017QL2_M66-utt24 op    C   C
+CA017QL2_M66-utt24 #csid 2 0 0 0
+CA017QL2_M66-utt25 ref  pe  ta  ti
+CA017QL2_M66-utt25 hyp  pe  ta  ti
+CA017QL2_M66-utt25 op    C   C   C
+CA017QL2_M66-utt25 #csid 3 0 0 0
+CA017QL2_M66-utt26 ref  la  do
+CA017QL2_M66-utt26 hyp  la  do
+CA017QL2_M66-utt26 op    C   C
+CA017QL2_M66-utt26 #csid 2 0 0 0
+CA017QL2_M66-utt27 ref  mu  no
+CA017QL2_M66-utt27 hyp  mu  no
+CA017QL2_M66-utt27 op    C   C
+CA017QL2_M66-utt27 #csid 2 0 0 0
+CA017QL2_M66-utt28 ref  za  lu
+CA017QL2_M66-utt28 hyp  za  lu
+CA017QL2_M66-utt28 op    C   C
+CA017QL2_M66-utt28 #csid 2 0 0 0
+CA017QL2_M66-utt29 ref  ka  rro  ma  to
+CA017QL2_M66-utt29 hyp  ka  rro  ma  to
+CA017QL2_M66-utt29 op    C   C    C   C
+CA017QL2_M66-utt29 #csid 4 0 0 0
+CA017QL2_M66-utt3 ref  rri  bu  po
+CA017QL2_M66-utt3 hyp  rri  bu  po
+CA017QL2_M66-utt3 op    C    C   C
+CA017QL2_M66-utt3 #csid 3 0 0 0
+CA017QL2_M66-utt30 ref  mu  si  ma
+CA017QL2_M66-utt30 hyp  mu  si  ma
+CA017QL2_M66-utt30 op    C   C   C
+CA017QL2_M66-utt30 #csid 3 0 0 0
+CA017QL2_M66-utt31 ref  de  ba  ti
+CA017QL2_M66-utt31 hyp  de  ba  ti
+CA017QL2_M66-utt31 op    C   C   C
+CA017QL2_M66-utt31 #csid 3 0 0 0
+CA017QL2_M66-utt32 ref  di  ne  ro
+CA017QL2_M66-utt32 hyp  di  ne  ro
+CA017QL2_M66-utt32 op    C   C   C
+CA017QL2_M66-utt32 #csid 3 0 0 0
+CA017QL2_M66-utt33 ref  ni  fu  ba  mi
+CA017QL2_M66-utt33 hyp  ni  fu  ba  mi
+CA017QL2_M66-utt33 op    C   C   C   C
+CA017QL2_M66-utt33 #csid 4 0 0 0
+CA017QL2_M66-utt34 ref  mo  te
+CA017QL2_M66-utt34 hyp  mo  te
+CA017QL2_M66-utt34 op    C   C
+CA017QL2_M66-utt34 #csid 2 0 0 0
+CA017QL2_M66-utt35 ref  ko  da
+CA017QL2_M66-utt35 hyp  ko  da
+CA017QL2_M66-utt35 op    C   C
+CA017QL2_M66-utt35 #csid 2 0 0 0
+CA017QL2_M66-utt36 ref  ko  zi
+CA017QL2_M66-utt36 hyp  ko  zi
+CA017QL2_M66-utt36 op    C   C
+CA017QL2_M66-utt36 #csid 2 0 0 0
+CA017QL2_M66-utt37 ref  di  ku  li  te
+CA017QL2_M66-utt37 hyp  di  ku  li  te
+CA017QL2_M66-utt37 op    C   C   C   C
+CA017QL2_M66-utt37 #csid 4 0 0 0
+CA017QL2_M66-utt38 ref  ko  pa  te
+CA017QL2_M66-utt38 hyp  ko  pa  te
+CA017QL2_M66-utt38 op    C   C   C
+CA017QL2_M66-utt38 #csid 3 0 0 0
+CA017QL2_M66-utt39 ref  do  bu
+CA017QL2_M66-utt39 hyp  do  bu
+CA017QL2_M66-utt39 op    C   C
+CA017QL2_M66-utt39 #csid 2 0 0 0
+CA017QL2_M66-utt4 ref  me  po
+CA017QL2_M66-utt4 hyp  me  po
+CA017QL2_M66-utt4 op    C   C
+CA017QL2_M66-utt4 #csid 2 0 0 0
+CA017QL2_M66-utt40 ref  no  che
+CA017QL2_M66-utt40 hyp  no  che
+CA017QL2_M66-utt40 op    C   C 
+CA017QL2_M66-utt40 #csid 2 0 0 0
+CA017QL2_M66-utt41 ref  pa  do
+CA017QL2_M66-utt41 hyp  pa  do
+CA017QL2_M66-utt41 op    C   C
+CA017QL2_M66-utt41 #csid 2 0 0 0
+CA017QL2_M66-utt42 ref  ka  yo
+CA017QL2_M66-utt42 hyp  ka  yu
+CA017QL2_M66-utt42 op    C   S
+CA017QL2_M66-utt42 #csid 1 1 0 0
+CA017QL2_M66-utt43 ref  ka  pi  tu  lo
+CA017QL2_M66-utt43 hyp  ka  ti  tu  lo
+CA017QL2_M66-utt43 op    C   S   C   C
+CA017QL2_M66-utt43 #csid 3 1 0 0
+CA017QL2_M66-utt44 ref  lu  xa
+CA017QL2_M66-utt44 hyp  lu  xa
+CA017QL2_M66-utt44 op    C   C
+CA017QL2_M66-utt44 #csid 2 0 0 0
+CA017QL2_M66-utt45 ref  ba  ye
+CA017QL2_M66-utt45 hyp  ba  ye
+CA017QL2_M66-utt45 op    C   C
+CA017QL2_M66-utt45 #csid 2 0 0 0
+CA017QL2_M66-utt46 ref  ka  ba  ye  mo
+CA017QL2_M66-utt46 hyp  ka  ba  ye  mo
+CA017QL2_M66-utt46 op    C   C   C   C
+CA017QL2_M66-utt46 #csid 4 0 0 0
+CA017QL2_M66-utt5 ref  ma  nya  na
+CA017QL2_M66-utt5 hyp  ma  nya  na
+CA017QL2_M66-utt5 op    C   C    C
+CA017QL2_M66-utt5 #csid 3 0 0 0
+CA017QL2_M66-utt6 ref  fi  da
+CA017QL2_M66-utt6 hyp  zi  da
+CA017QL2_M66-utt6 op    S   C
+CA017QL2_M66-utt6 #csid 1 1 0 0
+CA017QL2_M66-utt7 ref  ka  rro  nya
+CA017QL2_M66-utt7 hyp  ka  rro  nya
+CA017QL2_M66-utt7 op    C   C    C 
+CA017QL2_M66-utt7 #csid 3 0 0 0
+CA017QL2_M66-utt8 ref  bi  ga
+CA017QL2_M66-utt8 hyp  bi  ga
+CA017QL2_M66-utt8 op    C   C
+CA017QL2_M66-utt8 #csid 2 0 0 0
+CA017QL2_M66-utt9 ref  mo  pe  di  ta
+CA017QL2_M66-utt9 hyp  mo  pe  di  ta
+CA017QL2_M66-utt9 op    C   C   C   C
+CA017QL2_M66-utt9 #csid 4 0 0 0
+CA017QL3_M66-utt0 ref  so  ri
+CA017QL3_M66-utt0 hyp  so  ri
+CA017QL3_M66-utt0 op    C   C
+CA017QL3_M66-utt0 #csid 2 0 0 0
+CA017QL3_M66-utt1 ref  ye  da
+CA017QL3_M66-utt1 hyp  ye  da
+CA017QL3_M66-utt1 op    C   C
+CA017QL3_M66-utt1 #csid 2 0 0 0
+CA017QL3_M66-utt10 ref  ku  fe
+CA017QL3_M66-utt10 hyp  ku  fe
+CA017QL3_M66-utt10 op    C   C
+CA017QL3_M66-utt10 #csid 2 0 0 0
+CA017QL3_M66-utt11 ref  so  ma
+CA017QL3_M66-utt11 hyp  so  ma
+CA017QL3_M66-utt11 op    C   C
+CA017QL3_M66-utt11 #csid 2 0 0 0
+CA017QL3_M66-utt12 ref  ka  ba  ye  ro
+CA017QL3_M66-utt12 hyp  ka  ba  ye  ro
+CA017QL3_M66-utt12 op    C   C   C   C
+CA017QL3_M66-utt12 #csid 4 0 0 0
+CA017QL3_M66-utt13 ref  be  na
+CA017QL3_M66-utt13 hyp  be  na
+CA017QL3_M66-utt13 op    C   C
+CA017QL3_M66-utt13 #csid 2 0 0 0
+CA017QL3_M66-utt14 ref  mu  si  ka
+CA017QL3_M66-utt14 hyp  nu  si  ka
+CA017QL3_M66-utt14 op    S   C   C
+CA017QL3_M66-utt14 #csid 2 1 0 0
+CA017QL3_M66-utt15 ref  bi  ku
+CA017QL3_M66-utt15 hyp  bi  ku
+CA017QL3_M66-utt15 op    C   C
+CA017QL3_M66-utt15 #csid 2 0 0 0
+CA017QL3_M66-utt16 ref  ka  mi  ro
+CA017QL3_M66-utt16 hyp  ka  mi  ro
+CA017QL3_M66-utt16 op    C   C   C
+CA017QL3_M66-utt16 #csid 3 0 0 0
+CA017QL3_M66-utt17 ref  me  ze  do  ra
+CA017QL3_M66-utt17 hyp  me  ze  do  ra
+CA017QL3_M66-utt17 op    C   C   C   C
+CA017QL3_M66-utt17 #csid 4 0 0 0
+CA017QL3_M66-utt18 ref  ze  bi
+CA017QL3_M66-utt18 hyp  ze  bi
+CA017QL3_M66-utt18 op    C   C
+CA017QL3_M66-utt18 #csid 2 0 0 0
+CA017QL3_M66-utt19 ref  ta  xo
+CA017QL3_M66-utt19 hyp  ta  xo
+CA017QL3_M66-utt19 op    C   C
+CA017QL3_M66-utt19 #csid 2 0 0 0
+CA017QL3_M66-utt2 ref  pa  li  xo
+CA017QL3_M66-utt2 hyp  pa  li  xu
+CA017QL3_M66-utt2 op    C   C   S
+CA017QL3_M66-utt2 #csid 2 1 0 0
+CA017QL3_M66-utt20 ref  bi  la
+CA017QL3_M66-utt20 hyp  bi  la
+CA017QL3_M66-utt20 op    C   C
+CA017QL3_M66-utt20 #csid 2 0 0 0
+CA017QL3_M66-utt21 ref  me  ***  di  zi  ra
+CA017QL3_M66-utt21 hyp  me   ni   a  zi  ra
+CA017QL3_M66-utt21 op    C   I    S   C   C
+CA017QL3_M66-utt21 #csid 3 1 1 0
+CA017QL3_M66-utt22 ref  la  ti  ga  fo
+CA017QL3_M66-utt22 hyp  la  ti  da  fo
+CA017QL3_M66-utt22 op    C   C   S   C
+CA017QL3_M66-utt22 #csid 3 1 0 0
+CA017QL3_M66-utt23 ref  no  fe  ba
+CA017QL3_M66-utt23 hyp  no  fe  ba
+CA017QL3_M66-utt23 op    C   C   C
+CA017QL3_M66-utt23 #csid 3 0 0 0
+CA017QL3_M66-utt24 ref  lu  fo  ***
+CA017QL3_M66-utt24 hyp  nu  fo   a 
+CA017QL3_M66-utt24 op    S   C   I 
+CA017QL3_M66-utt24 #csid 1 1 1 0
+CA017QL3_M66-utt25 ref  ta  po  di  no
+CA017QL3_M66-utt25 hyp  ta  po  di  no
+CA017QL3_M66-utt25 op    C   C   C   C
+CA017QL3_M66-utt25 #csid 4 0 0 0
+CA017QL3_M66-utt26 ref  fi  lo  so  fo
+CA017QL3_M66-utt26 hyp  fi  lo  so  fo
+CA017QL3_M66-utt26 op    C   C   C   C
+CA017QL3_M66-utt26 #csid 4 0 0 0
+CA017QL3_M66-utt27 ref  mi  bo  fe  ma
+CA017QL3_M66-utt27 hyp  mi  bo  fe  ma
+CA017QL3_M66-utt27 op    C   C   C   C
+CA017QL3_M66-utt27 #csid 4 0 0 0
+CA017QL3_M66-utt28 ref  mi  ri  ya
+CA017QL3_M66-utt28 hyp  mi  ri  ya
+CA017QL3_M66-utt28 op    C   C   C
+CA017QL3_M66-utt28 #csid 3 0 0 0
+CA017QL3_M66-utt29 ref  zi  bu  fe  ni
+CA017QL3_M66-utt29 hyp  zi  bu  fe  ni
+CA017QL3_M66-utt29 op    C   C   C   C
+CA017QL3_M66-utt29 #csid 4 0 0 0
+CA017QL3_M66-utt3 ref  so  ga
+CA017QL3_M66-utt3 hyp  so  ga
+CA017QL3_M66-utt3 op    C   C
+CA017QL3_M66-utt3 #csid 2 0 0 0
+CA017QL3_M66-utt30 ref  mo  pa  so  ka
+CA017QL3_M66-utt30 hyp  mo  pa  so  ka
+CA017QL3_M66-utt30 op    C   C   C   C
+CA017QL3_M66-utt30 #csid 4 0 0 0
+CA017QL3_M66-utt31 ref  ma  ni  be  la
+CA017QL3_M66-utt31 hyp  ma  ni  be  la
+CA017QL3_M66-utt31 op    C   C   C   C
+CA017QL3_M66-utt31 #csid 4 0 0 0
+CA017QL3_M66-utt32 ref  pe  ta  te
+CA017QL3_M66-utt32 hyp  pe  ta  te
+CA017QL3_M66-utt32 op    C   C   C
+CA017QL3_M66-utt32 #csid 3 0 0 0
+CA017QL3_M66-utt33 ref  de  ba  te
+CA017QL3_M66-utt33 hyp  de  ba  te
+CA017QL3_M66-utt33 op    C   C   C
+CA017QL3_M66-utt33 #csid 3 0 0 0
+CA017QL3_M66-utt34 ref  lu  cha
+CA017QL3_M66-utt34 hyp  lu  cha
+CA017QL3_M66-utt34 op    C   C 
+CA017QL3_M66-utt34 #csid 2 0 0 0
+CA017QL3_M66-utt35 ref  ka  mo
+CA017QL3_M66-utt35 hyp  ka  mo
+CA017QL3_M66-utt35 op    C   C
+CA017QL3_M66-utt35 #csid 2 0 0 0
+CA017QL3_M66-utt36 ref  ko  di  so
+CA017QL3_M66-utt36 hyp  ko  di  so
+CA017QL3_M66-utt36 op    C   C   C
+CA017QL3_M66-utt36 #csid 3 0 0 0
+CA017QL3_M66-utt37 ref  so  ma  zi
+CA017QL3_M66-utt37 hyp  so  ma  zi
+CA017QL3_M66-utt37 op    C   C   C
+CA017QL3_M66-utt37 #csid 3 0 0 0
+CA017QL3_M66-utt38 ref  lo  na
+CA017QL3_M66-utt38 hyp  lo  na
+CA017QL3_M66-utt38 op    C   C
+CA017QL3_M66-utt38 #csid 2 0 0 0
+CA017QL3_M66-utt39 ref  rro  ko
+CA017QL3_M66-utt39 hyp  rro  ko
+CA017QL3_M66-utt39 op    C    C
+CA017QL3_M66-utt39 #csid 2 0 0 0
+CA017QL3_M66-utt4 ref  ko  pa
+CA017QL3_M66-utt4 hyp  ko  pa
+CA017QL3_M66-utt4 op    C   C
+CA017QL3_M66-utt4 #csid 2 0 0 0
+CA017QL3_M66-utt40 ref  pe  ta  ma
+CA017QL3_M66-utt40 hyp  pe  ta  ma
+CA017QL3_M66-utt40 op    C   C   C
+CA017QL3_M66-utt40 #csid 3 0 0 0
+CA017QL3_M66-utt41 ref  ge  za
+CA017QL3_M66-utt41 hyp  ge  za
+CA017QL3_M66-utt41 op    C   C
+CA017QL3_M66-utt41 #csid 2 0 0 0
+CA017QL3_M66-utt42 ref  ma  no  ta  go
+CA017QL3_M66-utt42 hyp  ma  no  ta  go
+CA017QL3_M66-utt42 op    C   C   C   C
+CA017QL3_M66-utt42 #csid 4 0 0 0
+CA017QL3_M66-utt43 ref  bu  ke
+CA017QL3_M66-utt43 hyp  bu  ke
+CA017QL3_M66-utt43 op    C   C
+CA017QL3_M66-utt43 #csid 2 0 0 0
+CA017QL3_M66-utt44 ref  me  pe
+CA017QL3_M66-utt44 hyp  me  pe
+CA017QL3_M66-utt44 op    C   C
+CA017QL3_M66-utt44 #csid 2 0 0 0
+CA017QL3_M66-utt45 ref  pe  ta
+CA017QL3_M66-utt45 hyp  pe  ta
+CA017QL3_M66-utt45 op    C   C
+CA017QL3_M66-utt45 #csid 2 0 0 0
+CA017QL3_M66-utt46 ref  rre  ti  ra  za
+CA017QL3_M66-utt46 hyp   de  ti  ra  za
+CA017QL3_M66-utt46 op    S    C   C   C
+CA017QL3_M66-utt46 #csid 3 1 0 0
+CA017QL3_M66-utt47 ref  ti  bu
+CA017QL3_M66-utt47 hyp  ti  bu
+CA017QL3_M66-utt47 op    C   C
+CA017QL3_M66-utt47 #csid 2 0 0 0
+CA017QL3_M66-utt5 ref  be  ya  fe
+CA017QL3_M66-utt5 hyp  be  ya  fe
+CA017QL3_M66-utt5 op    C   C   C
+CA017QL3_M66-utt5 #csid 3 0 0 0
+CA017QL3_M66-utt6 ref  mu  lo
+CA017QL3_M66-utt6 hyp  mu  lu
+CA017QL3_M66-utt6 op    C   S
+CA017QL3_M66-utt6 #csid 1 1 0 0
+CA017QL3_M66-utt7 ref  zi  ma
+CA017QL3_M66-utt7 hyp  zi  ma
+CA017QL3_M66-utt7 op    C   C
+CA017QL3_M66-utt7 #csid 2 0 0 0
+CA017QL3_M66-utt8 ref  no  be  ya
+CA017QL3_M66-utt8 hyp  no  be  ya
+CA017QL3_M66-utt8 op    C   C   C
+CA017QL3_M66-utt8 #csid 3 0 0 0
+CA017QL3_M66-utt9 ref  mi  gu
+CA017QL3_M66-utt9 hyp  ni  gu
+CA017QL3_M66-utt9 op    S   C
+CA017QL3_M66-utt9 #csid 1 1 0 0
+CA017QL4_M66-utt0 ref  chu  so
+CA017QL4_M66-utt0 hyp  chu  so
+CA017QL4_M66-utt0 op    C    C
+CA017QL4_M66-utt0 #csid 2 0 0 0
+CA017QL4_M66-utt1 ref  fe  za
+CA017QL4_M66-utt1 hyp  fe  za
+CA017QL4_M66-utt1 op    C   C
+CA017QL4_M66-utt1 #csid 2 0 0 0
+CA017QL4_M66-utt10 ref  pe  ta  ka
+CA017QL4_M66-utt10 hyp  pe  ta  ta
+CA017QL4_M66-utt10 op    C   C   S
+CA017QL4_M66-utt10 #csid 2 1 0 0
+CA017QL4_M66-utt11 ref  do  ya
+CA017QL4_M66-utt11 hyp  do  ya
+CA017QL4_M66-utt11 op    C   C
+CA017QL4_M66-utt11 #csid 2 0 0 0
+CA017QL4_M66-utt12 ref  li  ya
+CA017QL4_M66-utt12 hyp  li  ya
+CA017QL4_M66-utt12 op    C   C
+CA017QL4_M66-utt12 #csid 2 0 0 0
+CA017QL4_M66-utt13 ref  ka  mi  no
+CA017QL4_M66-utt13 hyp  ka  mi  no
+CA017QL4_M66-utt13 op    C   C   C
+CA017QL4_M66-utt13 #csid 3 0 0 0
+CA017QL4_M66-utt14 ref  pa  de  so
+CA017QL4_M66-utt14 hyp  pa  te  so
+CA017QL4_M66-utt14 op    C   S   C
+CA017QL4_M66-utt14 #csid 2 1 0 0
+CA017QL4_M66-utt15 ref  so  da
+CA017QL4_M66-utt15 hyp  so  da
+CA017QL4_M66-utt15 op    C   C
+CA017QL4_M66-utt15 #csid 2 0 0 0
+CA017QL4_M66-utt16 ref  ti  tu  mo
+CA017QL4_M66-utt16 hyp  ti  tu  mo
+CA017QL4_M66-utt16 op    C   C   C
+CA017QL4_M66-utt16 #csid 3 0 0 0
+CA017QL4_M66-utt17 ref  di  ma  ko
+CA017QL4_M66-utt17 hyp  di  ma  ko
+CA017QL4_M66-utt17 op    C   C   C
+CA017QL4_M66-utt17 #csid 3 0 0 0
+CA017QL4_M66-utt18 ref  ka  nyo
+CA017QL4_M66-utt18 hyp  ka  nyo
+CA017QL4_M66-utt18 op    C   C 
+CA017QL4_M66-utt18 #csid 2 0 0 0
+CA017QL4_M66-utt19 ref  ko  ga
+CA017QL4_M66-utt19 hyp  ko  ga
+CA017QL4_M66-utt19 op    C   C
+CA017QL4_M66-utt19 #csid 2 0 0 0
+CA017QL4_M66-utt2 ref  ye  ma
+CA017QL4_M66-utt2 hyp  ye  ma
+CA017QL4_M66-utt2 op    C   C
+CA017QL4_M66-utt2 #csid 2 0 0 0
+CA017QL4_M66-utt20 ref  mo  pe
+CA017QL4_M66-utt20 hyp  mo  pe
+CA017QL4_M66-utt20 op    C   C
+CA017QL4_M66-utt20 #csid 2 0 0 0
+CA017QL4_M66-utt21 ref  na  fe
+CA017QL4_M66-utt21 hyp  na  fe
+CA017QL4_M66-utt21 op    C   C
+CA017QL4_M66-utt21 #csid 2 0 0 0
+CA017QL4_M66-utt22 ref  ge  rra
+CA017QL4_M66-utt22 hyp  ge  rra
+CA017QL4_M66-utt22 op    C   C 
+CA017QL4_M66-utt22 #csid 2 0 0 0
+CA017QL4_M66-utt23 ref  so  ga  li  na
+CA017QL4_M66-utt23 hyp  so  ga  li  na
+CA017QL4_M66-utt23 op    C   C   C   C
+CA017QL4_M66-utt23 #csid 4 0 0 0
+CA017QL4_M66-utt24 ref  pe  li  ku  za
+CA017QL4_M66-utt24 hyp  pe  li  ku  za
+CA017QL4_M66-utt24 op    C   C   C   C
+CA017QL4_M66-utt24 #csid 4 0 0 0
+CA017QL4_M66-utt25 ref  di  la
+CA017QL4_M66-utt25 hyp  di  la
+CA017QL4_M66-utt25 op    C   C
+CA017QL4_M66-utt25 #csid 2 0 0 0
+CA017QL4_M66-utt26 ref  no  be  la
+CA017QL4_M66-utt26 hyp  no  be  la
+CA017QL4_M66-utt26 op    C   C   C
+CA017QL4_M66-utt26 #csid 3 0 0 0
+CA017QL4_M66-utt27 ref  pe  ku  ga  ta
+CA017QL4_M66-utt27 hyp  pe  ku  ga  ta
+CA017QL4_M66-utt27 op    C   C   C   C
+CA017QL4_M66-utt27 #csid 4 0 0 0
+CA017QL4_M66-utt28 ref  la  ti  ga  zo
+CA017QL4_M66-utt28 hyp  la  ti  ga  zo
+CA017QL4_M66-utt28 op    C   C   C   C
+CA017QL4_M66-utt28 #csid 4 0 0 0
+CA017QL4_M66-utt29 ref  rro  ka
+CA017QL4_M66-utt29 hyp  rro  ka
+CA017QL4_M66-utt29 op    C    C
+CA017QL4_M66-utt29 #csid 2 0 0 0
+CA017QL4_M66-utt3 ref  zi  fo
+CA017QL4_M66-utt3 hyp  zi  fo
+CA017QL4_M66-utt3 op    C   C
+CA017QL4_M66-utt3 #csid 2 0 0 0
+CA017QL4_M66-utt30 ref  pa  le   ti  rra
+CA017QL4_M66-utt30 hyp  pa  le  tir  rra
+CA017QL4_M66-utt30 op    C   C   S    C 
+CA017QL4_M66-utt30 #csid 3 1 0 0
+CA017QL4_M66-utt31 ref  fe  bo
+CA017QL4_M66-utt31 hyp  ze  bo
+CA017QL4_M66-utt31 op    S   C
+CA017QL4_M66-utt31 #csid 1 1 0 0
+CA017QL4_M66-utt32 ref  pa  li  yo
+CA017QL4_M66-utt32 hyp  pa  li  yo
+CA017QL4_M66-utt32 op    C   C   C
+CA017QL4_M66-utt32 #csid 3 0 0 0
+CA017QL4_M66-utt33 ref  ka  ba  ye  to
+CA017QL4_M66-utt33 hyp  ka  ba  ye  to
+CA017QL4_M66-utt33 op    C   C   C   C
+CA017QL4_M66-utt33 #csid 4 0 0 0
+CA017QL4_M66-utt34 ref  lo  fe  du  ne
+CA017QL4_M66-utt34 hyp  lo  fe  du  ne
+CA017QL4_M66-utt34 op    C   C   C   C
+CA017QL4_M66-utt34 #csid 4 0 0 0
+CA017QL4_M66-utt35 ref  ya  to
+CA017QL4_M66-utt35 hyp  ya  to
+CA017QL4_M66-utt35 op    C   C
+CA017QL4_M66-utt35 #csid 2 0 0 0
+CA017QL4_M66-utt36 ref  gi  cho
+CA017QL4_M66-utt36 hyp  di  cho
+CA017QL4_M66-utt36 op    S   C 
+CA017QL4_M66-utt36 #csid 1 1 0 0
+CA017QL4_M66-utt37 ref  pe  na
+CA017QL4_M66-utt37 hyp  pe  no
+CA017QL4_M66-utt37 op    C   S
+CA017QL4_M66-utt37 #csid 1 1 0 0
+CA017QL4_M66-utt38 ref  bi  ya
+CA017QL4_M66-utt38 hyp  bi  ya
+CA017QL4_M66-utt38 op    C   C
+CA017QL4_M66-utt38 #csid 2 0 0 0
+CA017QL4_M66-utt39 ref  to  ye
+CA017QL4_M66-utt39 hyp  to  ye
+CA017QL4_M66-utt39 op    C   C
+CA017QL4_M66-utt39 #csid 2 0 0 0
+CA017QL4_M66-utt4 ref  pa  ni
+CA017QL4_M66-utt4 hyp  pa  ni
+CA017QL4_M66-utt4 op    C   C
+CA017QL4_M66-utt4 #csid 2 0 0 0
+CA017QL4_M66-utt40 ref  fe  bu  xo
+CA017QL4_M66-utt40 hyp  fe  bu  xo
+CA017QL4_M66-utt40 op    C   C   C
+CA017QL4_M66-utt40 #csid 3 0 0 0
+CA017QL4_M66-utt41 ref  rre  ti  ra  da
+CA017QL4_M66-utt41 hyp  rre  ti  ra  da
+CA017QL4_M66-utt41 op    C    C   C   C
+CA017QL4_M66-utt41 #csid 4 0 0 0
+CA017QL4_M66-utt42 ref  nu  me  so
+CA017QL4_M66-utt42 hyp  nu  me  so
+CA017QL4_M66-utt42 op    C   C   C
+CA017QL4_M66-utt42 #csid 3 0 0 0
+CA017QL4_M66-utt43 ref  ta  le  bo
+CA017QL4_M66-utt43 hyp  pa  le  bo
+CA017QL4_M66-utt43 op    S   C   C
+CA017QL4_M66-utt43 #csid 2 1 0 0
+CA017QL4_M66-utt44 ref  me  di  zi  na
+CA017QL4_M66-utt44 hyp  me  di  zi  na
+CA017QL4_M66-utt44 op    C   C   C   C
+CA017QL4_M66-utt44 #csid 4 0 0 0
+CA017QL4_M66-utt45 ref  fi  se
+CA017QL4_M66-utt45 hyp  zi  se
+CA017QL4_M66-utt45 op    S   C
+CA017QL4_M66-utt45 #csid 1 1 0 0
+CA017QL4_M66-utt46 ref  fe  xi
+CA017QL4_M66-utt46 hyp  ze  xi
+CA017QL4_M66-utt46 op    S   C
+CA017QL4_M66-utt46 #csid 1 1 0 0
+CA017QL4_M66-utt5 ref  za  bo  lu
+CA017QL4_M66-utt5 hyp  za  bo  lu
+CA017QL4_M66-utt5 op    C   C   C
+CA017QL4_M66-utt5 #csid 3 0 0 0
+CA017QL4_M66-utt6 ref  ma  no  ta  zo
+CA017QL4_M66-utt6 hyp  ma  no  ta  zo
+CA017QL4_M66-utt6 op    C   C   C   C
+CA017QL4_M66-utt6 #csid 4 0 0 0
+CA017QL4_M66-utt7 ref  ba  rre  yo
+CA017QL4_M66-utt7 hyp  ba  rre  yo
+CA017QL4_M66-utt7 op    C   C    C
+CA017QL4_M66-utt7 #csid 3 0 0 0
+CA017QL4_M66-utt8 ref  se  nyo  ri  da
+CA017QL4_M66-utt8 hyp  se  nyo  ri  da
+CA017QL4_M66-utt8 op    C   C    C   C
+CA017QL4_M66-utt8 #csid 4 0 0 0
+CA017QL4_M66-utt9 ref  tu  zo
+CA017QL4_M66-utt9 hyp  tu  zo
+CA017QL4_M66-utt9 op    C   C
+CA017QL4_M66-utt9 #csid 2 0 0 0

@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA781QL1_M55    raw         48        132        125          7          1          0          8          6
+CA781QL1_M55    sys         48        132      94.70       5.30       0.76       0.00       6.06      12.50
+CA781QL2_M55    raw         48        132        129          3          0          0          3          3
+CA781QL2_M55    sys         48        132      97.73       2.27       0.00       0.00       2.27       6.25
+CA781QL3_M55    raw         48        132        127          5          1          0          6          6
+CA781QL3_M55    sys         48        132      96.21       3.79       0.76       0.00       4.55      12.50
+CA781QL4_M55    raw         48        132        129          3          1          0          4          4
+CA781QL4_M55    sys         48        132      97.73       2.27       0.76       0.00       3.03       8.33
+SUM             raw        192        528        510         18          3          0         21         19
+SUM             sys        192        528      96.59       3.41       0.57       0.00       3.98       9.90
+
+--------------------------------------------------------------------
+CA781QL1_M55-utt0 ref  ya  te
+CA781QL1_M55-utt0 hyp  ya  te
+CA781QL1_M55-utt0 op    C   C
+CA781QL1_M55-utt0 #csid 2 0 0 0
+CA781QL1_M55-utt1 ref  no  lu
+CA781QL1_M55-utt1 hyp  no  lu
+CA781QL1_M55-utt1 op    C   C
+CA781QL1_M55-utt1 #csid 2 0 0 0
+CA781QL1_M55-utt10 ref  chu  lo
+CA781QL1_M55-utt10 hyp  chu  lo
+CA781QL1_M55-utt10 op    C    C
+CA781QL1_M55-utt10 #csid 2 0 0 0
+CA781QL1_M55-utt11 ref  pa  ba   ri  mo
+CA781QL1_M55-utt11 hyp  pa  ba  rim   o
+CA781QL1_M55-utt11 op    C   C   S    S
+CA781QL1_M55-utt11 #csid 2 2 0 0
+CA781QL1_M55-utt12 ref  ko  pa  di
+CA781QL1_M55-utt12 hyp  ko  pa  di
+CA781QL1_M55-utt12 op    C   C   C
+CA781QL1_M55-utt12 #csid 3 0 0 0
+CA781QL1_M55-utt13 ref  li  ga
+CA781QL1_M55-utt13 hyp  li  ga
+CA781QL1_M55-utt13 op    C   C
+CA781QL1_M55-utt13 #csid 2 0 0 0
+CA781QL1_M55-utt14 ref  be  yo  lu
+CA781QL1_M55-utt14 hyp  be  yo  lu
+CA781QL1_M55-utt14 op    C   C   C
+CA781QL1_M55-utt14 #csid 3 0 0 0
+CA781QL1_M55-utt15 ref  so  te  to
+CA781QL1_M55-utt15 hyp  so  te  to
+CA781QL1_M55-utt15 op    C   C   C
+CA781QL1_M55-utt15 #csid 3 0 0 0
+CA781QL1_M55-utt16 ref  ma  re  xa  za
+CA781QL1_M55-utt16 hyp  ma  re  xa  za
+CA781QL1_M55-utt16 op    C   C   C   C
+CA781QL1_M55-utt16 #csid 4 0 0 0
+CA781QL1_M55-utt17 ref  nu  me  ro
+CA781QL1_M55-utt17 hyp  nu  me  ro
+CA781QL1_M55-utt17 op    C   C   C
+CA781QL1_M55-utt17 #csid 3 0 0 0
+CA781QL1_M55-utt18 ref  ka  pi  tu  bo
+CA781QL1_M55-utt18 hyp  ka  pi  tu  bo
+CA781QL1_M55-utt18 op    C   C   C   C
+CA781QL1_M55-utt18 #csid 4 0 0 0
+CA781QL1_M55-utt19 ref  bi  ka
+CA781QL1_M55-utt19 hyp  bi  ka
+CA781QL1_M55-utt19 op    C   C
+CA781QL1_M55-utt19 #csid 2 0 0 0
+CA781QL1_M55-utt2 ref  ba  fe
+CA781QL1_M55-utt2 hyp  ba  fe
+CA781QL1_M55-utt2 op    C   C
+CA781QL1_M55-utt2 #csid 2 0 0 0
+CA781QL1_M55-utt20 ref  ti  bo
+CA781QL1_M55-utt20 hyp  bi  lo
+CA781QL1_M55-utt20 op    S   S
+CA781QL1_M55-utt20 #csid 0 2 0 0
+CA781QL1_M55-utt21 ref  ka  yi
+CA781QL1_M55-utt21 hyp  ka  ye
+CA781QL1_M55-utt21 op    C   S
+CA781QL1_M55-utt21 #csid 1 1 0 0
+CA781QL1_M55-utt22 ref  fo  go  xe  ma
+CA781QL1_M55-utt22 hyp  fo  bo  xe  ma
+CA781QL1_M55-utt22 op    C   S   C   C
+CA781QL1_M55-utt22 #csid 3 1 0 0
+CA781QL1_M55-utt23 ref  pa  ne
+CA781QL1_M55-utt23 hyp  pa  ne
+CA781QL1_M55-utt23 op    C   C
+CA781QL1_M55-utt23 #csid 2 0 0 0
+CA781QL1_M55-utt24 ref  tu  fo
+CA781QL1_M55-utt24 hyp  tu  fo
+CA781QL1_M55-utt24 op    C   C
+CA781QL1_M55-utt24 #csid 2 0 0 0
+CA781QL1_M55-utt25 ref  sa  te  li  to
+CA781QL1_M55-utt25 hyp  sa  te  li  to
+CA781QL1_M55-utt25 op    C   C   C   C
+CA781QL1_M55-utt25 #csid 4 0 0 0
+CA781QL1_M55-utt26 ref  fe  cha
+CA781QL1_M55-utt26 hyp  fe  cha
+CA781QL1_M55-utt26 op    C   C 
+CA781QL1_M55-utt26 #csid 2 0 0 0
+CA781QL1_M55-utt27 ref  pe  mi
+CA781QL1_M55-utt27 hyp  pe  mi
+CA781QL1_M55-utt27 op    C   C
+CA781QL1_M55-utt27 #csid 2 0 0 0
+CA781QL1_M55-utt28 ref  bi  ne  so
+CA781QL1_M55-utt28 hyp  bi  ne  so
+CA781QL1_M55-utt28 op    C   C   C
+CA781QL1_M55-utt28 #csid 3 0 0 0
+CA781QL1_M55-utt29 ref  ka  ba  ye  te
+CA781QL1_M55-utt29 hyp  ka  ba  ye  te
+CA781QL1_M55-utt29 op    C   C   C   C
+CA781QL1_M55-utt29 #csid 4 0 0 0
+CA781QL1_M55-utt3 ref  ti  tu  lo
+CA781QL1_M55-utt3 hyp  ti  tu  lo
+CA781QL1_M55-utt3 op    C   C   C
+CA781QL1_M55-utt3 #csid 3 0 0 0
+CA781QL1_M55-utt30 ref  ko  li  za
+CA781QL1_M55-utt30 hyp  ko  li  za
+CA781QL1_M55-utt30 op    C   C   C
+CA781QL1_M55-utt30 #csid 3 0 0 0
+CA781QL1_M55-utt31 ref  ka  rro  ma  do
+CA781QL1_M55-utt31 hyp  ka  rro  ma  do
+CA781QL1_M55-utt31 op    C   C    C   C
+CA781QL1_M55-utt31 #csid 4 0 0 0
+CA781QL1_M55-utt32 ref  gi  nyo
+CA781QL1_M55-utt32 hyp  gi  nyo
+CA781QL1_M55-utt32 op    C   C 
+CA781QL1_M55-utt32 #csid 2 0 0 0
+CA781QL1_M55-utt33 ref  ma  nya  ***  na
+CA781QL1_M55-utt33 hyp  ma  nya   no  na
+CA781QL1_M55-utt33 op    C   C    I    C
+CA781QL1_M55-utt33 #csid 3 0 1 0
+CA781QL1_M55-utt34 ref  za  fe  lu  di
+CA781QL1_M55-utt34 hyp  za  fe  lu  di
+CA781QL1_M55-utt34 op    C   C   C   C
+CA781QL1_M55-utt34 #csid 4 0 0 0
+CA781QL1_M55-utt35 ref  la  ro
+CA781QL1_M55-utt35 hyp  la  ro
+CA781QL1_M55-utt35 op    C   C
+CA781QL1_M55-utt35 #csid 2 0 0 0
+CA781QL1_M55-utt36 ref  zi  ne
+CA781QL1_M55-utt36 hyp  zi  ne
+CA781QL1_M55-utt36 op    C   C
+CA781QL1_M55-utt36 #csid 2 0 0 0
+CA781QL1_M55-utt37 ref  se  nyo  ri  ta
+CA781QL1_M55-utt37 hyp  se  nyo  ri  ta
+CA781QL1_M55-utt37 op    C   C    C   C
+CA781QL1_M55-utt37 #csid 4 0 0 0
+CA781QL1_M55-utt38 ref  no  fe
+CA781QL1_M55-utt38 hyp  no  fe
+CA781QL1_M55-utt38 op    C   C
+CA781QL1_M55-utt38 #csid 2 0 0 0
+CA781QL1_M55-utt39 ref  pe  li  ku  la
+CA781QL1_M55-utt39 hyp  pe  li  ku  la
+CA781QL1_M55-utt39 op    C   C   C   C
+CA781QL1_M55-utt39 #csid 4 0 0 0
+CA781QL1_M55-utt4 ref  mo  de
+CA781QL1_M55-utt4 hyp  mo  de
+CA781QL1_M55-utt4 op    C   C
+CA781QL1_M55-utt4 #csid 2 0 0 0
+CA781QL1_M55-utt40 ref  ku  xo  ga
+CA781QL1_M55-utt40 hyp  ku  xo  ga
+CA781QL1_M55-utt40 op    C   C   C
+CA781QL1_M55-utt40 #csid 3 0 0 0
+CA781QL1_M55-utt41 ref  fu  xo
+CA781QL1_M55-utt41 hyp  fu  xo
+CA781QL1_M55-utt41 op    C   C
+CA781QL1_M55-utt41 #csid 2 0 0 0
+CA781QL1_M55-utt42 ref  se  ku
+CA781QL1_M55-utt42 hyp  se  ku
+CA781QL1_M55-utt42 op    C   C
+CA781QL1_M55-utt42 #csid 2 0 0 0
+CA781QL1_M55-utt43 ref  to  rre
+CA781QL1_M55-utt43 hyp  to  rre
+CA781QL1_M55-utt43 op    C   C 
+CA781QL1_M55-utt43 #csid 2 0 0 0
+CA781QL1_M55-utt44 ref  do  fe
+CA781QL1_M55-utt44 hyp  do  fe
+CA781QL1_M55-utt44 op    C   C
+CA781QL1_M55-utt44 #csid 2 0 0 0
+CA781QL1_M55-utt45 ref  ba  rre  nyo
+CA781QL1_M55-utt45 hyp  ba  rre  nyo
+CA781QL1_M55-utt45 op    C   C    C 
+CA781QL1_M55-utt45 #csid 3 0 0 0
+CA781QL1_M55-utt46 ref  me  la  ni  to
+CA781QL1_M55-utt46 hyp  me  la  ni  to
+CA781QL1_M55-utt46 op    C   C   C   C
+CA781QL1_M55-utt46 #csid 4 0 0 0
+CA781QL1_M55-utt47 ref  ta  le  go
+CA781QL1_M55-utt47 hyp  ta  le  go
+CA781QL1_M55-utt47 op    C   C   C
+CA781QL1_M55-utt47 #csid 3 0 0 0
+CA781QL1_M55-utt5 ref  pe  no
+CA781QL1_M55-utt5 hyp  pe  no
+CA781QL1_M55-utt5 op    C   C
+CA781QL1_M55-utt5 #csid 2 0 0 0
+CA781QL1_M55-utt6 ref  xe  ra
+CA781QL1_M55-utt6 hyp  xe  ra
+CA781QL1_M55-utt6 op    C   C
+CA781QL1_M55-utt6 #csid 2 0 0 0
+CA781QL1_M55-utt7 ref  pa  le  ti  ya
+CA781QL1_M55-utt7 hyp  pa  le  ti  ya
+CA781QL1_M55-utt7 op    C   C   C   C
+CA781QL1_M55-utt7 #csid 4 0 0 0
+CA781QL1_M55-utt8 ref  ka  rro  fa
+CA781QL1_M55-utt8 hyp  ka  rro  za
+CA781QL1_M55-utt8 op    C   C    S
+CA781QL1_M55-utt8 #csid 2 1 0 0
+CA781QL1_M55-utt9 ref  ma  po
+CA781QL1_M55-utt9 hyp  ma  po
+CA781QL1_M55-utt9 op    C   C
+CA781QL1_M55-utt9 #csid 2 0 0 0
+CA781QL2_M55-utt0 ref  so  ya
+CA781QL2_M55-utt0 hyp  so  ya
+CA781QL2_M55-utt0 op    C   C
+CA781QL2_M55-utt0 #csid 2 0 0 0
+CA781QL2_M55-utt1 ref  be  ta
+CA781QL2_M55-utt1 hyp  be  ta
+CA781QL2_M55-utt1 op    C   C
+CA781QL2_M55-utt1 #csid 2 0 0 0
+CA781QL2_M55-utt10 ref  me  ze  do  ta
+CA781QL2_M55-utt10 hyp  me  ze  do  ta
+CA781QL2_M55-utt10 op    C   C   C   C
+CA781QL2_M55-utt10 #csid 4 0 0 0
+CA781QL2_M55-utt11 ref  ko  li  ya
+CA781QL2_M55-utt11 hyp  ko  li  ya
+CA781QL2_M55-utt11 op    C   C   C
+CA781QL2_M55-utt11 #csid 3 0 0 0
+CA781QL2_M55-utt12 ref  bu  de
+CA781QL2_M55-utt12 hyp  bu  de
+CA781QL2_M55-utt12 op    C   C
+CA781QL2_M55-utt12 #csid 2 0 0 0
+CA781QL2_M55-utt13 ref  mo  pu
+CA781QL2_M55-utt13 hyp  mo  po
+CA781QL2_M55-utt13 op    C   S
+CA781QL2_M55-utt13 #csid 1 1 0 0
+CA781QL2_M55-utt14 ref  lo  ra
+CA781QL2_M55-utt14 hyp  lo  ra
+CA781QL2_M55-utt14 op    C   C
+CA781QL2_M55-utt14 #csid 2 0 0 0
+CA781QL2_M55-utt15 ref  mi  ri  za
+CA781QL2_M55-utt15 hyp  mi  ri  za
+CA781QL2_M55-utt15 op    C   C   C
+CA781QL2_M55-utt15 #csid 3 0 0 0
+CA781QL2_M55-utt16 ref  xe  ta
+CA781QL2_M55-utt16 hyp  xe  ta
+CA781QL2_M55-utt16 op    C   C
+CA781QL2_M55-utt16 #csid 2 0 0 0
+CA781QL2_M55-utt17 ref  bu  fe  lu
+CA781QL2_M55-utt17 hyp  bu  fe  lu
+CA781QL2_M55-utt17 op    C   C   C
+CA781QL2_M55-utt17 #csid 3 0 0 0
+CA781QL2_M55-utt18 ref  ma  ni  be  za
+CA781QL2_M55-utt18 hyp  ma  ni  be  za
+CA781QL2_M55-utt18 op    C   C   C   C
+CA781QL2_M55-utt18 #csid 4 0 0 0
+CA781QL2_M55-utt19 ref  ma  re  xa  da
+CA781QL2_M55-utt19 hyp  ma  re  xa  da
+CA781QL2_M55-utt19 op    C   C   C   C
+CA781QL2_M55-utt19 #csid 4 0 0 0
+CA781QL2_M55-utt2 ref  sa  te  li  te
+CA781QL2_M55-utt2 hyp  sa  te  li  te
+CA781QL2_M55-utt2 op    C   C   C   C
+CA781QL2_M55-utt2 #csid 4 0 0 0
+CA781QL2_M55-utt20 ref  pe  so
+CA781QL2_M55-utt20 hyp  pe  so
+CA781QL2_M55-utt20 op    C   C
+CA781QL2_M55-utt20 #csid 2 0 0 0
+CA781QL2_M55-utt21 ref  bi  ra  ne
+CA781QL2_M55-utt21 hyp  bi  ra  ne
+CA781QL2_M55-utt21 op    C   C   C
+CA781QL2_M55-utt21 #csid 3 0 0 0
+CA781QL2_M55-utt22 ref  ti  fe  du  ne
+CA781QL2_M55-utt22 hyp  ti  fe  du  ne
+CA781QL2_M55-utt22 op    C   C   C   C
+CA781QL2_M55-utt22 #csid 4 0 0 0
+CA781QL2_M55-utt23 ref  ti  yo
+CA781QL2_M55-utt23 hyp  ti  yo
+CA781QL2_M55-utt23 op    C   C
+CA781QL2_M55-utt23 #csid 2 0 0 0
+CA781QL2_M55-utt24 ref  no  fe
+CA781QL2_M55-utt24 hyp  no  fe
+CA781QL2_M55-utt24 op    C   C
+CA781QL2_M55-utt24 #csid 2 0 0 0
+CA781QL2_M55-utt25 ref  pe  ta  te
+CA781QL2_M55-utt25 hyp  pe  ta  te
+CA781QL2_M55-utt25 op    C   C   C
+CA781QL2_M55-utt25 #csid 3 0 0 0
+CA781QL2_M55-utt26 ref  la  do
+CA781QL2_M55-utt26 hyp  la  do
+CA781QL2_M55-utt26 op    C   C
+CA781QL2_M55-utt26 #csid 2 0 0 0
+CA781QL2_M55-utt27 ref  mu  no
+CA781QL2_M55-utt27 hyp  mu  no
+CA781QL2_M55-utt27 op    C   C
+CA781QL2_M55-utt27 #csid 2 0 0 0
+CA781QL2_M55-utt28 ref  za  lu
+CA781QL2_M55-utt28 hyp  za  lu
+CA781QL2_M55-utt28 op    C   C
+CA781QL2_M55-utt28 #csid 2 0 0 0
+CA781QL2_M55-utt29 ref  ka  rro  ma  to
+CA781QL2_M55-utt29 hyp  ka  rro  ma  to
+CA781QL2_M55-utt29 op    C   C    C   C
+CA781QL2_M55-utt29 #csid 4 0 0 0
+CA781QL2_M55-utt3 ref  rri  bu  po
+CA781QL2_M55-utt3 hyp   di  bu  po
+CA781QL2_M55-utt3 op    S    C   C
+CA781QL2_M55-utt3 #csid 2 1 0 0
+CA781QL2_M55-utt30 ref  mu  si  ma
+CA781QL2_M55-utt30 hyp  mu  si  ma
+CA781QL2_M55-utt30 op    C   C   C
+CA781QL2_M55-utt30 #csid 3 0 0 0
+CA781QL2_M55-utt31 ref  de  ba  te
+CA781QL2_M55-utt31 hyp  de  ba  te
+CA781QL2_M55-utt31 op    C   C   C
+CA781QL2_M55-utt31 #csid 3 0 0 0
+CA781QL2_M55-utt32 ref  di  ne  ro
+CA781QL2_M55-utt32 hyp  di  ne  ro
+CA781QL2_M55-utt32 op    C   C   C
+CA781QL2_M55-utt32 #csid 3 0 0 0
+CA781QL2_M55-utt33 ref  ni  fu  ba  mi
+CA781QL2_M55-utt33 hyp  ni  fu  ba  mi
+CA781QL2_M55-utt33 op    C   C   C   C
+CA781QL2_M55-utt33 #csid 4 0 0 0
+CA781QL2_M55-utt34 ref  mo  te
+CA781QL2_M55-utt34 hyp  mo  te
+CA781QL2_M55-utt34 op    C   C
+CA781QL2_M55-utt34 #csid 2 0 0 0
+CA781QL2_M55-utt35 ref  ko  da
+CA781QL2_M55-utt35 hyp  ko  da
+CA781QL2_M55-utt35 op    C   C
+CA781QL2_M55-utt35 #csid 2 0 0 0
+CA781QL2_M55-utt36 ref  ko  zi
+CA781QL2_M55-utt36 hyp  ko  zi
+CA781QL2_M55-utt36 op    C   C
+CA781QL2_M55-utt36 #csid 2 0 0 0
+CA781QL2_M55-utt37 ref  di  ku  li  te
+CA781QL2_M55-utt37 hyp  di  ku  li  te
+CA781QL2_M55-utt37 op    C   C   C   C
+CA781QL2_M55-utt37 #csid 4 0 0 0
+CA781QL2_M55-utt38 ref  ko  pa  te
+CA781QL2_M55-utt38 hyp  ko  pa  te
+CA781QL2_M55-utt38 op    C   C   C
+CA781QL2_M55-utt38 #csid 3 0 0 0
+CA781QL2_M55-utt39 ref  do  bu
+CA781QL2_M55-utt39 hyp  do  bu
+CA781QL2_M55-utt39 op    C   C
+CA781QL2_M55-utt39 #csid 2 0 0 0
+CA781QL2_M55-utt4 ref  me  po
+CA781QL2_M55-utt4 hyp  me  po
+CA781QL2_M55-utt4 op    C   C
+CA781QL2_M55-utt4 #csid 2 0 0 0
+CA781QL2_M55-utt40 ref  no  che
+CA781QL2_M55-utt40 hyp  no  che
+CA781QL2_M55-utt40 op    C   C 
+CA781QL2_M55-utt40 #csid 2 0 0 0
+CA781QL2_M55-utt41 ref  fi  lo  so  zo
+CA781QL2_M55-utt41 hyp  fi  lo  so  zo
+CA781QL2_M55-utt41 op    C   C   C   C
+CA781QL2_M55-utt41 #csid 4 0 0 0
+CA781QL2_M55-utt42 ref  pa  do
+CA781QL2_M55-utt42 hyp  pa  do
+CA781QL2_M55-utt42 op    C   C
+CA781QL2_M55-utt42 #csid 2 0 0 0
+CA781QL2_M55-utt43 ref  ka  yo
+CA781QL2_M55-utt43 hyp  ka  yo
+CA781QL2_M55-utt43 op    C   C
+CA781QL2_M55-utt43 #csid 2 0 0 0
+CA781QL2_M55-utt44 ref  ka  pi  tu  lo
+CA781QL2_M55-utt44 hyp  ta  pi  tu  lo
+CA781QL2_M55-utt44 op    S   C   C   C
+CA781QL2_M55-utt44 #csid 3 1 0 0
+CA781QL2_M55-utt45 ref  lu  xa
+CA781QL2_M55-utt45 hyp  lu  xa
+CA781QL2_M55-utt45 op    C   C
+CA781QL2_M55-utt45 #csid 2 0 0 0
+CA781QL2_M55-utt46 ref  ba  ye
+CA781QL2_M55-utt46 hyp  ba  ye
+CA781QL2_M55-utt46 op    C   C
+CA781QL2_M55-utt46 #csid 2 0 0 0
+CA781QL2_M55-utt47 ref  ka  ba  ye  mo
+CA781QL2_M55-utt47 hyp  ka  ba  ye  mo
+CA781QL2_M55-utt47 op    C   C   C   C
+CA781QL2_M55-utt47 #csid 4 0 0 0
+CA781QL2_M55-utt5 ref  ma  nya  na
+CA781QL2_M55-utt5 hyp  ma  nya  na
+CA781QL2_M55-utt5 op    C   C    C
+CA781QL2_M55-utt5 #csid 3 0 0 0
+CA781QL2_M55-utt6 ref  zi  da
+CA781QL2_M55-utt6 hyp  zi  da
+CA781QL2_M55-utt6 op    C   C
+CA781QL2_M55-utt6 #csid 2 0 0 0
+CA781QL2_M55-utt7 ref  ka  rro  nya
+CA781QL2_M55-utt7 hyp  ka  rro  nya
+CA781QL2_M55-utt7 op    C   C    C 
+CA781QL2_M55-utt7 #csid 3 0 0 0
+CA781QL2_M55-utt8 ref  bi  ga
+CA781QL2_M55-utt8 hyp  bi  ga
+CA781QL2_M55-utt8 op    C   C
+CA781QL2_M55-utt8 #csid 2 0 0 0
+CA781QL2_M55-utt9 ref  mo  pe  di  ta
+CA781QL2_M55-utt9 hyp  mo  pe  di  ta
+CA781QL2_M55-utt9 op    C   C   C   C
+CA781QL2_M55-utt9 #csid 4 0 0 0
+CA781QL3_M55-utt0 ref  so  ri
+CA781QL3_M55-utt0 hyp  so  ri
+CA781QL3_M55-utt0 op    C   C
+CA781QL3_M55-utt0 #csid 2 0 0 0
+CA781QL3_M55-utt1 ref  ye  da
+CA781QL3_M55-utt1 hyp  ye  ra
+CA781QL3_M55-utt1 op    C   S
+CA781QL3_M55-utt1 #csid 1 1 0 0
+CA781QL3_M55-utt10 ref  ku  fe
+CA781QL3_M55-utt10 hyp  ku  fe
+CA781QL3_M55-utt10 op    C   C
+CA781QL3_M55-utt10 #csid 2 0 0 0
+CA781QL3_M55-utt11 ref  so  ma
+CA781QL3_M55-utt11 hyp  so  ma
+CA781QL3_M55-utt11 op    C   C
+CA781QL3_M55-utt11 #csid 2 0 0 0
+CA781QL3_M55-utt12 ref  ka  ba  ye  ro
+CA781QL3_M55-utt12 hyp  ka  ba  ye  ro
+CA781QL3_M55-utt12 op    C   C   C   C
+CA781QL3_M55-utt12 #csid 4 0 0 0
+CA781QL3_M55-utt13 ref  be  na
+CA781QL3_M55-utt13 hyp  be  na
+CA781QL3_M55-utt13 op    C   C
+CA781QL3_M55-utt13 #csid 2 0 0 0
+CA781QL3_M55-utt14 ref  mu  si  ka
+CA781QL3_M55-utt14 hyp  mu  si  ka
+CA781QL3_M55-utt14 op    C   C   C
+CA781QL3_M55-utt14 #csid 3 0 0 0
+CA781QL3_M55-utt15 ref  bi  ku
+CA781QL3_M55-utt15 hyp  bi  ku
+CA781QL3_M55-utt15 op    C   C
+CA781QL3_M55-utt15 #csid 2 0 0 0
+CA781QL3_M55-utt16 ref  ka  mi  ro
+CA781QL3_M55-utt16 hyp  ka  mi  ro
+CA781QL3_M55-utt16 op    C   C   C
+CA781QL3_M55-utt16 #csid 3 0 0 0
+CA781QL3_M55-utt17 ref  me  ze  do  ra
+CA781QL3_M55-utt17 hyp  me  ze  do  ra
+CA781QL3_M55-utt17 op    C   C   C   C
+CA781QL3_M55-utt17 #csid 4 0 0 0
+CA781QL3_M55-utt18 ref  ze  bi
+CA781QL3_M55-utt18 hyp  ze  bi
+CA781QL3_M55-utt18 op    C   C
+CA781QL3_M55-utt18 #csid 2 0 0 0
+CA781QL3_M55-utt19 ref  ka  xo
+CA781QL3_M55-utt19 hyp  ka  xo
+CA781QL3_M55-utt19 op    C   C
+CA781QL3_M55-utt19 #csid 2 0 0 0
+CA781QL3_M55-utt2 ref  pa  li  xo
+CA781QL3_M55-utt2 hyp  pa  li  xo
+CA781QL3_M55-utt2 op    C   C   C
+CA781QL3_M55-utt2 #csid 3 0 0 0
+CA781QL3_M55-utt20 ref  bi  la
+CA781QL3_M55-utt20 hyp  bi  la
+CA781QL3_M55-utt20 op    C   C
+CA781QL3_M55-utt20 #csid 2 0 0 0
+CA781QL3_M55-utt21 ref  me  di  zi  ra
+CA781QL3_M55-utt21 hyp  me  di  zi  ra
+CA781QL3_M55-utt21 op    C   C   C   C
+CA781QL3_M55-utt21 #csid 4 0 0 0
+CA781QL3_M55-utt22 ref  la  ti  ga  zo
+CA781QL3_M55-utt22 hyp  la  ti  ga  zo
+CA781QL3_M55-utt22 op    C   C   C   C
+CA781QL3_M55-utt22 #csid 4 0 0 0
+CA781QL3_M55-utt23 ref  no  ze  ba
+CA781QL3_M55-utt23 hyp  no  fe  ba
+CA781QL3_M55-utt23 op    C   S   C
+CA781QL3_M55-utt23 #csid 2 1 0 0
+CA781QL3_M55-utt24 ref  lu  fo
+CA781QL3_M55-utt24 hyp  lu  fo
+CA781QL3_M55-utt24 op    C   C
+CA781QL3_M55-utt24 #csid 2 0 0 0
+CA781QL3_M55-utt25 ref  ta  po  di  no
+CA781QL3_M55-utt25 hyp  ta  po  di  no
+CA781QL3_M55-utt25 op    C   C   C   C
+CA781QL3_M55-utt25 #csid 4 0 0 0
+CA781QL3_M55-utt26 ref  fi  lo  so  fo
+CA781QL3_M55-utt26 hyp  fi  lo  so  fo
+CA781QL3_M55-utt26 op    C   C   C   C
+CA781QL3_M55-utt26 #csid 4 0 0 0
+CA781QL3_M55-utt27 ref  ni  bo  fe  ma
+CA781QL3_M55-utt27 hyp  mi  bo  fe  ma
+CA781QL3_M55-utt27 op    S   C   C   C
+CA781QL3_M55-utt27 #csid 3 1 0 0
+CA781QL3_M55-utt28 ref  mi  ri  ya
+CA781QL3_M55-utt28 hyp  mi  ri  ya
+CA781QL3_M55-utt28 op    C   C   C
+CA781QL3_M55-utt28 #csid 3 0 0 0
+CA781QL3_M55-utt29 ref  zi  bu  fe  ni
+CA781QL3_M55-utt29 hyp  fi  bu  fe  ni
+CA781QL3_M55-utt29 op    S   C   C   C
+CA781QL3_M55-utt29 #csid 3 1 0 0
+CA781QL3_M55-utt3 ref  so  ga
+CA781QL3_M55-utt3 hyp  so  ga
+CA781QL3_M55-utt3 op    C   C
+CA781QL3_M55-utt3 #csid 2 0 0 0
+CA781QL3_M55-utt30 ref  mo  pa  so  ka
+CA781QL3_M55-utt30 hyp  mo  pa  so  ka
+CA781QL3_M55-utt30 op    C   C   C   C
+CA781QL3_M55-utt30 #csid 4 0 0 0
+CA781QL3_M55-utt31 ref  ma  ni  be  la
+CA781QL3_M55-utt31 hyp  ma  ni  be  la
+CA781QL3_M55-utt31 op    C   C   C   C
+CA781QL3_M55-utt31 #csid 4 0 0 0
+CA781QL3_M55-utt32 ref  pe  ta  te
+CA781QL3_M55-utt32 hyp  pe  ta  te
+CA781QL3_M55-utt32 op    C   C   C
+CA781QL3_M55-utt32 #csid 3 0 0 0
+CA781QL3_M55-utt33 ref  de  ba  te
+CA781QL3_M55-utt33 hyp  de  ba  te
+CA781QL3_M55-utt33 op    C   C   C
+CA781QL3_M55-utt33 #csid 3 0 0 0
+CA781QL3_M55-utt34 ref  lu  cha
+CA781QL3_M55-utt34 hyp  lu  cha
+CA781QL3_M55-utt34 op    C   C 
+CA781QL3_M55-utt34 #csid 2 0 0 0
+CA781QL3_M55-utt35 ref  ka  mo
+CA781QL3_M55-utt35 hyp  ka  mo
+CA781QL3_M55-utt35 op    C   C
+CA781QL3_M55-utt35 #csid 2 0 0 0
+CA781QL3_M55-utt36 ref  ko  di  so
+CA781QL3_M55-utt36 hyp  ko  di  so
+CA781QL3_M55-utt36 op    C   C   C
+CA781QL3_M55-utt36 #csid 3 0 0 0
+CA781QL3_M55-utt37 ref  so  ma  zi
+CA781QL3_M55-utt37 hyp  so  ma  zi
+CA781QL3_M55-utt37 op    C   C   C
+CA781QL3_M55-utt37 #csid 3 0 0 0
+CA781QL3_M55-utt38 ref  lo  na
+CA781QL3_M55-utt38 hyp  lo  na
+CA781QL3_M55-utt38 op    C   C
+CA781QL3_M55-utt38 #csid 2 0 0 0
+CA781QL3_M55-utt39 ref  rro  ko
+CA781QL3_M55-utt39 hyp  rro  ko
+CA781QL3_M55-utt39 op    C    C
+CA781QL3_M55-utt39 #csid 2 0 0 0
+CA781QL3_M55-utt4 ref  ko  pa
+CA781QL3_M55-utt4 hyp  ko  pa
+CA781QL3_M55-utt4 op    C   C
+CA781QL3_M55-utt4 #csid 2 0 0 0
+CA781QL3_M55-utt40 ref  pe  ta  ma
+CA781QL3_M55-utt40 hyp  pe  ta  ma
+CA781QL3_M55-utt40 op    C   C   C
+CA781QL3_M55-utt40 #csid 3 0 0 0
+CA781QL3_M55-utt41 ref  ge  za
+CA781QL3_M55-utt41 hyp  ge  za
+CA781QL3_M55-utt41 op    C   C
+CA781QL3_M55-utt41 #csid 2 0 0 0
+CA781QL3_M55-utt42 ref  ma  no  ta  go
+CA781QL3_M55-utt42 hyp  ma  no  ta  go
+CA781QL3_M55-utt42 op    C   C   C   C
+CA781QL3_M55-utt42 #csid 4 0 0 0
+CA781QL3_M55-utt43 ref  bu  ke
+CA781QL3_M55-utt43 hyp  bu  ke
+CA781QL3_M55-utt43 op    C   C
+CA781QL3_M55-utt43 #csid 2 0 0 0
+CA781QL3_M55-utt44 ref  me  pe
+CA781QL3_M55-utt44 hyp  me  pe
+CA781QL3_M55-utt44 op    C   C
+CA781QL3_M55-utt44 #csid 2 0 0 0
+CA781QL3_M55-utt45 ref  pe  ta
+CA781QL3_M55-utt45 hyp  pe  ta
+CA781QL3_M55-utt45 op    C   C
+CA781QL3_M55-utt45 #csid 2 0 0 0
+CA781QL3_M55-utt46 ref  rre  ti  ra  za
+CA781QL3_M55-utt46 hyp  rre  ti  ra  za
+CA781QL3_M55-utt46 op    C    C   C   C
+CA781QL3_M55-utt46 #csid 4 0 0 0
+CA781QL3_M55-utt47 ref  ti  bu
+CA781QL3_M55-utt47 hyp  ti  bu
+CA781QL3_M55-utt47 op    C   C
+CA781QL3_M55-utt47 #csid 2 0 0 0
+CA781QL3_M55-utt5 ref  be  ya  ze
+CA781QL3_M55-utt5 hyp  be  ya  te
+CA781QL3_M55-utt5 op    C   C   S
+CA781QL3_M55-utt5 #csid 2 1 0 0
+CA781QL3_M55-utt6 ref  mu  lo
+CA781QL3_M55-utt6 hyp  mu  lo
+CA781QL3_M55-utt6 op    C   C
+CA781QL3_M55-utt6 #csid 2 0 0 0
+CA781QL3_M55-utt7 ref  zi  ma  ***
+CA781QL3_M55-utt7 hyp  zi  ma  rre
+CA781QL3_M55-utt7 op    C   C   I 
+CA781QL3_M55-utt7 #csid 2 0 1 0
+CA781QL3_M55-utt8 ref  no  be  ya
+CA781QL3_M55-utt8 hyp  no  be  ya
+CA781QL3_M55-utt8 op    C   C   C
+CA781QL3_M55-utt8 #csid 3 0 0 0
+CA781QL3_M55-utt9 ref  ni  gu
+CA781QL3_M55-utt9 hyp  ni  gu
+CA781QL3_M55-utt9 op    C   C
+CA781QL3_M55-utt9 #csid 2 0 0 0
+CA781QL4_M55-utt0 ref  chu  so
+CA781QL4_M55-utt0 hyp  chu  so
+CA781QL4_M55-utt0 op    C    C
+CA781QL4_M55-utt0 #csid 2 0 0 0
+CA781QL4_M55-utt1 ref  fe  za
+CA781QL4_M55-utt1 hyp  fe  za
+CA781QL4_M55-utt1 op    C   C
+CA781QL4_M55-utt1 #csid 2 0 0 0
+CA781QL4_M55-utt10 ref  pe  ta  ka
+CA781QL4_M55-utt10 hyp  pe  ta  ka
+CA781QL4_M55-utt10 op    C   C   C
+CA781QL4_M55-utt10 #csid 3 0 0 0
+CA781QL4_M55-utt11 ref  do  ya
+CA781QL4_M55-utt11 hyp  do  ya
+CA781QL4_M55-utt11 op    C   C
+CA781QL4_M55-utt11 #csid 2 0 0 0
+CA781QL4_M55-utt12 ref  li  ya
+CA781QL4_M55-utt12 hyp  li  ya
+CA781QL4_M55-utt12 op    C   C
+CA781QL4_M55-utt12 #csid 2 0 0 0
+CA781QL4_M55-utt13 ref  ka  mi  no
+CA781QL4_M55-utt13 hyp  ka  mi  no
+CA781QL4_M55-utt13 op    C   C   C
+CA781QL4_M55-utt13 #csid 3 0 0 0
+CA781QL4_M55-utt14 ref  pa  re  so
+CA781QL4_M55-utt14 hyp  pa  re  so
+CA781QL4_M55-utt14 op    C   C   C
+CA781QL4_M55-utt14 #csid 3 0 0 0
+CA781QL4_M55-utt15 ref  so  da
+CA781QL4_M55-utt15 hyp  so  da
+CA781QL4_M55-utt15 op    C   C
+CA781QL4_M55-utt15 #csid 2 0 0 0
+CA781QL4_M55-utt16 ref  ti  tu  mo
+CA781QL4_M55-utt16 hyp  ti  tu  mo
+CA781QL4_M55-utt16 op    C   C   C
+CA781QL4_M55-utt16 #csid 3 0 0 0
+CA781QL4_M55-utt17 ref  di  ma  ko
+CA781QL4_M55-utt17 hyp  di  ma  ko
+CA781QL4_M55-utt17 op    C   C   C
+CA781QL4_M55-utt17 #csid 3 0 0 0
+CA781QL4_M55-utt18 ref  ka  nyo
+CA781QL4_M55-utt18 hyp  ka  nyo
+CA781QL4_M55-utt18 op    C   C 
+CA781QL4_M55-utt18 #csid 2 0 0 0
+CA781QL4_M55-utt19 ref  ko  ga
+CA781QL4_M55-utt19 hyp  ko  ga
+CA781QL4_M55-utt19 op    C   C
+CA781QL4_M55-utt19 #csid 2 0 0 0
+CA781QL4_M55-utt2 ref  ye  ma
+CA781QL4_M55-utt2 hyp  ye  ma
+CA781QL4_M55-utt2 op    C   C
+CA781QL4_M55-utt2 #csid 2 0 0 0
+CA781QL4_M55-utt20 ref  mo  pe
+CA781QL4_M55-utt20 hyp  mo  pe
+CA781QL4_M55-utt20 op    C   C
+CA781QL4_M55-utt20 #csid 2 0 0 0
+CA781QL4_M55-utt21 ref  na  fe
+CA781QL4_M55-utt21 hyp  na  fe
+CA781QL4_M55-utt21 op    C   C
+CA781QL4_M55-utt21 #csid 2 0 0 0
+CA781QL4_M55-utt22 ref  ge  rra
+CA781QL4_M55-utt22 hyp  ge  rra
+CA781QL4_M55-utt22 op    C   C 
+CA781QL4_M55-utt22 #csid 2 0 0 0
+CA781QL4_M55-utt23 ref  so  ga  li  na
+CA781QL4_M55-utt23 hyp  so  ga  li  na
+CA781QL4_M55-utt23 op    C   C   C   C
+CA781QL4_M55-utt23 #csid 4 0 0 0
+CA781QL4_M55-utt24 ref  pe  li  ku  za
+CA781QL4_M55-utt24 hyp  pe  li  ku  za
+CA781QL4_M55-utt24 op    C   C   C   C
+CA781QL4_M55-utt24 #csid 4 0 0 0
+CA781QL4_M55-utt25 ref  di  la
+CA781QL4_M55-utt25 hyp  di  la
+CA781QL4_M55-utt25 op    C   C
+CA781QL4_M55-utt25 #csid 2 0 0 0
+CA781QL4_M55-utt26 ref  no  be  la
+CA781QL4_M55-utt26 hyp  no  be  la
+CA781QL4_M55-utt26 op    C   C   C
+CA781QL4_M55-utt26 #csid 3 0 0 0
+CA781QL4_M55-utt27 ref  pe  ku  ga  ta
+CA781QL4_M55-utt27 hyp  pe  ku  ga  ta
+CA781QL4_M55-utt27 op    C   C   C   C
+CA781QL4_M55-utt27 #csid 4 0 0 0
+CA781QL4_M55-utt28 ref  la  ti  ga  zo
+CA781QL4_M55-utt28 hyp  la  ti  ga  zo
+CA781QL4_M55-utt28 op    C   C   C   C
+CA781QL4_M55-utt28 #csid 4 0 0 0
+CA781QL4_M55-utt29 ref  rro  ka  ***
+CA781QL4_M55-utt29 hyp  rro  ka   lu
+CA781QL4_M55-utt29 op    C    C   I 
+CA781QL4_M55-utt29 #csid 2 0 1 0
+CA781QL4_M55-utt3 ref  zi  fo
+CA781QL4_M55-utt3 hyp  zi  fo
+CA781QL4_M55-utt3 op    C   C
+CA781QL4_M55-utt3 #csid 2 0 0 0
+CA781QL4_M55-utt30 ref  pa  le  tie  rra
+CA781QL4_M55-utt30 hyp  pa  le  tie  rra
+CA781QL4_M55-utt30 op    C   C   C    C 
+CA781QL4_M55-utt30 #csid 4 0 0 0
+CA781QL4_M55-utt31 ref  ze  bo
+CA781QL4_M55-utt31 hyp  ze  bo
+CA781QL4_M55-utt31 op    C   C
+CA781QL4_M55-utt31 #csid 2 0 0 0
+CA781QL4_M55-utt32 ref  pa  li  yo
+CA781QL4_M55-utt32 hyp  pa  li  yo
+CA781QL4_M55-utt32 op    C   C   C
+CA781QL4_M55-utt32 #csid 3 0 0 0
+CA781QL4_M55-utt33 ref  ka  ba  ye  to
+CA781QL4_M55-utt33 hyp  ka  ba  ye  to
+CA781QL4_M55-utt33 op    C   C   C   C
+CA781QL4_M55-utt33 #csid 4 0 0 0
+CA781QL4_M55-utt34 ref  lo  ze  du  ne
+CA781QL4_M55-utt34 hyp  lo  ze  du  ne
+CA781QL4_M55-utt34 op    C   C   C   C
+CA781QL4_M55-utt34 #csid 4 0 0 0
+CA781QL4_M55-utt35 ref  ya  to
+CA781QL4_M55-utt35 hyp  ya  to
+CA781QL4_M55-utt35 op    C   C
+CA781QL4_M55-utt35 #csid 2 0 0 0
+CA781QL4_M55-utt36 ref  gi  cho
+CA781QL4_M55-utt36 hyp  gi  cho
+CA781QL4_M55-utt36 op    C   C 
+CA781QL4_M55-utt36 #csid 2 0 0 0
+CA781QL4_M55-utt37 ref  pe  na
+CA781QL4_M55-utt37 hyp  pe  na
+CA781QL4_M55-utt37 op    C   C
+CA781QL4_M55-utt37 #csid 2 0 0 0
+CA781QL4_M55-utt38 ref  bi  ya
+CA781QL4_M55-utt38 hyp  bi  ya
+CA781QL4_M55-utt38 op    C   C
+CA781QL4_M55-utt38 #csid 2 0 0 0
+CA781QL4_M55-utt39 ref  to  ye
+CA781QL4_M55-utt39 hyp  to  ye
+CA781QL4_M55-utt39 op    C   C
+CA781QL4_M55-utt39 #csid 2 0 0 0
+CA781QL4_M55-utt4 ref  pa  ne
+CA781QL4_M55-utt4 hyp  pa  ni
+CA781QL4_M55-utt4 op    C   S
+CA781QL4_M55-utt4 #csid 1 1 0 0
+CA781QL4_M55-utt40 ref  ze  bu  xo
+CA781QL4_M55-utt40 hyp  fe  bu  xo
+CA781QL4_M55-utt40 op    S   C   C
+CA781QL4_M55-utt40 #csid 2 1 0 0
+CA781QL4_M55-utt41 ref  rre  ti  ra  da
+CA781QL4_M55-utt41 hyp  rre  ti  ra  da
+CA781QL4_M55-utt41 op    C    C   C   C
+CA781QL4_M55-utt41 #csid 4 0 0 0
+CA781QL4_M55-utt42 ref  nu  me  so
+CA781QL4_M55-utt42 hyp  nu  me  so
+CA781QL4_M55-utt42 op    C   C   C
+CA781QL4_M55-utt42 #csid 3 0 0 0
+CA781QL4_M55-utt43 ref  ta  le  bo
+CA781QL4_M55-utt43 hyp  ta  le  bo
+CA781QL4_M55-utt43 op    C   C   C
+CA781QL4_M55-utt43 #csid 3 0 0 0
+CA781QL4_M55-utt44 ref  me  di  zi  na
+CA781QL4_M55-utt44 hyp  me  di  zi  na
+CA781QL4_M55-utt44 op    C   C   C   C
+CA781QL4_M55-utt44 #csid 4 0 0 0
+CA781QL4_M55-utt45 ref  zi  se
+CA781QL4_M55-utt45 hyp  zi  se
+CA781QL4_M55-utt45 op    C   C
+CA781QL4_M55-utt45 #csid 2 0 0 0
+CA781QL4_M55-utt46 ref  fe  xi
+CA781QL4_M55-utt46 hyp  fe  xi
+CA781QL4_M55-utt46 op    C   C
+CA781QL4_M55-utt46 #csid 2 0 0 0
+CA781QL4_M55-utt47 ref  bi  fu  pe  si
+CA781QL4_M55-utt47 hyp  bi  fu  pe  se
+CA781QL4_M55-utt47 op    C   C   C   S
+CA781QL4_M55-utt47 #csid 3 1 0 0
+CA781QL4_M55-utt5 ref  za  bo  lu
+CA781QL4_M55-utt5 hyp  za  bo  lu
+CA781QL4_M55-utt5 op    C   C   C
+CA781QL4_M55-utt5 #csid 3 0 0 0
+CA781QL4_M55-utt6 ref  ma  no  ta  zo
+CA781QL4_M55-utt6 hyp  ma  no  ta  zo
+CA781QL4_M55-utt6 op    C   C   C   C
+CA781QL4_M55-utt6 #csid 4 0 0 0
+CA781QL4_M55-utt7 ref  ba  rre  yo
+CA781QL4_M55-utt7 hyp  ba  rre  yo
+CA781QL4_M55-utt7 op    C   C    C
+CA781QL4_M55-utt7 #csid 3 0 0 0
+CA781QL4_M55-utt8 ref  se  nyo  ri  da
+CA781QL4_M55-utt8 hyp  se  nyo  ri  da
+CA781QL4_M55-utt8 op    C   C    C   C
+CA781QL4_M55-utt8 #csid 4 0 0 0
+CA781QL4_M55-utt9 ref  tu  zo
+CA781QL4_M55-utt9 hyp  tu  zo
+CA781QL4_M55-utt9 op    C   C
+CA781QL4_M55-utt9 #csid 2 0 0 0

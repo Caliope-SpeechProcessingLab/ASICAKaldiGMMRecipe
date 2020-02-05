@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA310QL1_M00    raw         48        132        122         10          0          0         10          9
+CA310QL1_M00    sys         48        132      92.42       7.58       0.00       0.00       7.58      18.75
+CA310QL2_M00    raw         48        132        112         19          0          1         20         19
+CA310QL2_M00    sys         48        132      84.85      14.39       0.00       0.76      15.15      39.58
+CA310QL3_M00    raw         48        132        122         10          2          0         12         10
+CA310QL3_M00    sys         48        132      92.42       7.58       1.52       0.00       9.09      20.83
+CA310QL4_M00    raw         48        132        123          9          0          0          9          9
+CA310QL4_M00    sys         48        132      93.18       6.82       0.00       0.00       6.82      18.75
+SUM             raw        192        528        479         48          2          1         51         47
+SUM             sys        192        528      90.72       9.09       0.38       0.19       9.66      24.48
+
+--------------------------------------------------------------------
+CA310QL1_M00-utt0 ref  ya  te
+CA310QL1_M00-utt0 hyp  ya  te
+CA310QL1_M00-utt0 op    C   C
+CA310QL1_M00-utt0 #csid 2 0 0 0
+CA310QL1_M00-utt1 ref  no  lu
+CA310QL1_M00-utt1 hyp  no  lu
+CA310QL1_M00-utt1 op    C   C
+CA310QL1_M00-utt1 #csid 2 0 0 0
+CA310QL1_M00-utt10 ref  chu  lo
+CA310QL1_M00-utt10 hyp  chu  lo
+CA310QL1_M00-utt10 op    C    C
+CA310QL1_M00-utt10 #csid 2 0 0 0
+CA310QL1_M00-utt11 ref  pa  ba  ri  no
+CA310QL1_M00-utt11 hyp  ka  ba  ri  no
+CA310QL1_M00-utt11 op    S   C   C   C
+CA310QL1_M00-utt11 #csid 3 1 0 0
+CA310QL1_M00-utt12 ref  ko  pa  di
+CA310QL1_M00-utt12 hyp  ko  pa  di
+CA310QL1_M00-utt12 op    C   C   C
+CA310QL1_M00-utt12 #csid 3 0 0 0
+CA310QL1_M00-utt13 ref  li  ga
+CA310QL1_M00-utt13 hyp  li  ga
+CA310QL1_M00-utt13 op    C   C
+CA310QL1_M00-utt13 #csid 2 0 0 0
+CA310QL1_M00-utt14 ref  be  yo  lu
+CA310QL1_M00-utt14 hyp  be  yo  lu
+CA310QL1_M00-utt14 op    C   C   C
+CA310QL1_M00-utt14 #csid 3 0 0 0
+CA310QL1_M00-utt15 ref  so  pe  to
+CA310QL1_M00-utt15 hyp  so  pe  to
+CA310QL1_M00-utt15 op    C   C   C
+CA310QL1_M00-utt15 #csid 3 0 0 0
+CA310QL1_M00-utt16 ref  ma  re  xa  za
+CA310QL1_M00-utt16 hyp  ma  re  xa  za
+CA310QL1_M00-utt16 op    C   C   C   C
+CA310QL1_M00-utt16 #csid 4 0 0 0
+CA310QL1_M00-utt17 ref  nu  me  ro
+CA310QL1_M00-utt17 hyp  no  me  ro
+CA310QL1_M00-utt17 op    S   C   C
+CA310QL1_M00-utt17 #csid 2 1 0 0
+CA310QL1_M00-utt18 ref  ka  pi  tu  bo
+CA310QL1_M00-utt18 hyp  ka  pi  tu  bu
+CA310QL1_M00-utt18 op    C   C   C   S
+CA310QL1_M00-utt18 #csid 3 1 0 0
+CA310QL1_M00-utt19 ref  di  ka
+CA310QL1_M00-utt19 hyp  di  ka
+CA310QL1_M00-utt19 op    C   C
+CA310QL1_M00-utt19 #csid 2 0 0 0
+CA310QL1_M00-utt2 ref  ba  fe
+CA310QL1_M00-utt2 hyp  ba  fe
+CA310QL1_M00-utt2 op    C   C
+CA310QL1_M00-utt2 #csid 2 0 0 0
+CA310QL1_M00-utt20 ref  ti  bo
+CA310QL1_M00-utt20 hyp  ti  bo
+CA310QL1_M00-utt20 op    C   C
+CA310QL1_M00-utt20 #csid 2 0 0 0
+CA310QL1_M00-utt21 ref  ka  yi
+CA310QL1_M00-utt21 hyp  ka  yi
+CA310QL1_M00-utt21 op    C   C
+CA310QL1_M00-utt21 #csid 2 0 0 0
+CA310QL1_M00-utt22 ref  so  bo  xe  ma
+CA310QL1_M00-utt22 hyp  so  bo  xe  ma
+CA310QL1_M00-utt22 op    C   C   C   C
+CA310QL1_M00-utt22 #csid 4 0 0 0
+CA310QL1_M00-utt23 ref  pa  ne
+CA310QL1_M00-utt23 hyp  pa  ne
+CA310QL1_M00-utt23 op    C   C
+CA310QL1_M00-utt23 #csid 2 0 0 0
+CA310QL1_M00-utt24 ref  tu  fo
+CA310QL1_M00-utt24 hyp  tu  fo
+CA310QL1_M00-utt24 op    C   C
+CA310QL1_M00-utt24 #csid 2 0 0 0
+CA310QL1_M00-utt25 ref  sa  te  li  to
+CA310QL1_M00-utt25 hyp  sa  te  li  to
+CA310QL1_M00-utt25 op    C   C   C   C
+CA310QL1_M00-utt25 #csid 4 0 0 0
+CA310QL1_M00-utt26 ref  fe  cha
+CA310QL1_M00-utt26 hyp  fe  cha
+CA310QL1_M00-utt26 op    C   C 
+CA310QL1_M00-utt26 #csid 2 0 0 0
+CA310QL1_M00-utt27 ref  pe  ni
+CA310QL1_M00-utt27 hyp  pe  ni
+CA310QL1_M00-utt27 op    C   C
+CA310QL1_M00-utt27 #csid 2 0 0 0
+CA310QL1_M00-utt28 ref  di  ne  so
+CA310QL1_M00-utt28 hyp  li  ne  so
+CA310QL1_M00-utt28 op    S   C   C
+CA310QL1_M00-utt28 #csid 2 1 0 0
+CA310QL1_M00-utt29 ref  ka  ba  ye  te
+CA310QL1_M00-utt29 hyp  xa  ba  ye  te
+CA310QL1_M00-utt29 op    S   C   C   C
+CA310QL1_M00-utt29 #csid 3 1 0 0
+CA310QL1_M00-utt3 ref  ti  tu  lo
+CA310QL1_M00-utt3 hyp  ti  tu  lo
+CA310QL1_M00-utt3 op    C   C   C
+CA310QL1_M00-utt3 #csid 3 0 0 0
+CA310QL1_M00-utt30 ref  ko  li  za
+CA310QL1_M00-utt30 hyp  ko  li  za
+CA310QL1_M00-utt30 op    C   C   C
+CA310QL1_M00-utt30 #csid 3 0 0 0
+CA310QL1_M00-utt31 ref  ka  rro  ma  do
+CA310QL1_M00-utt31 hyp  ka  rro  ma  do
+CA310QL1_M00-utt31 op    C   C    C   C
+CA310QL1_M00-utt31 #csid 4 0 0 0
+CA310QL1_M00-utt32 ref  di  nyo
+CA310QL1_M00-utt32 hyp  di  nyo
+CA310QL1_M00-utt32 op    C   C 
+CA310QL1_M00-utt32 #csid 2 0 0 0
+CA310QL1_M00-utt33 ref  ma  nya  da
+CA310QL1_M00-utt33 hyp  ma  nya  da
+CA310QL1_M00-utt33 op    C   C    C
+CA310QL1_M00-utt33 #csid 3 0 0 0
+CA310QL1_M00-utt34 ref  za  fe  lu  di
+CA310QL1_M00-utt34 hyp  za  ze  lu  di
+CA310QL1_M00-utt34 op    C   S   C   C
+CA310QL1_M00-utt34 #csid 3 1 0 0
+CA310QL1_M00-utt35 ref  la  ro
+CA310QL1_M00-utt35 hyp  la  ro
+CA310QL1_M00-utt35 op    C   C
+CA310QL1_M00-utt35 #csid 2 0 0 0
+CA310QL1_M00-utt36 ref  zi  ne
+CA310QL1_M00-utt36 hyp  zi  ne
+CA310QL1_M00-utt36 op    C   C
+CA310QL1_M00-utt36 #csid 2 0 0 0
+CA310QL1_M00-utt37 ref  se  nyo  ri  ta
+CA310QL1_M00-utt37 hyp  se  nyo  ri  ta
+CA310QL1_M00-utt37 op    C   C    C   C
+CA310QL1_M00-utt37 #csid 4 0 0 0
+CA310QL1_M00-utt38 ref  no  fe
+CA310QL1_M00-utt38 hyp  na  fe
+CA310QL1_M00-utt38 op    S   C
+CA310QL1_M00-utt38 #csid 1 1 0 0
+CA310QL1_M00-utt39 ref  pe  li  ku  la
+CA310QL1_M00-utt39 hyp  te  li  ku  la
+CA310QL1_M00-utt39 op    S   C   C   C
+CA310QL1_M00-utt39 #csid 3 1 0 0
+CA310QL1_M00-utt4 ref  mo  de
+CA310QL1_M00-utt4 hyp  mo  de
+CA310QL1_M00-utt4 op    C   C
+CA310QL1_M00-utt4 #csid 2 0 0 0
+CA310QL1_M00-utt40 ref  ku  xo  ba
+CA310QL1_M00-utt40 hyp  ku  xo  ba
+CA310QL1_M00-utt40 op    C   C   C
+CA310QL1_M00-utt40 #csid 3 0 0 0
+CA310QL1_M00-utt41 ref  fu  xo
+CA310QL1_M00-utt41 hyp  fu  xo
+CA310QL1_M00-utt41 op    C   C
+CA310QL1_M00-utt41 #csid 2 0 0 0
+CA310QL1_M00-utt42 ref  se  ku
+CA310QL1_M00-utt42 hyp  se  ku
+CA310QL1_M00-utt42 op    C   C
+CA310QL1_M00-utt42 #csid 2 0 0 0
+CA310QL1_M00-utt43 ref  to  rre
+CA310QL1_M00-utt43 hyp  to  rre
+CA310QL1_M00-utt43 op    C   C 
+CA310QL1_M00-utt43 #csid 2 0 0 0
+CA310QL1_M00-utt44 ref  do  fe
+CA310QL1_M00-utt44 hyp  do  fe
+CA310QL1_M00-utt44 op    C   C
+CA310QL1_M00-utt44 #csid 2 0 0 0
+CA310QL1_M00-utt45 ref  ba  rre  nyo
+CA310QL1_M00-utt45 hyp  ba  rre  nyo
+CA310QL1_M00-utt45 op    C   C    C 
+CA310QL1_M00-utt45 #csid 3 0 0 0
+CA310QL1_M00-utt46 ref  me  la  ni  to
+CA310QL1_M00-utt46 hyp  me  la  ni  to
+CA310QL1_M00-utt46 op    C   C   C   C
+CA310QL1_M00-utt46 #csid 4 0 0 0
+CA310QL1_M00-utt47 ref  ta  le  go
+CA310QL1_M00-utt47 hyp  ka  le  bo
+CA310QL1_M00-utt47 op    S   C   S
+CA310QL1_M00-utt47 #csid 1 2 0 0
+CA310QL1_M00-utt5 ref  pe  na
+CA310QL1_M00-utt5 hyp  pe  na
+CA310QL1_M00-utt5 op    C   C
+CA310QL1_M00-utt5 #csid 2 0 0 0
+CA310QL1_M00-utt6 ref  xe  ra
+CA310QL1_M00-utt6 hyp  xe  ra
+CA310QL1_M00-utt6 op    C   C
+CA310QL1_M00-utt6 #csid 2 0 0 0
+CA310QL1_M00-utt7 ref  pa  le  ti  ya
+CA310QL1_M00-utt7 hyp  pa  le  ti  ya
+CA310QL1_M00-utt7 op    C   C   C   C
+CA310QL1_M00-utt7 #csid 4 0 0 0
+CA310QL1_M00-utt8 ref  ka  rro  za
+CA310QL1_M00-utt8 hyp  ka  rro  za
+CA310QL1_M00-utt8 op    C   C    C
+CA310QL1_M00-utt8 #csid 3 0 0 0
+CA310QL1_M00-utt9 ref  ma  po
+CA310QL1_M00-utt9 hyp  ma  po
+CA310QL1_M00-utt9 op    C   C
+CA310QL1_M00-utt9 #csid 2 0 0 0
+CA310QL2_M00-utt0 ref  se  ya
+CA310QL2_M00-utt0 hyp  se  ya
+CA310QL2_M00-utt0 op    C   C
+CA310QL2_M00-utt0 #csid 2 0 0 0
+CA310QL2_M00-utt1 ref  be  ta
+CA310QL2_M00-utt1 hyp  de  ta
+CA310QL2_M00-utt1 op    S   C
+CA310QL2_M00-utt1 #csid 1 1 0 0
+CA310QL2_M00-utt10 ref  me  se  do  ta
+CA310QL2_M00-utt10 hyp  me  se  do  ta
+CA310QL2_M00-utt10 op    C   C   C   C
+CA310QL2_M00-utt10 #csid 4 0 0 0
+CA310QL2_M00-utt11 ref  po  li  ya
+CA310QL2_M00-utt11 hyp  fo  li  ya
+CA310QL2_M00-utt11 op    S   C   C
+CA310QL2_M00-utt11 #csid 2 1 0 0
+CA310QL2_M00-utt12 ref  bi  be
+CA310QL2_M00-utt12 hyp  bi  de
+CA310QL2_M00-utt12 op    C   S
+CA310QL2_M00-utt12 #csid 1 1 0 0
+CA310QL2_M00-utt13 ref  mo  ku
+CA310QL2_M00-utt13 hyp  mo  ku
+CA310QL2_M00-utt13 op    C   C
+CA310QL2_M00-utt13 #csid 2 0 0 0
+CA310QL2_M00-utt14 ref  lo  ra
+CA310QL2_M00-utt14 hyp  lo  na
+CA310QL2_M00-utt14 op    C   S
+CA310QL2_M00-utt14 #csid 1 1 0 0
+CA310QL2_M00-utt15 ref  mi  ri  fa
+CA310QL2_M00-utt15 hyp  mi  ri  fa
+CA310QL2_M00-utt15 op    C   C   C
+CA310QL2_M00-utt15 #csid 3 0 0 0
+CA310QL2_M00-utt16 ref  se  ta
+CA310QL2_M00-utt16 hyp  se  ta
+CA310QL2_M00-utt16 op    C   C
+CA310QL2_M00-utt16 #csid 2 0 0 0
+CA310QL2_M00-utt17 ref  bu  fe  lo
+CA310QL2_M00-utt17 hyp  bu  fe  ro
+CA310QL2_M00-utt17 op    C   C   S
+CA310QL2_M00-utt17 #csid 2 1 0 0
+CA310QL2_M00-utt18 ref  ma  ni  be  sa
+CA310QL2_M00-utt18 hyp  ma  ni  be  za
+CA310QL2_M00-utt18 op    C   C   C   S
+CA310QL2_M00-utt18 #csid 3 1 0 0
+CA310QL2_M00-utt19 ref  ma  re  xa  da
+CA310QL2_M00-utt19 hyp  ma  re  xa  da
+CA310QL2_M00-utt19 op    C   C   C   C
+CA310QL2_M00-utt19 #csid 4 0 0 0
+CA310QL2_M00-utt2 ref  sa  te  li  te
+CA310QL2_M00-utt2 hyp  sa  te  li  te
+CA310QL2_M00-utt2 op    C   C   C   C
+CA310QL2_M00-utt2 #csid 4 0 0 0
+CA310QL2_M00-utt20 ref  pe  so
+CA310QL2_M00-utt20 hyp  pe  so
+CA310QL2_M00-utt20 op    C   C
+CA310QL2_M00-utt20 #csid 2 0 0 0
+CA310QL2_M00-utt21 ref  bi  ra  ni
+CA310QL2_M00-utt21 hyp  di  ra  ni
+CA310QL2_M00-utt21 op    S   C   C
+CA310QL2_M00-utt21 #csid 2 1 0 0
+CA310QL2_M00-utt22 ref  ke  se  du  ne
+CA310QL2_M00-utt22 hyp  te  se  du  ne
+CA310QL2_M00-utt22 op    S   C   C   C
+CA310QL2_M00-utt22 #csid 3 1 0 0
+CA310QL2_M00-utt23 ref  pi  yo
+CA310QL2_M00-utt23 hyp  ti  yo
+CA310QL2_M00-utt23 op    S   C
+CA310QL2_M00-utt23 #csid 1 1 0 0
+CA310QL2_M00-utt24 ref  no  fe
+CA310QL2_M00-utt24 hyp  no  fe
+CA310QL2_M00-utt24 op    C   C
+CA310QL2_M00-utt24 #csid 2 0 0 0
+CA310QL2_M00-utt25 ref  be  ta  ki
+CA310QL2_M00-utt25 hyp  be  ta  ti
+CA310QL2_M00-utt25 op    C   C   S
+CA310QL2_M00-utt25 #csid 2 1 0 0
+CA310QL2_M00-utt26 ref  la  do
+CA310QL2_M00-utt26 hyp  la  da
+CA310QL2_M00-utt26 op    C   S
+CA310QL2_M00-utt26 #csid 1 1 0 0
+CA310QL2_M00-utt27 ref  mu  no
+CA310QL2_M00-utt27 hyp  mu  na
+CA310QL2_M00-utt27 op    C   S
+CA310QL2_M00-utt27 #csid 1 1 0 0
+CA310QL2_M00-utt28 ref  sa  lu
+CA310QL2_M00-utt28 hyp  sa  lu
+CA310QL2_M00-utt28 op    C   C
+CA310QL2_M00-utt28 #csid 2 0 0 0
+CA310QL2_M00-utt29 ref  ka  rro  ma  to
+CA310QL2_M00-utt29 hyp  ka  rro  ma  ta
+CA310QL2_M00-utt29 op    C   C    C   S
+CA310QL2_M00-utt29 #csid 3 1 0 0
+CA310QL2_M00-utt3 ref  rri  bu  po
+CA310QL2_M00-utt3 hyp  rri  bu  po
+CA310QL2_M00-utt3 op    C    C   C
+CA310QL2_M00-utt3 #csid 3 0 0 0
+CA310QL2_M00-utt30 ref  mu  si  na
+CA310QL2_M00-utt30 hyp  mu  si  na
+CA310QL2_M00-utt30 op    C   C   C
+CA310QL2_M00-utt30 #csid 3 0 0 0
+CA310QL2_M00-utt31 ref  de  ba  ti
+CA310QL2_M00-utt31 hyp  de  ba  ti
+CA310QL2_M00-utt31 op    C   C   C
+CA310QL2_M00-utt31 #csid 3 0 0 0
+CA310QL2_M00-utt32 ref  di  ne  ro
+CA310QL2_M00-utt32 hyp  di  ne  ro
+CA310QL2_M00-utt32 op    C   C   C
+CA310QL2_M00-utt32 #csid 3 0 0 0
+CA310QL2_M00-utt33 ref   i  fu  ba  ni
+CA310QL2_M00-utt33 hyp  li  fu  ma  ni
+CA310QL2_M00-utt33 op    S   C   S   C
+CA310QL2_M00-utt33 #csid 2 2 0 0
+CA310QL2_M00-utt34 ref  mo  te
+CA310QL2_M00-utt34 hyp  mo  te
+CA310QL2_M00-utt34 op    C   C
+CA310QL2_M00-utt34 #csid 2 0 0 0
+CA310QL2_M00-utt35 ref  ko  da
+CA310QL2_M00-utt35 hyp  ko  da
+CA310QL2_M00-utt35 op    C   C
+CA310QL2_M00-utt35 #csid 2 0 0 0
+CA310QL2_M00-utt36 ref  ko  zi
+CA310QL2_M00-utt36 hyp  ko  zi
+CA310QL2_M00-utt36 op    C   C
+CA310QL2_M00-utt36 #csid 2 0 0 0
+CA310QL2_M00-utt37 ref  di  ku  li  to
+CA310QL2_M00-utt37 hyp  di  ku  li  ta
+CA310QL2_M00-utt37 op    C   C   C   S
+CA310QL2_M00-utt37 #csid 3 1 0 0
+CA310QL2_M00-utt38 ref  ko  pa  te
+CA310QL2_M00-utt38 hyp  ko  pa  te
+CA310QL2_M00-utt38 op    C   C   C
+CA310QL2_M00-utt38 #csid 3 0 0 0
+CA310QL2_M00-utt39 ref  do  bo
+CA310QL2_M00-utt39 hyp  do  bu
+CA310QL2_M00-utt39 op    C   S
+CA310QL2_M00-utt39 #csid 1 1 0 0
+CA310QL2_M00-utt4 ref  me  po
+CA310QL2_M00-utt4 hyp  me  po
+CA310QL2_M00-utt4 op    C   C
+CA310QL2_M00-utt4 #csid 2 0 0 0
+CA310QL2_M00-utt40 ref  no  che
+CA310QL2_M00-utt40 hyp  no  che
+CA310QL2_M00-utt40 op    C   C 
+CA310QL2_M00-utt40 #csid 2 0 0 0
+CA310QL2_M00-utt41 ref  fi  lo  so  fo
+CA310QL2_M00-utt41 hyp  fi  lo  so  fo
+CA310QL2_M00-utt41 op    C   C   C   C
+CA310QL2_M00-utt41 #csid 4 0 0 0
+CA310QL2_M00-utt42 ref  pa  do
+CA310QL2_M00-utt42 hyp  pa  do
+CA310QL2_M00-utt42 op    C   C
+CA310QL2_M00-utt42 #csid 2 0 0 0
+CA310QL2_M00-utt43 ref  ka  yo
+CA310QL2_M00-utt43 hyp  ka  yo
+CA310QL2_M00-utt43 op    C   C
+CA310QL2_M00-utt43 #csid 2 0 0 0
+CA310QL2_M00-utt44 ref  ka  pi  tu  lo
+CA310QL2_M00-utt44 hyp  ka  pi  tu  lo
+CA310QL2_M00-utt44 op    C   C   C   C
+CA310QL2_M00-utt44 #csid 4 0 0 0
+CA310QL2_M00-utt45 ref  lu  xa
+CA310QL2_M00-utt45 hyp  lu  xa
+CA310QL2_M00-utt45 op    C   C
+CA310QL2_M00-utt45 #csid 2 0 0 0
+CA310QL2_M00-utt46 ref  ba  ye
+CA310QL2_M00-utt46 hyp  ba  ye
+CA310QL2_M00-utt46 op    C   C
+CA310QL2_M00-utt46 #csid 2 0 0 0
+CA310QL2_M00-utt47 ref  ka  ba  ye  mo
+CA310QL2_M00-utt47 hyp  ka  ba  ye  mo
+CA310QL2_M00-utt47 op    C   C   C   C
+CA310QL2_M00-utt47 #csid 4 0 0 0
+CA310QL2_M00-utt5 ref  ma  nya  na
+CA310QL2_M00-utt5 hyp  pa  nya  na
+CA310QL2_M00-utt5 op    S   C    C
+CA310QL2_M00-utt5 #csid 2 1 0 0
+CA310QL2_M00-utt6 ref  gi  ra
+CA310QL2_M00-utt6 hyp  xi  ra
+CA310QL2_M00-utt6 op    S   C
+CA310QL2_M00-utt6 #csid 1 1 0 0
+CA310QL2_M00-utt7 ref  ka  rro  nya
+CA310QL2_M00-utt7 hyp  ka  rro  nya
+CA310QL2_M00-utt7 op    C   C    C 
+CA310QL2_M00-utt7 #csid 3 0 0 0
+CA310QL2_M00-utt8 ref  bi  ga
+CA310QL2_M00-utt8 hyp  bi  ga
+CA310QL2_M00-utt8 op    C   C
+CA310QL2_M00-utt8 #csid 2 0 0 0
+CA310QL2_M00-utt9 ref  mo  pe  di   ta
+CA310QL2_M00-utt9 hyp  mo  pe  di  ***
+CA310QL2_M00-utt9 op    C   C   C   D 
+CA310QL2_M00-utt9 #csid 3 0 0 1
+CA310QL3_M00-utt0 ref  so  ri
+CA310QL3_M00-utt0 hyp  so  ri
+CA310QL3_M00-utt0 op    C   C
+CA310QL3_M00-utt0 #csid 2 0 0 0
+CA310QL3_M00-utt1 ref  ye  ba
+CA310QL3_M00-utt1 hyp  ye  ba
+CA310QL3_M00-utt1 op    C   C
+CA310QL3_M00-utt1 #csid 2 0 0 0
+CA310QL3_M00-utt10 ref  ku  fe
+CA310QL3_M00-utt10 hyp  ku  fe
+CA310QL3_M00-utt10 op    C   C
+CA310QL3_M00-utt10 #csid 2 0 0 0
+CA310QL3_M00-utt11 ref  so  ma
+CA310QL3_M00-utt11 hyp  so  ma
+CA310QL3_M00-utt11 op    C   C
+CA310QL3_M00-utt11 #csid 2 0 0 0
+CA310QL3_M00-utt12 ref  ka  ba  ye  ro
+CA310QL3_M00-utt12 hyp  ka  ba  ye  ro
+CA310QL3_M00-utt12 op    C   C   C   C
+CA310QL3_M00-utt12 #csid 4 0 0 0
+CA310QL3_M00-utt13 ref  be  na
+CA310QL3_M00-utt13 hyp  me  na
+CA310QL3_M00-utt13 op    S   C
+CA310QL3_M00-utt13 #csid 1 1 0 0
+CA310QL3_M00-utt14 ref  mu  si  ka
+CA310QL3_M00-utt14 hyp  mu  si  ka
+CA310QL3_M00-utt14 op    C   C   C
+CA310QL3_M00-utt14 #csid 3 0 0 0
+CA310QL3_M00-utt15 ref  bi  ku
+CA310QL3_M00-utt15 hyp  bi  ku
+CA310QL3_M00-utt15 op    C   C
+CA310QL3_M00-utt15 #csid 2 0 0 0
+CA310QL3_M00-utt16 ref  ka  mi  ro
+CA310QL3_M00-utt16 hyp  ka  mi  ro
+CA310QL3_M00-utt16 op    C   C   C
+CA310QL3_M00-utt16 #csid 3 0 0 0
+CA310QL3_M00-utt17 ref  me  se  do  ra
+CA310QL3_M00-utt17 hyp  me  se  do  ra
+CA310QL3_M00-utt17 op    C   C   C   C
+CA310QL3_M00-utt17 #csid 4 0 0 0
+CA310QL3_M00-utt18 ref  se  bi
+CA310QL3_M00-utt18 hyp  se  bi
+CA310QL3_M00-utt18 op    C   C
+CA310QL3_M00-utt18 #csid 2 0 0 0
+CA310QL3_M00-utt19 ref  ka  xo
+CA310QL3_M00-utt19 hyp  ka  xo
+CA310QL3_M00-utt19 op    C   C
+CA310QL3_M00-utt19 #csid 2 0 0 0
+CA310QL3_M00-utt2 ref  pa  li  xo
+CA310QL3_M00-utt2 hyp  pa  li  xo
+CA310QL3_M00-utt2 op    C   C   C
+CA310QL3_M00-utt2 #csid 3 0 0 0
+CA310QL3_M00-utt20 ref  bi  la
+CA310QL3_M00-utt20 hyp  bi  la
+CA310QL3_M00-utt20 op    C   C
+CA310QL3_M00-utt20 #csid 2 0 0 0
+CA310QL3_M00-utt21 ref  me  di  zi  ra
+CA310QL3_M00-utt21 hyp  me  di  zi  ra
+CA310QL3_M00-utt21 op    C   C   C   C
+CA310QL3_M00-utt21 #csid 4 0 0 0
+CA310QL3_M00-utt22 ref  la  ti  ga  zo
+CA310QL3_M00-utt22 hyp  la  ti  ga  za
+CA310QL3_M00-utt22 op    C   C   C   S
+CA310QL3_M00-utt22 #csid 3 1 0 0
+CA310QL3_M00-utt23 ref  no  fe  ba
+CA310QL3_M00-utt23 hyp  no  fe  ba
+CA310QL3_M00-utt23 op    C   C   C
+CA310QL3_M00-utt23 #csid 3 0 0 0
+CA310QL3_M00-utt24 ref  lu  fo
+CA310QL3_M00-utt24 hyp  lu  zo
+CA310QL3_M00-utt24 op    C   S
+CA310QL3_M00-utt24 #csid 1 1 0 0
+CA310QL3_M00-utt25 ref  ***  ***  ta  po  di  no
+CA310QL3_M00-utt25 hyp   ta   ko  ta  po  di  no
+CA310QL3_M00-utt25 op    I    I    C   C   C   C
+CA310QL3_M00-utt25 #csid 4 0 2 0
+CA310QL3_M00-utt26 ref  fi  lo  so  fo
+CA310QL3_M00-utt26 hyp  fi  lo  so  fo
+CA310QL3_M00-utt26 op    C   C   C   C
+CA310QL3_M00-utt26 #csid 4 0 0 0
+CA310QL3_M00-utt27 ref   i  bo  fe  ma
+CA310QL3_M00-utt27 hyp  li  bu  fe  ma
+CA310QL3_M00-utt27 op    S   S   C   C
+CA310QL3_M00-utt27 #csid 2 2 0 0
+CA310QL3_M00-utt28 ref  mi  ri  ya
+CA310QL3_M00-utt28 hyp  mi  ri  ya
+CA310QL3_M00-utt28 op    C   C   C
+CA310QL3_M00-utt28 #csid 3 0 0 0
+CA310QL3_M00-utt29 ref  si  bu  fe  ni
+CA310QL3_M00-utt29 hyp  si  bu  fe  ni
+CA310QL3_M00-utt29 op    C   C   C   C
+CA310QL3_M00-utt29 #csid 4 0 0 0
+CA310QL3_M00-utt3 ref  so  ga
+CA310QL3_M00-utt3 hyp  so  ga
+CA310QL3_M00-utt3 op    C   C
+CA310QL3_M00-utt3 #csid 2 0 0 0
+CA310QL3_M00-utt30 ref  mo  pa  so  ka
+CA310QL3_M00-utt30 hyp  mo  pa  so  ka
+CA310QL3_M00-utt30 op    C   C   C   C
+CA310QL3_M00-utt30 #csid 4 0 0 0
+CA310QL3_M00-utt31 ref  ma  ni  be  la
+CA310QL3_M00-utt31 hyp  ma  ni  be  la
+CA310QL3_M00-utt31 op    C   C   C   C
+CA310QL3_M00-utt31 #csid 4 0 0 0
+CA310QL3_M00-utt32 ref  pe  ta  te
+CA310QL3_M00-utt32 hyp  pe  ta  te
+CA310QL3_M00-utt32 op    C   C   C
+CA310QL3_M00-utt32 #csid 3 0 0 0
+CA310QL3_M00-utt33 ref  de  ba  te
+CA310QL3_M00-utt33 hyp  de  ba  te
+CA310QL3_M00-utt33 op    C   C   C
+CA310QL3_M00-utt33 #csid 3 0 0 0
+CA310QL3_M00-utt34 ref  lu  cha
+CA310QL3_M00-utt34 hyp  lu  cha
+CA310QL3_M00-utt34 op    C   C 
+CA310QL3_M00-utt34 #csid 2 0 0 0
+CA310QL3_M00-utt35 ref  ka  mo
+CA310QL3_M00-utt35 hyp  ka  ma
+CA310QL3_M00-utt35 op    C   S
+CA310QL3_M00-utt35 #csid 1 1 0 0
+CA310QL3_M00-utt36 ref  ko  bi  so
+CA310QL3_M00-utt36 hyp  ko  di  so
+CA310QL3_M00-utt36 op    C   S   C
+CA310QL3_M00-utt36 #csid 2 1 0 0
+CA310QL3_M00-utt37 ref  cho  ma  zi
+CA310QL3_M00-utt37 hyp  cho  ma  zi
+CA310QL3_M00-utt37 op    C    C   C
+CA310QL3_M00-utt37 #csid 3 0 0 0
+CA310QL3_M00-utt38 ref  lo  na
+CA310QL3_M00-utt38 hyp  lo  na
+CA310QL3_M00-utt38 op    C   C
+CA310QL3_M00-utt38 #csid 2 0 0 0
+CA310QL3_M00-utt39 ref  rro  ko
+CA310QL3_M00-utt39 hyp  rro  ko
+CA310QL3_M00-utt39 op    C    C
+CA310QL3_M00-utt39 #csid 2 0 0 0
+CA310QL3_M00-utt4 ref  ko  pa
+CA310QL3_M00-utt4 hyp  ko  pa
+CA310QL3_M00-utt4 op    C   C
+CA310QL3_M00-utt4 #csid 2 0 0 0
+CA310QL3_M00-utt40 ref  pe  ta  ma
+CA310QL3_M00-utt40 hyp  pe  ta  ma
+CA310QL3_M00-utt40 op    C   C   C
+CA310QL3_M00-utt40 #csid 3 0 0 0
+CA310QL3_M00-utt41 ref  de  za
+CA310QL3_M00-utt41 hyp  de  za
+CA310QL3_M00-utt41 op    C   C
+CA310QL3_M00-utt41 #csid 2 0 0 0
+CA310QL3_M00-utt42 ref  ma  no  ta  go
+CA310QL3_M00-utt42 hyp  ma  no  ta  gu
+CA310QL3_M00-utt42 op    C   C   C   S
+CA310QL3_M00-utt42 #csid 3 1 0 0
+CA310QL3_M00-utt43 ref  bu  ke
+CA310QL3_M00-utt43 hyp  bu  ke
+CA310QL3_M00-utt43 op    C   C
+CA310QL3_M00-utt43 #csid 2 0 0 0
+CA310QL3_M00-utt44 ref  me  pe
+CA310QL3_M00-utt44 hyp  me  pe
+CA310QL3_M00-utt44 op    C   C
+CA310QL3_M00-utt44 #csid 2 0 0 0
+CA310QL3_M00-utt45 ref  pe  ta
+CA310QL3_M00-utt45 hyp  pe  ta
+CA310QL3_M00-utt45 op    C   C
+CA310QL3_M00-utt45 #csid 2 0 0 0
+CA310QL3_M00-utt46 ref  rre  ti  ra  za
+CA310QL3_M00-utt46 hyp  rre  ti  ra  za
+CA310QL3_M00-utt46 op    C    C   C   C
+CA310QL3_M00-utt46 #csid 4 0 0 0
+CA310QL3_M00-utt47 ref  ti  bu
+CA310QL3_M00-utt47 hyp  ti  bu
+CA310QL3_M00-utt47 op    C   C
+CA310QL3_M00-utt47 #csid 2 0 0 0
+CA310QL3_M00-utt5 ref  be  ya   ze
+CA310QL3_M00-utt5 hyp  be  ya  rre
+CA310QL3_M00-utt5 op    C   C   S 
+CA310QL3_M00-utt5 #csid 2 1 0 0
+CA310QL3_M00-utt6 ref  mu  lo
+CA310QL3_M00-utt6 hyp  mu  lo
+CA310QL3_M00-utt6 op    C   C
+CA310QL3_M00-utt6 #csid 2 0 0 0
+CA310QL3_M00-utt7 ref  zi  ma
+CA310QL3_M00-utt7 hyp  di  ma
+CA310QL3_M00-utt7 op    S   C
+CA310QL3_M00-utt7 #csid 1 1 0 0
+CA310QL3_M00-utt8 ref  no  be  ya
+CA310QL3_M00-utt8 hyp  no  be  ya
+CA310QL3_M00-utt8 op    C   C   C
+CA310QL3_M00-utt8 #csid 3 0 0 0
+CA310QL3_M00-utt9 ref  ni  gu
+CA310QL3_M00-utt9 hyp  ni  gu
+CA310QL3_M00-utt9 op    C   C
+CA310QL3_M00-utt9 #csid 2 0 0 0
+CA310QL4_M00-utt0 ref  chu  zo
+CA310QL4_M00-utt0 hyp  chu  za
+CA310QL4_M00-utt0 op    C    S
+CA310QL4_M00-utt0 #csid 1 1 0 0
+CA310QL4_M00-utt1 ref  ze  za
+CA310QL4_M00-utt1 hyp  ze  za
+CA310QL4_M00-utt1 op    C   C
+CA310QL4_M00-utt1 #csid 2 0 0 0
+CA310QL4_M00-utt10 ref  pe  ta  ka
+CA310QL4_M00-utt10 hyp  pe  ta  ka
+CA310QL4_M00-utt10 op    C   C   C
+CA310QL4_M00-utt10 #csid 3 0 0 0
+CA310QL4_M00-utt11 ref  do  ya
+CA310QL4_M00-utt11 hyp  do  ya
+CA310QL4_M00-utt11 op    C   C
+CA310QL4_M00-utt11 #csid 2 0 0 0
+CA310QL4_M00-utt12 ref  li  ya
+CA310QL4_M00-utt12 hyp  li  ya
+CA310QL4_M00-utt12 op    C   C
+CA310QL4_M00-utt12 #csid 2 0 0 0
+CA310QL4_M00-utt13 ref  ka  mi  no
+CA310QL4_M00-utt13 hyp  ka  mi  no
+CA310QL4_M00-utt13 op    C   C   C
+CA310QL4_M00-utt13 #csid 3 0 0 0
+CA310QL4_M00-utt14 ref  pa  de  so
+CA310QL4_M00-utt14 hyp  pa  de  so
+CA310QL4_M00-utt14 op    C   C   C
+CA310QL4_M00-utt14 #csid 3 0 0 0
+CA310QL4_M00-utt15 ref  so  da
+CA310QL4_M00-utt15 hyp  so  da
+CA310QL4_M00-utt15 op    C   C
+CA310QL4_M00-utt15 #csid 2 0 0 0
+CA310QL4_M00-utt16 ref  ti  tu  mo
+CA310QL4_M00-utt16 hyp  ti  tu  mo
+CA310QL4_M00-utt16 op    C   C   C
+CA310QL4_M00-utt16 #csid 3 0 0 0
+CA310QL4_M00-utt17 ref  di  ma  ko
+CA310QL4_M00-utt17 hyp  di  ma  ko
+CA310QL4_M00-utt17 op    C   C   C
+CA310QL4_M00-utt17 #csid 3 0 0 0
+CA310QL4_M00-utt18 ref  ka  nyo
+CA310QL4_M00-utt18 hyp  ka  nyo
+CA310QL4_M00-utt18 op    C   C 
+CA310QL4_M00-utt18 #csid 2 0 0 0
+CA310QL4_M00-utt19 ref  ko  ga
+CA310QL4_M00-utt19 hyp  ko  ga
+CA310QL4_M00-utt19 op    C   C
+CA310QL4_M00-utt19 #csid 2 0 0 0
+CA310QL4_M00-utt2 ref  ye  ma
+CA310QL4_M00-utt2 hyp  ye  ma
+CA310QL4_M00-utt2 op    C   C
+CA310QL4_M00-utt2 #csid 2 0 0 0
+CA310QL4_M00-utt20 ref  mo  pe
+CA310QL4_M00-utt20 hyp  mo  pe
+CA310QL4_M00-utt20 op    C   C
+CA310QL4_M00-utt20 #csid 2 0 0 0
+CA310QL4_M00-utt21 ref  na  fe
+CA310QL4_M00-utt21 hyp  na  ze
+CA310QL4_M00-utt21 op    C   S
+CA310QL4_M00-utt21 #csid 1 1 0 0
+CA310QL4_M00-utt22 ref  ge  rra
+CA310QL4_M00-utt22 hyp  ge  rra
+CA310QL4_M00-utt22 op    C   C 
+CA310QL4_M00-utt22 #csid 2 0 0 0
+CA310QL4_M00-utt23 ref  so  ga  li  na
+CA310QL4_M00-utt23 hyp  so  ga  li  na
+CA310QL4_M00-utt23 op    C   C   C   C
+CA310QL4_M00-utt23 #csid 4 0 0 0
+CA310QL4_M00-utt24 ref  pe  li  ku  za
+CA310QL4_M00-utt24 hyp  pe  yi  ku  za
+CA310QL4_M00-utt24 op    C   S   C   C
+CA310QL4_M00-utt24 #csid 3 1 0 0
+CA310QL4_M00-utt25 ref  li  da
+CA310QL4_M00-utt25 hyp  li  da
+CA310QL4_M00-utt25 op    C   C
+CA310QL4_M00-utt25 #csid 2 0 0 0
+CA310QL4_M00-utt26 ref  no  be  la
+CA310QL4_M00-utt26 hyp  no  be  la
+CA310QL4_M00-utt26 op    C   C   C
+CA310QL4_M00-utt26 #csid 3 0 0 0
+CA310QL4_M00-utt27 ref  pe  ku  ga  ta
+CA310QL4_M00-utt27 hyp  pe  ku  ga  ta
+CA310QL4_M00-utt27 op    C   C   C   C
+CA310QL4_M00-utt27 #csid 4 0 0 0
+CA310QL4_M00-utt28 ref  la  ti  ga  zo
+CA310QL4_M00-utt28 hyp  la  ti  ga  zo
+CA310QL4_M00-utt28 op    C   C   C   C
+CA310QL4_M00-utt28 #csid 4 0 0 0
+CA310QL4_M00-utt29 ref  rro  ka
+CA310QL4_M00-utt29 hyp  rro  ka
+CA310QL4_M00-utt29 op    C    C
+CA310QL4_M00-utt29 #csid 2 0 0 0
+CA310QL4_M00-utt3 ref  zi  fo
+CA310QL4_M00-utt3 hyp  zi  zo
+CA310QL4_M00-utt3 op    C   S
+CA310QL4_M00-utt3 #csid 1 1 0 0
+CA310QL4_M00-utt30 ref  pa  le  tie  rra
+CA310QL4_M00-utt30 hyp  pa  le  tie  rra
+CA310QL4_M00-utt30 op    C   C   C    C 
+CA310QL4_M00-utt30 #csid 4 0 0 0
+CA310QL4_M00-utt31 ref  ze  bo
+CA310QL4_M00-utt31 hyp  de  bo
+CA310QL4_M00-utt31 op    S   C
+CA310QL4_M00-utt31 #csid 1 1 0 0
+CA310QL4_M00-utt32 ref  pa  li  yo
+CA310QL4_M00-utt32 hyp  pa  li  yo
+CA310QL4_M00-utt32 op    C   C   C
+CA310QL4_M00-utt32 #csid 3 0 0 0
+CA310QL4_M00-utt33 ref  ka  ba  ye  to
+CA310QL4_M00-utt33 hyp  ka  ba  ye  to
+CA310QL4_M00-utt33 op    C   C   C   C
+CA310QL4_M00-utt33 #csid 4 0 0 0
+CA310QL4_M00-utt34 ref  lo  fe  bu  ne
+CA310QL4_M00-utt34 hyp  lo  ze  bu  ne
+CA310QL4_M00-utt34 op    C   S   C   C
+CA310QL4_M00-utt34 #csid 3 1 0 0
+CA310QL4_M00-utt35 ref  ya  to
+CA310QL4_M00-utt35 hyp  ya  to
+CA310QL4_M00-utt35 op    C   C
+CA310QL4_M00-utt35 #csid 2 0 0 0
+CA310QL4_M00-utt36 ref  di  cho
+CA310QL4_M00-utt36 hyp  di  cho
+CA310QL4_M00-utt36 op    C   C 
+CA310QL4_M00-utt36 #csid 2 0 0 0
+CA310QL4_M00-utt37 ref  pe  na
+CA310QL4_M00-utt37 hyp  pe  na
+CA310QL4_M00-utt37 op    C   C
+CA310QL4_M00-utt37 #csid 2 0 0 0
+CA310QL4_M00-utt38 ref  bi  ya
+CA310QL4_M00-utt38 hyp  bi  ya
+CA310QL4_M00-utt38 op    C   C
+CA310QL4_M00-utt38 #csid 2 0 0 0
+CA310QL4_M00-utt39 ref  to  ye
+CA310QL4_M00-utt39 hyp  to  ye
+CA310QL4_M00-utt39 op    C   C
+CA310QL4_M00-utt39 #csid 2 0 0 0
+CA310QL4_M00-utt4 ref  pa  ni
+CA310QL4_M00-utt4 hyp  pa  ni
+CA310QL4_M00-utt4 op    C   C
+CA310QL4_M00-utt4 #csid 2 0 0 0
+CA310QL4_M00-utt40 ref  ze  bu  xo
+CA310QL4_M00-utt40 hyp  ze  bu  xo
+CA310QL4_M00-utt40 op    C   C   C
+CA310QL4_M00-utt40 #csid 3 0 0 0
+CA310QL4_M00-utt41 ref  rre  ti  ra  da
+CA310QL4_M00-utt41 hyp  rre  ti  ra  da
+CA310QL4_M00-utt41 op    C    C   C   C
+CA310QL4_M00-utt41 #csid 4 0 0 0
+CA310QL4_M00-utt42 ref  nu  me  so
+CA310QL4_M00-utt42 hyp  nu  me  so
+CA310QL4_M00-utt42 op    C   C   C
+CA310QL4_M00-utt42 #csid 3 0 0 0
+CA310QL4_M00-utt43 ref  pa  le  go
+CA310QL4_M00-utt43 hyp  pa  le  bo
+CA310QL4_M00-utt43 op    C   C   S
+CA310QL4_M00-utt43 #csid 2 1 0 0
+CA310QL4_M00-utt44 ref  me  di  zi  na
+CA310QL4_M00-utt44 hyp  me  di  zi  na
+CA310QL4_M00-utt44 op    C   C   C   C
+CA310QL4_M00-utt44 #csid 4 0 0 0
+CA310QL4_M00-utt45 ref  pi  se
+CA310QL4_M00-utt45 hyp  pi  se
+CA310QL4_M00-utt45 op    C   C
+CA310QL4_M00-utt45 #csid 2 0 0 0
+CA310QL4_M00-utt46 ref  ze  xi
+CA310QL4_M00-utt46 hyp  ze  xi
+CA310QL4_M00-utt46 op    C   C
+CA310QL4_M00-utt46 #csid 2 0 0 0
+CA310QL4_M00-utt47 ref  bi  su  pe  si
+CA310QL4_M00-utt47 hyp  bi  so  pe  si
+CA310QL4_M00-utt47 op    C   S   C   C
+CA310QL4_M00-utt47 #csid 3 1 0 0
+CA310QL4_M00-utt5 ref  za  bo  lu
+CA310QL4_M00-utt5 hyp  za  bo  lu
+CA310QL4_M00-utt5 op    C   C   C
+CA310QL4_M00-utt5 #csid 3 0 0 0
+CA310QL4_M00-utt6 ref  ma  no  ta  zo
+CA310QL4_M00-utt6 hyp  ma  no  ta  zo
+CA310QL4_M00-utt6 op    C   C   C   C
+CA310QL4_M00-utt6 #csid 4 0 0 0
+CA310QL4_M00-utt7 ref  ba  rre  yo
+CA310QL4_M00-utt7 hyp  ba  rre  yo
+CA310QL4_M00-utt7 op    C   C    C
+CA310QL4_M00-utt7 #csid 3 0 0 0
+CA310QL4_M00-utt8 ref  se  nyo  ri  da
+CA310QL4_M00-utt8 hyp  se  nyo  ri  ta
+CA310QL4_M00-utt8 op    C   C    C   S
+CA310QL4_M00-utt8 #csid 3 1 0 0
+CA310QL4_M00-utt9 ref  tu  fo
+CA310QL4_M00-utt9 hyp  tu  fo
+CA310QL4_M00-utt9 op    C   C
+CA310QL4_M00-utt9 #csid 2 0 0 0

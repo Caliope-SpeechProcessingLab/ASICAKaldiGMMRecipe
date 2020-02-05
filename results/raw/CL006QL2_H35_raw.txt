@@ -1,0 +1,771 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CL006QL1_H35    raw         50        135        123          9          0          3         12          8
+CL006QL1_H35    sys         50        135      91.11       6.67       0.00       2.22       8.89      16.00
+CL006QL2_H35    raw         45        123        113          9          0          1         10          9
+CL006QL2_H35    sys         45        123      91.87       7.32       0.00       0.81       8.13      20.00
+CL006QL3_H35    raw         47        128        112         14          0          2         16         14
+CL006QL3_H35    sys         47        128      87.50      10.94       0.00       1.56      12.50      29.79
+CL006QL4_H35    raw         47        128        113         14          0          1         15         14
+CL006QL4_H35    sys         47        128      88.28      10.94       0.00       0.78      11.72      29.79
+SUM             raw        189        514        461         46          0          7         53         45
+SUM             sys        189        514      89.69       8.95       0.00       1.36      10.31      23.81
+
+--------------------------------------------------------------------
+CL006QL1_H35-utt0 ref  ka  sa
+CL006QL1_H35-utt0 hyp  ka  sa
+CL006QL1_H35-utt0 op    C   C
+CL006QL1_H35-utt0 #csid 2 0 0 0
+CL006QL1_H35-utt1 ref  fo  ka
+CL006QL1_H35-utt1 hyp  fo  ka
+CL006QL1_H35-utt1 op    C   C
+CL006QL1_H35-utt1 #csid 2 0 0 0
+CL006QL1_H35-utt10 ref  pa  le  ti  ya
+CL006QL1_H35-utt10 hyp  pa  le  ti  ya
+CL006QL1_H35-utt10 op    C   C   C   C
+CL006QL1_H35-utt10 #csid 4 0 0 0
+CL006QL1_H35-utt11 ref  ka  rro  fa
+CL006QL1_H35-utt11 hyp  ka  rro  fa
+CL006QL1_H35-utt11 op    C   C    C
+CL006QL1_H35-utt11 #csid 3 0 0 0
+CL006QL1_H35-utt12 ref  ma  po
+CL006QL1_H35-utt12 hyp  ma  po
+CL006QL1_H35-utt12 op    C   C
+CL006QL1_H35-utt12 #csid 2 0 0 0
+CL006QL1_H35-utt13 ref  chu  lo
+CL006QL1_H35-utt13 hyp  chu  lo
+CL006QL1_H35-utt13 op    C    C
+CL006QL1_H35-utt13 #csid 2 0 0 0
+CL006QL1_H35-utt14 ref  pa  ba  ri  mo
+CL006QL1_H35-utt14 hyp  pa  ba  ri  mo
+CL006QL1_H35-utt14 op    C   C   C   C
+CL006QL1_H35-utt14 #csid 4 0 0 0
+CL006QL1_H35-utt15 ref  ko  pa  di
+CL006QL1_H35-utt15 hyp  ko  pa  di
+CL006QL1_H35-utt15 op    C   C   C
+CL006QL1_H35-utt15 #csid 3 0 0 0
+CL006QL1_H35-utt16 ref  li  ga
+CL006QL1_H35-utt16 hyp  li  ga
+CL006QL1_H35-utt16 op    C   C
+CL006QL1_H35-utt16 #csid 2 0 0 0
+CL006QL1_H35-utt17 ref  be  yo  lu
+CL006QL1_H35-utt17 hyp  be  yo  lu
+CL006QL1_H35-utt17 op    C   C   C
+CL006QL1_H35-utt17 #csid 3 0 0 0
+CL006QL1_H35-utt18 ref  so  te  lo
+CL006QL1_H35-utt18 hyp  so  pe  ro
+CL006QL1_H35-utt18 op    C   S   S
+CL006QL1_H35-utt18 #csid 1 2 0 0
+CL006QL1_H35-utt19 ref  ma  re  xa  za
+CL006QL1_H35-utt19 hyp  ma  re  xa  fa
+CL006QL1_H35-utt19 op    C   C   C   S
+CL006QL1_H35-utt19 #csid 3 1 0 0
+CL006QL1_H35-utt2 ref  le  ma
+CL006QL1_H35-utt2 hyp  le  ma
+CL006QL1_H35-utt2 op    C   C
+CL006QL1_H35-utt2 #csid 2 0 0 0
+CL006QL1_H35-utt20 ref  nu  me  ro
+CL006QL1_H35-utt20 hyp  nu  me  ro
+CL006QL1_H35-utt20 op    C   C   C
+CL006QL1_H35-utt20 #csid 3 0 0 0
+CL006QL1_H35-utt21 ref  ka  pi  tu  bo
+CL006QL1_H35-utt21 hyp  ka  pi  tu  bo
+CL006QL1_H35-utt21 op    C   C   C   C
+CL006QL1_H35-utt21 #csid 4 0 0 0
+CL006QL1_H35-utt22 ref  bi  ka
+CL006QL1_H35-utt22 hyp  bi  ka
+CL006QL1_H35-utt22 op    C   C
+CL006QL1_H35-utt22 #csid 2 0 0 0
+CL006QL1_H35-utt23 ref  ti  bo
+CL006QL1_H35-utt23 hyp  ti  bo
+CL006QL1_H35-utt23 op    C   C
+CL006QL1_H35-utt23 #csid 2 0 0 0
+CL006QL1_H35-utt24 ref  ka  yi
+CL006QL1_H35-utt24 hyp  ka  ye
+CL006QL1_H35-utt24 op    C   S
+CL006QL1_H35-utt24 #csid 1 1 0 0
+CL006QL1_H35-utt25 ref  fo  bo  xe  ma
+CL006QL1_H35-utt25 hyp  fo  bo  xe  ma
+CL006QL1_H35-utt25 op    C   C   C   C
+CL006QL1_H35-utt25 #csid 4 0 0 0
+CL006QL1_H35-utt26 ref  pa  ne
+CL006QL1_H35-utt26 hyp  pa  ne
+CL006QL1_H35-utt26 op    C   C
+CL006QL1_H35-utt26 #csid 2 0 0 0
+CL006QL1_H35-utt27 ref  tu  fo
+CL006QL1_H35-utt27 hyp  tu  fo
+CL006QL1_H35-utt27 op    C   C
+CL006QL1_H35-utt27 #csid 2 0 0 0
+CL006QL1_H35-utt28 ref  sa  te  li  to
+CL006QL1_H35-utt28 hyp  sa  te  li  to
+CL006QL1_H35-utt28 op    C   C   C   C
+CL006QL1_H35-utt28 #csid 4 0 0 0
+CL006QL1_H35-utt29 ref  fe  cha
+CL006QL1_H35-utt29 hyp  fe  cha
+CL006QL1_H35-utt29 op    C   C 
+CL006QL1_H35-utt29 #csid 2 0 0 0
+CL006QL1_H35-utt3 ref  ya  te
+CL006QL1_H35-utt3 hyp  ya  te
+CL006QL1_H35-utt3 op    C   C
+CL006QL1_H35-utt3 #csid 2 0 0 0
+CL006QL1_H35-utt30 ref  pe  mi
+CL006QL1_H35-utt30 hyp  pe  mi
+CL006QL1_H35-utt30 op    C   C
+CL006QL1_H35-utt30 #csid 2 0 0 0
+CL006QL1_H35-utt31 ref  di  ne  so
+CL006QL1_H35-utt31 hyp  di  ne  so
+CL006QL1_H35-utt31 op    C   C   C
+CL006QL1_H35-utt31 #csid 3 0 0 0
+CL006QL1_H35-utt32 ref  ka  ba  ye  te
+CL006QL1_H35-utt32 hyp  ka  ba  ye  te
+CL006QL1_H35-utt32 op    C   C   C   C
+CL006QL1_H35-utt32 #csid 4 0 0 0
+CL006QL1_H35-utt33 ref  ko  li  za
+CL006QL1_H35-utt33 hyp  ko  li  za
+CL006QL1_H35-utt33 op    C   C   C
+CL006QL1_H35-utt33 #csid 3 0 0 0
+CL006QL1_H35-utt34 ref  ka  rro  ma  do
+CL006QL1_H35-utt34 hyp  ka  rro  ma  do
+CL006QL1_H35-utt34 op    C   C    C   C
+CL006QL1_H35-utt34 #csid 4 0 0 0
+CL006QL1_H35-utt35 ref  gi  nyo
+CL006QL1_H35-utt35 hyp  gi  nyo
+CL006QL1_H35-utt35 op    C   C 
+CL006QL1_H35-utt35 #csid 2 0 0 0
+CL006QL1_H35-utt36 ref  ma  nya  da
+CL006QL1_H35-utt36 hyp  ma  nya  da
+CL006QL1_H35-utt36 op    C   C    C
+CL006QL1_H35-utt36 #csid 3 0 0 0
+CL006QL1_H35-utt37 ref  za  fe  lu  di
+CL006QL1_H35-utt37 hyp  za  fe  lu  de
+CL006QL1_H35-utt37 op    C   C   C   S
+CL006QL1_H35-utt37 #csid 3 1 0 0
+CL006QL1_H35-utt38 ref  la  ro
+CL006QL1_H35-utt38 hyp  la  do
+CL006QL1_H35-utt38 op    C   S
+CL006QL1_H35-utt38 #csid 1 1 0 0
+CL006QL1_H35-utt39 ref  zi  ne
+CL006QL1_H35-utt39 hyp  zi  ne
+CL006QL1_H35-utt39 op    C   C
+CL006QL1_H35-utt39 #csid 2 0 0 0
+CL006QL1_H35-utt4 ref  no  lu
+CL006QL1_H35-utt4 hyp  no  lu
+CL006QL1_H35-utt4 op    C   C
+CL006QL1_H35-utt4 #csid 2 0 0 0
+CL006QL1_H35-utt40 ref  se  nyo  ri  ta
+CL006QL1_H35-utt40 hyp  se  nyo  ri  ta
+CL006QL1_H35-utt40 op    C   C    C   C
+CL006QL1_H35-utt40 #csid 4 0 0 0
+CL006QL1_H35-utt41 ref  no  fe
+CL006QL1_H35-utt41 hyp  no  fe
+CL006QL1_H35-utt41 op    C   C
+CL006QL1_H35-utt41 #csid 2 0 0 0
+CL006QL1_H35-utt42 ref  pe  li  ku  la
+CL006QL1_H35-utt42 hyp  pe  li  ku  ra
+CL006QL1_H35-utt42 op    C   C   C   S
+CL006QL1_H35-utt42 #csid 3 1 0 0
+CL006QL1_H35-utt43 ref  fu  xo
+CL006QL1_H35-utt43 hyp  fu  xo
+CL006QL1_H35-utt43 op    C   C
+CL006QL1_H35-utt43 #csid 2 0 0 0
+CL006QL1_H35-utt44 ref  se  ku
+CL006QL1_H35-utt44 hyp  se  ku
+CL006QL1_H35-utt44 op    C   C
+CL006QL1_H35-utt44 #csid 2 0 0 0
+CL006QL1_H35-utt45 ref  to  rre
+CL006QL1_H35-utt45 hyp  to  rre
+CL006QL1_H35-utt45 op    C   C 
+CL006QL1_H35-utt45 #csid 2 0 0 0
+CL006QL1_H35-utt46 ref  do  fe
+CL006QL1_H35-utt46 hyp  do  fe
+CL006QL1_H35-utt46 op    C   C
+CL006QL1_H35-utt46 #csid 2 0 0 0
+CL006QL1_H35-utt47 ref  pa  rre  nyo
+CL006QL1_H35-utt47 hyp  pa  rre  nyo
+CL006QL1_H35-utt47 op    C   C    C 
+CL006QL1_H35-utt47 #csid 3 0 0 0
+CL006QL1_H35-utt48 ref  ta  le  go
+CL006QL1_H35-utt48 hyp  ta  le  go
+CL006QL1_H35-utt48 op    C   C   C
+CL006QL1_H35-utt48 #csid 3 0 0 0
+CL006QL1_H35-utt49 ref   me   la   ni  to
+CL006QL1_H35-utt49 hyp  ***  ***  ***  di
+CL006QL1_H35-utt49 op    D    D    D    S
+CL006QL1_H35-utt49 #csid 0 1 0 3
+CL006QL1_H35-utt5 ref  ba  fe
+CL006QL1_H35-utt5 hyp  ba  fe
+CL006QL1_H35-utt5 op    C   C
+CL006QL1_H35-utt5 #csid 2 0 0 0
+CL006QL1_H35-utt6 ref  ti  tu  lo
+CL006QL1_H35-utt6 hyp  ti  tu  lo
+CL006QL1_H35-utt6 op    C   C   C
+CL006QL1_H35-utt6 #csid 3 0 0 0
+CL006QL1_H35-utt7 ref  mo  de
+CL006QL1_H35-utt7 hyp  mo  de
+CL006QL1_H35-utt7 op    C   C
+CL006QL1_H35-utt7 #csid 2 0 0 0
+CL006QL1_H35-utt8 ref  pe  no
+CL006QL1_H35-utt8 hyp  pe  no
+CL006QL1_H35-utt8 op    C   C
+CL006QL1_H35-utt8 #csid 2 0 0 0
+CL006QL1_H35-utt9 ref  xe   ra
+CL006QL1_H35-utt9 hyp  xe  rra
+CL006QL1_H35-utt9 op    C   S 
+CL006QL1_H35-utt9 #csid 1 1 0 0
+CL006QL2_H35-utt0 ref  so  ya
+CL006QL2_H35-utt0 hyp  so  ya
+CL006QL2_H35-utt0 op    C   C
+CL006QL2_H35-utt0 #csid 2 0 0 0
+CL006QL2_H35-utt1 ref  be  ta
+CL006QL2_H35-utt1 hyp  be  ta
+CL006QL2_H35-utt1 op    C   C
+CL006QL2_H35-utt1 #csid 2 0 0 0
+CL006QL2_H35-utt10 ref  mo  ku
+CL006QL2_H35-utt10 hyp  mo  ku
+CL006QL2_H35-utt10 op    C   C
+CL006QL2_H35-utt10 #csid 2 0 0 0
+CL006QL2_H35-utt11 ref  lo  ra
+CL006QL2_H35-utt11 hyp  lo  ra
+CL006QL2_H35-utt11 op    C   C
+CL006QL2_H35-utt11 #csid 2 0 0 0
+CL006QL2_H35-utt12 ref  mi  ri  za
+CL006QL2_H35-utt12 hyp  mi  ri  za
+CL006QL2_H35-utt12 op    C   C   C
+CL006QL2_H35-utt12 #csid 3 0 0 0
+CL006QL2_H35-utt13 ref  xe  ta
+CL006QL2_H35-utt13 hyp  xe  ta
+CL006QL2_H35-utt13 op    C   C
+CL006QL2_H35-utt13 #csid 2 0 0 0
+CL006QL2_H35-utt14 ref  bu  fe  lu
+CL006QL2_H35-utt14 hyp  bu  fe  lu
+CL006QL2_H35-utt14 op    C   C   C
+CL006QL2_H35-utt14 #csid 3 0 0 0
+CL006QL2_H35-utt15 ref  ma  ni  be  za
+CL006QL2_H35-utt15 hyp  ma  ni  be  za
+CL006QL2_H35-utt15 op    C   C   C   C
+CL006QL2_H35-utt15 #csid 4 0 0 0
+CL006QL2_H35-utt16 ref  ma  re  xa   da
+CL006QL2_H35-utt16 hyp  ma  re  xa  ***
+CL006QL2_H35-utt16 op    C   C   C   D 
+CL006QL2_H35-utt16 #csid 3 0 0 1
+CL006QL2_H35-utt17 ref  pe  so
+CL006QL2_H35-utt17 hyp  pe  so
+CL006QL2_H35-utt17 op    C   C
+CL006QL2_H35-utt17 #csid 2 0 0 0
+CL006QL2_H35-utt18 ref  di  ra  di
+CL006QL2_H35-utt18 hyp  di  da  di
+CL006QL2_H35-utt18 op    C   S   C
+CL006QL2_H35-utt18 #csid 2 1 0 0
+CL006QL2_H35-utt19 ref  ti  fe  du  ne
+CL006QL2_H35-utt19 hyp  ti  fe  du  ne
+CL006QL2_H35-utt19 op    C   C   C   C
+CL006QL2_H35-utt19 #csid 4 0 0 0
+CL006QL2_H35-utt2 ref  sa  te  li  te
+CL006QL2_H35-utt2 hyp  sa  te  li  te
+CL006QL2_H35-utt2 op    C   C   C   C
+CL006QL2_H35-utt2 #csid 4 0 0 0
+CL006QL2_H35-utt20 ref  ti  yo
+CL006QL2_H35-utt20 hyp  ti  yo
+CL006QL2_H35-utt20 op    C   C
+CL006QL2_H35-utt20 #csid 2 0 0 0
+CL006QL2_H35-utt21 ref  no  fe
+CL006QL2_H35-utt21 hyp  no  fe
+CL006QL2_H35-utt21 op    C   C
+CL006QL2_H35-utt21 #csid 2 0 0 0
+CL006QL2_H35-utt22 ref  pe  ta  ti
+CL006QL2_H35-utt22 hyp  pe  ta  ti
+CL006QL2_H35-utt22 op    C   C   C
+CL006QL2_H35-utt22 #csid 3 0 0 0
+CL006QL2_H35-utt23 ref  la  do
+CL006QL2_H35-utt23 hyp  la  po
+CL006QL2_H35-utt23 op    C   S
+CL006QL2_H35-utt23 #csid 1 1 0 0
+CL006QL2_H35-utt24 ref  mu  no
+CL006QL2_H35-utt24 hyp  mu  mo
+CL006QL2_H35-utt24 op    C   S
+CL006QL2_H35-utt24 #csid 1 1 0 0
+CL006QL2_H35-utt25 ref  za  lu
+CL006QL2_H35-utt25 hyp  za  do
+CL006QL2_H35-utt25 op    C   S
+CL006QL2_H35-utt25 #csid 1 1 0 0
+CL006QL2_H35-utt26 ref  ka  rro  ma  to
+CL006QL2_H35-utt26 hyp  ka  rro  ma  to
+CL006QL2_H35-utt26 op    C   C    C   C
+CL006QL2_H35-utt26 #csid 4 0 0 0
+CL006QL2_H35-utt27 ref  mu  si  ma
+CL006QL2_H35-utt27 hyp  mu  si  ma
+CL006QL2_H35-utt27 op    C   C   C
+CL006QL2_H35-utt27 #csid 3 0 0 0
+CL006QL2_H35-utt28 ref  de  ba  ti
+CL006QL2_H35-utt28 hyp  de  ba  ti
+CL006QL2_H35-utt28 op    C   C   C
+CL006QL2_H35-utt28 #csid 3 0 0 0
+CL006QL2_H35-utt29 ref  di  ne  ro
+CL006QL2_H35-utt29 hyp  bi  ne  ro
+CL006QL2_H35-utt29 op    S   C   C
+CL006QL2_H35-utt29 #csid 2 1 0 0
+CL006QL2_H35-utt3 ref  ma  nya  na
+CL006QL2_H35-utt3 hyp  ma  nya  na
+CL006QL2_H35-utt3 op    C   C    C
+CL006QL2_H35-utt3 #csid 3 0 0 0
+CL006QL2_H35-utt30 ref  ni  fu  ba  mi
+CL006QL2_H35-utt30 hyp  ni  fu  ba  mi
+CL006QL2_H35-utt30 op    C   C   C   C
+CL006QL2_H35-utt30 #csid 4 0 0 0
+CL006QL2_H35-utt31 ref  mo  te
+CL006QL2_H35-utt31 hyp  mo  te
+CL006QL2_H35-utt31 op    C   C
+CL006QL2_H35-utt31 #csid 2 0 0 0
+CL006QL2_H35-utt32 ref  ko  da
+CL006QL2_H35-utt32 hyp  ko  da
+CL006QL2_H35-utt32 op    C   C
+CL006QL2_H35-utt32 #csid 2 0 0 0
+CL006QL2_H35-utt33 ref  ko  ki
+CL006QL2_H35-utt33 hyp  ko  pe
+CL006QL2_H35-utt33 op    C   S
+CL006QL2_H35-utt33 #csid 1 1 0 0
+CL006QL2_H35-utt34 ref  di  gu  li  te
+CL006QL2_H35-utt34 hyp  ti  ku  li  te
+CL006QL2_H35-utt34 op    S   S   C   C
+CL006QL2_H35-utt34 #csid 2 2 0 0
+CL006QL2_H35-utt35 ref  ko  pa  te
+CL006QL2_H35-utt35 hyp  ko  pa  te
+CL006QL2_H35-utt35 op    C   C   C
+CL006QL2_H35-utt35 #csid 3 0 0 0
+CL006QL2_H35-utt36 ref  do  bu
+CL006QL2_H35-utt36 hyp  do  bu
+CL006QL2_H35-utt36 op    C   C
+CL006QL2_H35-utt36 #csid 2 0 0 0
+CL006QL2_H35-utt37 ref  no  che
+CL006QL2_H35-utt37 hyp  no  che
+CL006QL2_H35-utt37 op    C   C 
+CL006QL2_H35-utt37 #csid 2 0 0 0
+CL006QL2_H35-utt38 ref  fi  lo  zo  fo
+CL006QL2_H35-utt38 hyp  fi  lo  fo  fo
+CL006QL2_H35-utt38 op    C   C   S   C
+CL006QL2_H35-utt38 #csid 3 1 0 0
+CL006QL2_H35-utt39 ref  pa  do
+CL006QL2_H35-utt39 hyp  pa  do
+CL006QL2_H35-utt39 op    C   C
+CL006QL2_H35-utt39 #csid 2 0 0 0
+CL006QL2_H35-utt4 ref  zi  da
+CL006QL2_H35-utt4 hyp  zi  da
+CL006QL2_H35-utt4 op    C   C
+CL006QL2_H35-utt4 #csid 2 0 0 0
+CL006QL2_H35-utt40 ref  ka  yo
+CL006QL2_H35-utt40 hyp  ka  yo
+CL006QL2_H35-utt40 op    C   C
+CL006QL2_H35-utt40 #csid 2 0 0 0
+CL006QL2_H35-utt41 ref  ka  pi  tu  lo
+CL006QL2_H35-utt41 hyp  ka  pi  tu  lo
+CL006QL2_H35-utt41 op    C   C   C   C
+CL006QL2_H35-utt41 #csid 4 0 0 0
+CL006QL2_H35-utt42 ref  lu  xa
+CL006QL2_H35-utt42 hyp  lu  xa
+CL006QL2_H35-utt42 op    C   C
+CL006QL2_H35-utt42 #csid 2 0 0 0
+CL006QL2_H35-utt43 ref  ba  ye
+CL006QL2_H35-utt43 hyp  ba  ye
+CL006QL2_H35-utt43 op    C   C
+CL006QL2_H35-utt43 #csid 2 0 0 0
+CL006QL2_H35-utt44 ref  ka  ba  ye  mo
+CL006QL2_H35-utt44 hyp  ka  ba  ye  mo
+CL006QL2_H35-utt44 op    C   C   C   C
+CL006QL2_H35-utt44 #csid 4 0 0 0
+CL006QL2_H35-utt5 ref  ka  rro  nya
+CL006QL2_H35-utt5 hyp  ka  rro  nya
+CL006QL2_H35-utt5 op    C   C    C 
+CL006QL2_H35-utt5 #csid 3 0 0 0
+CL006QL2_H35-utt6 ref  bi  ga
+CL006QL2_H35-utt6 hyp  bi  ga
+CL006QL2_H35-utt6 op    C   C
+CL006QL2_H35-utt6 #csid 2 0 0 0
+CL006QL2_H35-utt7 ref  me  ze  do  ta
+CL006QL2_H35-utt7 hyp  me  ze  do  ta
+CL006QL2_H35-utt7 op    C   C   C   C
+CL006QL2_H35-utt7 #csid 4 0 0 0
+CL006QL2_H35-utt8 ref  ko  li  ya
+CL006QL2_H35-utt8 hyp  ko  li  ya
+CL006QL2_H35-utt8 op    C   C   C
+CL006QL2_H35-utt8 #csid 3 0 0 0
+CL006QL2_H35-utt9 ref  bu  de
+CL006QL2_H35-utt9 hyp  bu  de
+CL006QL2_H35-utt9 op    C   C
+CL006QL2_H35-utt9 #csid 2 0 0 0
+CL006QL3_H35-utt0 ref  so  ri
+CL006QL3_H35-utt0 hyp  so  de
+CL006QL3_H35-utt0 op    C   S
+CL006QL3_H35-utt0 #csid 1 1 0 0
+CL006QL3_H35-utt1 ref  ye  da
+CL006QL3_H35-utt1 hyp  ye  da
+CL006QL3_H35-utt1 op    C   C
+CL006QL3_H35-utt1 #csid 2 0 0 0
+CL006QL3_H35-utt10 ref  zu  fe
+CL006QL3_H35-utt10 hyp  zu  fe
+CL006QL3_H35-utt10 op    C   C
+CL006QL3_H35-utt10 #csid 2 0 0 0
+CL006QL3_H35-utt11 ref  so  ma
+CL006QL3_H35-utt11 hyp  so  ma
+CL006QL3_H35-utt11 op    C   C
+CL006QL3_H35-utt11 #csid 2 0 0 0
+CL006QL3_H35-utt12 ref  ka  ba  ye  ro
+CL006QL3_H35-utt12 hyp  ka  ba  ye  ro
+CL006QL3_H35-utt12 op    C   C   C   C
+CL006QL3_H35-utt12 #csid 4 0 0 0
+CL006QL3_H35-utt13 ref  be  na
+CL006QL3_H35-utt13 hyp  me  na
+CL006QL3_H35-utt13 op    S   C
+CL006QL3_H35-utt13 #csid 1 1 0 0
+CL006QL3_H35-utt14 ref  mu  si  ka
+CL006QL3_H35-utt14 hyp  mu  si  ka
+CL006QL3_H35-utt14 op    C   C   C
+CL006QL3_H35-utt14 #csid 3 0 0 0
+CL006QL3_H35-utt15 ref  di  zu
+CL006QL3_H35-utt15 hyp  di  so
+CL006QL3_H35-utt15 op    C   S
+CL006QL3_H35-utt15 #csid 1 1 0 0
+CL006QL3_H35-utt16 ref  ka  mi  ro
+CL006QL3_H35-utt16 hyp  ka  mi  ro
+CL006QL3_H35-utt16 op    C   C   C
+CL006QL3_H35-utt16 #csid 3 0 0 0
+CL006QL3_H35-utt17 ref  me  ze  do  ra
+CL006QL3_H35-utt17 hyp  me  ze  du  ra
+CL006QL3_H35-utt17 op    C   C   S   C
+CL006QL3_H35-utt17 #csid 3 1 0 0
+CL006QL3_H35-utt18 ref  ze  bi
+CL006QL3_H35-utt18 hyp  ze  bi
+CL006QL3_H35-utt18 op    C   C
+CL006QL3_H35-utt18 #csid 2 0 0 0
+CL006QL3_H35-utt19 ref  za  xo
+CL006QL3_H35-utt19 hyp  fa  xo
+CL006QL3_H35-utt19 op    S   C
+CL006QL3_H35-utt19 #csid 1 1 0 0
+CL006QL3_H35-utt2 ref  pa  li  xo
+CL006QL3_H35-utt2 hyp  pa  li  xo
+CL006QL3_H35-utt2 op    C   C   C
+CL006QL3_H35-utt2 #csid 3 0 0 0
+CL006QL3_H35-utt20 ref  bi  la
+CL006QL3_H35-utt20 hyp  bi  la
+CL006QL3_H35-utt20 op    C   C
+CL006QL3_H35-utt20 #csid 2 0 0 0
+CL006QL3_H35-utt21 ref  me  di  zi  ra
+CL006QL3_H35-utt21 hyp  be  di  zi  ra
+CL006QL3_H35-utt21 op    S   C   C   C
+CL006QL3_H35-utt21 #csid 3 1 0 0
+CL006QL3_H35-utt22 ref  la  ti  ga  fo
+CL006QL3_H35-utt22 hyp  la  ti  ga  fo
+CL006QL3_H35-utt22 op    C   C   C   C
+CL006QL3_H35-utt22 #csid 4 0 0 0
+CL006QL3_H35-utt23 ref  no  fe  ba
+CL006QL3_H35-utt23 hyp  no  fe  ba
+CL006QL3_H35-utt23 op    C   C   C
+CL006QL3_H35-utt23 #csid 3 0 0 0
+CL006QL3_H35-utt24 ref  lu  fo
+CL006QL3_H35-utt24 hyp  lu  fo
+CL006QL3_H35-utt24 op    C   C
+CL006QL3_H35-utt24 #csid 2 0 0 0
+CL006QL3_H35-utt25 ref   fi  lo  so   fo
+CL006QL3_H35-utt25 hyp  ***  lo  so  ***
+CL006QL3_H35-utt25 op    D    C   C   D 
+CL006QL3_H35-utt25 #csid 2 0 0 2
+CL006QL3_H35-utt26 ref  ni  bo  fe  ma
+CL006QL3_H35-utt26 hyp  ni  bo  fe  ma
+CL006QL3_H35-utt26 op    C   C   C   C
+CL006QL3_H35-utt26 #csid 4 0 0 0
+CL006QL3_H35-utt27 ref  mi  ri  ya
+CL006QL3_H35-utt27 hyp  mi  ri  ya
+CL006QL3_H35-utt27 op    C   C   C
+CL006QL3_H35-utt27 #csid 3 0 0 0
+CL006QL3_H35-utt28 ref  zi  bu  fe  ni
+CL006QL3_H35-utt28 hyp  zi  bu  fa  ne
+CL006QL3_H35-utt28 op    C   C   S   S
+CL006QL3_H35-utt28 #csid 2 2 0 0
+CL006QL3_H35-utt29 ref  mo  pa  so  ka
+CL006QL3_H35-utt29 hyp  mo  pa  so  ka
+CL006QL3_H35-utt29 op    C   C   C   C
+CL006QL3_H35-utt29 #csid 4 0 0 0
+CL006QL3_H35-utt3 ref  so  ga
+CL006QL3_H35-utt3 hyp  so  ga
+CL006QL3_H35-utt3 op    C   C
+CL006QL3_H35-utt3 #csid 2 0 0 0
+CL006QL3_H35-utt30 ref  ma  ni  be  la
+CL006QL3_H35-utt30 hyp  ma  ni  be  la
+CL006QL3_H35-utt30 op    C   C   C   C
+CL006QL3_H35-utt30 #csid 4 0 0 0
+CL006QL3_H35-utt31 ref  pe  ta  te
+CL006QL3_H35-utt31 hyp  pe  ta  te
+CL006QL3_H35-utt31 op    C   C   C
+CL006QL3_H35-utt31 #csid 3 0 0 0
+CL006QL3_H35-utt32 ref  de  ba  te
+CL006QL3_H35-utt32 hyp  ge  ba  te
+CL006QL3_H35-utt32 op    S   C   C
+CL006QL3_H35-utt32 #csid 2 1 0 0
+CL006QL3_H35-utt33 ref  lu  cha
+CL006QL3_H35-utt33 hyp  lu  cha
+CL006QL3_H35-utt33 op    C   C 
+CL006QL3_H35-utt33 #csid 2 0 0 0
+CL006QL3_H35-utt34 ref  ka  mo
+CL006QL3_H35-utt34 hyp  xa  mo
+CL006QL3_H35-utt34 op    S   C
+CL006QL3_H35-utt34 #csid 1 1 0 0
+CL006QL3_H35-utt35 ref  ko  di  so
+CL006QL3_H35-utt35 hyp  ko  di  so
+CL006QL3_H35-utt35 op    C   C   C
+CL006QL3_H35-utt35 #csid 3 0 0 0
+CL006QL3_H35-utt36 ref  so  ma  zi
+CL006QL3_H35-utt36 hyp  so  ma  fe
+CL006QL3_H35-utt36 op    C   C   S
+CL006QL3_H35-utt36 #csid 2 1 0 0
+CL006QL3_H35-utt37 ref  lo  na
+CL006QL3_H35-utt37 hyp  lo  na
+CL006QL3_H35-utt37 op    C   C
+CL006QL3_H35-utt37 #csid 2 0 0 0
+CL006QL3_H35-utt38 ref  rro  ko
+CL006QL3_H35-utt38 hyp  rro  ko
+CL006QL3_H35-utt38 op    C    C
+CL006QL3_H35-utt38 #csid 2 0 0 0
+CL006QL3_H35-utt39 ref  pe  ta  ma
+CL006QL3_H35-utt39 hyp  pe  ta  ma
+CL006QL3_H35-utt39 op    C   C   C
+CL006QL3_H35-utt39 #csid 3 0 0 0
+CL006QL3_H35-utt4 ref  ko  pa
+CL006QL3_H35-utt4 hyp  ko  pa
+CL006QL3_H35-utt4 op    C   C
+CL006QL3_H35-utt4 #csid 2 0 0 0
+CL006QL3_H35-utt40 ref  gue  za
+CL006QL3_H35-utt40 hyp  gue  za
+CL006QL3_H35-utt40 op    C    C
+CL006QL3_H35-utt40 #csid 2 0 0 0
+CL006QL3_H35-utt41 ref  ma  no  ta  go
+CL006QL3_H35-utt41 hyp  ma  no  ta  do
+CL006QL3_H35-utt41 op    C   C   C   S
+CL006QL3_H35-utt41 #csid 3 1 0 0
+CL006QL3_H35-utt42 ref  bu  ke
+CL006QL3_H35-utt42 hyp  bu  ke
+CL006QL3_H35-utt42 op    C   C
+CL006QL3_H35-utt42 #csid 2 0 0 0
+CL006QL3_H35-utt43 ref  me  pe
+CL006QL3_H35-utt43 hyp  me  pe
+CL006QL3_H35-utt43 op    C   C
+CL006QL3_H35-utt43 #csid 2 0 0 0
+CL006QL3_H35-utt44 ref  pe  ta
+CL006QL3_H35-utt44 hyp  pe  ta
+CL006QL3_H35-utt44 op    C   C
+CL006QL3_H35-utt44 #csid 2 0 0 0
+CL006QL3_H35-utt45 ref  rre  ti  rra  za
+CL006QL3_H35-utt45 hyp  rre  ti  rra  fa
+CL006QL3_H35-utt45 op    C    C   C    S
+CL006QL3_H35-utt45 #csid 3 1 0 0
+CL006QL3_H35-utt46 ref  ti  bu
+CL006QL3_H35-utt46 hyp  ti  bu
+CL006QL3_H35-utt46 op    C   C
+CL006QL3_H35-utt46 #csid 2 0 0 0
+CL006QL3_H35-utt5 ref  be  ya  fe
+CL006QL3_H35-utt5 hyp  be  ya  fe
+CL006QL3_H35-utt5 op    C   C   C
+CL006QL3_H35-utt5 #csid 3 0 0 0
+CL006QL3_H35-utt6 ref  mu  lo
+CL006QL3_H35-utt6 hyp  mu  lo
+CL006QL3_H35-utt6 op    C   C
+CL006QL3_H35-utt6 #csid 2 0 0 0
+CL006QL3_H35-utt7 ref  zi  ma
+CL006QL3_H35-utt7 hyp  zi  ma
+CL006QL3_H35-utt7 op    C   C
+CL006QL3_H35-utt7 #csid 2 0 0 0
+CL006QL3_H35-utt8 ref  no  be  ya
+CL006QL3_H35-utt8 hyp  no  be  ya
+CL006QL3_H35-utt8 op    C   C   C
+CL006QL3_H35-utt8 #csid 3 0 0 0
+CL006QL3_H35-utt9 ref  ni  gu
+CL006QL3_H35-utt9 hyp  mi  gu
+CL006QL3_H35-utt9 op    S   C
+CL006QL3_H35-utt9 #csid 1 1 0 0
+CL006QL4_H35-utt0 ref  chu  so
+CL006QL4_H35-utt0 hyp  chu  so
+CL006QL4_H35-utt0 op    C    C
+CL006QL4_H35-utt0 #csid 2 0 0 0
+CL006QL4_H35-utt1 ref  fe  za
+CL006QL4_H35-utt1 hyp  fe  za
+CL006QL4_H35-utt1 op    C   C
+CL006QL4_H35-utt1 #csid 2 0 0 0
+CL006QL4_H35-utt10 ref  pe  ta  ka
+CL006QL4_H35-utt10 hyp  pe  ta  ka
+CL006QL4_H35-utt10 op    C   C   C
+CL006QL4_H35-utt10 #csid 3 0 0 0
+CL006QL4_H35-utt11 ref  do  ya
+CL006QL4_H35-utt11 hyp  do  ya
+CL006QL4_H35-utt11 op    C   C
+CL006QL4_H35-utt11 #csid 2 0 0 0
+CL006QL4_H35-utt12 ref  li  ya
+CL006QL4_H35-utt12 hyp  li  ya
+CL006QL4_H35-utt12 op    C   C
+CL006QL4_H35-utt12 #csid 2 0 0 0
+CL006QL4_H35-utt13 ref  ka  mi  no
+CL006QL4_H35-utt13 hyp  ka  ni  no
+CL006QL4_H35-utt13 op    C   S   C
+CL006QL4_H35-utt13 #csid 2 1 0 0
+CL006QL4_H35-utt14 ref  pa  de  so
+CL006QL4_H35-utt14 hyp  pa  de  so
+CL006QL4_H35-utt14 op    C   C   C
+CL006QL4_H35-utt14 #csid 3 0 0 0
+CL006QL4_H35-utt15 ref  so  da
+CL006QL4_H35-utt15 hyp  so  da
+CL006QL4_H35-utt15 op    C   C
+CL006QL4_H35-utt15 #csid 2 0 0 0
+CL006QL4_H35-utt16 ref  ti  tu  mo
+CL006QL4_H35-utt16 hyp  ti  tu  mo
+CL006QL4_H35-utt16 op    C   C   C
+CL006QL4_H35-utt16 #csid 3 0 0 0
+CL006QL4_H35-utt17 ref  di  ma  ko
+CL006QL4_H35-utt17 hyp  di  ma  ko
+CL006QL4_H35-utt17 op    C   C   C
+CL006QL4_H35-utt17 #csid 3 0 0 0
+CL006QL4_H35-utt18 ref  ka  no
+CL006QL4_H35-utt18 hyp  ka  no
+CL006QL4_H35-utt18 op    C   C
+CL006QL4_H35-utt18 #csid 2 0 0 0
+CL006QL4_H35-utt19 ref  ko  xa
+CL006QL4_H35-utt19 hyp  ko  xa
+CL006QL4_H35-utt19 op    C   C
+CL006QL4_H35-utt19 #csid 2 0 0 0
+CL006QL4_H35-utt2 ref  ye  ma
+CL006QL4_H35-utt2 hyp  ye  ma
+CL006QL4_H35-utt2 op    C   C
+CL006QL4_H35-utt2 #csid 2 0 0 0
+CL006QL4_H35-utt20 ref  mo  pe
+CL006QL4_H35-utt20 hyp  mo  pe
+CL006QL4_H35-utt20 op    C   C
+CL006QL4_H35-utt20 #csid 2 0 0 0
+CL006QL4_H35-utt21 ref  na  fe
+CL006QL4_H35-utt21 hyp  na  fe
+CL006QL4_H35-utt21 op    C   C
+CL006QL4_H35-utt21 #csid 2 0 0 0
+CL006QL4_H35-utt22 ref  ge  rra
+CL006QL4_H35-utt22 hyp  ge  rra
+CL006QL4_H35-utt22 op    C   C 
+CL006QL4_H35-utt22 #csid 2 0 0 0
+CL006QL4_H35-utt23 ref  so  ga  li  na
+CL006QL4_H35-utt23 hyp  so  ga  me  na
+CL006QL4_H35-utt23 op    C   C   S   C
+CL006QL4_H35-utt23 #csid 3 1 0 0
+CL006QL4_H35-utt24 ref  pe  li  ku  za
+CL006QL4_H35-utt24 hyp  ke  li  ku  za
+CL006QL4_H35-utt24 op    S   C   C   C
+CL006QL4_H35-utt24 #csid 3 1 0 0
+CL006QL4_H35-utt25 ref  di  la
+CL006QL4_H35-utt25 hyp  di  la
+CL006QL4_H35-utt25 op    C   C
+CL006QL4_H35-utt25 #csid 2 0 0 0
+CL006QL4_H35-utt26 ref  no  be  la
+CL006QL4_H35-utt26 hyp  no  be  la
+CL006QL4_H35-utt26 op    C   C   C
+CL006QL4_H35-utt26 #csid 3 0 0 0
+CL006QL4_H35-utt27 ref  pe  ku  ga  ta
+CL006QL4_H35-utt27 hyp  pe  ku  ga  ta
+CL006QL4_H35-utt27 op    C   C   C   C
+CL006QL4_H35-utt27 #csid 4 0 0 0
+CL006QL4_H35-utt28 ref  rro  ka
+CL006QL4_H35-utt28 hyp  rro  ka
+CL006QL4_H35-utt28 op    C    C
+CL006QL4_H35-utt28 #csid 2 0 0 0
+CL006QL4_H35-utt29 ref  pa  le  ti  rra
+CL006QL4_H35-utt29 hyp  pa  le  ti  rra
+CL006QL4_H35-utt29 op    C   C   C   C 
+CL006QL4_H35-utt29 #csid 4 0 0 0
+CL006QL4_H35-utt3 ref  zi  fo
+CL006QL4_H35-utt3 hyp  zi  fo
+CL006QL4_H35-utt3 op    C   C
+CL006QL4_H35-utt3 #csid 2 0 0 0
+CL006QL4_H35-utt30 ref  ze  bo
+CL006QL4_H35-utt30 hyp  fe  bo
+CL006QL4_H35-utt30 op    S   C
+CL006QL4_H35-utt30 #csid 1 1 0 0
+CL006QL4_H35-utt31 ref  pa  li  yo
+CL006QL4_H35-utt31 hyp  pa  le  yo
+CL006QL4_H35-utt31 op    C   S   C
+CL006QL4_H35-utt31 #csid 2 1 0 0
+CL006QL4_H35-utt32 ref  ka  ba  ye  to
+CL006QL4_H35-utt32 hyp  ka  ba  ye  to
+CL006QL4_H35-utt32 op    C   C   C   C
+CL006QL4_H35-utt32 #csid 4 0 0 0
+CL006QL4_H35-utt33 ref  lo  fe  du  ne
+CL006QL4_H35-utt33 hyp  lo  fe  du  na
+CL006QL4_H35-utt33 op    C   C   C   S
+CL006QL4_H35-utt33 #csid 3 1 0 0
+CL006QL4_H35-utt34 ref  ya  to
+CL006QL4_H35-utt34 hyp  ya  to
+CL006QL4_H35-utt34 op    C   C
+CL006QL4_H35-utt34 #csid 2 0 0 0
+CL006QL4_H35-utt35 ref  gi  cho
+CL006QL4_H35-utt35 hyp  gi  cho
+CL006QL4_H35-utt35 op    C   C 
+CL006QL4_H35-utt35 #csid 2 0 0 0
+CL006QL4_H35-utt36 ref  pe  na
+CL006QL4_H35-utt36 hyp  pe  na
+CL006QL4_H35-utt36 op    C   C
+CL006QL4_H35-utt36 #csid 2 0 0 0
+CL006QL4_H35-utt37 ref  bi  ya
+CL006QL4_H35-utt37 hyp  bi  ya
+CL006QL4_H35-utt37 op    C   C
+CL006QL4_H35-utt37 #csid 2 0 0 0
+CL006QL4_H35-utt38 ref  to  ye
+CL006QL4_H35-utt38 hyp  to  ye
+CL006QL4_H35-utt38 op    C   C
+CL006QL4_H35-utt38 #csid 2 0 0 0
+CL006QL4_H35-utt39 ref  fe  bu  xo
+CL006QL4_H35-utt39 hyp  ze  bu  xo
+CL006QL4_H35-utt39 op    S   C   C
+CL006QL4_H35-utt39 #csid 2 1 0 0
+CL006QL4_H35-utt4 ref  pa  ni
+CL006QL4_H35-utt4 hyp  pa  ne
+CL006QL4_H35-utt4 op    C   S
+CL006QL4_H35-utt4 #csid 1 1 0 0
+CL006QL4_H35-utt40 ref  rre  ti   ra  da
+CL006QL4_H35-utt40 hyp  rre  ti  ***  da
+CL006QL4_H35-utt40 op    C    C   D    C
+CL006QL4_H35-utt40 #csid 3 0 0 1
+CL006QL4_H35-utt41 ref  nu  me  so
+CL006QL4_H35-utt41 hyp  nu  me  so
+CL006QL4_H35-utt41 op    C   C   C
+CL006QL4_H35-utt41 #csid 3 0 0 0
+CL006QL4_H35-utt42 ref  ta  le  bo
+CL006QL4_H35-utt42 hyp  ta  le  bo
+CL006QL4_H35-utt42 op    C   C   C
+CL006QL4_H35-utt42 #csid 3 0 0 0
+CL006QL4_H35-utt43 ref  me  di  zi  na
+CL006QL4_H35-utt43 hyp  me  ti  zi  na
+CL006QL4_H35-utt43 op    C   S   C   C
+CL006QL4_H35-utt43 #csid 3 1 0 0
+CL006QL4_H35-utt44 ref  zi  se
+CL006QL4_H35-utt44 hyp  zi  se
+CL006QL4_H35-utt44 op    C   C
+CL006QL4_H35-utt44 #csid 2 0 0 0
+CL006QL4_H35-utt45 ref   fe  xe
+CL006QL4_H35-utt45 hyp  fes  ze
+CL006QL4_H35-utt45 op    S    S
+CL006QL4_H35-utt45 #csid 0 2 0 0
+CL006QL4_H35-utt46 ref  pi  fu  pe  si
+CL006QL4_H35-utt46 hyp  pi  fu  pe  si
+CL006QL4_H35-utt46 op    C   C   C   C
+CL006QL4_H35-utt46 #csid 4 0 0 0
+CL006QL4_H35-utt5 ref  za  bo  lu
+CL006QL4_H35-utt5 hyp  za  bo  lu
+CL006QL4_H35-utt5 op    C   C   C
+CL006QL4_H35-utt5 #csid 3 0 0 0
+CL006QL4_H35-utt6 ref  ma  no  ta  zo
+CL006QL4_H35-utt6 hyp  ma  no  ta  fo
+CL006QL4_H35-utt6 op    C   C   C   S
+CL006QL4_H35-utt6 #csid 3 1 0 0
+CL006QL4_H35-utt7 ref  ba  rre  nyo
+CL006QL4_H35-utt7 hyp  ba  rre  nyo
+CL006QL4_H35-utt7 op    C   C    C 
+CL006QL4_H35-utt7 #csid 3 0 0 0
+CL006QL4_H35-utt8 ref  se  nyo  ri  da
+CL006QL4_H35-utt8 hyp  se   yo  ri  da
+CL006QL4_H35-utt8 op    C   S    C   C
+CL006QL4_H35-utt8 #csid 3 1 0 0
+CL006QL4_H35-utt9 ref  tu  zo
+CL006QL4_H35-utt9 hyp  tu  fo
+CL006QL4_H35-utt9 op    C   S
+CL006QL4_H35-utt9 #csid 1 1 0 0

@@ -1,0 +1,779 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA524QL1_H50    raw         48        132         70         30          3         32         65         34
+CA524QL1_H50    sys         48        132      53.03      22.73       2.27      24.24      49.24      70.83
+CA524QL2_H50    raw         47        129         34         38          0         57         95         41
+CA524QL2_H50    sys         47        129      26.36      29.46       0.00      44.19      73.64      87.23
+CA524QL3_H50    raw         48        132          6         43          0         83        126         48
+CA524QL3_H50    sys         48        132       4.55      32.58       0.00      62.88      95.45     100.00
+CA524QL4_H50    raw         48        132         24         29          1         79        109         48
+CA524QL4_H50    sys         48        132      18.18      21.97       0.76      59.85      82.58     100.00
+SUM             raw        191        525        134        140          4        251        395        171
+SUM             sys        191        525      25.52      26.67       0.76      47.81      75.24      89.53
+
+--------------------------------------------------------------------
+CA524QL1_H50-utt0 ref   ya   te
+CA524QL1_H50-utt0 hyp  ***  ***
+CA524QL1_H50-utt0 op    D    D 
+CA524QL1_H50-utt0 #csid 0 0 0 2
+CA524QL1_H50-utt1 ref   no  lu
+CA524QL1_H50-utt1 hyp  ***  bu
+CA524QL1_H50-utt1 op    D    S
+CA524QL1_H50-utt1 #csid 0 1 0 1
+CA524QL1_H50-utt10 ref  chu  lo
+CA524QL1_H50-utt10 hyp  chu  lo
+CA524QL1_H50-utt10 op    C    C
+CA524QL1_H50-utt10 #csid 2 0 0 0
+CA524QL1_H50-utt11 ref  pa  ba   ri  mo
+CA524QL1_H50-utt11 hyp  ta  ba  rim   o
+CA524QL1_H50-utt11 op    S   C   S    S
+CA524QL1_H50-utt11 #csid 1 3 0 0
+CA524QL1_H50-utt12 ref   ko  pa  di
+CA524QL1_H50-utt12 hyp  ***  ba  di
+CA524QL1_H50-utt12 op    D    S   C
+CA524QL1_H50-utt12 #csid 1 1 0 1
+CA524QL1_H50-utt13 ref   li  ga
+CA524QL1_H50-utt13 hyp  rri  ra
+CA524QL1_H50-utt13 op    S    S
+CA524QL1_H50-utt13 #csid 0 2 0 0
+CA524QL1_H50-utt14 ref  be  yo  lu
+CA524QL1_H50-utt14 hyp  be  ru  lu
+CA524QL1_H50-utt14 op    C   S   C
+CA524QL1_H50-utt14 #csid 2 1 0 0
+CA524QL1_H50-utt15 ref  so   te  to
+CA524QL1_H50-utt15 hyp  fu  rre  to
+CA524QL1_H50-utt15 op    S   S    C
+CA524QL1_H50-utt15 #csid 1 2 0 0
+CA524QL1_H50-utt16 ref  ma  re  xa  za
+CA524QL1_H50-utt16 hyp  ma  re  xa  za
+CA524QL1_H50-utt16 op    C   C   C   C
+CA524QL1_H50-utt16 #csid 4 0 0 0
+CA524QL1_H50-utt17 ref  nu  me  ro
+CA524QL1_H50-utt17 hyp  nu  me  ro
+CA524QL1_H50-utt17 op    C   C   C
+CA524QL1_H50-utt17 #csid 3 0 0 0
+CA524QL1_H50-utt18 ref  ka  pi  tu  bo
+CA524QL1_H50-utt18 hyp  ka  pi  tu  bo
+CA524QL1_H50-utt18 op    C   C   C   C
+CA524QL1_H50-utt18 #csid 4 0 0 0
+CA524QL1_H50-utt19 ref  bi  ka
+CA524QL1_H50-utt19 hyp  bi  ka
+CA524QL1_H50-utt19 op    C   C
+CA524QL1_H50-utt19 #csid 2 0 0 0
+CA524QL1_H50-utt2 ref   ba   fe
+CA524QL1_H50-utt2 hyp  ***  ***
+CA524QL1_H50-utt2 op    D    D 
+CA524QL1_H50-utt2 #csid 0 0 0 2
+CA524QL1_H50-utt20 ref   ti   bo
+CA524QL1_H50-utt20 hyp  ***  ***
+CA524QL1_H50-utt20 op    D    D 
+CA524QL1_H50-utt20 #csid 0 0 0 2
+CA524QL1_H50-utt21 ref  ka   yi
+CA524QL1_H50-utt21 hyp  ka  ***
+CA524QL1_H50-utt21 op    C   D 
+CA524QL1_H50-utt21 #csid 1 0 0 1
+CA524QL1_H50-utt22 ref  fo  mo  xe   ma
+CA524QL1_H50-utt22 hyp  ma  fu  xe  ***
+CA524QL1_H50-utt22 op    S   S   C   D 
+CA524QL1_H50-utt22 #csid 1 2 0 1
+CA524QL1_H50-utt23 ref  pa  ne
+CA524QL1_H50-utt23 hyp  pa  ni
+CA524QL1_H50-utt23 op    C   S
+CA524QL1_H50-utt23 #csid 1 1 0 0
+CA524QL1_H50-utt24 ref  tu  fo
+CA524QL1_H50-utt24 hyp   u  fo
+CA524QL1_H50-utt24 op    S   C
+CA524QL1_H50-utt24 #csid 1 1 0 0
+CA524QL1_H50-utt25 ref   sa   te  li  to  ***
+CA524QL1_H50-utt25 hyp  ***  ***  li  to   fi
+CA524QL1_H50-utt25 op    D    D    C   C   I 
+CA524QL1_H50-utt25 #csid 2 0 1 2
+CA524QL1_H50-utt26 ref  fe  cha
+CA524QL1_H50-utt26 hyp   e  cha
+CA524QL1_H50-utt26 op    S   C 
+CA524QL1_H50-utt26 #csid 1 1 0 0
+CA524QL1_H50-utt27 ref  pe  mi
+CA524QL1_H50-utt27 hyp  pe  mi
+CA524QL1_H50-utt27 op    C   C
+CA524QL1_H50-utt27 #csid 2 0 0 0
+CA524QL1_H50-utt28 ref   bi  ne  so
+CA524QL1_H50-utt28 hyp  ***   o  so
+CA524QL1_H50-utt28 op    D    S   C
+CA524QL1_H50-utt28 #csid 1 1 0 1
+CA524QL1_H50-utt29 ref   ka   ba  ye  te
+CA524QL1_H50-utt29 hyp  ***  ***  ge  te
+CA524QL1_H50-utt29 op    D    D    S   C
+CA524QL1_H50-utt29 #csid 1 1 0 2
+CA524QL1_H50-utt3 ref   ti   tu   lo
+CA524QL1_H50-utt3 hyp  ***  ***  ***
+CA524QL1_H50-utt3 op    D    D    D 
+CA524QL1_H50-utt3 #csid 0 0 0 3
+CA524QL1_H50-utt30 ref   ko  li  za
+CA524QL1_H50-utt30 hyp  ***  li  pa
+CA524QL1_H50-utt30 op    D    C   S
+CA524QL1_H50-utt30 #csid 1 1 0 1
+CA524QL1_H50-utt31 ref   ka  rro  ma  do
+CA524QL1_H50-utt31 hyp  ***  ***  xa  do
+CA524QL1_H50-utt31 op    D    D    S   C
+CA524QL1_H50-utt31 #csid 1 1 0 2
+CA524QL1_H50-utt32 ref  gi  nyo
+CA524QL1_H50-utt32 hyp  ge  nyo
+CA524QL1_H50-utt32 op    S   C 
+CA524QL1_H50-utt32 #csid 1 1 0 0
+CA524QL1_H50-utt33 ref   ma  nya  da
+CA524QL1_H50-utt33 hyp  ***  nya  ba
+CA524QL1_H50-utt33 op    D    C    S
+CA524QL1_H50-utt33 #csid 1 1 0 1
+CA524QL1_H50-utt34 ref   sa  fe  lu  di
+CA524QL1_H50-utt34 hyp  ***   e  ro  di
+CA524QL1_H50-utt34 op    D    S   S   C
+CA524QL1_H50-utt34 #csid 1 2 0 1
+CA524QL1_H50-utt35 ref  la  ro
+CA524QL1_H50-utt35 hyp  la  ro
+CA524QL1_H50-utt35 op    C   C
+CA524QL1_H50-utt35 #csid 2 0 0 0
+CA524QL1_H50-utt36 ref  zi  ne
+CA524QL1_H50-utt36 hyp   e  ne
+CA524QL1_H50-utt36 op    S   C
+CA524QL1_H50-utt36 #csid 1 1 0 0
+CA524QL1_H50-utt37 ref   se  nyo  ri  ta  ***
+CA524QL1_H50-utt37 hyp  ***  nyo  ri  ta   sa
+CA524QL1_H50-utt37 op    D    C    C   C   I 
+CA524QL1_H50-utt37 #csid 3 0 1 1
+CA524QL1_H50-utt38 ref  no  fe
+CA524QL1_H50-utt38 hyp  no  fe
+CA524QL1_H50-utt38 op    C   C
+CA524QL1_H50-utt38 #csid 2 0 0 0
+CA524QL1_H50-utt39 ref   pe  li  ku  la
+CA524QL1_H50-utt39 hyp  ***  li  ku  la
+CA524QL1_H50-utt39 op    D    C   C   C
+CA524QL1_H50-utt39 #csid 3 0 0 1
+CA524QL1_H50-utt4 ref   mo   de
+CA524QL1_H50-utt4 hyp  ***  ***
+CA524QL1_H50-utt4 op    D    D 
+CA524QL1_H50-utt4 #csid 0 0 0 2
+CA524QL1_H50-utt40 ref   ku  xo  ba
+CA524QL1_H50-utt40 hyp  ***  xo  ga
+CA524QL1_H50-utt40 op    D    C   S
+CA524QL1_H50-utt40 #csid 1 1 0 1
+CA524QL1_H50-utt41 ref  fu  xo
+CA524QL1_H50-utt41 hyp  fu  xo
+CA524QL1_H50-utt41 op    C   C
+CA524QL1_H50-utt41 #csid 2 0 0 0
+CA524QL1_H50-utt42 ref  se  ku
+CA524QL1_H50-utt42 hyp  ze  ku
+CA524QL1_H50-utt42 op    S   C
+CA524QL1_H50-utt42 #csid 1 1 0 0
+CA524QL1_H50-utt43 ref  to  rre
+CA524QL1_H50-utt43 hyp  to  rre
+CA524QL1_H50-utt43 op    C   C 
+CA524QL1_H50-utt43 #csid 2 0 0 0
+CA524QL1_H50-utt44 ref  do  fe
+CA524QL1_H50-utt44 hyp  do  fe
+CA524QL1_H50-utt44 op    C   C
+CA524QL1_H50-utt44 #csid 2 0 0 0
+CA524QL1_H50-utt45 ref   ba  rre  nyo
+CA524QL1_H50-utt45 hyp  ***  rre  nyo
+CA524QL1_H50-utt45 op    D    C    C 
+CA524QL1_H50-utt45 #csid 2 0 0 1
+CA524QL1_H50-utt46 ref   me  la  ni  to  ***
+CA524QL1_H50-utt46 hyp  ***  la  no  to   mi
+CA524QL1_H50-utt46 op    D    C   S   C   I 
+CA524QL1_H50-utt46 #csid 2 1 1 1
+CA524QL1_H50-utt47 ref  ta  le  go
+CA524QL1_H50-utt47 hyp   a  le  gu
+CA524QL1_H50-utt47 op    S   C   S
+CA524QL1_H50-utt47 #csid 1 2 0 0
+CA524QL1_H50-utt5 ref   pe   na
+CA524QL1_H50-utt5 hyp  ***  ***
+CA524QL1_H50-utt5 op    D    D 
+CA524QL1_H50-utt5 #csid 0 0 0 2
+CA524QL1_H50-utt6 ref  xe  ra
+CA524QL1_H50-utt6 hyp  xe  ra
+CA524QL1_H50-utt6 op    C   C
+CA524QL1_H50-utt6 #csid 2 0 0 0
+CA524QL1_H50-utt7 ref  pa  le  ti  ya
+CA524QL1_H50-utt7 hyp  pa  le  ti  ya
+CA524QL1_H50-utt7 op    C   C   C   C
+CA524QL1_H50-utt7 #csid 4 0 0 0
+CA524QL1_H50-utt8 ref  ka  rro  fa
+CA524QL1_H50-utt8 hyp  ka  rro  fa
+CA524QL1_H50-utt8 op    C   C    C
+CA524QL1_H50-utt8 #csid 3 0 0 0
+CA524QL1_H50-utt9 ref  ma  po
+CA524QL1_H50-utt9 hyp  mo  po
+CA524QL1_H50-utt9 op    S   C
+CA524QL1_H50-utt9 #csid 1 1 0 0
+CA524QL2_H50-utt0 ref   so   ya
+CA524QL2_H50-utt0 hyp  ***  ***
+CA524QL2_H50-utt0 op    D    D 
+CA524QL2_H50-utt0 #csid 0 0 0 2
+CA524QL2_H50-utt1 ref   be  ta
+CA524QL2_H50-utt1 hyp  ***  pa
+CA524QL2_H50-utt1 op    D    S
+CA524QL2_H50-utt1 #csid 0 1 0 1
+CA524QL2_H50-utt10 ref   me  ze  do  ta
+CA524QL2_H50-utt10 hyp  rre  xe  do  ta
+CA524QL2_H50-utt10 op    S    S   C   C
+CA524QL2_H50-utt10 #csid 2 2 0 0
+CA524QL2_H50-utt11 ref  ko   li  ya
+CA524QL2_H50-utt11 hyp  ko  ***  ya
+CA524QL2_H50-utt11 op    C   D    C
+CA524QL2_H50-utt11 #csid 2 0 0 1
+CA524QL2_H50-utt12 ref  bu  de
+CA524QL2_H50-utt12 hyp  bu  de
+CA524QL2_H50-utt12 op    C   C
+CA524QL2_H50-utt12 #csid 2 0 0 0
+CA524QL2_H50-utt13 ref   mo  ku
+CA524QL2_H50-utt13 hyp  rro  ku
+CA524QL2_H50-utt13 op    S    C
+CA524QL2_H50-utt13 #csid 1 1 0 0
+CA524QL2_H50-utt14 ref  lo  ra
+CA524QL2_H50-utt14 hyp  lo  ra
+CA524QL2_H50-utt14 op    C   C
+CA524QL2_H50-utt14 #csid 2 0 0 0
+CA524QL2_H50-utt15 ref  mi  ri  za
+CA524QL2_H50-utt15 hyp  po  ni  xa
+CA524QL2_H50-utt15 op    S   S   S
+CA524QL2_H50-utt15 #csid 0 3 0 0
+CA524QL2_H50-utt16 ref  xe  ta
+CA524QL2_H50-utt16 hyp  xe  ta
+CA524QL2_H50-utt16 op    C   C
+CA524QL2_H50-utt16 #csid 2 0 0 0
+CA524QL2_H50-utt17 ref  bu  fe  lu
+CA524QL2_H50-utt17 hyp  tu  fe  lu
+CA524QL2_H50-utt17 op    S   C   C
+CA524QL2_H50-utt17 #csid 2 1 0 0
+CA524QL2_H50-utt18 ref   ma  ni  be  za
+CA524QL2_H50-utt18 hyp  rra  ni  be  xa
+CA524QL2_H50-utt18 op    S    C   C   S
+CA524QL2_H50-utt18 #csid 2 2 0 0
+CA524QL2_H50-utt19 ref   ma  re  xa  da
+CA524QL2_H50-utt19 hyp  rra  re  xa  ba
+CA524QL2_H50-utt19 op    S    C   C   S
+CA524QL2_H50-utt19 #csid 2 2 0 0
+CA524QL2_H50-utt2 ref   sa   te  li  te
+CA524QL2_H50-utt2 hyp  ***  ***   e  so
+CA524QL2_H50-utt2 op    D    D    S   S
+CA524QL2_H50-utt2 #csid 0 2 0 2
+CA524QL2_H50-utt20 ref  pe  so
+CA524QL2_H50-utt20 hyp  pe  so
+CA524QL2_H50-utt20 op    C   C
+CA524QL2_H50-utt20 #csid 2 0 0 0
+CA524QL2_H50-utt21 ref  bi  ra  ni
+CA524QL2_H50-utt21 hyp  li  ra  ni
+CA524QL2_H50-utt21 op    S   C   C
+CA524QL2_H50-utt21 #csid 2 1 0 0
+CA524QL2_H50-utt22 ref   ti  fe  du   ne
+CA524QL2_H50-utt22 hyp  ***   i  xe  gue
+CA524QL2_H50-utt22 op    D    S   S   S 
+CA524QL2_H50-utt22 #csid 0 3 0 1
+CA524QL2_H50-utt23 ref  ti  yo
+CA524QL2_H50-utt23 hyp  te  yo
+CA524QL2_H50-utt23 op    S   C
+CA524QL2_H50-utt23 #csid 1 1 0 0
+CA524QL2_H50-utt24 ref  no  fe
+CA524QL2_H50-utt24 hyp  no  fe
+CA524QL2_H50-utt24 op    C   C
+CA524QL2_H50-utt24 #csid 2 0 0 0
+CA524QL2_H50-utt25 ref  pe  ta  ti
+CA524QL2_H50-utt25 hyp   e  ta  pi
+CA524QL2_H50-utt25 op    S   C   S
+CA524QL2_H50-utt25 #csid 1 2 0 0
+CA524QL2_H50-utt26 ref  la  do
+CA524QL2_H50-utt26 hyp  la  do
+CA524QL2_H50-utt26 op    C   C
+CA524QL2_H50-utt26 #csid 2 0 0 0
+CA524QL2_H50-utt27 ref   mu   no
+CA524QL2_H50-utt27 hyp  ***  mon
+CA524QL2_H50-utt27 op    D    S 
+CA524QL2_H50-utt27 #csid 0 1 0 1
+CA524QL2_H50-utt28 ref  sa  lu
+CA524QL2_H50-utt28 hyp  za  lu
+CA524QL2_H50-utt28 op    S   C
+CA524QL2_H50-utt28 #csid 1 1 0 0
+CA524QL2_H50-utt29 ref  ka  rro   ma   to
+CA524QL2_H50-utt29 hyp  ka  ***  ***  ***
+CA524QL2_H50-utt29 op    C   D    D    D 
+CA524QL2_H50-utt29 #csid 1 0 0 3
+CA524QL2_H50-utt3 ref  rri  bu   po
+CA524QL2_H50-utt3 hyp  ***  po  rre
+CA524QL2_H50-utt3 op    D    S   S 
+CA524QL2_H50-utt3 #csid 0 2 0 1
+CA524QL2_H50-utt30 ref   mu   si   ma
+CA524QL2_H50-utt30 hyp  ***  ***  ***
+CA524QL2_H50-utt30 op    D    D    D 
+CA524QL2_H50-utt30 #csid 0 0 0 3
+CA524QL2_H50-utt31 ref   de   ba   ti
+CA524QL2_H50-utt31 hyp  ***  ***  ***
+CA524QL2_H50-utt31 op    D    D    D 
+CA524QL2_H50-utt31 #csid 0 0 0 3
+CA524QL2_H50-utt32 ref   di   ne   ro
+CA524QL2_H50-utt32 hyp  ***  ***  ***
+CA524QL2_H50-utt32 op    D    D    D 
+CA524QL2_H50-utt32 #csid 0 0 0 3
+CA524QL2_H50-utt33 ref   ni   fu   ba  mi
+CA524QL2_H50-utt33 hyp  ***  ***  ***  po
+CA524QL2_H50-utt33 op    D    D    D    S
+CA524QL2_H50-utt33 #csid 0 1 0 3
+CA524QL2_H50-utt34 ref   mo   te
+CA524QL2_H50-utt34 hyp  ***  ***
+CA524QL2_H50-utt34 op    D    D 
+CA524QL2_H50-utt34 #csid 0 0 0 2
+CA524QL2_H50-utt35 ref   ko   da
+CA524QL2_H50-utt35 hyp  ***  ***
+CA524QL2_H50-utt35 op    D    D 
+CA524QL2_H50-utt35 #csid 0 0 0 2
+CA524QL2_H50-utt36 ref   ko   zi
+CA524QL2_H50-utt36 hyp  ***  ***
+CA524QL2_H50-utt36 op    D    D 
+CA524QL2_H50-utt36 #csid 0 0 0 2
+CA524QL2_H50-utt37 ref  di   ku   li   te
+CA524QL2_H50-utt37 hyp  di  ***  ***  ***
+CA524QL2_H50-utt37 op    C   D    D    D 
+CA524QL2_H50-utt37 #csid 1 0 0 3
+CA524QL2_H50-utt38 ref   ko   pa   te
+CA524QL2_H50-utt38 hyp  ***  ***  ***
+CA524QL2_H50-utt38 op    D    D    D 
+CA524QL2_H50-utt38 #csid 0 0 0 3
+CA524QL2_H50-utt39 ref   no  che
+CA524QL2_H50-utt39 hyp  ***  ***
+CA524QL2_H50-utt39 op    D    D 
+CA524QL2_H50-utt39 #csid 0 0 0 2
+CA524QL2_H50-utt4 ref  me  po
+CA524QL2_H50-utt4 hyp   e  po
+CA524QL2_H50-utt4 op    S   C
+CA524QL2_H50-utt4 #csid 1 1 0 0
+CA524QL2_H50-utt40 ref  fi   lo   so
+CA524QL2_H50-utt40 hyp  fi  ***  ***
+CA524QL2_H50-utt40 op    C   D    D 
+CA524QL2_H50-utt40 #csid 1 0 0 2
+CA524QL2_H50-utt41 ref  pa  do
+CA524QL2_H50-utt41 hyp   u  zo
+CA524QL2_H50-utt41 op    S   S
+CA524QL2_H50-utt41 #csid 0 2 0 0
+CA524QL2_H50-utt42 ref   ka   yo
+CA524QL2_H50-utt42 hyp  ***  ***
+CA524QL2_H50-utt42 op    D    D 
+CA524QL2_H50-utt42 #csid 0 0 0 2
+CA524QL2_H50-utt43 ref   ka   pi   tu   lo
+CA524QL2_H50-utt43 hyp  ***  ***  ***  ***
+CA524QL2_H50-utt43 op    D    D    D    D 
+CA524QL2_H50-utt43 #csid 0 0 0 4
+CA524QL2_H50-utt44 ref   lu   xa
+CA524QL2_H50-utt44 hyp  ***  ***
+CA524QL2_H50-utt44 op    D    D 
+CA524QL2_H50-utt44 #csid 0 0 0 2
+CA524QL2_H50-utt45 ref   ba   ye
+CA524QL2_H50-utt45 hyp  ***  ***
+CA524QL2_H50-utt45 op    D    D 
+CA524QL2_H50-utt45 #csid 0 0 0 2
+CA524QL2_H50-utt46 ref   ka   ma   ye   mo
+CA524QL2_H50-utt46 hyp  ***  ***  ***  ***
+CA524QL2_H50-utt46 op    D    D    D    D 
+CA524QL2_H50-utt46 #csid 0 0 0 4
+CA524QL2_H50-utt5 ref   ma  nya  na
+CA524QL2_H50-utt5 hyp  nya   ma  ma
+CA524QL2_H50-utt5 op    S    S    S
+CA524QL2_H50-utt5 #csid 0 3 0 0
+CA524QL2_H50-utt6 ref   si  da
+CA524QL2_H50-utt6 hyp  ***   a
+CA524QL2_H50-utt6 op    D    S
+CA524QL2_H50-utt6 #csid 0 1 0 1
+CA524QL2_H50-utt7 ref   ka  rro  nya
+CA524QL2_H50-utt7 hyp  ***  ***  nya
+CA524QL2_H50-utt7 op    D    D    C 
+CA524QL2_H50-utt7 #csid 1 0 0 2
+CA524QL2_H50-utt8 ref  bi  ga
+CA524QL2_H50-utt8 hyp   i  ga
+CA524QL2_H50-utt8 op    S   C
+CA524QL2_H50-utt8 #csid 1 1 0 0
+CA524QL2_H50-utt9 ref  mo  pe  di  ta
+CA524QL2_H50-utt9 hyp   i  ta  mo  pe
+CA524QL2_H50-utt9 op    S   S   S   S
+CA524QL2_H50-utt9 #csid 0 4 0 0
+CA524QL3_H50-utt0 ref  so   ri
+CA524QL3_H50-utt0 hyp  li  sol
+CA524QL3_H50-utt0 op    S   S 
+CA524QL3_H50-utt0 #csid 0 2 0 0
+CA524QL3_H50-utt1 ref   ye  da
+CA524QL3_H50-utt1 hyp  ***   a
+CA524QL3_H50-utt1 op    D    S
+CA524QL3_H50-utt1 #csid 0 1 0 1
+CA524QL3_H50-utt10 ref   ku  fe
+CA524QL3_H50-utt10 hyp  ***   e
+CA524QL3_H50-utt10 op    D    S
+CA524QL3_H50-utt10 #csid 0 1 0 1
+CA524QL3_H50-utt11 ref  so  ma
+CA524QL3_H50-utt11 hyp   o  ma
+CA524QL3_H50-utt11 op    S   C
+CA524QL3_H50-utt11 #csid 1 1 0 0
+CA524QL3_H50-utt12 ref   ka  ba   ye  ro
+CA524QL3_H50-utt12 hyp  ***  ye  rro  ka
+CA524QL3_H50-utt12 op    D    S   S    S
+CA524QL3_H50-utt12 #csid 0 3 0 1
+CA524QL3_H50-utt13 ref   be  na
+CA524QL3_H50-utt13 hyp  ***   a
+CA524QL3_H50-utt13 op    D    S
+CA524QL3_H50-utt13 #csid 0 1 0 1
+CA524QL3_H50-utt14 ref  mu  si  ka
+CA524QL3_H50-utt14 hyp  ko  se  ta
+CA524QL3_H50-utt14 op    S   S   S
+CA524QL3_H50-utt14 #csid 0 3 0 0
+CA524QL3_H50-utt15 ref   di   ku
+CA524QL3_H50-utt15 hyp  ***  rri
+CA524QL3_H50-utt15 op    D    S 
+CA524QL3_H50-utt15 #csid 0 1 0 1
+CA524QL3_H50-utt16 ref  ka   mi  ro
+CA524QL3_H50-utt16 hyp  ka  ***  go
+CA524QL3_H50-utt16 op    C   D    S
+CA524QL3_H50-utt16 #csid 1 1 0 1
+CA524QL3_H50-utt17 ref   me  ze   do  ra
+CA524QL3_H50-utt17 hyp  rro  ze  rro  ra
+CA524QL3_H50-utt17 op    S    C   S    C
+CA524QL3_H50-utt17 #csid 2 2 0 0
+CA524QL3_H50-utt18 ref   se  bi
+CA524QL3_H50-utt18 hyp  ***  xe
+CA524QL3_H50-utt18 op    D    S
+CA524QL3_H50-utt18 #csid 0 1 0 1
+CA524QL3_H50-utt19 ref  ka   xo
+CA524QL3_H50-utt19 hyp  ka  ***
+CA524QL3_H50-utt19 op    C   D 
+CA524QL3_H50-utt19 #csid 1 0 0 1
+CA524QL3_H50-utt2 ref   pa  li  xo
+CA524QL3_H50-utt2 hyp  ***  ko  pa
+CA524QL3_H50-utt2 op    D    S   S
+CA524QL3_H50-utt2 #csid 0 2 0 1
+CA524QL3_H50-utt20 ref   bi   la
+CA524QL3_H50-utt20 hyp  ***  ***
+CA524QL3_H50-utt20 op    D    D 
+CA524QL3_H50-utt20 #csid 0 0 0 2
+CA524QL3_H50-utt21 ref   me   di   zi  ra
+CA524QL3_H50-utt21 hyp  ***  ***  rre  ye
+CA524QL3_H50-utt21 op    D    D    S    S
+CA524QL3_H50-utt21 #csid 0 2 0 2
+CA524QL3_H50-utt22 ref  la   ti  ba  zo
+CA524QL3_H50-utt22 hyp  la  ***  pi  ga
+CA524QL3_H50-utt22 op    C   D    S   S
+CA524QL3_H50-utt22 #csid 1 2 0 1
+CA524QL3_H50-utt23 ref   no   fe   ba
+CA524QL3_H50-utt23 hyp  ***  ***  rro
+CA524QL3_H50-utt23 op    D    D    S 
+CA524QL3_H50-utt23 #csid 0 1 0 2
+CA524QL3_H50-utt24 ref   lu   fo
+CA524QL3_H50-utt24 hyp  ***  ***
+CA524QL3_H50-utt24 op    D    D 
+CA524QL3_H50-utt24 #csid 0 0 0 2
+CA524QL3_H50-utt25 ref   ta   po   di  no
+CA524QL3_H50-utt25 hyp  ***  ***  ***  ka
+CA524QL3_H50-utt25 op    D    D    D    S
+CA524QL3_H50-utt25 #csid 0 1 0 3
+CA524QL3_H50-utt26 ref   fi   lo   so  fo
+CA524QL3_H50-utt26 hyp  ***  ***  ***  xe
+CA524QL3_H50-utt26 op    D    D    D    S
+CA524QL3_H50-utt26 #csid 0 1 0 3
+CA524QL3_H50-utt27 ref   ni   bo   fe   ma
+CA524QL3_H50-utt27 hyp  ***  ***  ***  rro
+CA524QL3_H50-utt27 op    D    D    D    S 
+CA524QL3_H50-utt27 #csid 0 1 0 3
+CA524QL3_H50-utt28 ref   mi   ri  ya
+CA524QL3_H50-utt28 hyp  ***  rro  ge
+CA524QL3_H50-utt28 op    D    S    S
+CA524QL3_H50-utt28 #csid 0 2 0 1
+CA524QL3_H50-utt29 ref   zi   bu   fe  ni
+CA524QL3_H50-utt29 hyp  ***  ***  ***  xe
+CA524QL3_H50-utt29 op    D    D    D    S
+CA524QL3_H50-utt29 #csid 0 1 0 3
+CA524QL3_H50-utt3 ref   so  ga
+CA524QL3_H50-utt3 hyp  ***  xa
+CA524QL3_H50-utt3 op    D    S
+CA524QL3_H50-utt3 #csid 0 1 0 1
+CA524QL3_H50-utt30 ref   mo   pa   so   ka
+CA524QL3_H50-utt30 hyp  ***  ***  ***  ***
+CA524QL3_H50-utt30 op    D    D    D    D 
+CA524QL3_H50-utt30 #csid 0 0 0 4
+CA524QL3_H50-utt31 ref   ma   ni   be   la
+CA524QL3_H50-utt31 hyp  ***  ***  ***  ***
+CA524QL3_H50-utt31 op    D    D    D    D 
+CA524QL3_H50-utt31 #csid 0 0 0 4
+CA524QL3_H50-utt32 ref   pe   ta   te
+CA524QL3_H50-utt32 hyp  ***  ***  ***
+CA524QL3_H50-utt32 op    D    D    D 
+CA524QL3_H50-utt32 #csid 0 0 0 3
+CA524QL3_H50-utt33 ref   de   ba   te
+CA524QL3_H50-utt33 hyp  ***  ***  ***
+CA524QL3_H50-utt33 op    D    D    D 
+CA524QL3_H50-utt33 #csid 0 0 0 3
+CA524QL3_H50-utt34 ref   lu  cha
+CA524QL3_H50-utt34 hyp  ***  ***
+CA524QL3_H50-utt34 op    D    D 
+CA524QL3_H50-utt34 #csid 0 0 0 2
+CA524QL3_H50-utt35 ref   ka   mo
+CA524QL3_H50-utt35 hyp  ***  ***
+CA524QL3_H50-utt35 op    D    D 
+CA524QL3_H50-utt35 #csid 0 0 0 2
+CA524QL3_H50-utt36 ref   ko   di   so
+CA524QL3_H50-utt36 hyp  ***  ***  ***
+CA524QL3_H50-utt36 op    D    D    D 
+CA524QL3_H50-utt36 #csid 0 0 0 3
+CA524QL3_H50-utt37 ref   so   ma   si
+CA524QL3_H50-utt37 hyp  ***  ***  ***
+CA524QL3_H50-utt37 op    D    D    D 
+CA524QL3_H50-utt37 #csid 0 0 0 3
+CA524QL3_H50-utt38 ref   lo   na
+CA524QL3_H50-utt38 hyp  ***  ***
+CA524QL3_H50-utt38 op    D    D 
+CA524QL3_H50-utt38 #csid 0 0 0 2
+CA524QL3_H50-utt39 ref  rro   ko
+CA524QL3_H50-utt39 hyp  ***  ***
+CA524QL3_H50-utt39 op    D    D 
+CA524QL3_H50-utt39 #csid 0 0 0 2
+CA524QL3_H50-utt4 ref   ko  pa
+CA524QL3_H50-utt4 hyp  ***   a
+CA524QL3_H50-utt4 op    D    S
+CA524QL3_H50-utt4 #csid 0 1 0 1
+CA524QL3_H50-utt40 ref   pe   ta   ma
+CA524QL3_H50-utt40 hyp  ***  ***  ***
+CA524QL3_H50-utt40 op    D    D    D 
+CA524QL3_H50-utt40 #csid 0 0 0 3
+CA524QL3_H50-utt41 ref   ge   za
+CA524QL3_H50-utt41 hyp  ***  ***
+CA524QL3_H50-utt41 op    D    D 
+CA524QL3_H50-utt41 #csid 0 0 0 2
+CA524QL3_H50-utt42 ref   ma   no   ta   go
+CA524QL3_H50-utt42 hyp  ***  ***  ***  ***
+CA524QL3_H50-utt42 op    D    D    D    D 
+CA524QL3_H50-utt42 #csid 0 0 0 4
+CA524QL3_H50-utt43 ref   bu   ke
+CA524QL3_H50-utt43 hyp  ***  ***
+CA524QL3_H50-utt43 op    D    D 
+CA524QL3_H50-utt43 #csid 0 0 0 2
+CA524QL3_H50-utt44 ref   me   pe
+CA524QL3_H50-utt44 hyp  ***  ***
+CA524QL3_H50-utt44 op    D    D 
+CA524QL3_H50-utt44 #csid 0 0 0 2
+CA524QL3_H50-utt45 ref   pe   ta
+CA524QL3_H50-utt45 hyp  ***  ***
+CA524QL3_H50-utt45 op    D    D 
+CA524QL3_H50-utt45 #csid 0 0 0 2
+CA524QL3_H50-utt46 ref  rre   ti   ra   za
+CA524QL3_H50-utt46 hyp  ***  ***  ***  ***
+CA524QL3_H50-utt46 op    D    D    D    D 
+CA524QL3_H50-utt46 #csid 0 0 0 4
+CA524QL3_H50-utt47 ref   ti  bu
+CA524QL3_H50-utt47 hyp  ***  za
+CA524QL3_H50-utt47 op    D    S
+CA524QL3_H50-utt47 #csid 0 1 0 1
+CA524QL3_H50-utt5 ref   be   ya  ze
+CA524QL3_H50-utt5 hyp  ***  rre  be
+CA524QL3_H50-utt5 op    D    S    S
+CA524QL3_H50-utt5 #csid 0 2 0 1
+CA524QL3_H50-utt6 ref  mu  lo
+CA524QL3_H50-utt6 hyp   o  ro
+CA524QL3_H50-utt6 op    S   S
+CA524QL3_H50-utt6 #csid 0 2 0 0
+CA524QL3_H50-utt7 ref   zi  ma
+CA524QL3_H50-utt7 hyp  ***   a
+CA524QL3_H50-utt7 op    D    S
+CA524QL3_H50-utt7 #csid 0 1 0 1
+CA524QL3_H50-utt8 ref  no  be  ya
+CA524QL3_H50-utt8 hyp   e  ya  me
+CA524QL3_H50-utt8 op    S   S   S
+CA524QL3_H50-utt8 #csid 0 3 0 0
+CA524QL3_H50-utt9 ref  ni  gu
+CA524QL3_H50-utt9 hyp   e  go
+CA524QL3_H50-utt9 op    S   S
+CA524QL3_H50-utt9 #csid 0 2 0 0
+CA524QL4_H50-utt0 ref  chu  so
+CA524QL4_H50-utt0 hyp  chu  sa
+CA524QL4_H50-utt0 op    C    S
+CA524QL4_H50-utt0 #csid 1 1 0 0
+CA524QL4_H50-utt1 ref   fe  za
+CA524QL4_H50-utt1 hyp  ***  xe
+CA524QL4_H50-utt1 op    D    S
+CA524QL4_H50-utt1 #csid 0 1 0 1
+CA524QL4_H50-utt10 ref   pe  ta   ka
+CA524QL4_H50-utt10 hyp  ***   a  rre
+CA524QL4_H50-utt10 op    D    S   S 
+CA524QL4_H50-utt10 #csid 0 2 0 1
+CA524QL4_H50-utt11 ref  do  ya
+CA524QL4_H50-utt11 hyp  do   e
+CA524QL4_H50-utt11 op    C   S
+CA524QL4_H50-utt11 #csid 1 1 0 0
+CA524QL4_H50-utt12 ref   li   ya
+CA524QL4_H50-utt12 hyp  ***  rri
+CA524QL4_H50-utt12 op    D    S 
+CA524QL4_H50-utt12 #csid 0 1 0 1
+CA524QL4_H50-utt13 ref   ka  mi   no
+CA524QL4_H50-utt13 hyp  ***   o  ran
+CA524QL4_H50-utt13 op    D    S   S 
+CA524QL4_H50-utt13 #csid 0 2 0 1
+CA524QL4_H50-utt14 ref  pa   de   zo
+CA524QL4_H50-utt14 hyp  pa  ***  gue
+CA524QL4_H50-utt14 op    C   D    S 
+CA524QL4_H50-utt14 #csid 1 1 0 1
+CA524QL4_H50-utt15 ref   so  da
+CA524QL4_H50-utt15 hyp  ***  fi
+CA524QL4_H50-utt15 op    D    S
+CA524QL4_H50-utt15 #csid 0 1 0 1
+CA524QL4_H50-utt16 ref   ti   tu   mo
+CA524QL4_H50-utt16 hyp  ***  ***  tir
+CA524QL4_H50-utt16 op    D    D    S 
+CA524QL4_H50-utt16 #csid 0 1 0 2
+CA524QL4_H50-utt17 ref  ***  di  ma   ko
+CA524QL4_H50-utt17 hyp   o   di  ma  ***
+CA524QL4_H50-utt17 op    I    C   C   D 
+CA524QL4_H50-utt17 #csid 2 0 1 1
+CA524QL4_H50-utt18 ref  ka  nyo
+CA524QL4_H50-utt18 hyp  ka  ***
+CA524QL4_H50-utt18 op    C   D 
+CA524QL4_H50-utt18 #csid 1 0 0 1
+CA524QL4_H50-utt19 ref  ko   ga
+CA524QL4_H50-utt19 hyp  ko  ***
+CA524QL4_H50-utt19 op    C   D 
+CA524QL4_H50-utt19 #csid 1 0 0 1
+CA524QL4_H50-utt2 ref   ye  ma
+CA524QL4_H50-utt2 hyp  rra  ge
+CA524QL4_H50-utt2 op    S    S
+CA524QL4_H50-utt2 #csid 0 2 0 0
+CA524QL4_H50-utt20 ref   mo  pe
+CA524QL4_H50-utt20 hyp  ***  zo
+CA524QL4_H50-utt20 op    D    S
+CA524QL4_H50-utt20 #csid 0 1 0 1
+CA524QL4_H50-utt21 ref   na  fe
+CA524QL4_H50-utt21 hyp  ***  ka
+CA524QL4_H50-utt21 op    D    S
+CA524QL4_H50-utt21 #csid 0 1 0 1
+CA524QL4_H50-utt22 ref   ge  rra
+CA524QL4_H50-utt22 hyp  ***   po
+CA524QL4_H50-utt22 op    D    S 
+CA524QL4_H50-utt22 #csid 0 1 0 1
+CA524QL4_H50-utt23 ref  so  ga   li   na
+CA524QL4_H50-utt23 hyp  so  ga  ***  rim
+CA524QL4_H50-utt23 op    C   C   D    S 
+CA524QL4_H50-utt23 #csid 2 1 0 1
+CA524QL4_H50-utt24 ref  pe  li   ku   sa
+CA524QL4_H50-utt24 hyp  pe  li  ***  kof
+CA524QL4_H50-utt24 op    C   C   D    S 
+CA524QL4_H50-utt24 #csid 2 1 0 1
+CA524QL4_H50-utt25 ref   di   la
+CA524QL4_H50-utt25 hyp  ***  ***
+CA524QL4_H50-utt25 op    D    D 
+CA524QL4_H50-utt25 #csid 0 0 0 2
+CA524QL4_H50-utt26 ref   no   be  la
+CA524QL4_H50-utt26 hyp  ***  ***  lo
+CA524QL4_H50-utt26 op    D    D    S
+CA524QL4_H50-utt26 #csid 0 1 0 2
+CA524QL4_H50-utt27 ref  pe  ku  ga   ta
+CA524QL4_H50-utt27 hyp  pe  ko  ga  ***
+CA524QL4_H50-utt27 op    C   S   C   D 
+CA524QL4_H50-utt27 #csid 2 1 0 1
+CA524QL4_H50-utt28 ref  la  ti  ga   zo
+CA524QL4_H50-utt28 hyp  la  pi  ga  ***
+CA524QL4_H50-utt28 op    C   S   C   D 
+CA524QL4_H50-utt28 #csid 2 1 0 1
+CA524QL4_H50-utt29 ref  rro   ka
+CA524QL4_H50-utt29 hyp  ***  ***
+CA524QL4_H50-utt29 op    D    D 
+CA524QL4_H50-utt29 #csid 0 0 0 2
+CA524QL4_H50-utt3 ref   zi  fo
+CA524QL4_H50-utt3 hyp  ***  se
+CA524QL4_H50-utt3 op    D    S
+CA524QL4_H50-utt3 #csid 0 1 0 1
+CA524QL4_H50-utt30 ref  pa  le  ti  rra
+CA524QL4_H50-utt30 hyp  pa  le  ti  ***
+CA524QL4_H50-utt30 op    C   C   C   D 
+CA524QL4_H50-utt30 #csid 3 0 0 1
+CA524QL4_H50-utt31 ref   se   bo
+CA524QL4_H50-utt31 hyp  ***  ***
+CA524QL4_H50-utt31 op    D    D 
+CA524QL4_H50-utt31 #csid 0 0 0 2
+CA524QL4_H50-utt32 ref   pa   li   yo
+CA524QL4_H50-utt32 hyp  ***  ***  ***
+CA524QL4_H50-utt32 op    D    D    D 
+CA524QL4_H50-utt32 #csid 0 0 0 3
+CA524QL4_H50-utt33 ref   ka   ba   ye   to
+CA524QL4_H50-utt33 hyp  ***  ***  ***  ***
+CA524QL4_H50-utt33 op    D    D    D    D 
+CA524QL4_H50-utt33 #csid 0 0 0 4
+CA524QL4_H50-utt34 ref   lo   ze   du   ne
+CA524QL4_H50-utt34 hyp  ***  ***  ***  ***
+CA524QL4_H50-utt34 op    D    D    D    D 
+CA524QL4_H50-utt34 #csid 0 0 0 4
+CA524QL4_H50-utt35 ref   ga   to
+CA524QL4_H50-utt35 hyp  ***  ***
+CA524QL4_H50-utt35 op    D    D 
+CA524QL4_H50-utt35 #csid 0 0 0 2
+CA524QL4_H50-utt36 ref   gi  cho
+CA524QL4_H50-utt36 hyp  ***  ***
+CA524QL4_H50-utt36 op    D    D 
+CA524QL4_H50-utt36 #csid 0 0 0 2
+CA524QL4_H50-utt37 ref   pe   na
+CA524QL4_H50-utt37 hyp  ***  ***
+CA524QL4_H50-utt37 op    D    D 
+CA524QL4_H50-utt37 #csid 0 0 0 2
+CA524QL4_H50-utt38 ref   bi   ya
+CA524QL4_H50-utt38 hyp  ***  ***
+CA524QL4_H50-utt38 op    D    D 
+CA524QL4_H50-utt38 #csid 0 0 0 2
+CA524QL4_H50-utt39 ref   to   ye
+CA524QL4_H50-utt39 hyp  ***  ***
+CA524QL4_H50-utt39 op    D    D 
+CA524QL4_H50-utt39 #csid 0 0 0 2
+CA524QL4_H50-utt4 ref  pa   ni
+CA524QL4_H50-utt4 hyp  pa  ***
+CA524QL4_H50-utt4 op    C   D 
+CA524QL4_H50-utt4 #csid 1 0 0 1
+CA524QL4_H50-utt40 ref   fe   bu   xo
+CA524QL4_H50-utt40 hyp  ***  ***  ***
+CA524QL4_H50-utt40 op    D    D    D 
+CA524QL4_H50-utt40 #csid 0 0 0 3
+CA524QL4_H50-utt41 ref  rre   ti   ra  da
+CA524QL4_H50-utt41 hyp  ***  ***  ***   u
+CA524QL4_H50-utt41 op    D    D    D    S
+CA524QL4_H50-utt41 #csid 0 1 0 3
+CA524QL4_H50-utt42 ref   nu   me   so
+CA524QL4_H50-utt42 hyp  ***  ***  ***
+CA524QL4_H50-utt42 op    D    D    D 
+CA524QL4_H50-utt42 #csid 0 0 0 3
+CA524QL4_H50-utt43 ref   pa   le   bo
+CA524QL4_H50-utt43 hyp  ***  ***  ***
+CA524QL4_H50-utt43 op    D    D    D 
+CA524QL4_H50-utt43 #csid 0 0 0 3
+CA524QL4_H50-utt44 ref   me   di   zi   na
+CA524QL4_H50-utt44 hyp  ***  ***  ***  ***
+CA524QL4_H50-utt44 op    D    D    D    D 
+CA524QL4_H50-utt44 #csid 0 0 0 4
+CA524QL4_H50-utt45 ref   si  ze
+CA524QL4_H50-utt45 hyp  ***   a
+CA524QL4_H50-utt45 op    D    S
+CA524QL4_H50-utt45 #csid 0 1 0 1
+CA524QL4_H50-utt46 ref   fe   xi
+CA524QL4_H50-utt46 hyp  ***  ***
+CA524QL4_H50-utt46 op    D    D 
+CA524QL4_H50-utt46 #csid 0 0 0 2
+CA524QL4_H50-utt47 ref   bi   fu   pe   si
+CA524QL4_H50-utt47 hyp  ***  ***  ***  ***
+CA524QL4_H50-utt47 op    D    D    D    D 
+CA524QL4_H50-utt47 #csid 0 0 0 4
+CA524QL4_H50-utt5 ref  fa  bo   lu
+CA524QL4_H50-utt5 hyp  fa  bo  ***
+CA524QL4_H50-utt5 op    C   C   D 
+CA524QL4_H50-utt5 #csid 2 0 0 1
+CA524QL4_H50-utt6 ref   ma  no   ta  zo
+CA524QL4_H50-utt6 hyp  ***  zo  mon  ge
+CA524QL4_H50-utt6 op    D    S   S    S
+CA524QL4_H50-utt6 #csid 0 3 0 1
+CA524QL4_H50-utt7 ref  ba  rre   yo
+CA524QL4_H50-utt7 hyp  ba  rre  ***
+CA524QL4_H50-utt7 op    C   C    D 
+CA524QL4_H50-utt7 #csid 2 0 0 1
+CA524QL4_H50-utt8 ref   se  nyo  ri  da
+CA524QL4_H50-utt8 hyp  ***  ***  so  yo
+CA524QL4_H50-utt8 op    D    D    S   S
+CA524QL4_H50-utt8 #csid 0 2 0 2
+CA524QL4_H50-utt9 ref  tu   zo
+CA524QL4_H50-utt9 hyp  tu  ***
+CA524QL4_H50-utt9 op    C   D 
+CA524QL4_H50-utt9 #csid 1 0 0 1

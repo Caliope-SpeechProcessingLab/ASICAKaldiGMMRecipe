@@ -26,7 +26,6 @@ Thumbs.db
 *.kal
 *.TextGrid
 
-*.txt
 *.xlsx
 *.fst
 *.int
@@ -36,9 +35,7 @@ topo
 lex*
 *.arpa
 segments
-spk*
 text
-utt*
 *.scp
 frame*
 *.log

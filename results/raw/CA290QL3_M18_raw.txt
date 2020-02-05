@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA290QL1_M18    raw         48        132        128          4          0          0          4          4
+CA290QL1_M18    sys         48        132      96.97       3.03       0.00       0.00       3.03       8.33
+CA290QL2_M18    raw         48        132        130          2          0          0          2          2
+CA290QL2_M18    sys         48        132      98.48       1.52       0.00       0.00       1.52       4.17
+CA290QL3_M18    raw         48        132        120         11          1          1         13          9
+CA290QL3_M18    sys         48        132      90.91       8.33       0.76       0.76       9.85      18.75
+CA290QL4_M18    raw         48        132        126          6          0          0          6          6
+CA290QL4_M18    sys         48        132      95.45       4.55       0.00       0.00       4.55      12.50
+SUM             raw        192        528        504         23          1          1         25         21
+SUM             sys        192        528      95.45       4.36       0.19       0.19       4.73      10.94
+
+--------------------------------------------------------------------
+CA290QL1_M18-utt0 ref  ya  te
+CA290QL1_M18-utt0 hyp  ya  te
+CA290QL1_M18-utt0 op    C   C
+CA290QL1_M18-utt0 #csid 2 0 0 0
+CA290QL1_M18-utt1 ref  no  lu
+CA290QL1_M18-utt1 hyp  no  lu
+CA290QL1_M18-utt1 op    C   C
+CA290QL1_M18-utt1 #csid 2 0 0 0
+CA290QL1_M18-utt10 ref  chu  lo
+CA290QL1_M18-utt10 hyp  chu  lo
+CA290QL1_M18-utt10 op    C    C
+CA290QL1_M18-utt10 #csid 2 0 0 0
+CA290QL1_M18-utt11 ref  pa  ba  ri  mo
+CA290QL1_M18-utt11 hyp  pa  ba  ri  mo
+CA290QL1_M18-utt11 op    C   C   C   C
+CA290QL1_M18-utt11 #csid 4 0 0 0
+CA290QL1_M18-utt12 ref  ko  pa  di
+CA290QL1_M18-utt12 hyp  ko  pa  de
+CA290QL1_M18-utt12 op    C   C   S
+CA290QL1_M18-utt12 #csid 2 1 0 0
+CA290QL1_M18-utt13 ref  li  ga
+CA290QL1_M18-utt13 hyp  li  ga
+CA290QL1_M18-utt13 op    C   C
+CA290QL1_M18-utt13 #csid 2 0 0 0
+CA290QL1_M18-utt14 ref  be  yo  lu
+CA290QL1_M18-utt14 hyp  be  yo  lu
+CA290QL1_M18-utt14 op    C   C   C
+CA290QL1_M18-utt14 #csid 3 0 0 0
+CA290QL1_M18-utt15 ref  so  te  to
+CA290QL1_M18-utt15 hyp  so  te  to
+CA290QL1_M18-utt15 op    C   C   C
+CA290QL1_M18-utt15 #csid 3 0 0 0
+CA290QL1_M18-utt16 ref  ma  re  xa  za
+CA290QL1_M18-utt16 hyp  ma  re  xa  za
+CA290QL1_M18-utt16 op    C   C   C   C
+CA290QL1_M18-utt16 #csid 4 0 0 0
+CA290QL1_M18-utt17 ref  nu  me  ro
+CA290QL1_M18-utt17 hyp  no  me  ro
+CA290QL1_M18-utt17 op    S   C   C
+CA290QL1_M18-utt17 #csid 2 1 0 0
+CA290QL1_M18-utt18 ref  ka  pi  tu  bo
+CA290QL1_M18-utt18 hyp  ka  pi  tu  bo
+CA290QL1_M18-utt18 op    C   C   C   C
+CA290QL1_M18-utt18 #csid 4 0 0 0
+CA290QL1_M18-utt19 ref  bi  ka
+CA290QL1_M18-utt19 hyp  bi  ka
+CA290QL1_M18-utt19 op    C   C
+CA290QL1_M18-utt19 #csid 2 0 0 0
+CA290QL1_M18-utt2 ref  ba  fe
+CA290QL1_M18-utt2 hyp  ba  fe
+CA290QL1_M18-utt2 op    C   C
+CA290QL1_M18-utt2 #csid 2 0 0 0
+CA290QL1_M18-utt20 ref  ti  bo
+CA290QL1_M18-utt20 hyp  ti  bo
+CA290QL1_M18-utt20 op    C   C
+CA290QL1_M18-utt20 #csid 2 0 0 0
+CA290QL1_M18-utt21 ref  ka  ye
+CA290QL1_M18-utt21 hyp  ka  ye
+CA290QL1_M18-utt21 op    C   C
+CA290QL1_M18-utt21 #csid 2 0 0 0
+CA290QL1_M18-utt22 ref  fo  bo  xe  ma
+CA290QL1_M18-utt22 hyp  fo  bo  xe  ma
+CA290QL1_M18-utt22 op    C   C   C   C
+CA290QL1_M18-utt22 #csid 4 0 0 0
+CA290QL1_M18-utt23 ref  pa  ne
+CA290QL1_M18-utt23 hyp  pa  ne
+CA290QL1_M18-utt23 op    C   C
+CA290QL1_M18-utt23 #csid 2 0 0 0
+CA290QL1_M18-utt24 ref  tu  fo
+CA290QL1_M18-utt24 hyp  tu  fo
+CA290QL1_M18-utt24 op    C   C
+CA290QL1_M18-utt24 #csid 2 0 0 0
+CA290QL1_M18-utt25 ref  sa  te  li  to
+CA290QL1_M18-utt25 hyp  sa  te  li  to
+CA290QL1_M18-utt25 op    C   C   C   C
+CA290QL1_M18-utt25 #csid 4 0 0 0
+CA290QL1_M18-utt26 ref  fe  cha
+CA290QL1_M18-utt26 hyp  fe  cha
+CA290QL1_M18-utt26 op    C   C 
+CA290QL1_M18-utt26 #csid 2 0 0 0
+CA290QL1_M18-utt27 ref  pe  mi
+CA290QL1_M18-utt27 hyp  pe  mi
+CA290QL1_M18-utt27 op    C   C
+CA290QL1_M18-utt27 #csid 2 0 0 0
+CA290QL1_M18-utt28 ref  di  ne  so
+CA290QL1_M18-utt28 hyp  di  ne  so
+CA290QL1_M18-utt28 op    C   C   C
+CA290QL1_M18-utt28 #csid 3 0 0 0
+CA290QL1_M18-utt29 ref  ka  ba  ye  te
+CA290QL1_M18-utt29 hyp  ka  ba  ye  te
+CA290QL1_M18-utt29 op    C   C   C   C
+CA290QL1_M18-utt29 #csid 4 0 0 0
+CA290QL1_M18-utt3 ref  ti  tu  lo
+CA290QL1_M18-utt3 hyp  ti  tu  lo
+CA290QL1_M18-utt3 op    C   C   C
+CA290QL1_M18-utt3 #csid 3 0 0 0
+CA290QL1_M18-utt30 ref  ko  li  za
+CA290QL1_M18-utt30 hyp  ko  li  za
+CA290QL1_M18-utt30 op    C   C   C
+CA290QL1_M18-utt30 #csid 3 0 0 0
+CA290QL1_M18-utt31 ref  ka  rro  ma  do
+CA290QL1_M18-utt31 hyp  ka  rro  ma  do
+CA290QL1_M18-utt31 op    C   C    C   C
+CA290QL1_M18-utt31 #csid 4 0 0 0
+CA290QL1_M18-utt32 ref  gi  nyo
+CA290QL1_M18-utt32 hyp  gi  nyo
+CA290QL1_M18-utt32 op    C   C 
+CA290QL1_M18-utt32 #csid 2 0 0 0
+CA290QL1_M18-utt33 ref  ma  nya  da
+CA290QL1_M18-utt33 hyp  ma  nya  da
+CA290QL1_M18-utt33 op    C   C    C
+CA290QL1_M18-utt33 #csid 3 0 0 0
+CA290QL1_M18-utt34 ref  za  fe  lu  di
+CA290QL1_M18-utt34 hyp  za  fe  lu  di
+CA290QL1_M18-utt34 op    C   C   C   C
+CA290QL1_M18-utt34 #csid 4 0 0 0
+CA290QL1_M18-utt35 ref  la  ro
+CA290QL1_M18-utt35 hyp  la  ra
+CA290QL1_M18-utt35 op    C   S
+CA290QL1_M18-utt35 #csid 1 1 0 0
+CA290QL1_M18-utt36 ref  zi  ne
+CA290QL1_M18-utt36 hyp  zi  ne
+CA290QL1_M18-utt36 op    C   C
+CA290QL1_M18-utt36 #csid 2 0 0 0
+CA290QL1_M18-utt37 ref  se  nyo  ri  ta
+CA290QL1_M18-utt37 hyp  se  nyo  ri  ta
+CA290QL1_M18-utt37 op    C   C    C   C
+CA290QL1_M18-utt37 #csid 4 0 0 0
+CA290QL1_M18-utt38 ref  no  fe
+CA290QL1_M18-utt38 hyp  no  fe
+CA290QL1_M18-utt38 op    C   C
+CA290QL1_M18-utt38 #csid 2 0 0 0
+CA290QL1_M18-utt39 ref  pe  li  ku  la
+CA290QL1_M18-utt39 hyp  pe  li  ku  la
+CA290QL1_M18-utt39 op    C   C   C   C
+CA290QL1_M18-utt39 #csid 4 0 0 0
+CA290QL1_M18-utt4 ref  mo  de
+CA290QL1_M18-utt4 hyp  mo  de
+CA290QL1_M18-utt4 op    C   C
+CA290QL1_M18-utt4 #csid 2 0 0 0
+CA290QL1_M18-utt40 ref  ku  xo  ba
+CA290QL1_M18-utt40 hyp  ku  xo  ba
+CA290QL1_M18-utt40 op    C   C   C
+CA290QL1_M18-utt40 #csid 3 0 0 0
+CA290QL1_M18-utt41 ref  fu  xo
+CA290QL1_M18-utt41 hyp  fu  xo
+CA290QL1_M18-utt41 op    C   C
+CA290QL1_M18-utt41 #csid 2 0 0 0
+CA290QL1_M18-utt42 ref  se  ku
+CA290QL1_M18-utt42 hyp  se  ku
+CA290QL1_M18-utt42 op    C   C
+CA290QL1_M18-utt42 #csid 2 0 0 0
+CA290QL1_M18-utt43 ref  to  rre
+CA290QL1_M18-utt43 hyp  to  rre
+CA290QL1_M18-utt43 op    C   C 
+CA290QL1_M18-utt43 #csid 2 0 0 0
+CA290QL1_M18-utt44 ref  do  fe
+CA290QL1_M18-utt44 hyp  do  fe
+CA290QL1_M18-utt44 op    C   C
+CA290QL1_M18-utt44 #csid 2 0 0 0
+CA290QL1_M18-utt45 ref  ba  rre  nyo
+CA290QL1_M18-utt45 hyp  ba  rre  nyo
+CA290QL1_M18-utt45 op    C   C    C 
+CA290QL1_M18-utt45 #csid 3 0 0 0
+CA290QL1_M18-utt46 ref  me  la  ni  to
+CA290QL1_M18-utt46 hyp  me  la  ni  to
+CA290QL1_M18-utt46 op    C   C   C   C
+CA290QL1_M18-utt46 #csid 4 0 0 0
+CA290QL1_M18-utt47 ref  ta  le  go
+CA290QL1_M18-utt47 hyp  ta  le  go
+CA290QL1_M18-utt47 op    C   C   C
+CA290QL1_M18-utt47 #csid 3 0 0 0
+CA290QL1_M18-utt5 ref  pe  no
+CA290QL1_M18-utt5 hyp  pe  no
+CA290QL1_M18-utt5 op    C   C
+CA290QL1_M18-utt5 #csid 2 0 0 0
+CA290QL1_M18-utt6 ref  xe  ra
+CA290QL1_M18-utt6 hyp  xe  ra
+CA290QL1_M18-utt6 op    C   C
+CA290QL1_M18-utt6 #csid 2 0 0 0
+CA290QL1_M18-utt7 ref  pa  le  ti  ya
+CA290QL1_M18-utt7 hyp  pa  le  ti  ya
+CA290QL1_M18-utt7 op    C   C   C   C
+CA290QL1_M18-utt7 #csid 4 0 0 0
+CA290QL1_M18-utt8 ref  ka  rro  za
+CA290QL1_M18-utt8 hyp  ka  rro  fa
+CA290QL1_M18-utt8 op    C   C    S
+CA290QL1_M18-utt8 #csid 2 1 0 0
+CA290QL1_M18-utt9 ref  ma  po
+CA290QL1_M18-utt9 hyp  ma  po
+CA290QL1_M18-utt9 op    C   C
+CA290QL1_M18-utt9 #csid 2 0 0 0
+CA290QL2_M18-utt0 ref  so  ya
+CA290QL2_M18-utt0 hyp  so  ya
+CA290QL2_M18-utt0 op    C   C
+CA290QL2_M18-utt0 #csid 2 0 0 0
+CA290QL2_M18-utt1 ref  be  ta
+CA290QL2_M18-utt1 hyp  be  ta
+CA290QL2_M18-utt1 op    C   C
+CA290QL2_M18-utt1 #csid 2 0 0 0
+CA290QL2_M18-utt10 ref  me  ze  do  ta
+CA290QL2_M18-utt10 hyp  me  ze  do  ta
+CA290QL2_M18-utt10 op    C   C   C   C
+CA290QL2_M18-utt10 #csid 4 0 0 0
+CA290QL2_M18-utt11 ref  ko  li  ya
+CA290QL2_M18-utt11 hyp  ko  li  ya
+CA290QL2_M18-utt11 op    C   C   C
+CA290QL2_M18-utt11 #csid 3 0 0 0
+CA290QL2_M18-utt12 ref  bu  de
+CA290QL2_M18-utt12 hyp  bu  de
+CA290QL2_M18-utt12 op    C   C
+CA290QL2_M18-utt12 #csid 2 0 0 0
+CA290QL2_M18-utt13 ref  mo  ku
+CA290QL2_M18-utt13 hyp  mo  ku
+CA290QL2_M18-utt13 op    C   C
+CA290QL2_M18-utt13 #csid 2 0 0 0
+CA290QL2_M18-utt14 ref  lo  ra
+CA290QL2_M18-utt14 hyp  lo  ra
+CA290QL2_M18-utt14 op    C   C
+CA290QL2_M18-utt14 #csid 2 0 0 0
+CA290QL2_M18-utt15 ref  mi  ri  za
+CA290QL2_M18-utt15 hyp  mi  ri  za
+CA290QL2_M18-utt15 op    C   C   C
+CA290QL2_M18-utt15 #csid 3 0 0 0
+CA290QL2_M18-utt16 ref  xe  ta
+CA290QL2_M18-utt16 hyp  xe  ta
+CA290QL2_M18-utt16 op    C   C
+CA290QL2_M18-utt16 #csid 2 0 0 0
+CA290QL2_M18-utt17 ref  bu  fe  lu
+CA290QL2_M18-utt17 hyp  bu  fe  lu
+CA290QL2_M18-utt17 op    C   C   C
+CA290QL2_M18-utt17 #csid 3 0 0 0
+CA290QL2_M18-utt18 ref  ma  ni  be  za
+CA290QL2_M18-utt18 hyp  ma  ni  be  za
+CA290QL2_M18-utt18 op    C   C   C   C
+CA290QL2_M18-utt18 #csid 4 0 0 0
+CA290QL2_M18-utt19 ref  ma  re  xa  da
+CA290QL2_M18-utt19 hyp  ma  re  xa  da
+CA290QL2_M18-utt19 op    C   C   C   C
+CA290QL2_M18-utt19 #csid 4 0 0 0
+CA290QL2_M18-utt2 ref  sa  te  li  te
+CA290QL2_M18-utt2 hyp  sa  te  li  te
+CA290QL2_M18-utt2 op    C   C   C   C
+CA290QL2_M18-utt2 #csid 4 0 0 0
+CA290QL2_M18-utt20 ref  pe  so
+CA290QL2_M18-utt20 hyp  pe  so
+CA290QL2_M18-utt20 op    C   C
+CA290QL2_M18-utt20 #csid 2 0 0 0
+CA290QL2_M18-utt21 ref  bi  ra  ni
+CA290QL2_M18-utt21 hyp  bi  ra  ni
+CA290QL2_M18-utt21 op    C   C   C
+CA290QL2_M18-utt21 #csid 3 0 0 0
+CA290QL2_M18-utt22 ref  ti  fe  du  ne
+CA290QL2_M18-utt22 hyp  ti  fe  du  ne
+CA290QL2_M18-utt22 op    C   C   C   C
+CA290QL2_M18-utt22 #csid 4 0 0 0
+CA290QL2_M18-utt23 ref  ti  yo
+CA290QL2_M18-utt23 hyp  ti  yo
+CA290QL2_M18-utt23 op    C   C
+CA290QL2_M18-utt23 #csid 2 0 0 0
+CA290QL2_M18-utt24 ref  no  fe
+CA290QL2_M18-utt24 hyp  no  fe
+CA290QL2_M18-utt24 op    C   C
+CA290QL2_M18-utt24 #csid 2 0 0 0
+CA290QL2_M18-utt25 ref  pe  ta  ti
+CA290QL2_M18-utt25 hyp  pe  ta  te
+CA290QL2_M18-utt25 op    C   C   S
+CA290QL2_M18-utt25 #csid 2 1 0 0
+CA290QL2_M18-utt26 ref  la  do
+CA290QL2_M18-utt26 hyp  la  do
+CA290QL2_M18-utt26 op    C   C
+CA290QL2_M18-utt26 #csid 2 0 0 0
+CA290QL2_M18-utt27 ref  mu  no
+CA290QL2_M18-utt27 hyp  mu  no
+CA290QL2_M18-utt27 op    C   C
+CA290QL2_M18-utt27 #csid 2 0 0 0
+CA290QL2_M18-utt28 ref  za  lu
+CA290QL2_M18-utt28 hyp  za  lu
+CA290QL2_M18-utt28 op    C   C
+CA290QL2_M18-utt28 #csid 2 0 0 0
+CA290QL2_M18-utt29 ref  ka  rro  ma  to
+CA290QL2_M18-utt29 hyp  ka  rro  ma  to
+CA290QL2_M18-utt29 op    C   C    C   C
+CA290QL2_M18-utt29 #csid 4 0 0 0
+CA290QL2_M18-utt3 ref  rri  bu  po
+CA290QL2_M18-utt3 hyp  rri  bu  po
+CA290QL2_M18-utt3 op    C    C   C
+CA290QL2_M18-utt3 #csid 3 0 0 0
+CA290QL2_M18-utt30 ref  mu  si  ma
+CA290QL2_M18-utt30 hyp  mu  si  ma
+CA290QL2_M18-utt30 op    C   C   C
+CA290QL2_M18-utt30 #csid 3 0 0 0
+CA290QL2_M18-utt31 ref  de  ba  ti
+CA290QL2_M18-utt31 hyp  de  ba  ti
+CA290QL2_M18-utt31 op    C   C   C
+CA290QL2_M18-utt31 #csid 3 0 0 0
+CA290QL2_M18-utt32 ref  di  ne  ro
+CA290QL2_M18-utt32 hyp  di  ne  ro
+CA290QL2_M18-utt32 op    C   C   C
+CA290QL2_M18-utt32 #csid 3 0 0 0
+CA290QL2_M18-utt33 ref  ni  fu  ba  mi
+CA290QL2_M18-utt33 hyp  ni  fu  ba  mi
+CA290QL2_M18-utt33 op    C   C   C   C
+CA290QL2_M18-utt33 #csid 4 0 0 0
+CA290QL2_M18-utt34 ref  mo  te
+CA290QL2_M18-utt34 hyp  mo  te
+CA290QL2_M18-utt34 op    C   C
+CA290QL2_M18-utt34 #csid 2 0 0 0
+CA290QL2_M18-utt35 ref  ko  da
+CA290QL2_M18-utt35 hyp  ko  da
+CA290QL2_M18-utt35 op    C   C
+CA290QL2_M18-utt35 #csid 2 0 0 0
+CA290QL2_M18-utt36 ref  ko  zi
+CA290QL2_M18-utt36 hyp  ko  zi
+CA290QL2_M18-utt36 op    C   C
+CA290QL2_M18-utt36 #csid 2 0 0 0
+CA290QL2_M18-utt37 ref  di  ku  li  te
+CA290QL2_M18-utt37 hyp  di  ku  li  te
+CA290QL2_M18-utt37 op    C   C   C   C
+CA290QL2_M18-utt37 #csid 4 0 0 0
+CA290QL2_M18-utt38 ref  ko  pa  te
+CA290QL2_M18-utt38 hyp  ko  pa  te
+CA290QL2_M18-utt38 op    C   C   C
+CA290QL2_M18-utt38 #csid 3 0 0 0
+CA290QL2_M18-utt39 ref  do  bu
+CA290QL2_M18-utt39 hyp  do  bu
+CA290QL2_M18-utt39 op    C   C
+CA290QL2_M18-utt39 #csid 2 0 0 0
+CA290QL2_M18-utt4 ref  me  po
+CA290QL2_M18-utt4 hyp  me  po
+CA290QL2_M18-utt4 op    C   C
+CA290QL2_M18-utt4 #csid 2 0 0 0
+CA290QL2_M18-utt40 ref  no  che
+CA290QL2_M18-utt40 hyp  no  che
+CA290QL2_M18-utt40 op    C   C 
+CA290QL2_M18-utt40 #csid 2 0 0 0
+CA290QL2_M18-utt41 ref  fi  lo  so  fo
+CA290QL2_M18-utt41 hyp  fi  lo  so  fo
+CA290QL2_M18-utt41 op    C   C   C   C
+CA290QL2_M18-utt41 #csid 4 0 0 0
+CA290QL2_M18-utt42 ref  pa  do
+CA290QL2_M18-utt42 hyp  pa  do
+CA290QL2_M18-utt42 op    C   C
+CA290QL2_M18-utt42 #csid 2 0 0 0
+CA290QL2_M18-utt43 ref  ka  yo
+CA290QL2_M18-utt43 hyp  ka  yo
+CA290QL2_M18-utt43 op    C   C
+CA290QL2_M18-utt43 #csid 2 0 0 0
+CA290QL2_M18-utt44 ref  ka  pi  tu  lo
+CA290QL2_M18-utt44 hyp  ka  pi  tu  lo
+CA290QL2_M18-utt44 op    C   C   C   C
+CA290QL2_M18-utt44 #csid 4 0 0 0
+CA290QL2_M18-utt45 ref  lu  xa
+CA290QL2_M18-utt45 hyp  lu  xa
+CA290QL2_M18-utt45 op    C   C
+CA290QL2_M18-utt45 #csid 2 0 0 0
+CA290QL2_M18-utt46 ref  ba  ye
+CA290QL2_M18-utt46 hyp  ba  ye
+CA290QL2_M18-utt46 op    C   C
+CA290QL2_M18-utt46 #csid 2 0 0 0
+CA290QL2_M18-utt47 ref  ka  ba  ye  mo
+CA290QL2_M18-utt47 hyp  ka  ba  ye  mo
+CA290QL2_M18-utt47 op    C   C   C   C
+CA290QL2_M18-utt47 #csid 4 0 0 0
+CA290QL2_M18-utt5 ref  ma  nya  na
+CA290QL2_M18-utt5 hyp  ma  nya  na
+CA290QL2_M18-utt5 op    C   C    C
+CA290QL2_M18-utt5 #csid 3 0 0 0
+CA290QL2_M18-utt6 ref  zi  da
+CA290QL2_M18-utt6 hyp  zi  ra
+CA290QL2_M18-utt6 op    C   S
+CA290QL2_M18-utt6 #csid 1 1 0 0
+CA290QL2_M18-utt7 ref  ka  rro  nya
+CA290QL2_M18-utt7 hyp  ka  rro  nya
+CA290QL2_M18-utt7 op    C   C    C 
+CA290QL2_M18-utt7 #csid 3 0 0 0
+CA290QL2_M18-utt8 ref  bi  ga
+CA290QL2_M18-utt8 hyp  bi  ga
+CA290QL2_M18-utt8 op    C   C
+CA290QL2_M18-utt8 #csid 2 0 0 0
+CA290QL2_M18-utt9 ref  mo  pe  di  ta
+CA290QL2_M18-utt9 hyp  mo  pe  di  ta
+CA290QL2_M18-utt9 op    C   C   C   C
+CA290QL2_M18-utt9 #csid 4 0 0 0
+CA290QL3_M18-utt0 ref  so  ri
+CA290QL3_M18-utt0 hyp  so  ri
+CA290QL3_M18-utt0 op    C   C
+CA290QL3_M18-utt0 #csid 2 0 0 0
+CA290QL3_M18-utt1 ref  ye  da
+CA290QL3_M18-utt1 hyp  ye  ra
+CA290QL3_M18-utt1 op    C   S
+CA290QL3_M18-utt1 #csid 1 1 0 0
+CA290QL3_M18-utt10 ref  ku  fe
+CA290QL3_M18-utt10 hyp  ku  fe
+CA290QL3_M18-utt10 op    C   C
+CA290QL3_M18-utt10 #csid 2 0 0 0
+CA290QL3_M18-utt11 ref  so  ma
+CA290QL3_M18-utt11 hyp  so   a
+CA290QL3_M18-utt11 op    C   S
+CA290QL3_M18-utt11 #csid 1 1 0 0
+CA290QL3_M18-utt12 ref  ka  ba  ye  ro
+CA290QL3_M18-utt12 hyp  ka  ba  ye  ro
+CA290QL3_M18-utt12 op    C   C   C   C
+CA290QL3_M18-utt12 #csid 4 0 0 0
+CA290QL3_M18-utt13 ref  be  na
+CA290QL3_M18-utt13 hyp  be  na
+CA290QL3_M18-utt13 op    C   C
+CA290QL3_M18-utt13 #csid 2 0 0 0
+CA290QL3_M18-utt14 ref  mu  si  ka
+CA290QL3_M18-utt14 hyp  mu  si  ka
+CA290QL3_M18-utt14 op    C   C   C
+CA290QL3_M18-utt14 #csid 3 0 0 0
+CA290QL3_M18-utt15 ref  di  ku
+CA290QL3_M18-utt15 hyp  di  ku
+CA290QL3_M18-utt15 op    C   C
+CA290QL3_M18-utt15 #csid 2 0 0 0
+CA290QL3_M18-utt16 ref  ka  mi  ro
+CA290QL3_M18-utt16 hyp  ka  mi  ro
+CA290QL3_M18-utt16 op    C   C   C
+CA290QL3_M18-utt16 #csid 3 0 0 0
+CA290QL3_M18-utt17 ref  me  ze  do  ra
+CA290QL3_M18-utt17 hyp  me  ze  do  ra
+CA290QL3_M18-utt17 op    C   C   C   C
+CA290QL3_M18-utt17 #csid 4 0 0 0
+CA290QL3_M18-utt18 ref  fe  be
+CA290QL3_M18-utt18 hyp  ze  bi
+CA290QL3_M18-utt18 op    S   S
+CA290QL3_M18-utt18 #csid 0 2 0 0
+CA290QL3_M18-utt19 ref  ka  xo
+CA290QL3_M18-utt19 hyp  ka  xo
+CA290QL3_M18-utt19 op    C   C
+CA290QL3_M18-utt19 #csid 2 0 0 0
+CA290QL3_M18-utt2 ref  pa  li  xo
+CA290QL3_M18-utt2 hyp  pa  li  xo
+CA290QL3_M18-utt2 op    C   C   C
+CA290QL3_M18-utt2 #csid 3 0 0 0
+CA290QL3_M18-utt20 ref  bi  la
+CA290QL3_M18-utt20 hyp  bi  la
+CA290QL3_M18-utt20 op    C   C
+CA290QL3_M18-utt20 #csid 2 0 0 0
+CA290QL3_M18-utt21 ref   me  di  zi  ra
+CA290QL3_M18-utt21 hyp  ***  mi  zi  ra
+CA290QL3_M18-utt21 op    D    S   C   C
+CA290QL3_M18-utt21 #csid 2 1 0 1
+CA290QL3_M18-utt22 ref  la  ***  kri  ga  fo
+CA290QL3_M18-utt22 hyp  la   ti   di  ga  fo
+CA290QL3_M18-utt22 op    C   I    S    C   C
+CA290QL3_M18-utt22 #csid 3 1 1 0
+CA290QL3_M18-utt23 ref  no  ze  ba
+CA290QL3_M18-utt23 hyp  no  ze  ba
+CA290QL3_M18-utt23 op    C   C   C
+CA290QL3_M18-utt23 #csid 3 0 0 0
+CA290QL3_M18-utt24 ref  lu  fo
+CA290QL3_M18-utt24 hyp  lu  fo
+CA290QL3_M18-utt24 op    C   C
+CA290QL3_M18-utt24 #csid 2 0 0 0
+CA290QL3_M18-utt25 ref  ta  po  di  no
+CA290QL3_M18-utt25 hyp  ta  po  di  no
+CA290QL3_M18-utt25 op    C   C   C   C
+CA290QL3_M18-utt25 #csid 4 0 0 0
+CA290QL3_M18-utt26 ref  fi  lo  so  fo
+CA290QL3_M18-utt26 hyp  fi  lo  so  fo
+CA290QL3_M18-utt26 op    C   C   C   C
+CA290QL3_M18-utt26 #csid 4 0 0 0
+CA290QL3_M18-utt27 ref  ni  bo  fe  ma
+CA290QL3_M18-utt27 hyp  ni  bo  fe  mo
+CA290QL3_M18-utt27 op    C   C   C   S
+CA290QL3_M18-utt27 #csid 3 1 0 0
+CA290QL3_M18-utt28 ref  mi  ri  ya
+CA290QL3_M18-utt28 hyp  mi  ri  ya
+CA290QL3_M18-utt28 op    C   C   C
+CA290QL3_M18-utt28 #csid 3 0 0 0
+CA290QL3_M18-utt29 ref  zi  bu  fe  ni
+CA290QL3_M18-utt29 hyp  zi  bu  fe  ni
+CA290QL3_M18-utt29 op    C   C   C   C
+CA290QL3_M18-utt29 #csid 4 0 0 0
+CA290QL3_M18-utt3 ref  so  ga
+CA290QL3_M18-utt3 hyp  so  ga
+CA290QL3_M18-utt3 op    C   C
+CA290QL3_M18-utt3 #csid 2 0 0 0
+CA290QL3_M18-utt30 ref  mo  pa  so  ka
+CA290QL3_M18-utt30 hyp  mo  pa  so  ka
+CA290QL3_M18-utt30 op    C   C   C   C
+CA290QL3_M18-utt30 #csid 4 0 0 0
+CA290QL3_M18-utt31 ref  ma  ni  be  la
+CA290QL3_M18-utt31 hyp  ma  ni  be  la
+CA290QL3_M18-utt31 op    C   C   C   C
+CA290QL3_M18-utt31 #csid 4 0 0 0
+CA290QL3_M18-utt32 ref  pe  ta  te
+CA290QL3_M18-utt32 hyp  pe  ta  te
+CA290QL3_M18-utt32 op    C   C   C
+CA290QL3_M18-utt32 #csid 3 0 0 0
+CA290QL3_M18-utt33 ref  de  ba  te
+CA290QL3_M18-utt33 hyp  de  ba  te
+CA290QL3_M18-utt33 op    C   C   C
+CA290QL3_M18-utt33 #csid 3 0 0 0
+CA290QL3_M18-utt34 ref  lu  cha
+CA290QL3_M18-utt34 hyp  lu  cha
+CA290QL3_M18-utt34 op    C   C 
+CA290QL3_M18-utt34 #csid 2 0 0 0
+CA290QL3_M18-utt35 ref  ka  mo
+CA290QL3_M18-utt35 hyp  ka  mo
+CA290QL3_M18-utt35 op    C   C
+CA290QL3_M18-utt35 #csid 2 0 0 0
+CA290QL3_M18-utt36 ref  ko  di  so
+CA290QL3_M18-utt36 hyp  ko  di  so
+CA290QL3_M18-utt36 op    C   C   C
+CA290QL3_M18-utt36 #csid 3 0 0 0
+CA290QL3_M18-utt37 ref  so  ma  fi
+CA290QL3_M18-utt37 hyp  so  ma  zi
+CA290QL3_M18-utt37 op    C   C   S
+CA290QL3_M18-utt37 #csid 2 1 0 0
+CA290QL3_M18-utt38 ref  lo  na
+CA290QL3_M18-utt38 hyp  lo  na
+CA290QL3_M18-utt38 op    C   C
+CA290QL3_M18-utt38 #csid 2 0 0 0
+CA290QL3_M18-utt39 ref  rro  ko
+CA290QL3_M18-utt39 hyp  rro  ko
+CA290QL3_M18-utt39 op    C    C
+CA290QL3_M18-utt39 #csid 2 0 0 0
+CA290QL3_M18-utt4 ref  ko  pa
+CA290QL3_M18-utt4 hyp  ko  pa
+CA290QL3_M18-utt4 op    C   C
+CA290QL3_M18-utt4 #csid 2 0 0 0
+CA290QL3_M18-utt40 ref  pe  ta  ma
+CA290QL3_M18-utt40 hyp  pe  ta  mo
+CA290QL3_M18-utt40 op    C   C   S
+CA290QL3_M18-utt40 #csid 2 1 0 0
+CA290QL3_M18-utt41 ref  ge  za
+CA290QL3_M18-utt41 hyp  ge  za
+CA290QL3_M18-utt41 op    C   C
+CA290QL3_M18-utt41 #csid 2 0 0 0
+CA290QL3_M18-utt42 ref  ma  no  ta  go
+CA290QL3_M18-utt42 hyp  ma  no  ta  go
+CA290QL3_M18-utt42 op    C   C   C   C
+CA290QL3_M18-utt42 #csid 4 0 0 0
+CA290QL3_M18-utt43 ref  bu  ke
+CA290QL3_M18-utt43 hyp  bu  ke
+CA290QL3_M18-utt43 op    C   C
+CA290QL3_M18-utt43 #csid 2 0 0 0
+CA290QL3_M18-utt44 ref  me  pe
+CA290QL3_M18-utt44 hyp  me  pe
+CA290QL3_M18-utt44 op    C   C
+CA290QL3_M18-utt44 #csid 2 0 0 0
+CA290QL3_M18-utt45 ref  pe  ta
+CA290QL3_M18-utt45 hyp  pe  ta
+CA290QL3_M18-utt45 op    C   C
+CA290QL3_M18-utt45 #csid 2 0 0 0
+CA290QL3_M18-utt46 ref  rre  ti  ra  za
+CA290QL3_M18-utt46 hyp  rre  ti  ra  za
+CA290QL3_M18-utt46 op    C    C   C   C
+CA290QL3_M18-utt46 #csid 4 0 0 0
+CA290QL3_M18-utt47 ref  ti  bu
+CA290QL3_M18-utt47 hyp  ti  bu
+CA290QL3_M18-utt47 op    C   C
+CA290QL3_M18-utt47 #csid 2 0 0 0
+CA290QL3_M18-utt5 ref  be  ya  fe
+CA290QL3_M18-utt5 hyp  be  ya  fe
+CA290QL3_M18-utt5 op    C   C   C
+CA290QL3_M18-utt5 #csid 3 0 0 0
+CA290QL3_M18-utt6 ref  mu  lo
+CA290QL3_M18-utt6 hyp  mu  lo
+CA290QL3_M18-utt6 op    C   C
+CA290QL3_M18-utt6 #csid 2 0 0 0
+CA290QL3_M18-utt7 ref  zi  ma
+CA290QL3_M18-utt7 hyp  zi  ma
+CA290QL3_M18-utt7 op    C   C
+CA290QL3_M18-utt7 #csid 2 0 0 0
+CA290QL3_M18-utt8 ref  no  be  ya
+CA290QL3_M18-utt8 hyp  no  be  ya
+CA290QL3_M18-utt8 op    C   C   C
+CA290QL3_M18-utt8 #csid 3 0 0 0
+CA290QL3_M18-utt9 ref  ni  gu
+CA290QL3_M18-utt9 hyp  mi  lu
+CA290QL3_M18-utt9 op    S   S
+CA290QL3_M18-utt9 #csid 0 2 0 0
+CA290QL4_M18-utt0 ref  chu  so
+CA290QL4_M18-utt0 hyp  chu  so
+CA290QL4_M18-utt0 op    C    C
+CA290QL4_M18-utt0 #csid 2 0 0 0
+CA290QL4_M18-utt1 ref  fe  za
+CA290QL4_M18-utt1 hyp  ze  za
+CA290QL4_M18-utt1 op    S   C
+CA290QL4_M18-utt1 #csid 1 1 0 0
+CA290QL4_M18-utt10 ref  pe  ta  ka
+CA290QL4_M18-utt10 hyp  pe  ta  ka
+CA290QL4_M18-utt10 op    C   C   C
+CA290QL4_M18-utt10 #csid 3 0 0 0
+CA290QL4_M18-utt11 ref  do  ya
+CA290QL4_M18-utt11 hyp  do  ya
+CA290QL4_M18-utt11 op    C   C
+CA290QL4_M18-utt11 #csid 2 0 0 0
+CA290QL4_M18-utt12 ref  li  ya
+CA290QL4_M18-utt12 hyp  li  ya
+CA290QL4_M18-utt12 op    C   C
+CA290QL4_M18-utt12 #csid 2 0 0 0
+CA290QL4_M18-utt13 ref  ka  mi  no
+CA290QL4_M18-utt13 hyp  ka  mi  no
+CA290QL4_M18-utt13 op    C   C   C
+CA290QL4_M18-utt13 #csid 3 0 0 0
+CA290QL4_M18-utt14 ref  pa  de  so
+CA290QL4_M18-utt14 hyp  pa  de  so
+CA290QL4_M18-utt14 op    C   C   C
+CA290QL4_M18-utt14 #csid 3 0 0 0
+CA290QL4_M18-utt15 ref  so  da
+CA290QL4_M18-utt15 hyp  so  da
+CA290QL4_M18-utt15 op    C   C
+CA290QL4_M18-utt15 #csid 2 0 0 0
+CA290QL4_M18-utt16 ref  ti  tu  mo
+CA290QL4_M18-utt16 hyp  ti  tu  mo
+CA290QL4_M18-utt16 op    C   C   C
+CA290QL4_M18-utt16 #csid 3 0 0 0
+CA290QL4_M18-utt17 ref  di  ma  ko
+CA290QL4_M18-utt17 hyp  di  ma  ko
+CA290QL4_M18-utt17 op    C   C   C
+CA290QL4_M18-utt17 #csid 3 0 0 0
+CA290QL4_M18-utt18 ref  ka  nyo
+CA290QL4_M18-utt18 hyp  ka  nyo
+CA290QL4_M18-utt18 op    C   C 
+CA290QL4_M18-utt18 #csid 2 0 0 0
+CA290QL4_M18-utt19 ref  ko  ga
+CA290QL4_M18-utt19 hyp  ko  ga
+CA290QL4_M18-utt19 op    C   C
+CA290QL4_M18-utt19 #csid 2 0 0 0
+CA290QL4_M18-utt2 ref  ye  ma
+CA290QL4_M18-utt2 hyp  ye  ma
+CA290QL4_M18-utt2 op    C   C
+CA290QL4_M18-utt2 #csid 2 0 0 0
+CA290QL4_M18-utt20 ref  mo  pe
+CA290QL4_M18-utt20 hyp  mo  pe
+CA290QL4_M18-utt20 op    C   C
+CA290QL4_M18-utt20 #csid 2 0 0 0
+CA290QL4_M18-utt21 ref  na  fe
+CA290QL4_M18-utt21 hyp  na  fe
+CA290QL4_M18-utt21 op    C   C
+CA290QL4_M18-utt21 #csid 2 0 0 0
+CA290QL4_M18-utt22 ref  ge  rra
+CA290QL4_M18-utt22 hyp  ge  rra
+CA290QL4_M18-utt22 op    C   C 
+CA290QL4_M18-utt22 #csid 2 0 0 0
+CA290QL4_M18-utt23 ref  so  ga  li  na
+CA290QL4_M18-utt23 hyp  so  da  li  na
+CA290QL4_M18-utt23 op    C   S   C   C
+CA290QL4_M18-utt23 #csid 3 1 0 0
+CA290QL4_M18-utt24 ref  pe  li  ku  za
+CA290QL4_M18-utt24 hyp  pe  li  ku  za
+CA290QL4_M18-utt24 op    C   C   C   C
+CA290QL4_M18-utt24 #csid 4 0 0 0
+CA290QL4_M18-utt25 ref  di  la
+CA290QL4_M18-utt25 hyp  di  la
+CA290QL4_M18-utt25 op    C   C
+CA290QL4_M18-utt25 #csid 2 0 0 0
+CA290QL4_M18-utt26 ref  no  be  la
+CA290QL4_M18-utt26 hyp  no  be  la
+CA290QL4_M18-utt26 op    C   C   C
+CA290QL4_M18-utt26 #csid 3 0 0 0
+CA290QL4_M18-utt27 ref  pe  ku  ga  ta
+CA290QL4_M18-utt27 hyp  pe  ku  ga  ta
+CA290QL4_M18-utt27 op    C   C   C   C
+CA290QL4_M18-utt27 #csid 4 0 0 0
+CA290QL4_M18-utt28 ref  la  ti  ga  zo
+CA290QL4_M18-utt28 hyp  la  ti  ga  zo
+CA290QL4_M18-utt28 op    C   C   C   C
+CA290QL4_M18-utt28 #csid 4 0 0 0
+CA290QL4_M18-utt29 ref  rro  ka
+CA290QL4_M18-utt29 hyp  rro  ka
+CA290QL4_M18-utt29 op    C    C
+CA290QL4_M18-utt29 #csid 2 0 0 0
+CA290QL4_M18-utt3 ref  zi  fo
+CA290QL4_M18-utt3 hyp  zi  fo
+CA290QL4_M18-utt3 op    C   C
+CA290QL4_M18-utt3 #csid 2 0 0 0
+CA290QL4_M18-utt30 ref  pa  le  tie  rra
+CA290QL4_M18-utt30 hyp  pa  le  tie  rra
+CA290QL4_M18-utt30 op    C   C   C    C 
+CA290QL4_M18-utt30 #csid 4 0 0 0
+CA290QL4_M18-utt31 ref  ze  bo
+CA290QL4_M18-utt31 hyp  ze  bo
+CA290QL4_M18-utt31 op    C   C
+CA290QL4_M18-utt31 #csid 2 0 0 0
+CA290QL4_M18-utt32 ref  pa  li  yo
+CA290QL4_M18-utt32 hyp  pa  li  ya
+CA290QL4_M18-utt32 op    C   C   S
+CA290QL4_M18-utt32 #csid 2 1 0 0
+CA290QL4_M18-utt33 ref  ka  ba  ye  to
+CA290QL4_M18-utt33 hyp  ka  ba  ye  to
+CA290QL4_M18-utt33 op    C   C   C   C
+CA290QL4_M18-utt33 #csid 4 0 0 0
+CA290QL4_M18-utt34 ref  lo  fe  du  ne
+CA290QL4_M18-utt34 hyp  lo  ze  du  ne
+CA290QL4_M18-utt34 op    C   S   C   C
+CA290QL4_M18-utt34 #csid 3 1 0 0
+CA290QL4_M18-utt35 ref  ya  to
+CA290QL4_M18-utt35 hyp  ya  to
+CA290QL4_M18-utt35 op    C   C
+CA290QL4_M18-utt35 #csid 2 0 0 0
+CA290QL4_M18-utt36 ref  gi  cho
+CA290QL4_M18-utt36 hyp  gi  cho
+CA290QL4_M18-utt36 op    C   C 
+CA290QL4_M18-utt36 #csid 2 0 0 0
+CA290QL4_M18-utt37 ref  pe  na
+CA290QL4_M18-utt37 hyp  pe  na
+CA290QL4_M18-utt37 op    C   C
+CA290QL4_M18-utt37 #csid 2 0 0 0
+CA290QL4_M18-utt38 ref  bi  ya
+CA290QL4_M18-utt38 hyp  bi  ya
+CA290QL4_M18-utt38 op    C   C
+CA290QL4_M18-utt38 #csid 2 0 0 0
+CA290QL4_M18-utt39 ref  to  ye
+CA290QL4_M18-utt39 hyp  to  ye
+CA290QL4_M18-utt39 op    C   C
+CA290QL4_M18-utt39 #csid 2 0 0 0
+CA290QL4_M18-utt4 ref  pa  ni
+CA290QL4_M18-utt4 hyp  pa  na
+CA290QL4_M18-utt4 op    C   S
+CA290QL4_M18-utt4 #csid 1 1 0 0
+CA290QL4_M18-utt40 ref  fe  bu  xo
+CA290QL4_M18-utt40 hyp  ze  bu  xo
+CA290QL4_M18-utt40 op    S   C   C
+CA290QL4_M18-utt40 #csid 2 1 0 0
+CA290QL4_M18-utt41 ref  rre  ti  ra  da
+CA290QL4_M18-utt41 hyp  rre  ti  ra  da
+CA290QL4_M18-utt41 op    C    C   C   C
+CA290QL4_M18-utt41 #csid 4 0 0 0
+CA290QL4_M18-utt42 ref  nu  me  so
+CA290QL4_M18-utt42 hyp  nu  me  so
+CA290QL4_M18-utt42 op    C   C   C
+CA290QL4_M18-utt42 #csid 3 0 0 0
+CA290QL4_M18-utt43 ref  ta  le  bo
+CA290QL4_M18-utt43 hyp  ta  le  bo
+CA290QL4_M18-utt43 op    C   C   C
+CA290QL4_M18-utt43 #csid 3 0 0 0
+CA290QL4_M18-utt44 ref  me  di  zi  na
+CA290QL4_M18-utt44 hyp  me  di  zi  na
+CA290QL4_M18-utt44 op    C   C   C   C
+CA290QL4_M18-utt44 #csid 4 0 0 0
+CA290QL4_M18-utt45 ref  zi  se
+CA290QL4_M18-utt45 hyp  zi  se
+CA290QL4_M18-utt45 op    C   C
+CA290QL4_M18-utt45 #csid 2 0 0 0
+CA290QL4_M18-utt46 ref  fe  xi
+CA290QL4_M18-utt46 hyp  fe  xi
+CA290QL4_M18-utt46 op    C   C
+CA290QL4_M18-utt46 #csid 2 0 0 0
+CA290QL4_M18-utt47 ref  bi  fu  pe  si
+CA290QL4_M18-utt47 hyp  bi  fu  pe  si
+CA290QL4_M18-utt47 op    C   C   C   C
+CA290QL4_M18-utt47 #csid 4 0 0 0
+CA290QL4_M18-utt5 ref  za  bo  lu
+CA290QL4_M18-utt5 hyp  za  bo  lu
+CA290QL4_M18-utt5 op    C   C   C
+CA290QL4_M18-utt5 #csid 3 0 0 0
+CA290QL4_M18-utt6 ref  ma  no  ta  zo
+CA290QL4_M18-utt6 hyp  ma  no  ta  zo
+CA290QL4_M18-utt6 op    C   C   C   C
+CA290QL4_M18-utt6 #csid 4 0 0 0
+CA290QL4_M18-utt7 ref  ba  rre  yo
+CA290QL4_M18-utt7 hyp  ba  rre  yo
+CA290QL4_M18-utt7 op    C   C    C
+CA290QL4_M18-utt7 #csid 3 0 0 0
+CA290QL4_M18-utt8 ref  se  nyo  ri  da
+CA290QL4_M18-utt8 hyp  se  nyo  ri  da
+CA290QL4_M18-utt8 op    C   C    C   C
+CA290QL4_M18-utt8 #csid 4 0 0 0
+CA290QL4_M18-utt9 ref  tu  zo
+CA290QL4_M18-utt9 hyp  tu  zo
+CA290QL4_M18-utt9 op    C   C
+CA290QL4_M18-utt9 #csid 2 0 0 0

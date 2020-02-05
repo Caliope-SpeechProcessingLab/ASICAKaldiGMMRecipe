@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA219QL1_H17    raw         48        132        123          9          0          0          9          9
+CA219QL1_H17    sys         48        132      93.18       6.82       0.00       0.00       6.82      18.75
+CA219QL2_H17    raw         48        132        126          6          0          0          6          6
+CA219QL2_H17    sys         48        132      95.45       4.55       0.00       0.00       4.55      12.50
+CA219QL3_H17    raw         48        132        124          8          0          0          8          7
+CA219QL3_H17    sys         48        132      93.94       6.06       0.00       0.00       6.06      14.58
+CA219QL4_H17    raw         48        132        123          9          0          0          9          8
+CA219QL4_H17    sys         48        132      93.18       6.82       0.00       0.00       6.82      16.67
+SUM             raw        192        528        496         32          0          0         32         30
+SUM             sys        192        528      93.94       6.06       0.00       0.00       6.06      15.62
+
+--------------------------------------------------------------------
+CA219QL1_H17-utt0 ref  ya  te
+CA219QL1_H17-utt0 hyp  ya  te
+CA219QL1_H17-utt0 op    C   C
+CA219QL1_H17-utt0 #csid 2 0 0 0
+CA219QL1_H17-utt1 ref  no  lu
+CA219QL1_H17-utt1 hyp  no  lu
+CA219QL1_H17-utt1 op    C   C
+CA219QL1_H17-utt1 #csid 2 0 0 0
+CA219QL1_H17-utt10 ref  chu  lo
+CA219QL1_H17-utt10 hyp  chu  lo
+CA219QL1_H17-utt10 op    C    C
+CA219QL1_H17-utt10 #csid 2 0 0 0
+CA219QL1_H17-utt11 ref  pa  ba  ri  mo
+CA219QL1_H17-utt11 hyp  pa  ba  ri  bo
+CA219QL1_H17-utt11 op    C   C   C   S
+CA219QL1_H17-utt11 #csid 3 1 0 0
+CA219QL1_H17-utt12 ref  ko  pa  di
+CA219QL1_H17-utt12 hyp  ko  pa  di
+CA219QL1_H17-utt12 op    C   C   C
+CA219QL1_H17-utt12 #csid 3 0 0 0
+CA219QL1_H17-utt13 ref  li  ga
+CA219QL1_H17-utt13 hyp  li  ra
+CA219QL1_H17-utt13 op    C   S
+CA219QL1_H17-utt13 #csid 1 1 0 0
+CA219QL1_H17-utt14 ref  be  yo  lu
+CA219QL1_H17-utt14 hyp  be  yo  lo
+CA219QL1_H17-utt14 op    C   C   S
+CA219QL1_H17-utt14 #csid 2 1 0 0
+CA219QL1_H17-utt15 ref  so  te  to
+CA219QL1_H17-utt15 hyp  sa  te  to
+CA219QL1_H17-utt15 op    S   C   C
+CA219QL1_H17-utt15 #csid 2 1 0 0
+CA219QL1_H17-utt16 ref  ma  re  xa  za
+CA219QL1_H17-utt16 hyp  ma  re  xa  za
+CA219QL1_H17-utt16 op    C   C   C   C
+CA219QL1_H17-utt16 #csid 4 0 0 0
+CA219QL1_H17-utt17 ref  nu  me  ro
+CA219QL1_H17-utt17 hyp  nu  me  ro
+CA219QL1_H17-utt17 op    C   C   C
+CA219QL1_H17-utt17 #csid 3 0 0 0
+CA219QL1_H17-utt18 ref  ka  pi  tu  bo
+CA219QL1_H17-utt18 hyp  ka  pi  tu  bo
+CA219QL1_H17-utt18 op    C   C   C   C
+CA219QL1_H17-utt18 #csid 4 0 0 0
+CA219QL1_H17-utt19 ref  bi  ka
+CA219QL1_H17-utt19 hyp  bi  ka
+CA219QL1_H17-utt19 op    C   C
+CA219QL1_H17-utt19 #csid 2 0 0 0
+CA219QL1_H17-utt2 ref  ba  fe
+CA219QL1_H17-utt2 hyp  ba  ze
+CA219QL1_H17-utt2 op    C   S
+CA219QL1_H17-utt2 #csid 1 1 0 0
+CA219QL1_H17-utt20 ref  ti  bo
+CA219QL1_H17-utt20 hyp  ti  bo
+CA219QL1_H17-utt20 op    C   C
+CA219QL1_H17-utt20 #csid 2 0 0 0
+CA219QL1_H17-utt21 ref  ka  yi
+CA219QL1_H17-utt21 hyp  ka  yi
+CA219QL1_H17-utt21 op    C   C
+CA219QL1_H17-utt21 #csid 2 0 0 0
+CA219QL1_H17-utt22 ref  fo  bo  xe  ma
+CA219QL1_H17-utt22 hyp  fo  bo  xe  ma
+CA219QL1_H17-utt22 op    C   C   C   C
+CA219QL1_H17-utt22 #csid 4 0 0 0
+CA219QL1_H17-utt23 ref  pa  ne
+CA219QL1_H17-utt23 hyp  pa  ni
+CA219QL1_H17-utt23 op    C   S
+CA219QL1_H17-utt23 #csid 1 1 0 0
+CA219QL1_H17-utt24 ref  tu  fo
+CA219QL1_H17-utt24 hyp  tu  fo
+CA219QL1_H17-utt24 op    C   C
+CA219QL1_H17-utt24 #csid 2 0 0 0
+CA219QL1_H17-utt25 ref  sa  te  li  to
+CA219QL1_H17-utt25 hyp  sa  te  li  to
+CA219QL1_H17-utt25 op    C   C   C   C
+CA219QL1_H17-utt25 #csid 4 0 0 0
+CA219QL1_H17-utt26 ref  fe  cha
+CA219QL1_H17-utt26 hyp  ze  cha
+CA219QL1_H17-utt26 op    S   C 
+CA219QL1_H17-utt26 #csid 1 1 0 0
+CA219QL1_H17-utt27 ref  pe  mi
+CA219QL1_H17-utt27 hyp  pe  mi
+CA219QL1_H17-utt27 op    C   C
+CA219QL1_H17-utt27 #csid 2 0 0 0
+CA219QL1_H17-utt28 ref  di  ne  so
+CA219QL1_H17-utt28 hyp  di  ne  so
+CA219QL1_H17-utt28 op    C   C   C
+CA219QL1_H17-utt28 #csid 3 0 0 0
+CA219QL1_H17-utt29 ref  ka  ba  ye  te
+CA219QL1_H17-utt29 hyp  ka  ba  ye  te
+CA219QL1_H17-utt29 op    C   C   C   C
+CA219QL1_H17-utt29 #csid 4 0 0 0
+CA219QL1_H17-utt3 ref  ti  tu  lo
+CA219QL1_H17-utt3 hyp  ti  tu  lo
+CA219QL1_H17-utt3 op    C   C   C
+CA219QL1_H17-utt3 #csid 3 0 0 0
+CA219QL1_H17-utt30 ref  ko  li  za
+CA219QL1_H17-utt30 hyp  ko  li  za
+CA219QL1_H17-utt30 op    C   C   C
+CA219QL1_H17-utt30 #csid 3 0 0 0
+CA219QL1_H17-utt31 ref  ka  rro  ma  do
+CA219QL1_H17-utt31 hyp  ka  rro  ma  do
+CA219QL1_H17-utt31 op    C   C    C   C
+CA219QL1_H17-utt31 #csid 4 0 0 0
+CA219QL1_H17-utt32 ref  gi  nyo
+CA219QL1_H17-utt32 hyp  gi  nyo
+CA219QL1_H17-utt32 op    C   C 
+CA219QL1_H17-utt32 #csid 2 0 0 0
+CA219QL1_H17-utt33 ref  ma  nya  da
+CA219QL1_H17-utt33 hyp  ma  nya  ga
+CA219QL1_H17-utt33 op    C   C    S
+CA219QL1_H17-utt33 #csid 2 1 0 0
+CA219QL1_H17-utt34 ref  za  fe  lu  di
+CA219QL1_H17-utt34 hyp  za  fe  lu  di
+CA219QL1_H17-utt34 op    C   C   C   C
+CA219QL1_H17-utt34 #csid 4 0 0 0
+CA219QL1_H17-utt35 ref  la  ro
+CA219QL1_H17-utt35 hyp  la  ro
+CA219QL1_H17-utt35 op    C   C
+CA219QL1_H17-utt35 #csid 2 0 0 0
+CA219QL1_H17-utt36 ref  zi  ne
+CA219QL1_H17-utt36 hyp  zi  ne
+CA219QL1_H17-utt36 op    C   C
+CA219QL1_H17-utt36 #csid 2 0 0 0
+CA219QL1_H17-utt37 ref  se  nyo  ri  ta
+CA219QL1_H17-utt37 hyp  se  nyo  ri  ta
+CA219QL1_H17-utt37 op    C   C    C   C
+CA219QL1_H17-utt37 #csid 4 0 0 0
+CA219QL1_H17-utt38 ref  no  fe
+CA219QL1_H17-utt38 hyp  no  fe
+CA219QL1_H17-utt38 op    C   C
+CA219QL1_H17-utt38 #csid 2 0 0 0
+CA219QL1_H17-utt39 ref  pe  li  ku  la
+CA219QL1_H17-utt39 hyp  pe  li  ku  la
+CA219QL1_H17-utt39 op    C   C   C   C
+CA219QL1_H17-utt39 #csid 4 0 0 0
+CA219QL1_H17-utt4 ref  mo  de
+CA219QL1_H17-utt4 hyp  mo  de
+CA219QL1_H17-utt4 op    C   C
+CA219QL1_H17-utt4 #csid 2 0 0 0
+CA219QL1_H17-utt40 ref  ku  xo  ba
+CA219QL1_H17-utt40 hyp  ku  xo  ba
+CA219QL1_H17-utt40 op    C   C   C
+CA219QL1_H17-utt40 #csid 3 0 0 0
+CA219QL1_H17-utt41 ref  fu  xo
+CA219QL1_H17-utt41 hyp  fu  xo
+CA219QL1_H17-utt41 op    C   C
+CA219QL1_H17-utt41 #csid 2 0 0 0
+CA219QL1_H17-utt42 ref  se  ku
+CA219QL1_H17-utt42 hyp  se  ku
+CA219QL1_H17-utt42 op    C   C
+CA219QL1_H17-utt42 #csid 2 0 0 0
+CA219QL1_H17-utt43 ref  to  rre
+CA219QL1_H17-utt43 hyp  to  rre
+CA219QL1_H17-utt43 op    C   C 
+CA219QL1_H17-utt43 #csid 2 0 0 0
+CA219QL1_H17-utt44 ref  do  fe
+CA219QL1_H17-utt44 hyp  do  fe
+CA219QL1_H17-utt44 op    C   C
+CA219QL1_H17-utt44 #csid 2 0 0 0
+CA219QL1_H17-utt45 ref  ma  rre  nyo
+CA219QL1_H17-utt45 hyp  ma  rre  nyo
+CA219QL1_H17-utt45 op    C   C    C 
+CA219QL1_H17-utt45 #csid 3 0 0 0
+CA219QL1_H17-utt46 ref  me  la  ni  to
+CA219QL1_H17-utt46 hyp  me  la  ni  to
+CA219QL1_H17-utt46 op    C   C   C   C
+CA219QL1_H17-utt46 #csid 4 0 0 0
+CA219QL1_H17-utt47 ref  ta  le  go
+CA219QL1_H17-utt47 hyp  ta  le  go
+CA219QL1_H17-utt47 op    C   C   C
+CA219QL1_H17-utt47 #csid 3 0 0 0
+CA219QL1_H17-utt5 ref  pe  no
+CA219QL1_H17-utt5 hyp  pe  no
+CA219QL1_H17-utt5 op    C   C
+CA219QL1_H17-utt5 #csid 2 0 0 0
+CA219QL1_H17-utt6 ref  xe  ra
+CA219QL1_H17-utt6 hyp  xe  la
+CA219QL1_H17-utt6 op    C   S
+CA219QL1_H17-utt6 #csid 1 1 0 0
+CA219QL1_H17-utt7 ref  pa  le  ti  ya
+CA219QL1_H17-utt7 hyp  pa  le  ti  ya
+CA219QL1_H17-utt7 op    C   C   C   C
+CA219QL1_H17-utt7 #csid 4 0 0 0
+CA219QL1_H17-utt8 ref  ka  rro  fa
+CA219QL1_H17-utt8 hyp  ka  rro  fa
+CA219QL1_H17-utt8 op    C   C    C
+CA219QL1_H17-utt8 #csid 3 0 0 0
+CA219QL1_H17-utt9 ref  ma  po
+CA219QL1_H17-utt9 hyp  ma  po
+CA219QL1_H17-utt9 op    C   C
+CA219QL1_H17-utt9 #csid 2 0 0 0
+CA219QL2_H17-utt0 ref  so  ya
+CA219QL2_H17-utt0 hyp  so  ya
+CA219QL2_H17-utt0 op    C   C
+CA219QL2_H17-utt0 #csid 2 0 0 0
+CA219QL2_H17-utt1 ref  be  ta
+CA219QL2_H17-utt1 hyp  be  ta
+CA219QL2_H17-utt1 op    C   C
+CA219QL2_H17-utt1 #csid 2 0 0 0
+CA219QL2_H17-utt10 ref  me  ze  do  ta
+CA219QL2_H17-utt10 hyp  me  ze  do  ta
+CA219QL2_H17-utt10 op    C   C   C   C
+CA219QL2_H17-utt10 #csid 4 0 0 0
+CA219QL2_H17-utt11 ref  ko  li  ya
+CA219QL2_H17-utt11 hyp  ko  li  ya
+CA219QL2_H17-utt11 op    C   C   C
+CA219QL2_H17-utt11 #csid 3 0 0 0
+CA219QL2_H17-utt12 ref  bu  de
+CA219QL2_H17-utt12 hyp  bu  de
+CA219QL2_H17-utt12 op    C   C
+CA219QL2_H17-utt12 #csid 2 0 0 0
+CA219QL2_H17-utt13 ref  mo  ku
+CA219QL2_H17-utt13 hyp  mo  ko
+CA219QL2_H17-utt13 op    C   S
+CA219QL2_H17-utt13 #csid 1 1 0 0
+CA219QL2_H17-utt14 ref  lo  ra
+CA219QL2_H17-utt14 hyp  lo  ra
+CA219QL2_H17-utt14 op    C   C
+CA219QL2_H17-utt14 #csid 2 0 0 0
+CA219QL2_H17-utt15 ref  mi  ri  za
+CA219QL2_H17-utt15 hyp  mi  ri  za
+CA219QL2_H17-utt15 op    C   C   C
+CA219QL2_H17-utt15 #csid 3 0 0 0
+CA219QL2_H17-utt16 ref  xe  ta
+CA219QL2_H17-utt16 hyp  xe  ta
+CA219QL2_H17-utt16 op    C   C
+CA219QL2_H17-utt16 #csid 2 0 0 0
+CA219QL2_H17-utt17 ref  bu  fe  lu
+CA219QL2_H17-utt17 hyp  bu  fe  lo
+CA219QL2_H17-utt17 op    C   C   S
+CA219QL2_H17-utt17 #csid 2 1 0 0
+CA219QL2_H17-utt18 ref  ma  ni  be  za
+CA219QL2_H17-utt18 hyp  ma  ni  be  za
+CA219QL2_H17-utt18 op    C   C   C   C
+CA219QL2_H17-utt18 #csid 4 0 0 0
+CA219QL2_H17-utt19 ref  ma  re  xa  da
+CA219QL2_H17-utt19 hyp  ma  re  xa  da
+CA219QL2_H17-utt19 op    C   C   C   C
+CA219QL2_H17-utt19 #csid 4 0 0 0
+CA219QL2_H17-utt2 ref  sa  te  li  te
+CA219QL2_H17-utt2 hyp  sa  te  li  te
+CA219QL2_H17-utt2 op    C   C   C   C
+CA219QL2_H17-utt2 #csid 4 0 0 0
+CA219QL2_H17-utt20 ref  pe  so
+CA219QL2_H17-utt20 hyp  pe  so
+CA219QL2_H17-utt20 op    C   C
+CA219QL2_H17-utt20 #csid 2 0 0 0
+CA219QL2_H17-utt21 ref  di  ra  ni
+CA219QL2_H17-utt21 hyp  di  ra  ni
+CA219QL2_H17-utt21 op    C   C   C
+CA219QL2_H17-utt21 #csid 3 0 0 0
+CA219QL2_H17-utt22 ref  ti  fe  du  ne
+CA219QL2_H17-utt22 hyp  ti  fe  du  ne
+CA219QL2_H17-utt22 op    C   C   C   C
+CA219QL2_H17-utt22 #csid 4 0 0 0
+CA219QL2_H17-utt23 ref  ti  yo
+CA219QL2_H17-utt23 hyp  ti  yo
+CA219QL2_H17-utt23 op    C   C
+CA219QL2_H17-utt23 #csid 2 0 0 0
+CA219QL2_H17-utt24 ref  no  fe
+CA219QL2_H17-utt24 hyp  no  fe
+CA219QL2_H17-utt24 op    C   C
+CA219QL2_H17-utt24 #csid 2 0 0 0
+CA219QL2_H17-utt25 ref  pe  ta  ti
+CA219QL2_H17-utt25 hyp  pe  ta  ti
+CA219QL2_H17-utt25 op    C   C   C
+CA219QL2_H17-utt25 #csid 3 0 0 0
+CA219QL2_H17-utt26 ref  la  do
+CA219QL2_H17-utt26 hyp  la  do
+CA219QL2_H17-utt26 op    C   C
+CA219QL2_H17-utt26 #csid 2 0 0 0
+CA219QL2_H17-utt27 ref  mu  no
+CA219QL2_H17-utt27 hyp  mu  na
+CA219QL2_H17-utt27 op    C   S
+CA219QL2_H17-utt27 #csid 1 1 0 0
+CA219QL2_H17-utt28 ref  za  lo
+CA219QL2_H17-utt28 hyp  za  lo
+CA219QL2_H17-utt28 op    C   C
+CA219QL2_H17-utt28 #csid 2 0 0 0
+CA219QL2_H17-utt29 ref  ka  rro  ma  to
+CA219QL2_H17-utt29 hyp  ka  rro  ma  to
+CA219QL2_H17-utt29 op    C   C    C   C
+CA219QL2_H17-utt29 #csid 4 0 0 0
+CA219QL2_H17-utt3 ref  rri  bu  po
+CA219QL2_H17-utt3 hyp  rri  bu  po
+CA219QL2_H17-utt3 op    C    C   C
+CA219QL2_H17-utt3 #csid 3 0 0 0
+CA219QL2_H17-utt30 ref  mu  si  ma
+CA219QL2_H17-utt30 hyp  mu  si  ma
+CA219QL2_H17-utt30 op    C   C   C
+CA219QL2_H17-utt30 #csid 3 0 0 0
+CA219QL2_H17-utt31 ref  de  ba  ti
+CA219QL2_H17-utt31 hyp  de  ba  ti
+CA219QL2_H17-utt31 op    C   C   C
+CA219QL2_H17-utt31 #csid 3 0 0 0
+CA219QL2_H17-utt32 ref  di  ne  ro
+CA219QL2_H17-utt32 hyp  di  ne  ro
+CA219QL2_H17-utt32 op    C   C   C
+CA219QL2_H17-utt32 #csid 3 0 0 0
+CA219QL2_H17-utt33 ref  ni  fu  ba  mi
+CA219QL2_H17-utt33 hyp  ni  fu  ba  mi
+CA219QL2_H17-utt33 op    C   C   C   C
+CA219QL2_H17-utt33 #csid 4 0 0 0
+CA219QL2_H17-utt34 ref  mo  te
+CA219QL2_H17-utt34 hyp  mo  te
+CA219QL2_H17-utt34 op    C   C
+CA219QL2_H17-utt34 #csid 2 0 0 0
+CA219QL2_H17-utt35 ref  ko  da
+CA219QL2_H17-utt35 hyp  ko  da
+CA219QL2_H17-utt35 op    C   C
+CA219QL2_H17-utt35 #csid 2 0 0 0
+CA219QL2_H17-utt36 ref  ko  zi
+CA219QL2_H17-utt36 hyp  ko  zi
+CA219QL2_H17-utt36 op    C   C
+CA219QL2_H17-utt36 #csid 2 0 0 0
+CA219QL2_H17-utt37 ref  di  ku  li  te
+CA219QL2_H17-utt37 hyp  di  ku  li  te
+CA219QL2_H17-utt37 op    C   C   C   C
+CA219QL2_H17-utt37 #csid 4 0 0 0
+CA219QL2_H17-utt38 ref  ko  pa  te
+CA219QL2_H17-utt38 hyp  ko  pa  te
+CA219QL2_H17-utt38 op    C   C   C
+CA219QL2_H17-utt38 #csid 3 0 0 0
+CA219QL2_H17-utt39 ref  do  bu
+CA219QL2_H17-utt39 hyp  do  bu
+CA219QL2_H17-utt39 op    C   C
+CA219QL2_H17-utt39 #csid 2 0 0 0
+CA219QL2_H17-utt4 ref  me  po
+CA219QL2_H17-utt4 hyp  me  po
+CA219QL2_H17-utt4 op    C   C
+CA219QL2_H17-utt4 #csid 2 0 0 0
+CA219QL2_H17-utt40 ref  no  che
+CA219QL2_H17-utt40 hyp  no  che
+CA219QL2_H17-utt40 op    C   C 
+CA219QL2_H17-utt40 #csid 2 0 0 0
+CA219QL2_H17-utt41 ref  fi  lo  so  fo
+CA219QL2_H17-utt41 hyp  fi  lo  so  fo
+CA219QL2_H17-utt41 op    C   C   C   C
+CA219QL2_H17-utt41 #csid 4 0 0 0
+CA219QL2_H17-utt42 ref  pa  do
+CA219QL2_H17-utt42 hyp  pa  do
+CA219QL2_H17-utt42 op    C   C
+CA219QL2_H17-utt42 #csid 2 0 0 0
+CA219QL2_H17-utt43 ref  ka  yo
+CA219QL2_H17-utt43 hyp  ka  ye
+CA219QL2_H17-utt43 op    C   S
+CA219QL2_H17-utt43 #csid 1 1 0 0
+CA219QL2_H17-utt44 ref  ka  pi  tu  lo
+CA219QL2_H17-utt44 hyp  ka  pi  tu  lo
+CA219QL2_H17-utt44 op    C   C   C   C
+CA219QL2_H17-utt44 #csid 4 0 0 0
+CA219QL2_H17-utt45 ref  lu  xa
+CA219QL2_H17-utt45 hyp  lu  xa
+CA219QL2_H17-utt45 op    C   C
+CA219QL2_H17-utt45 #csid 2 0 0 0
+CA219QL2_H17-utt46 ref  ba  ye
+CA219QL2_H17-utt46 hyp  ba  ye
+CA219QL2_H17-utt46 op    C   C
+CA219QL2_H17-utt46 #csid 2 0 0 0
+CA219QL2_H17-utt47 ref  ka  ba  ye  mo
+CA219QL2_H17-utt47 hyp  ka  ba  ye  bo
+CA219QL2_H17-utt47 op    C   C   C   S
+CA219QL2_H17-utt47 #csid 3 1 0 0
+CA219QL2_H17-utt5 ref  ma  nya  na
+CA219QL2_H17-utt5 hyp  ma  nya  na
+CA219QL2_H17-utt5 op    C   C    C
+CA219QL2_H17-utt5 #csid 3 0 0 0
+CA219QL2_H17-utt6 ref  zi  da
+CA219QL2_H17-utt6 hyp  zi  ra
+CA219QL2_H17-utt6 op    C   S
+CA219QL2_H17-utt6 #csid 1 1 0 0
+CA219QL2_H17-utt7 ref  ka  rro  nya
+CA219QL2_H17-utt7 hyp  ka  rro  nya
+CA219QL2_H17-utt7 op    C   C    C 
+CA219QL2_H17-utt7 #csid 3 0 0 0
+CA219QL2_H17-utt8 ref  bi  ga
+CA219QL2_H17-utt8 hyp  bi  ga
+CA219QL2_H17-utt8 op    C   C
+CA219QL2_H17-utt8 #csid 2 0 0 0
+CA219QL2_H17-utt9 ref  mo  pe  di  ta
+CA219QL2_H17-utt9 hyp  mo  pe  di  ta
+CA219QL2_H17-utt9 op    C   C   C   C
+CA219QL2_H17-utt9 #csid 4 0 0 0
+CA219QL3_H17-utt0 ref  so  ri
+CA219QL3_H17-utt0 hyp  so  ri
+CA219QL3_H17-utt0 op    C   C
+CA219QL3_H17-utt0 #csid 2 0 0 0
+CA219QL3_H17-utt1 ref  ye  da
+CA219QL3_H17-utt1 hyp  ye  ra
+CA219QL3_H17-utt1 op    C   S
+CA219QL3_H17-utt1 #csid 1 1 0 0
+CA219QL3_H17-utt10 ref  ku  fe
+CA219QL3_H17-utt10 hyp  ku  fe
+CA219QL3_H17-utt10 op    C   C
+CA219QL3_H17-utt10 #csid 2 0 0 0
+CA219QL3_H17-utt11 ref  so  ma
+CA219QL3_H17-utt11 hyp  so  ma
+CA219QL3_H17-utt11 op    C   C
+CA219QL3_H17-utt11 #csid 2 0 0 0
+CA219QL3_H17-utt12 ref  ka  ba  ye  ro
+CA219QL3_H17-utt12 hyp  ka  ba  ye  ro
+CA219QL3_H17-utt12 op    C   C   C   C
+CA219QL3_H17-utt12 #csid 4 0 0 0
+CA219QL3_H17-utt13 ref  be  na
+CA219QL3_H17-utt13 hyp  be  na
+CA219QL3_H17-utt13 op    C   C
+CA219QL3_H17-utt13 #csid 2 0 0 0
+CA219QL3_H17-utt14 ref  mu  si  ka
+CA219QL3_H17-utt14 hyp  mu  si  ka
+CA219QL3_H17-utt14 op    C   C   C
+CA219QL3_H17-utt14 #csid 3 0 0 0
+CA219QL3_H17-utt15 ref  di  ku
+CA219QL3_H17-utt15 hyp  di  ku
+CA219QL3_H17-utt15 op    C   C
+CA219QL3_H17-utt15 #csid 2 0 0 0
+CA219QL3_H17-utt16 ref  ka  mi  ro
+CA219QL3_H17-utt16 hyp  ka  mi  ro
+CA219QL3_H17-utt16 op    C   C   C
+CA219QL3_H17-utt16 #csid 3 0 0 0
+CA219QL3_H17-utt17 ref  me  ze  do  ra
+CA219QL3_H17-utt17 hyp  me  ze  do  ra
+CA219QL3_H17-utt17 op    C   C   C   C
+CA219QL3_H17-utt17 #csid 4 0 0 0
+CA219QL3_H17-utt18 ref  ze  bi
+CA219QL3_H17-utt18 hyp  ze  bi
+CA219QL3_H17-utt18 op    C   C
+CA219QL3_H17-utt18 #csid 2 0 0 0
+CA219QL3_H17-utt19 ref  ka  xo
+CA219QL3_H17-utt19 hyp  ka  xo
+CA219QL3_H17-utt19 op    C   C
+CA219QL3_H17-utt19 #csid 2 0 0 0
+CA219QL3_H17-utt2 ref  pa  li  xo
+CA219QL3_H17-utt2 hyp  pa  li  xo
+CA219QL3_H17-utt2 op    C   C   C
+CA219QL3_H17-utt2 #csid 3 0 0 0
+CA219QL3_H17-utt20 ref  bi  ra
+CA219QL3_H17-utt20 hyp  bi  ra
+CA219QL3_H17-utt20 op    C   C
+CA219QL3_H17-utt20 #csid 2 0 0 0
+CA219QL3_H17-utt21 ref  me  di  zi  ra
+CA219QL3_H17-utt21 hyp  me  di  zi  ra
+CA219QL3_H17-utt21 op    C   C   C   C
+CA219QL3_H17-utt21 #csid 4 0 0 0
+CA219QL3_H17-utt22 ref  la  ti  ga  fo
+CA219QL3_H17-utt22 hyp  la  ti  ga  fo
+CA219QL3_H17-utt22 op    C   C   C   C
+CA219QL3_H17-utt22 #csid 4 0 0 0
+CA219QL3_H17-utt23 ref  no  ze  ba
+CA219QL3_H17-utt23 hyp  no  fe  ba
+CA219QL3_H17-utt23 op    C   S   C
+CA219QL3_H17-utt23 #csid 2 1 0 0
+CA219QL3_H17-utt24 ref  lu  fo
+CA219QL3_H17-utt24 hyp  lu  fo
+CA219QL3_H17-utt24 op    C   C
+CA219QL3_H17-utt24 #csid 2 0 0 0
+CA219QL3_H17-utt25 ref  ka  po  di  no
+CA219QL3_H17-utt25 hyp  ka  po  di  na
+CA219QL3_H17-utt25 op    C   C   C   S
+CA219QL3_H17-utt25 #csid 3 1 0 0
+CA219QL3_H17-utt26 ref  fi  lo  so  fo
+CA219QL3_H17-utt26 hyp  fi  lo  so  fo
+CA219QL3_H17-utt26 op    C   C   C   C
+CA219QL3_H17-utt26 #csid 4 0 0 0
+CA219QL3_H17-utt27 ref  ni  bo  fe  ma
+CA219QL3_H17-utt27 hyp  ni  bo  fe  ma
+CA219QL3_H17-utt27 op    C   C   C   C
+CA219QL3_H17-utt27 #csid 4 0 0 0
+CA219QL3_H17-utt28 ref  mi  ri  ya
+CA219QL3_H17-utt28 hyp  mi  ri  ya
+CA219QL3_H17-utt28 op    C   C   C
+CA219QL3_H17-utt28 #csid 3 0 0 0
+CA219QL3_H17-utt29 ref  zi  bu  fe  ni
+CA219QL3_H17-utt29 hyp  zi  bu  fe  ni
+CA219QL3_H17-utt29 op    C   C   C   C
+CA219QL3_H17-utt29 #csid 4 0 0 0
+CA219QL3_H17-utt3 ref  so  ga
+CA219QL3_H17-utt3 hyp  so  ga
+CA219QL3_H17-utt3 op    C   C
+CA219QL3_H17-utt3 #csid 2 0 0 0
+CA219QL3_H17-utt30 ref  mo  pa  so  ka
+CA219QL3_H17-utt30 hyp  mo  pa  so  ka
+CA219QL3_H17-utt30 op    C   C   C   C
+CA219QL3_H17-utt30 #csid 4 0 0 0
+CA219QL3_H17-utt31 ref  ma  ni  be  la
+CA219QL3_H17-utt31 hyp  ma  ni  be  la
+CA219QL3_H17-utt31 op    C   C   C   C
+CA219QL3_H17-utt31 #csid 4 0 0 0
+CA219QL3_H17-utt32 ref  pe  ta  te
+CA219QL3_H17-utt32 hyp  pe  ta  te
+CA219QL3_H17-utt32 op    C   C   C
+CA219QL3_H17-utt32 #csid 3 0 0 0
+CA219QL3_H17-utt33 ref  de  ba  te
+CA219QL3_H17-utt33 hyp  de  ba  te
+CA219QL3_H17-utt33 op    C   C   C
+CA219QL3_H17-utt33 #csid 3 0 0 0
+CA219QL3_H17-utt34 ref  lu  cha
+CA219QL3_H17-utt34 hyp  lu  cha
+CA219QL3_H17-utt34 op    C   C 
+CA219QL3_H17-utt34 #csid 2 0 0 0
+CA219QL3_H17-utt35 ref  ka  mo
+CA219QL3_H17-utt35 hyp  ka  mo
+CA219QL3_H17-utt35 op    C   C
+CA219QL3_H17-utt35 #csid 2 0 0 0
+CA219QL3_H17-utt36 ref  ko  di  so
+CA219QL3_H17-utt36 hyp  ko  di  so
+CA219QL3_H17-utt36 op    C   C   C
+CA219QL3_H17-utt36 #csid 3 0 0 0
+CA219QL3_H17-utt37 ref  to  ma  zi
+CA219QL3_H17-utt37 hyp  to  ma  zi
+CA219QL3_H17-utt37 op    C   C   C
+CA219QL3_H17-utt37 #csid 3 0 0 0
+CA219QL3_H17-utt38 ref  lo  na
+CA219QL3_H17-utt38 hyp  lo  ra
+CA219QL3_H17-utt38 op    C   S
+CA219QL3_H17-utt38 #csid 1 1 0 0
+CA219QL3_H17-utt39 ref  rro  ko
+CA219QL3_H17-utt39 hyp  rro  ko
+CA219QL3_H17-utt39 op    C    C
+CA219QL3_H17-utt39 #csid 2 0 0 0
+CA219QL3_H17-utt4 ref  ko  pa
+CA219QL3_H17-utt4 hyp  ko  pa
+CA219QL3_H17-utt4 op    C   C
+CA219QL3_H17-utt4 #csid 2 0 0 0
+CA219QL3_H17-utt40 ref  pe  ta  ma
+CA219QL3_H17-utt40 hyp  pe  ta  ma
+CA219QL3_H17-utt40 op    C   C   C
+CA219QL3_H17-utt40 #csid 3 0 0 0
+CA219QL3_H17-utt41 ref  ge  za
+CA219QL3_H17-utt41 hyp  ge  za
+CA219QL3_H17-utt41 op    C   C
+CA219QL3_H17-utt41 #csid 2 0 0 0
+CA219QL3_H17-utt42 ref  ma  no  ta  go
+CA219QL3_H17-utt42 hyp  ma  ro  ta   o
+CA219QL3_H17-utt42 op    C   S   C   S
+CA219QL3_H17-utt42 #csid 2 2 0 0
+CA219QL3_H17-utt43 ref  bu  ke
+CA219QL3_H17-utt43 hyp  bu  ke
+CA219QL3_H17-utt43 op    C   C
+CA219QL3_H17-utt43 #csid 2 0 0 0
+CA219QL3_H17-utt44 ref  me  pe
+CA219QL3_H17-utt44 hyp  me  pe
+CA219QL3_H17-utt44 op    C   C
+CA219QL3_H17-utt44 #csid 2 0 0 0
+CA219QL3_H17-utt45 ref  pe  ta
+CA219QL3_H17-utt45 hyp  pe  ta
+CA219QL3_H17-utt45 op    C   C
+CA219QL3_H17-utt45 #csid 2 0 0 0
+CA219QL3_H17-utt46 ref  rre  ti  ra  za
+CA219QL3_H17-utt46 hyp  rre  ti  ra  za
+CA219QL3_H17-utt46 op    C    C   C   C
+CA219QL3_H17-utt46 #csid 4 0 0 0
+CA219QL3_H17-utt47 ref  ti  bu
+CA219QL3_H17-utt47 hyp  ti  bo
+CA219QL3_H17-utt47 op    C   S
+CA219QL3_H17-utt47 #csid 1 1 0 0
+CA219QL3_H17-utt5 ref  be  ya  fe
+CA219QL3_H17-utt5 hyp  be  ya  fe
+CA219QL3_H17-utt5 op    C   C   C
+CA219QL3_H17-utt5 #csid 3 0 0 0
+CA219QL3_H17-utt6 ref  mu  lo
+CA219QL3_H17-utt6 hyp  mu  lo
+CA219QL3_H17-utt6 op    C   C
+CA219QL3_H17-utt6 #csid 2 0 0 0
+CA219QL3_H17-utt7 ref  zi  ma
+CA219QL3_H17-utt7 hyp  zi  ma
+CA219QL3_H17-utt7 op    C   C
+CA219QL3_H17-utt7 #csid 2 0 0 0
+CA219QL3_H17-utt8 ref  no  be  ya
+CA219QL3_H17-utt8 hyp  no  be  ya
+CA219QL3_H17-utt8 op    C   C   C
+CA219QL3_H17-utt8 #csid 3 0 0 0
+CA219QL3_H17-utt9 ref  ni  gu
+CA219QL3_H17-utt9 hyp  ni  bo
+CA219QL3_H17-utt9 op    C   S
+CA219QL3_H17-utt9 #csid 1 1 0 0
+CA219QL4_H17-utt0 ref  chu  so
+CA219QL4_H17-utt0 hyp  chu  so
+CA219QL4_H17-utt0 op    C    C
+CA219QL4_H17-utt0 #csid 2 0 0 0
+CA219QL4_H17-utt1 ref  fe  za
+CA219QL4_H17-utt1 hyp  fe  za
+CA219QL4_H17-utt1 op    C   C
+CA219QL4_H17-utt1 #csid 2 0 0 0
+CA219QL4_H17-utt10 ref  pe  ta  ka
+CA219QL4_H17-utt10 hyp  pe  ta  ka
+CA219QL4_H17-utt10 op    C   C   C
+CA219QL4_H17-utt10 #csid 3 0 0 0
+CA219QL4_H17-utt11 ref  do  ya
+CA219QL4_H17-utt11 hyp  do  ya
+CA219QL4_H17-utt11 op    C   C
+CA219QL4_H17-utt11 #csid 2 0 0 0
+CA219QL4_H17-utt12 ref  li  ya
+CA219QL4_H17-utt12 hyp  li  ya
+CA219QL4_H17-utt12 op    C   C
+CA219QL4_H17-utt12 #csid 2 0 0 0
+CA219QL4_H17-utt13 ref  ka  mi  no
+CA219QL4_H17-utt13 hyp  ka  mi  ro
+CA219QL4_H17-utt13 op    C   C   S
+CA219QL4_H17-utt13 #csid 2 1 0 0
+CA219QL4_H17-utt14 ref  pa  de  so
+CA219QL4_H17-utt14 hyp  pa  de  so
+CA219QL4_H17-utt14 op    C   C   C
+CA219QL4_H17-utt14 #csid 3 0 0 0
+CA219QL4_H17-utt15 ref  so  da
+CA219QL4_H17-utt15 hyp  so  ga
+CA219QL4_H17-utt15 op    C   S
+CA219QL4_H17-utt15 #csid 1 1 0 0
+CA219QL4_H17-utt16 ref  ti  tu  mo
+CA219QL4_H17-utt16 hyp  ti  tu  go
+CA219QL4_H17-utt16 op    C   C   S
+CA219QL4_H17-utt16 #csid 2 1 0 0
+CA219QL4_H17-utt17 ref  di  ma  ko
+CA219QL4_H17-utt17 hyp  di  ma  ko
+CA219QL4_H17-utt17 op    C   C   C
+CA219QL4_H17-utt17 #csid 3 0 0 0
+CA219QL4_H17-utt18 ref  ka  nyo
+CA219QL4_H17-utt18 hyp  ka  nyo
+CA219QL4_H17-utt18 op    C   C 
+CA219QL4_H17-utt18 #csid 2 0 0 0
+CA219QL4_H17-utt19 ref  ko  ga
+CA219QL4_H17-utt19 hyp  ko  ga
+CA219QL4_H17-utt19 op    C   C
+CA219QL4_H17-utt19 #csid 2 0 0 0
+CA219QL4_H17-utt2 ref  yi  ba
+CA219QL4_H17-utt2 hyp  ye  ba
+CA219QL4_H17-utt2 op    S   C
+CA219QL4_H17-utt2 #csid 1 1 0 0
+CA219QL4_H17-utt20 ref  mo  pe
+CA219QL4_H17-utt20 hyp  mo  pe
+CA219QL4_H17-utt20 op    C   C
+CA219QL4_H17-utt20 #csid 2 0 0 0
+CA219QL4_H17-utt21 ref  na  fe
+CA219QL4_H17-utt21 hyp  na  fe
+CA219QL4_H17-utt21 op    C   C
+CA219QL4_H17-utt21 #csid 2 0 0 0
+CA219QL4_H17-utt22 ref  ge  rra
+CA219QL4_H17-utt22 hyp  ge  rra
+CA219QL4_H17-utt22 op    C   C 
+CA219QL4_H17-utt22 #csid 2 0 0 0
+CA219QL4_H17-utt23 ref  so  ga  li  na
+CA219QL4_H17-utt23 hyp  so  ga  li  na
+CA219QL4_H17-utt23 op    C   C   C   C
+CA219QL4_H17-utt23 #csid 4 0 0 0
+CA219QL4_H17-utt24 ref  pe  li  ku  za
+CA219QL4_H17-utt24 hyp  pe  li  ku  za
+CA219QL4_H17-utt24 op    C   C   C   C
+CA219QL4_H17-utt24 #csid 4 0 0 0
+CA219QL4_H17-utt25 ref  di  la
+CA219QL4_H17-utt25 hyp  di  la
+CA219QL4_H17-utt25 op    C   C
+CA219QL4_H17-utt25 #csid 2 0 0 0
+CA219QL4_H17-utt26 ref  no  be  la
+CA219QL4_H17-utt26 hyp  no  be  la
+CA219QL4_H17-utt26 op    C   C   C
+CA219QL4_H17-utt26 #csid 3 0 0 0
+CA219QL4_H17-utt27 ref  pe  gu  ga  ta
+CA219QL4_H17-utt27 hyp  te  ku  ga  ta
+CA219QL4_H17-utt27 op    S   S   C   C
+CA219QL4_H17-utt27 #csid 2 2 0 0
+CA219QL4_H17-utt28 ref  la  ti  ga  zo
+CA219QL4_H17-utt28 hyp  la  ti  ga  zo
+CA219QL4_H17-utt28 op    C   C   C   C
+CA219QL4_H17-utt28 #csid 4 0 0 0
+CA219QL4_H17-utt29 ref  rro  ka
+CA219QL4_H17-utt29 hyp  rro  ka
+CA219QL4_H17-utt29 op    C    C
+CA219QL4_H17-utt29 #csid 2 0 0 0
+CA219QL4_H17-utt3 ref  zi  fo
+CA219QL4_H17-utt3 hyp  zi  fo
+CA219QL4_H17-utt3 op    C   C
+CA219QL4_H17-utt3 #csid 2 0 0 0
+CA219QL4_H17-utt30 ref  pa  le  tie  rra
+CA219QL4_H17-utt30 hyp  pa  le  tie  rra
+CA219QL4_H17-utt30 op    C   C   C    C 
+CA219QL4_H17-utt30 #csid 4 0 0 0
+CA219QL4_H17-utt31 ref  fe  bo
+CA219QL4_H17-utt31 hyp  fe  bo
+CA219QL4_H17-utt31 op    C   C
+CA219QL4_H17-utt31 #csid 2 0 0 0
+CA219QL4_H17-utt32 ref  pa  li  yo
+CA219QL4_H17-utt32 hyp  pa  li  yo
+CA219QL4_H17-utt32 op    C   C   C
+CA219QL4_H17-utt32 #csid 3 0 0 0
+CA219QL4_H17-utt33 ref  ka  ba  ye  to
+CA219QL4_H17-utt33 hyp  ka  ba  ye  to
+CA219QL4_H17-utt33 op    C   C   C   C
+CA219QL4_H17-utt33 #csid 4 0 0 0
+CA219QL4_H17-utt34 ref  lo  ze  du  ne
+CA219QL4_H17-utt34 hyp  lo  ze  du  ne
+CA219QL4_H17-utt34 op    C   C   C   C
+CA219QL4_H17-utt34 #csid 4 0 0 0
+CA219QL4_H17-utt35 ref  ya  to
+CA219QL4_H17-utt35 hyp  ya  to
+CA219QL4_H17-utt35 op    C   C
+CA219QL4_H17-utt35 #csid 2 0 0 0
+CA219QL4_H17-utt36 ref  gi  cho
+CA219QL4_H17-utt36 hyp  gi  cha
+CA219QL4_H17-utt36 op    C   S 
+CA219QL4_H17-utt36 #csid 1 1 0 0
+CA219QL4_H17-utt37 ref  pe  na
+CA219QL4_H17-utt37 hyp  pe  na
+CA219QL4_H17-utt37 op    C   C
+CA219QL4_H17-utt37 #csid 2 0 0 0
+CA219QL4_H17-utt38 ref  bi  ya
+CA219QL4_H17-utt38 hyp  bi  ya
+CA219QL4_H17-utt38 op    C   C
+CA219QL4_H17-utt38 #csid 2 0 0 0
+CA219QL4_H17-utt39 ref  to  ye
+CA219QL4_H17-utt39 hyp  to  ye
+CA219QL4_H17-utt39 op    C   C
+CA219QL4_H17-utt39 #csid 2 0 0 0
+CA219QL4_H17-utt4 ref  pa  ni
+CA219QL4_H17-utt4 hyp  pa  ni
+CA219QL4_H17-utt4 op    C   C
+CA219QL4_H17-utt4 #csid 2 0 0 0
+CA219QL4_H17-utt40 ref  ze  bu  xo
+CA219QL4_H17-utt40 hyp  ze  bu  xo
+CA219QL4_H17-utt40 op    C   C   C
+CA219QL4_H17-utt40 #csid 3 0 0 0
+CA219QL4_H17-utt41 ref  rre  ti  ra  da
+CA219QL4_H17-utt41 hyp  rre  ti  ra  da
+CA219QL4_H17-utt41 op    C    C   C   C
+CA219QL4_H17-utt41 #csid 4 0 0 0
+CA219QL4_H17-utt42 ref  nu  me  so
+CA219QL4_H17-utt42 hyp  no  me  so
+CA219QL4_H17-utt42 op    S   C   C
+CA219QL4_H17-utt42 #csid 2 1 0 0
+CA219QL4_H17-utt43 ref  ta  le  bo
+CA219QL4_H17-utt43 hyp  ta  le  bo
+CA219QL4_H17-utt43 op    C   C   C
+CA219QL4_H17-utt43 #csid 3 0 0 0
+CA219QL4_H17-utt44 ref  me  di  zi  na
+CA219QL4_H17-utt44 hyp  me  di  zi  na
+CA219QL4_H17-utt44 op    C   C   C   C
+CA219QL4_H17-utt44 #csid 4 0 0 0
+CA219QL4_H17-utt45 ref  ti  se
+CA219QL4_H17-utt45 hyp  ti  se
+CA219QL4_H17-utt45 op    C   C
+CA219QL4_H17-utt45 #csid 2 0 0 0
+CA219QL4_H17-utt46 ref  fe  xi
+CA219QL4_H17-utt46 hyp  fe  xi
+CA219QL4_H17-utt46 op    C   C
+CA219QL4_H17-utt46 #csid 2 0 0 0
+CA219QL4_H17-utt47 ref  bi  fu  pe  si
+CA219QL4_H17-utt47 hyp  bi  fu  pe  si
+CA219QL4_H17-utt47 op    C   C   C   C
+CA219QL4_H17-utt47 #csid 4 0 0 0
+CA219QL4_H17-utt5 ref  za  bo  lu
+CA219QL4_H17-utt5 hyp  za  bo  lo
+CA219QL4_H17-utt5 op    C   C   S
+CA219QL4_H17-utt5 #csid 2 1 0 0
+CA219QL4_H17-utt6 ref  ma  no  ta  zo
+CA219QL4_H17-utt6 hyp  ma  no  ta  zo
+CA219QL4_H17-utt6 op    C   C   C   C
+CA219QL4_H17-utt6 #csid 4 0 0 0
+CA219QL4_H17-utt7 ref  ba  rre  yo
+CA219QL4_H17-utt7 hyp  ba  rre  yo
+CA219QL4_H17-utt7 op    C   C    C
+CA219QL4_H17-utt7 #csid 3 0 0 0
+CA219QL4_H17-utt8 ref  se  nyo  ri  da
+CA219QL4_H17-utt8 hyp  se  nyo  ri  da
+CA219QL4_H17-utt8 op    C   C    C   C
+CA219QL4_H17-utt8 #csid 4 0 0 0
+CA219QL4_H17-utt9 ref  tu  zo
+CA219QL4_H17-utt9 hyp  tu  zo
+CA219QL4_H17-utt9 op    C   C
+CA219QL4_H17-utt9 #csid 2 0 0 0

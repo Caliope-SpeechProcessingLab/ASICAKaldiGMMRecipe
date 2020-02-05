@@ -1,0 +1,192 @@
+CA302QL1_M56-utt0 ya te 
+CA302QL1_M56-utt1 no lu 
+CA302QL1_M56-utt10 chu lo 
+CA302QL1_M56-utt11 pa ma li mo 
+CA302QL1_M56-utt12 ko pa ni 
+CA302QL1_M56-utt13 li ga 
+CA302QL1_M56-utt14 be yo lu 
+CA302QL1_M56-utt15 so te to 
+CA302QL1_M56-utt16 ma re xa za 
+CA302QL1_M56-utt17 nu me ro 
+CA302QL1_M56-utt18 ka pi tu bo 
+CA302QL1_M56-utt19 bi ka 
+CA302QL1_M56-utt2 ba fe 
+CA302QL1_M56-utt20 ti bo 
+CA302QL1_M56-utt21 ka yi 
+CA302QL1_M56-utt22 fo bo xe ma 
+CA302QL1_M56-utt23 pa ne 
+CA302QL1_M56-utt24 tu fo 
+CA302QL1_M56-utt25 sa te li to 
+CA302QL1_M56-utt26 fe cha 
+CA302QL1_M56-utt27 pe mi 
+CA302QL1_M56-utt28 di me so 
+CA302QL1_M56-utt29 ka ba ye te 
+CA302QL1_M56-utt3 ti tu lo 
+CA302QL1_M56-utt30 ko li za 
+CA302QL1_M56-utt31 ka rro ma do 
+CA302QL1_M56-utt32 gi nyo 
+CA302QL1_M56-utt33 ma nya da 
+CA302QL1_M56-utt34 sa ze lu di 
+CA302QL1_M56-utt35 la ro 
+CA302QL1_M56-utt36 zi ne 
+CA302QL1_M56-utt37 se nyo ri ta 
+CA302QL1_M56-utt38 na fe 
+CA302QL1_M56-utt39 pe li ku la 
+CA302QL1_M56-utt4 mo de 
+CA302QL1_M56-utt40 ku xo ba 
+CA302QL1_M56-utt41 fu xo 
+CA302QL1_M56-utt42 se ku 
+CA302QL1_M56-utt43 to rre e 
+CA302QL1_M56-utt44 do fe 
+CA302QL1_M56-utt45 ba rre nyo 
+CA302QL1_M56-utt46 me la ni to 
+CA302QL1_M56-utt47 ta le bo 
+CA302QL1_M56-utt5 pe no 
+CA302QL1_M56-utt6 xe ra 
+CA302QL1_M56-utt7 pa li ti ya 
+CA302QL1_M56-utt8 ka rro fa 
+CA302QL1_M56-utt9 ma po 
+CA302QL2_M56-utt0 so ya 
+CA302QL2_M56-utt1 be ta 
+CA302QL2_M56-utt10 me se do ta 
+CA302QL2_M56-utt11 ko li ya 
+CA302QL2_M56-utt12 bu de 
+CA302QL2_M56-utt13 mo ku 
+CA302QL2_M56-utt14 lo ra 
+CA302QL2_M56-utt15 mi ri fa 
+CA302QL2_M56-utt16 xe ta 
+CA302QL2_M56-utt17 bu fe lu 
+CA302QL2_M56-utt18 ma ni be za 
+CA302QL2_M56-utt19 ma re xa da 
+CA302QL2_M56-utt2 sa te li te 
+CA302QL2_M56-utt20 pe so 
+CA302QL2_M56-utt21 bi ra ne 
+CA302QL2_M56-utt22 ti se du ne 
+CA302QL2_M56-utt23 pi yo 
+CA302QL2_M56-utt24 na fe 
+CA302QL2_M56-utt25 pe ta ti 
+CA302QL2_M56-utt26 la do 
+CA302QL2_M56-utt27 mo no 
+CA302QL2_M56-utt28 za lu 
+CA302QL2_M56-utt29 ta rro ma to 
+CA302QL2_M56-utt3 rri bu po 
+CA302QL2_M56-utt30 mu si ma 
+CA302QL2_M56-utt31 de ba ti 
+CA302QL2_M56-utt32 di ne ro 
+CA302QL2_M56-utt33 mi fu ga ni 
+CA302QL2_M56-utt34 mo te 
+CA302QL2_M56-utt35 ko da 
+CA302QL2_M56-utt36 ko zi 
+CA302QL2_M56-utt37 di ku li te 
+CA302QL2_M56-utt38 ko pa te 
+CA302QL2_M56-utt39 do bo 
+CA302QL2_M56-utt4 me po 
+CA302QL2_M56-utt40 no che 
+CA302QL2_M56-utt41 fi lo zo zo 
+CA302QL2_M56-utt42 pa do 
+CA302QL2_M56-utt43 ka yo 
+CA302QL2_M56-utt44 ka pi tu lo 
+CA302QL2_M56-utt45 lu xa 
+CA302QL2_M56-utt46 ba no ye 
+CA302QL2_M56-utt47 ka ba ye mo 
+CA302QL2_M56-utt5 ma nya na 
+CA302QL2_M56-utt6 si da 
+CA302QL2_M56-utt7 ka rro nya 
+CA302QL2_M56-utt8 bi ra 
+CA302QL2_M56-utt9 mo pe li ta 
+CA302QL3_M56-utt0 so ri 
+CA302QL3_M56-utt1 ye ra 
+CA302QL3_M56-utt10 ku fe 
+CA302QL3_M56-utt11 so ma 
+CA302QL3_M56-utt12 ka ba ye ro 
+CA302QL3_M56-utt13 be na 
+CA302QL3_M56-utt14 mu si ka 
+CA302QL3_M56-utt15 di ku 
+CA302QL3_M56-utt16 ka mi ro 
+CA302QL3_M56-utt17 me ze do ra 
+CA302QL3_M56-utt18 ze bi 
+CA302QL3_M56-utt19 ka xo 
+CA302QL3_M56-utt2 pa li xo 
+CA302QL3_M56-utt20 bi la 
+CA302QL3_M56-utt21 me di zi ra 
+CA302QL3_M56-utt22 la ti ga fo 
+CA302QL3_M56-utt23 no fe ba 
+CA302QL3_M56-utt24 lu fo 
+CA302QL3_M56-utt25 ta po di no 
+CA302QL3_M56-utt26 zi lo so fo 
+CA302QL3_M56-utt27 ni bo ze ma 
+CA302QL3_M56-utt28 mi ri ya 
+CA302QL3_M56-utt29 ti bu fe ne 
+CA302QL3_M56-utt3 so ga 
+CA302QL3_M56-utt30 mo pa zo pa 
+CA302QL3_M56-utt31 ma li be la 
+CA302QL3_M56-utt32 pe ta te 
+CA302QL3_M56-utt33 bi ba te 
+CA302QL3_M56-utt34 lu cha 
+CA302QL3_M56-utt35 ka mo 
+CA302QL3_M56-utt36 ko di zo 
+CA302QL3_M56-utt37 so ma zi 
+CA302QL3_M56-utt38 lo na 
+CA302QL3_M56-utt39 rro ko 
+CA302QL3_M56-utt4 ko pa 
+CA302QL3_M56-utt40 pe ta ma 
+CA302QL3_M56-utt41 ge za 
+CA302QL3_M56-utt42 ma no ta go lo 
+CA302QL3_M56-utt43 bu ke 
+CA302QL3_M56-utt44 me pe 
+CA302QL3_M56-utt45 pe ta 
+CA302QL3_M56-utt46 rre ti ga za 
+CA302QL3_M56-utt47 ti bu 
+CA302QL3_M56-utt5 be ya fe 
+CA302QL3_M56-utt6 mu lo 
+CA302QL3_M56-utt7 zi ma 
+CA302QL3_M56-utt8 no be ya 
+CA302QL3_M56-utt9 mi ku 
+CA302QL4_M56-utt0 chu so 
+CA302QL4_M56-utt1 ze za 
+CA302QL4_M56-utt10 pe ta ka 
+CA302QL4_M56-utt11 do ya 
+CA302QL4_M56-utt12 li ya 
+CA302QL4_M56-utt13 ka mi no 
+CA302QL4_M56-utt14 pa de so 
+CA302QL4_M56-utt15 so da 
+CA302QL4_M56-utt16 ti tu mo 
+CA302QL4_M56-utt17 di ma ka po 
+CA302QL4_M56-utt18 ka nyo 
+CA302QL4_M56-utt19 ko ga 
+CA302QL4_M56-utt2 ye ma 
+CA302QL4_M56-utt20 mo pe 
+CA302QL4_M56-utt21 na fe 
+CA302QL4_M56-utt22 ge rra 
+CA302QL4_M56-utt23 so ga li na 
+CA302QL4_M56-utt24 pe li ku za 
+CA302QL4_M56-utt25 di la 
+CA302QL4_M56-utt26 no be la 
+CA302QL4_M56-utt27 pe ku ga ta 
+CA302QL4_M56-utt28 la ti da zo 
+CA302QL4_M56-utt29 rro ka 
+CA302QL4_M56-utt3 zi fo 
+CA302QL4_M56-utt30 pa le tie rra 
+CA302QL4_M56-utt31 ze bo 
+CA302QL4_M56-utt32 pa li yo 
+CA302QL4_M56-utt33 ka ba ye to 
+CA302QL4_M56-utt34 lo ze du ne 
+CA302QL4_M56-utt35 ya to 
+CA302QL4_M56-utt36 bi cho 
+CA302QL4_M56-utt37 pe na 
+CA302QL4_M56-utt38 bi ya 
+CA302QL4_M56-utt39 to ye 
+CA302QL4_M56-utt4 pa ni 
+CA302QL4_M56-utt40 ze bu xo 
+CA302QL4_M56-utt41 rre ti ra da 
+CA302QL4_M56-utt42 nu me so 
+CA302QL4_M56-utt43 ta le bo 
+CA302QL4_M56-utt44 me li zi na 
+CA302QL4_M56-utt45 si se 
+CA302QL4_M56-utt46 fe xi 
+CA302QL4_M56-utt47 bi fu pe si 
+CA302QL4_M56-utt5 fa bo lu 
+CA302QL4_M56-utt6 ma no ta zo 
+CA302QL4_M56-utt7 ba rre yo 
+CA302QL4_M56-utt8 se nyo ri da 
+CA302QL4_M56-utt9 tu zo 

@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA327QL1_M00    raw         48        132        117         15          0          0         15         15
+CA327QL1_M00    sys         48        132      88.64      11.36       0.00       0.00      11.36      31.25
+CA327QL2_M00    raw         48        132        120         12          0          0         12          9
+CA327QL2_M00    sys         48        132      90.91       9.09       0.00       0.00       9.09      18.75
+CA327QL3_H00    raw         48        132        121         11          0          0         11          8
+CA327QL3_H00    sys         48        132      91.67       8.33       0.00       0.00       8.33      16.67
+CA327QL4_M00    raw         48        132        127          5          0          0          5          5
+CA327QL4_M00    sys         48        132      96.21       3.79       0.00       0.00       3.79      10.42
+SUM             raw        192        528        485         43          0          0         43         37
+SUM             sys        192        528      91.86       8.14       0.00       0.00       8.14      19.27
+
+--------------------------------------------------------------------
+CA327QL1_M00-utt0 ref  ya  te
+CA327QL1_M00-utt0 hyp  ya  te
+CA327QL1_M00-utt0 op    C   C
+CA327QL1_M00-utt0 #csid 2 0 0 0
+CA327QL1_M00-utt1 ref  no  lu
+CA327QL1_M00-utt1 hyp  no  lu
+CA327QL1_M00-utt1 op    C   C
+CA327QL1_M00-utt1 #csid 2 0 0 0
+CA327QL1_M00-utt10 ref  chu  lo
+CA327QL1_M00-utt10 hyp  chu  lo
+CA327QL1_M00-utt10 op    C    C
+CA327QL1_M00-utt10 #csid 2 0 0 0
+CA327QL1_M00-utt11 ref  pa  ba  ri  mo
+CA327QL1_M00-utt11 hyp  pa  da  ri  mo
+CA327QL1_M00-utt11 op    C   S   C   C
+CA327QL1_M00-utt11 #csid 3 1 0 0
+CA327QL1_M00-utt12 ref  ko  pa  di
+CA327QL1_M00-utt12 hyp  ko  pa  di
+CA327QL1_M00-utt12 op    C   C   C
+CA327QL1_M00-utt12 #csid 3 0 0 0
+CA327QL1_M00-utt13 ref  li  ga
+CA327QL1_M00-utt13 hyp  li  da
+CA327QL1_M00-utt13 op    C   S
+CA327QL1_M00-utt13 #csid 1 1 0 0
+CA327QL1_M00-utt14 ref  be  yo  lu
+CA327QL1_M00-utt14 hyp  be  yo  lu
+CA327QL1_M00-utt14 op    C   C   C
+CA327QL1_M00-utt14 #csid 3 0 0 0
+CA327QL1_M00-utt15 ref  so  te  to
+CA327QL1_M00-utt15 hyp  so  te  to
+CA327QL1_M00-utt15 op    C   C   C
+CA327QL1_M00-utt15 #csid 3 0 0 0
+CA327QL1_M00-utt16 ref  ma  re  xa  za
+CA327QL1_M00-utt16 hyp  ma  re  xa  za
+CA327QL1_M00-utt16 op    C   C   C   C
+CA327QL1_M00-utt16 #csid 4 0 0 0
+CA327QL1_M00-utt17 ref  nu  me  ro
+CA327QL1_M00-utt17 hyp  nu  me  ro
+CA327QL1_M00-utt17 op    C   C   C
+CA327QL1_M00-utt17 #csid 3 0 0 0
+CA327QL1_M00-utt18 ref  ka  pi  tu  bo
+CA327QL1_M00-utt18 hyp  ka  pi  tu  do
+CA327QL1_M00-utt18 op    C   C   C   S
+CA327QL1_M00-utt18 #csid 3 1 0 0
+CA327QL1_M00-utt19 ref  bi  ka
+CA327QL1_M00-utt19 hyp  bi  ta
+CA327QL1_M00-utt19 op    C   S
+CA327QL1_M00-utt19 #csid 1 1 0 0
+CA327QL1_M00-utt2 ref  ba  fe
+CA327QL1_M00-utt2 hyp  ba  fe
+CA327QL1_M00-utt2 op    C   C
+CA327QL1_M00-utt2 #csid 2 0 0 0
+CA327QL1_M00-utt20 ref  ti  bo
+CA327QL1_M00-utt20 hyp  ti  bo
+CA327QL1_M00-utt20 op    C   C
+CA327QL1_M00-utt20 #csid 2 0 0 0
+CA327QL1_M00-utt21 ref  ka  yi
+CA327QL1_M00-utt21 hyp  ka  yi
+CA327QL1_M00-utt21 op    C   C
+CA327QL1_M00-utt21 #csid 2 0 0 0
+CA327QL1_M00-utt22 ref  fo  bo  xe  ma
+CA327QL1_M00-utt22 hyp  fo  go  xe  ma
+CA327QL1_M00-utt22 op    C   S   C   C
+CA327QL1_M00-utt22 #csid 3 1 0 0
+CA327QL1_M00-utt23 ref  pa  ne
+CA327QL1_M00-utt23 hyp  pa  ni
+CA327QL1_M00-utt23 op    C   S
+CA327QL1_M00-utt23 #csid 1 1 0 0
+CA327QL1_M00-utt24 ref  tu  fo
+CA327QL1_M00-utt24 hyp  tu  fo
+CA327QL1_M00-utt24 op    C   C
+CA327QL1_M00-utt24 #csid 2 0 0 0
+CA327QL1_M00-utt25 ref  sa  te  li  to
+CA327QL1_M00-utt25 hyp  sa  te  li  to
+CA327QL1_M00-utt25 op    C   C   C   C
+CA327QL1_M00-utt25 #csid 4 0 0 0
+CA327QL1_M00-utt26 ref  fe  cha
+CA327QL1_M00-utt26 hyp  fe  cha
+CA327QL1_M00-utt26 op    C   C 
+CA327QL1_M00-utt26 #csid 2 0 0 0
+CA327QL1_M00-utt27 ref  pe  mi
+CA327QL1_M00-utt27 hyp  pe  mi
+CA327QL1_M00-utt27 op    C   C
+CA327QL1_M00-utt27 #csid 2 0 0 0
+CA327QL1_M00-utt28 ref  bi  me  so
+CA327QL1_M00-utt28 hyp  bi  ne  so
+CA327QL1_M00-utt28 op    C   S   C
+CA327QL1_M00-utt28 #csid 2 1 0 0
+CA327QL1_M00-utt29 ref  ta  ba  ye  te
+CA327QL1_M00-utt29 hyp  ta  ba  ye  te
+CA327QL1_M00-utt29 op    C   C   C   C
+CA327QL1_M00-utt29 #csid 4 0 0 0
+CA327QL1_M00-utt3 ref  ti  tu  lo
+CA327QL1_M00-utt3 hyp  ti  tu  lo
+CA327QL1_M00-utt3 op    C   C   C
+CA327QL1_M00-utt3 #csid 3 0 0 0
+CA327QL1_M00-utt30 ref  po  li  za
+CA327QL1_M00-utt30 hyp  ko  li  za
+CA327QL1_M00-utt30 op    S   C   C
+CA327QL1_M00-utt30 #csid 2 1 0 0
+CA327QL1_M00-utt31 ref  ka  rro  ma  do
+CA327QL1_M00-utt31 hyp  ka  rro  ma  do
+CA327QL1_M00-utt31 op    C   C    C   C
+CA327QL1_M00-utt31 #csid 4 0 0 0
+CA327QL1_M00-utt32 ref  di  nyo
+CA327QL1_M00-utt32 hyp  di  nyo
+CA327QL1_M00-utt32 op    C   C 
+CA327QL1_M00-utt32 #csid 2 0 0 0
+CA327QL1_M00-utt33 ref  ma  nya  da
+CA327QL1_M00-utt33 hyp  ma  nya  da
+CA327QL1_M00-utt33 op    C   C    C
+CA327QL1_M00-utt33 #csid 3 0 0 0
+CA327QL1_M00-utt34 ref  za  fe  lu  di
+CA327QL1_M00-utt34 hyp  za  fe  ru  di
+CA327QL1_M00-utt34 op    C   C   S   C
+CA327QL1_M00-utt34 #csid 3 1 0 0
+CA327QL1_M00-utt35 ref  la  ro
+CA327QL1_M00-utt35 hyp  la  ro
+CA327QL1_M00-utt35 op    C   C
+CA327QL1_M00-utt35 #csid 2 0 0 0
+CA327QL1_M00-utt36 ref  zi  ne
+CA327QL1_M00-utt36 hyp  zi  ni
+CA327QL1_M00-utt36 op    C   S
+CA327QL1_M00-utt36 #csid 1 1 0 0
+CA327QL1_M00-utt37 ref  se  nyo  ri  ta
+CA327QL1_M00-utt37 hyp  se  nyo  ri  ta
+CA327QL1_M00-utt37 op    C   C    C   C
+CA327QL1_M00-utt37 #csid 4 0 0 0
+CA327QL1_M00-utt38 ref  no  fe
+CA327QL1_M00-utt38 hyp  no  fe
+CA327QL1_M00-utt38 op    C   C
+CA327QL1_M00-utt38 #csid 2 0 0 0
+CA327QL1_M00-utt39 ref  pe  li  ku  la
+CA327QL1_M00-utt39 hyp  pe  li  ku  la
+CA327QL1_M00-utt39 op    C   C   C   C
+CA327QL1_M00-utt39 #csid 4 0 0 0
+CA327QL1_M00-utt4 ref  mo  de
+CA327QL1_M00-utt4 hyp  mo  de
+CA327QL1_M00-utt4 op    C   C
+CA327QL1_M00-utt4 #csid 2 0 0 0
+CA327QL1_M00-utt40 ref  ku  xo  ga
+CA327QL1_M00-utt40 hyp  ku  xo  da
+CA327QL1_M00-utt40 op    C   C   S
+CA327QL1_M00-utt40 #csid 2 1 0 0
+CA327QL1_M00-utt41 ref  fu  xo
+CA327QL1_M00-utt41 hyp  fu  xo
+CA327QL1_M00-utt41 op    C   C
+CA327QL1_M00-utt41 #csid 2 0 0 0
+CA327QL1_M00-utt42 ref  se  ku
+CA327QL1_M00-utt42 hyp  se  ku
+CA327QL1_M00-utt42 op    C   C
+CA327QL1_M00-utt42 #csid 2 0 0 0
+CA327QL1_M00-utt43 ref  to  rre
+CA327QL1_M00-utt43 hyp  to  rri
+CA327QL1_M00-utt43 op    C   S 
+CA327QL1_M00-utt43 #csid 1 1 0 0
+CA327QL1_M00-utt44 ref  do  fe
+CA327QL1_M00-utt44 hyp  do  fe
+CA327QL1_M00-utt44 op    C   C
+CA327QL1_M00-utt44 #csid 2 0 0 0
+CA327QL1_M00-utt45 ref  ba  rre  nyo
+CA327QL1_M00-utt45 hyp  ba  rre  nyo
+CA327QL1_M00-utt45 op    C   C    C 
+CA327QL1_M00-utt45 #csid 3 0 0 0
+CA327QL1_M00-utt46 ref  me  la  ni  to
+CA327QL1_M00-utt46 hyp  me  la  ni  to
+CA327QL1_M00-utt46 op    C   C   C   C
+CA327QL1_M00-utt46 #csid 4 0 0 0
+CA327QL1_M00-utt47 ref  ta  le  go
+CA327QL1_M00-utt47 hyp  ta  le  bo
+CA327QL1_M00-utt47 op    C   C   S
+CA327QL1_M00-utt47 #csid 2 1 0 0
+CA327QL1_M00-utt5 ref  pe  no
+CA327QL1_M00-utt5 hyp  pe  no
+CA327QL1_M00-utt5 op    C   C
+CA327QL1_M00-utt5 #csid 2 0 0 0
+CA327QL1_M00-utt6 ref  xe  ra
+CA327QL1_M00-utt6 hyp  xe  ra
+CA327QL1_M00-utt6 op    C   C
+CA327QL1_M00-utt6 #csid 2 0 0 0
+CA327QL1_M00-utt7 ref  pa  le  ti  ya
+CA327QL1_M00-utt7 hyp  pa  ye  ti  ya
+CA327QL1_M00-utt7 op    C   S   C   C
+CA327QL1_M00-utt7 #csid 3 1 0 0
+CA327QL1_M00-utt8 ref  ka  rro  za
+CA327QL1_M00-utt8 hyp  ka  rro  fa
+CA327QL1_M00-utt8 op    C   C    S
+CA327QL1_M00-utt8 #csid 2 1 0 0
+CA327QL1_M00-utt9 ref  ma  po
+CA327QL1_M00-utt9 hyp  ma  po
+CA327QL1_M00-utt9 op    C   C
+CA327QL1_M00-utt9 #csid 2 0 0 0
+CA327QL2_M00-utt0 ref  so  ya
+CA327QL2_M00-utt0 hyp  so  ya
+CA327QL2_M00-utt0 op    C   C
+CA327QL2_M00-utt0 #csid 2 0 0 0
+CA327QL2_M00-utt1 ref  be  ta
+CA327QL2_M00-utt1 hyp  be  ta
+CA327QL2_M00-utt1 op    C   C
+CA327QL2_M00-utt1 #csid 2 0 0 0
+CA327QL2_M00-utt10 ref  me  ze  do  ta
+CA327QL2_M00-utt10 hyp  me  ze  do  ta
+CA327QL2_M00-utt10 op    C   C   C   C
+CA327QL2_M00-utt10 #csid 4 0 0 0
+CA327QL2_M00-utt11 ref  po  li  ya
+CA327QL2_M00-utt11 hyp  ko  ri  ya
+CA327QL2_M00-utt11 op    S   S   C
+CA327QL2_M00-utt11 #csid 1 2 0 0
+CA327QL2_M00-utt12 ref  bu  de
+CA327QL2_M00-utt12 hyp  bu  de
+CA327QL2_M00-utt12 op    C   C
+CA327QL2_M00-utt12 #csid 2 0 0 0
+CA327QL2_M00-utt13 ref  mo  ku
+CA327QL2_M00-utt13 hyp  mo  ku
+CA327QL2_M00-utt13 op    C   C
+CA327QL2_M00-utt13 #csid 2 0 0 0
+CA327QL2_M00-utt14 ref  lo  ra
+CA327QL2_M00-utt14 hyp  lo  ra
+CA327QL2_M00-utt14 op    C   C
+CA327QL2_M00-utt14 #csid 2 0 0 0
+CA327QL2_M00-utt15 ref  mi  ri  fa
+CA327QL2_M00-utt15 hyp  mi  ri  fa
+CA327QL2_M00-utt15 op    C   C   C
+CA327QL2_M00-utt15 #csid 3 0 0 0
+CA327QL2_M00-utt16 ref  xe  ta
+CA327QL2_M00-utt16 hyp  xe  ta
+CA327QL2_M00-utt16 op    C   C
+CA327QL2_M00-utt16 #csid 2 0 0 0
+CA327QL2_M00-utt17 ref  bu  fe  lu
+CA327QL2_M00-utt17 hyp  bu  fe  ro
+CA327QL2_M00-utt17 op    C   C   S
+CA327QL2_M00-utt17 #csid 2 1 0 0
+CA327QL2_M00-utt18 ref  ma  ni  be  za
+CA327QL2_M00-utt18 hyp  na  ni  be  za
+CA327QL2_M00-utt18 op    S   C   C   C
+CA327QL2_M00-utt18 #csid 3 1 0 0
+CA327QL2_M00-utt19 ref  ma  re  xa  da
+CA327QL2_M00-utt19 hyp  ma  re  xa  da
+CA327QL2_M00-utt19 op    C   C   C   C
+CA327QL2_M00-utt19 #csid 4 0 0 0
+CA327QL2_M00-utt2 ref  sa  te  li  te
+CA327QL2_M00-utt2 hyp  sa  te  li  te
+CA327QL2_M00-utt2 op    C   C   C   C
+CA327QL2_M00-utt2 #csid 4 0 0 0
+CA327QL2_M00-utt20 ref  pe  so
+CA327QL2_M00-utt20 hyp  pe  so
+CA327QL2_M00-utt20 op    C   C
+CA327QL2_M00-utt20 #csid 2 0 0 0
+CA327QL2_M00-utt21 ref  bi  ra  ni
+CA327QL2_M00-utt21 hyp  bi  ra  ni
+CA327QL2_M00-utt21 op    C   C   C
+CA327QL2_M00-utt21 #csid 3 0 0 0
+CA327QL2_M00-utt22 ref  ti  ze  du  ne
+CA327QL2_M00-utt22 hyp  ti  ze  du  ni
+CA327QL2_M00-utt22 op    C   C   C   S
+CA327QL2_M00-utt22 #csid 3 1 0 0
+CA327QL2_M00-utt23 ref  ti  yo
+CA327QL2_M00-utt23 hyp  ti  yo
+CA327QL2_M00-utt23 op    C   C
+CA327QL2_M00-utt23 #csid 2 0 0 0
+CA327QL2_M00-utt24 ref  no  fe
+CA327QL2_M00-utt24 hyp  no  fe
+CA327QL2_M00-utt24 op    C   C
+CA327QL2_M00-utt24 #csid 2 0 0 0
+CA327QL2_M00-utt25 ref  pe  ta  ti
+CA327QL2_M00-utt25 hyp  pe  ta  ti
+CA327QL2_M00-utt25 op    C   C   C
+CA327QL2_M00-utt25 #csid 3 0 0 0
+CA327QL2_M00-utt26 ref  la  do
+CA327QL2_M00-utt26 hyp  la  do
+CA327QL2_M00-utt26 op    C   C
+CA327QL2_M00-utt26 #csid 2 0 0 0
+CA327QL2_M00-utt27 ref  mu  no
+CA327QL2_M00-utt27 hyp  nu  no
+CA327QL2_M00-utt27 op    S   C
+CA327QL2_M00-utt27 #csid 1 1 0 0
+CA327QL2_M00-utt28 ref  za  lu
+CA327QL2_M00-utt28 hyp  za  lu
+CA327QL2_M00-utt28 op    C   C
+CA327QL2_M00-utt28 #csid 2 0 0 0
+CA327QL2_M00-utt29 ref  ka  rro  ma  to
+CA327QL2_M00-utt29 hyp  ta  rro  ma  to
+CA327QL2_M00-utt29 op    S   C    C   C
+CA327QL2_M00-utt29 #csid 3 1 0 0
+CA327QL2_M00-utt3 ref  rri  bu  po
+CA327QL2_M00-utt3 hyp  rri  bu  po
+CA327QL2_M00-utt3 op    C    C   C
+CA327QL2_M00-utt3 #csid 3 0 0 0
+CA327QL2_M00-utt30 ref  mu  si  ma
+CA327QL2_M00-utt30 hyp  mu  si  ma
+CA327QL2_M00-utt30 op    C   C   C
+CA327QL2_M00-utt30 #csid 3 0 0 0
+CA327QL2_M00-utt31 ref  de  ba  ti
+CA327QL2_M00-utt31 hyp  de  ba  ti
+CA327QL2_M00-utt31 op    C   C   C
+CA327QL2_M00-utt31 #csid 3 0 0 0
+CA327QL2_M00-utt32 ref  di  ne  ro
+CA327QL2_M00-utt32 hyp  di  ne  ro
+CA327QL2_M00-utt32 op    C   C   C
+CA327QL2_M00-utt32 #csid 3 0 0 0
+CA327QL2_M00-utt33 ref  ni  fu  ba  mi
+CA327QL2_M00-utt33 hyp  mi  fo  ba  mi
+CA327QL2_M00-utt33 op    S   S   C   C
+CA327QL2_M00-utt33 #csid 2 2 0 0
+CA327QL2_M00-utt34 ref  mo  te
+CA327QL2_M00-utt34 hyp  mo  te
+CA327QL2_M00-utt34 op    C   C
+CA327QL2_M00-utt34 #csid 2 0 0 0
+CA327QL2_M00-utt35 ref  ko  da
+CA327QL2_M00-utt35 hyp  ko  da
+CA327QL2_M00-utt35 op    C   C
+CA327QL2_M00-utt35 #csid 2 0 0 0
+CA327QL2_M00-utt36 ref  ko  zi
+CA327QL2_M00-utt36 hyp  ko  zi
+CA327QL2_M00-utt36 op    C   C
+CA327QL2_M00-utt36 #csid 2 0 0 0
+CA327QL2_M00-utt37 ref  di  ku  li  te
+CA327QL2_M00-utt37 hyp  di  ku  li  te
+CA327QL2_M00-utt37 op    C   C   C   C
+CA327QL2_M00-utt37 #csid 4 0 0 0
+CA327QL2_M00-utt38 ref  ko  pa  te
+CA327QL2_M00-utt38 hyp  ko  pa  te
+CA327QL2_M00-utt38 op    C   C   C
+CA327QL2_M00-utt38 #csid 3 0 0 0
+CA327QL2_M00-utt39 ref  do  bu
+CA327QL2_M00-utt39 hyp  do  gu
+CA327QL2_M00-utt39 op    C   S
+CA327QL2_M00-utt39 #csid 1 1 0 0
+CA327QL2_M00-utt4 ref  me  po
+CA327QL2_M00-utt4 hyp  me  po
+CA327QL2_M00-utt4 op    C   C
+CA327QL2_M00-utt4 #csid 2 0 0 0
+CA327QL2_M00-utt40 ref  no  che
+CA327QL2_M00-utt40 hyp  no  che
+CA327QL2_M00-utt40 op    C   C 
+CA327QL2_M00-utt40 #csid 2 0 0 0
+CA327QL2_M00-utt41 ref  fi  lo  so  zo
+CA327QL2_M00-utt41 hyp  fi  lo  so  zo
+CA327QL2_M00-utt41 op    C   C   C   C
+CA327QL2_M00-utt41 #csid 4 0 0 0
+CA327QL2_M00-utt42 ref  pa  do
+CA327QL2_M00-utt42 hyp  pa  do
+CA327QL2_M00-utt42 op    C   C
+CA327QL2_M00-utt42 #csid 2 0 0 0
+CA327QL2_M00-utt43 ref  ka  yo
+CA327QL2_M00-utt43 hyp  ka  yo
+CA327QL2_M00-utt43 op    C   C
+CA327QL2_M00-utt43 #csid 2 0 0 0
+CA327QL2_M00-utt44 ref  ka  pi  tu  lo
+CA327QL2_M00-utt44 hyp  ka  pi  tu  lo
+CA327QL2_M00-utt44 op    C   C   C   C
+CA327QL2_M00-utt44 #csid 4 0 0 0
+CA327QL2_M00-utt45 ref  lu  xa
+CA327QL2_M00-utt45 hyp  lu  xa
+CA327QL2_M00-utt45 op    C   C
+CA327QL2_M00-utt45 #csid 2 0 0 0
+CA327QL2_M00-utt46 ref  ba  ye
+CA327QL2_M00-utt46 hyp  ba  ye
+CA327QL2_M00-utt46 op    C   C
+CA327QL2_M00-utt46 #csid 2 0 0 0
+CA327QL2_M00-utt47 ref  ka  ba  ye  mo
+CA327QL2_M00-utt47 hyp  ka  ba  ye  mo
+CA327QL2_M00-utt47 op    C   C   C   C
+CA327QL2_M00-utt47 #csid 4 0 0 0
+CA327QL2_M00-utt5 ref  ma  nya  na
+CA327QL2_M00-utt5 hyp  ma  nya  na
+CA327QL2_M00-utt5 op    C   C    C
+CA327QL2_M00-utt5 #csid 3 0 0 0
+CA327QL2_M00-utt6 ref  zi  da
+CA327QL2_M00-utt6 hyp  zi  da
+CA327QL2_M00-utt6 op    C   C
+CA327QL2_M00-utt6 #csid 2 0 0 0
+CA327QL2_M00-utt7 ref  ta  rro  nya
+CA327QL2_M00-utt7 hyp  ta  rro  nya
+CA327QL2_M00-utt7 op    C   C    C 
+CA327QL2_M00-utt7 #csid 3 0 0 0
+CA327QL2_M00-utt8 ref  bi  ga
+CA327QL2_M00-utt8 hyp  di  da
+CA327QL2_M00-utt8 op    S   S
+CA327QL2_M00-utt8 #csid 0 2 0 0
+CA327QL2_M00-utt9 ref  mo  pe  di  ta
+CA327QL2_M00-utt9 hyp  mo  pe  di  ta
+CA327QL2_M00-utt9 op    C   C   C   C
+CA327QL2_M00-utt9 #csid 4 0 0 0
+CA327QL3_H00-utt0 ref  so  ri
+CA327QL3_H00-utt0 hyp  so  ri
+CA327QL3_H00-utt0 op    C   C
+CA327QL3_H00-utt0 #csid 2 0 0 0
+CA327QL3_H00-utt1 ref  ye  da
+CA327QL3_H00-utt1 hyp  ye  da
+CA327QL3_H00-utt1 op    C   C
+CA327QL3_H00-utt1 #csid 2 0 0 0
+CA327QL3_H00-utt10 ref  pu  fe
+CA327QL3_H00-utt10 hyp  pu  fe
+CA327QL3_H00-utt10 op    C   C
+CA327QL3_H00-utt10 #csid 2 0 0 0
+CA327QL3_H00-utt11 ref  so  ma
+CA327QL3_H00-utt11 hyp  so  ma
+CA327QL3_H00-utt11 op    C   C
+CA327QL3_H00-utt11 #csid 2 0 0 0
+CA327QL3_H00-utt12 ref  ta  ba  ye  ro
+CA327QL3_H00-utt12 hyp  ka  ba  ye  ro
+CA327QL3_H00-utt12 op    S   C   C   C
+CA327QL3_H00-utt12 #csid 3 1 0 0
+CA327QL3_H00-utt13 ref  be  na
+CA327QL3_H00-utt13 hyp  be  na
+CA327QL3_H00-utt13 op    C   C
+CA327QL3_H00-utt13 #csid 2 0 0 0
+CA327QL3_H00-utt14 ref  mu  si  ka
+CA327QL3_H00-utt14 hyp  mu  si  ka
+CA327QL3_H00-utt14 op    C   C   C
+CA327QL3_H00-utt14 #csid 3 0 0 0
+CA327QL3_H00-utt15 ref  di  ku
+CA327QL3_H00-utt15 hyp  bi  ko
+CA327QL3_H00-utt15 op    S   S
+CA327QL3_H00-utt15 #csid 0 2 0 0
+CA327QL3_H00-utt16 ref  ka  mi  ro
+CA327QL3_H00-utt16 hyp  ta  mi  ro
+CA327QL3_H00-utt16 op    S   C   C
+CA327QL3_H00-utt16 #csid 2 1 0 0
+CA327QL3_H00-utt17 ref  me  ze  do  ra
+CA327QL3_H00-utt17 hyp  me  ze  do  ra
+CA327QL3_H00-utt17 op    C   C   C   C
+CA327QL3_H00-utt17 #csid 4 0 0 0
+CA327QL3_H00-utt18 ref  ze  bi
+CA327QL3_H00-utt18 hyp  fe  di
+CA327QL3_H00-utt18 op    S   S
+CA327QL3_H00-utt18 #csid 0 2 0 0
+CA327QL3_H00-utt19 ref  ta  xo
+CA327QL3_H00-utt19 hyp  ta  xo
+CA327QL3_H00-utt19 op    C   C
+CA327QL3_H00-utt19 #csid 2 0 0 0
+CA327QL3_H00-utt2 ref  pa  li  xo
+CA327QL3_H00-utt2 hyp  pa  li  xo
+CA327QL3_H00-utt2 op    C   C   C
+CA327QL3_H00-utt2 #csid 3 0 0 0
+CA327QL3_H00-utt20 ref  bi  la
+CA327QL3_H00-utt20 hyp  bi  la
+CA327QL3_H00-utt20 op    C   C
+CA327QL3_H00-utt20 #csid 2 0 0 0
+CA327QL3_H00-utt21 ref  me  di  zi  ra
+CA327QL3_H00-utt21 hyp  me  di  zi  ra
+CA327QL3_H00-utt21 op    C   C   C   C
+CA327QL3_H00-utt21 #csid 4 0 0 0
+CA327QL3_H00-utt22 ref  la  ti  ga  fo
+CA327QL3_H00-utt22 hyp  la  ti  ga  fo
+CA327QL3_H00-utt22 op    C   C   C   C
+CA327QL3_H00-utt22 #csid 4 0 0 0
+CA327QL3_H00-utt23 ref  no  fe  ba
+CA327QL3_H00-utt23 hyp  no  fe  ba
+CA327QL3_H00-utt23 op    C   C   C
+CA327QL3_H00-utt23 #csid 3 0 0 0
+CA327QL3_H00-utt24 ref  lu  fo
+CA327QL3_H00-utt24 hyp  lu  fo
+CA327QL3_H00-utt24 op    C   C
+CA327QL3_H00-utt24 #csid 2 0 0 0
+CA327QL3_H00-utt25 ref  ta  po  di  no
+CA327QL3_H00-utt25 hyp  ta  po  di  no
+CA327QL3_H00-utt25 op    C   C   C   C
+CA327QL3_H00-utt25 #csid 4 0 0 0
+CA327QL3_H00-utt26 ref  fi  lo  so  zo
+CA327QL3_H00-utt26 hyp  fi  lo  so  fo
+CA327QL3_H00-utt26 op    C   C   C   S
+CA327QL3_H00-utt26 #csid 3 1 0 0
+CA327QL3_H00-utt27 ref  ni  bo  fe  ma
+CA327QL3_H00-utt27 hyp  ni  bo  fe  ma
+CA327QL3_H00-utt27 op    C   C   C   C
+CA327QL3_H00-utt27 #csid 4 0 0 0
+CA327QL3_H00-utt28 ref  mi  ri  ya
+CA327QL3_H00-utt28 hyp  mi  ri  ya
+CA327QL3_H00-utt28 op    C   C   C
+CA327QL3_H00-utt28 #csid 3 0 0 0
+CA327QL3_H00-utt29 ref  zi  bu  fe  ni
+CA327QL3_H00-utt29 hyp  zi  bu  fe  ni
+CA327QL3_H00-utt29 op    C   C   C   C
+CA327QL3_H00-utt29 #csid 4 0 0 0
+CA327QL3_H00-utt3 ref  so  ga
+CA327QL3_H00-utt3 hyp  so  ga
+CA327QL3_H00-utt3 op    C   C
+CA327QL3_H00-utt3 #csid 2 0 0 0
+CA327QL3_H00-utt30 ref  mo  pa  so  ka
+CA327QL3_H00-utt30 hyp  mo  pa  so  ka
+CA327QL3_H00-utt30 op    C   C   C   C
+CA327QL3_H00-utt30 #csid 4 0 0 0
+CA327QL3_H00-utt31 ref  ma  ni  be  la
+CA327QL3_H00-utt31 hyp  ma  ni  be  la
+CA327QL3_H00-utt31 op    C   C   C   C
+CA327QL3_H00-utt31 #csid 4 0 0 0
+CA327QL3_H00-utt32 ref  pe  ta  te
+CA327QL3_H00-utt32 hyp  te  ta  te
+CA327QL3_H00-utt32 op    S   C   C
+CA327QL3_H00-utt32 #csid 2 1 0 0
+CA327QL3_H00-utt33 ref  de  ba  te
+CA327QL3_H00-utt33 hyp  de  ba  te
+CA327QL3_H00-utt33 op    C   C   C
+CA327QL3_H00-utt33 #csid 3 0 0 0
+CA327QL3_H00-utt34 ref  lu  cha
+CA327QL3_H00-utt34 hyp  lu  cha
+CA327QL3_H00-utt34 op    C   C 
+CA327QL3_H00-utt34 #csid 2 0 0 0
+CA327QL3_H00-utt35 ref  ta  mo
+CA327QL3_H00-utt35 hyp  ta  mo
+CA327QL3_H00-utt35 op    C   C
+CA327QL3_H00-utt35 #csid 2 0 0 0
+CA327QL3_H00-utt36 ref  ko  di  so
+CA327QL3_H00-utt36 hyp  ko  di  so
+CA327QL3_H00-utt36 op    C   C   C
+CA327QL3_H00-utt36 #csid 3 0 0 0
+CA327QL3_H00-utt37 ref  so  ma  zi
+CA327QL3_H00-utt37 hyp  so  ma  zi
+CA327QL3_H00-utt37 op    C   C   C
+CA327QL3_H00-utt37 #csid 3 0 0 0
+CA327QL3_H00-utt38 ref  lo  na
+CA327QL3_H00-utt38 hyp  lo  na
+CA327QL3_H00-utt38 op    C   C
+CA327QL3_H00-utt38 #csid 2 0 0 0
+CA327QL3_H00-utt39 ref  rro  ko
+CA327QL3_H00-utt39 hyp  rro  ko
+CA327QL3_H00-utt39 op    C    C
+CA327QL3_H00-utt39 #csid 2 0 0 0
+CA327QL3_H00-utt4 ref  ko  pa
+CA327QL3_H00-utt4 hyp  ko  pa
+CA327QL3_H00-utt4 op    C   C
+CA327QL3_H00-utt4 #csid 2 0 0 0
+CA327QL3_H00-utt40 ref  pe  ta  ma
+CA327QL3_H00-utt40 hyp  pe  ta  ma
+CA327QL3_H00-utt40 op    C   C   C
+CA327QL3_H00-utt40 #csid 3 0 0 0
+CA327QL3_H00-utt41 ref  de  za
+CA327QL3_H00-utt41 hyp  be  za
+CA327QL3_H00-utt41 op    S   C
+CA327QL3_H00-utt41 #csid 1 1 0 0
+CA327QL3_H00-utt42 ref  ma  no  ta  go
+CA327QL3_H00-utt42 hyp  ma  na  ta  do
+CA327QL3_H00-utt42 op    C   S   C   S
+CA327QL3_H00-utt42 #csid 2 2 0 0
+CA327QL3_H00-utt43 ref  bu  ke
+CA327QL3_H00-utt43 hyp  bu  ke
+CA327QL3_H00-utt43 op    C   C
+CA327QL3_H00-utt43 #csid 2 0 0 0
+CA327QL3_H00-utt44 ref  me  pe
+CA327QL3_H00-utt44 hyp  me  pe
+CA327QL3_H00-utt44 op    C   C
+CA327QL3_H00-utt44 #csid 2 0 0 0
+CA327QL3_H00-utt45 ref  pe  ta
+CA327QL3_H00-utt45 hyp  pe  ta
+CA327QL3_H00-utt45 op    C   C
+CA327QL3_H00-utt45 #csid 2 0 0 0
+CA327QL3_H00-utt46 ref  rre  ti  ra  za
+CA327QL3_H00-utt46 hyp  rre  ti  ra  za
+CA327QL3_H00-utt46 op    C    C   C   C
+CA327QL3_H00-utt46 #csid 4 0 0 0
+CA327QL3_H00-utt47 ref  ti  bu
+CA327QL3_H00-utt47 hyp  ti  bu
+CA327QL3_H00-utt47 op    C   C
+CA327QL3_H00-utt47 #csid 2 0 0 0
+CA327QL3_H00-utt5 ref  be  ya  ze
+CA327QL3_H00-utt5 hyp  be  ya  ze
+CA327QL3_H00-utt5 op    C   C   C
+CA327QL3_H00-utt5 #csid 3 0 0 0
+CA327QL3_H00-utt6 ref  mu  lo
+CA327QL3_H00-utt6 hyp  mu  lo
+CA327QL3_H00-utt6 op    C   C
+CA327QL3_H00-utt6 #csid 2 0 0 0
+CA327QL3_H00-utt7 ref  zi  ma
+CA327QL3_H00-utt7 hyp  zi  ma
+CA327QL3_H00-utt7 op    C   C
+CA327QL3_H00-utt7 #csid 2 0 0 0
+CA327QL3_H00-utt8 ref  no  be  ya
+CA327QL3_H00-utt8 hyp  no  be  ya
+CA327QL3_H00-utt8 op    C   C   C
+CA327QL3_H00-utt8 #csid 3 0 0 0
+CA327QL3_H00-utt9 ref  mi  gu
+CA327QL3_H00-utt9 hyp  mi  gu
+CA327QL3_H00-utt9 op    C   C
+CA327QL3_H00-utt9 #csid 2 0 0 0
+CA327QL4_M00-utt0 ref  chu  so
+CA327QL4_M00-utt0 hyp  chu  so
+CA327QL4_M00-utt0 op    C    C
+CA327QL4_M00-utt0 #csid 2 0 0 0
+CA327QL4_M00-utt1 ref  fe  za
+CA327QL4_M00-utt1 hyp  fe  za
+CA327QL4_M00-utt1 op    C   C
+CA327QL4_M00-utt1 #csid 2 0 0 0
+CA327QL4_M00-utt10 ref  pe  ta  ka
+CA327QL4_M00-utt10 hyp  pe  ta  ta
+CA327QL4_M00-utt10 op    C   C   S
+CA327QL4_M00-utt10 #csid 2 1 0 0
+CA327QL4_M00-utt11 ref  do  ya
+CA327QL4_M00-utt11 hyp  do  ya
+CA327QL4_M00-utt11 op    C   C
+CA327QL4_M00-utt11 #csid 2 0 0 0
+CA327QL4_M00-utt12 ref  li  ya
+CA327QL4_M00-utt12 hyp  li  ya
+CA327QL4_M00-utt12 op    C   C
+CA327QL4_M00-utt12 #csid 2 0 0 0
+CA327QL4_M00-utt13 ref  ta  mi  no
+CA327QL4_M00-utt13 hyp  ta  ni  no
+CA327QL4_M00-utt13 op    C   S   C
+CA327QL4_M00-utt13 #csid 2 1 0 0
+CA327QL4_M00-utt14 ref  pa  de  so
+CA327QL4_M00-utt14 hyp  pa  de  so
+CA327QL4_M00-utt14 op    C   C   C
+CA327QL4_M00-utt14 #csid 3 0 0 0
+CA327QL4_M00-utt15 ref  so  da
+CA327QL4_M00-utt15 hyp  so  da
+CA327QL4_M00-utt15 op    C   C
+CA327QL4_M00-utt15 #csid 2 0 0 0
+CA327QL4_M00-utt16 ref  ti  tu  mo
+CA327QL4_M00-utt16 hyp  ti  tu  mo
+CA327QL4_M00-utt16 op    C   C   C
+CA327QL4_M00-utt16 #csid 3 0 0 0
+CA327QL4_M00-utt17 ref  di  ma  ko
+CA327QL4_M00-utt17 hyp  di  ma  ko
+CA327QL4_M00-utt17 op    C   C   C
+CA327QL4_M00-utt17 #csid 3 0 0 0
+CA327QL4_M00-utt18 ref  ka  nyo
+CA327QL4_M00-utt18 hyp  ka  nyo
+CA327QL4_M00-utt18 op    C   C 
+CA327QL4_M00-utt18 #csid 2 0 0 0
+CA327QL4_M00-utt19 ref  ko  ga
+CA327QL4_M00-utt19 hyp  ko  da
+CA327QL4_M00-utt19 op    C   S
+CA327QL4_M00-utt19 #csid 1 1 0 0
+CA327QL4_M00-utt2 ref  ye  ma
+CA327QL4_M00-utt2 hyp  ye  ma
+CA327QL4_M00-utt2 op    C   C
+CA327QL4_M00-utt2 #csid 2 0 0 0
+CA327QL4_M00-utt20 ref  mo  pe
+CA327QL4_M00-utt20 hyp  mo  pe
+CA327QL4_M00-utt20 op    C   C
+CA327QL4_M00-utt20 #csid 2 0 0 0
+CA327QL4_M00-utt21 ref  na  fe
+CA327QL4_M00-utt21 hyp  na  fe
+CA327QL4_M00-utt21 op    C   C
+CA327QL4_M00-utt21 #csid 2 0 0 0
+CA327QL4_M00-utt22 ref  ge  rra
+CA327QL4_M00-utt22 hyp  ge  rra
+CA327QL4_M00-utt22 op    C   C 
+CA327QL4_M00-utt22 #csid 2 0 0 0
+CA327QL4_M00-utt23 ref  so  ga  li  na
+CA327QL4_M00-utt23 hyp  so  ga  li  na
+CA327QL4_M00-utt23 op    C   C   C   C
+CA327QL4_M00-utt23 #csid 4 0 0 0
+CA327QL4_M00-utt24 ref  pe  li  ku  za
+CA327QL4_M00-utt24 hyp  pe  li  ku  za
+CA327QL4_M00-utt24 op    C   C   C   C
+CA327QL4_M00-utt24 #csid 4 0 0 0
+CA327QL4_M00-utt25 ref  di  la
+CA327QL4_M00-utt25 hyp  di  la
+CA327QL4_M00-utt25 op    C   C
+CA327QL4_M00-utt25 #csid 2 0 0 0
+CA327QL4_M00-utt26 ref  no  be  la
+CA327QL4_M00-utt26 hyp  no  be  la
+CA327QL4_M00-utt26 op    C   C   C
+CA327QL4_M00-utt26 #csid 3 0 0 0
+CA327QL4_M00-utt27 ref  pe  ku  ga  ta
+CA327QL4_M00-utt27 hyp  pe  ku  ga  ta
+CA327QL4_M00-utt27 op    C   C   C   C
+CA327QL4_M00-utt27 #csid 4 0 0 0
+CA327QL4_M00-utt28 ref  la  ti  ga  zo
+CA327QL4_M00-utt28 hyp  la  ti  ga  zo
+CA327QL4_M00-utt28 op    C   C   C   C
+CA327QL4_M00-utt28 #csid 4 0 0 0
+CA327QL4_M00-utt29 ref  rro  ka
+CA327QL4_M00-utt29 hyp  rro  ka
+CA327QL4_M00-utt29 op    C    C
+CA327QL4_M00-utt29 #csid 2 0 0 0
+CA327QL4_M00-utt3 ref  zi  fo
+CA327QL4_M00-utt3 hyp  zi  fo
+CA327QL4_M00-utt3 op    C   C
+CA327QL4_M00-utt3 #csid 2 0 0 0
+CA327QL4_M00-utt30 ref  pa  le   ti  rra
+CA327QL4_M00-utt30 hyp  pa  le  tie  rra
+CA327QL4_M00-utt30 op    C   C   S    C 
+CA327QL4_M00-utt30 #csid 3 1 0 0
+CA327QL4_M00-utt31 ref  ze  bo
+CA327QL4_M00-utt31 hyp  ze  bo
+CA327QL4_M00-utt31 op    C   C
+CA327QL4_M00-utt31 #csid 2 0 0 0
+CA327QL4_M00-utt32 ref  pa  li  yo
+CA327QL4_M00-utt32 hyp  pa  li  yo
+CA327QL4_M00-utt32 op    C   C   C
+CA327QL4_M00-utt32 #csid 3 0 0 0
+CA327QL4_M00-utt33 ref  ka  ba  ye  to
+CA327QL4_M00-utt33 hyp  ka  ba  ye  to
+CA327QL4_M00-utt33 op    C   C   C   C
+CA327QL4_M00-utt33 #csid 4 0 0 0
+CA327QL4_M00-utt34 ref  lo  fe  du  ne
+CA327QL4_M00-utt34 hyp  lo  fe  du  ne
+CA327QL4_M00-utt34 op    C   C   C   C
+CA327QL4_M00-utt34 #csid 4 0 0 0
+CA327QL4_M00-utt35 ref  ya  to
+CA327QL4_M00-utt35 hyp  ya  to
+CA327QL4_M00-utt35 op    C   C
+CA327QL4_M00-utt35 #csid 2 0 0 0
+CA327QL4_M00-utt36 ref  gi  cho
+CA327QL4_M00-utt36 hyp  gi  cho
+CA327QL4_M00-utt36 op    C   C 
+CA327QL4_M00-utt36 #csid 2 0 0 0
+CA327QL4_M00-utt37 ref  pe  na
+CA327QL4_M00-utt37 hyp  pe  na
+CA327QL4_M00-utt37 op    C   C
+CA327QL4_M00-utt37 #csid 2 0 0 0
+CA327QL4_M00-utt38 ref  bi  ya
+CA327QL4_M00-utt38 hyp  bi  ya
+CA327QL4_M00-utt38 op    C   C
+CA327QL4_M00-utt38 #csid 2 0 0 0
+CA327QL4_M00-utt39 ref  to  ye
+CA327QL4_M00-utt39 hyp  to  yi
+CA327QL4_M00-utt39 op    C   S
+CA327QL4_M00-utt39 #csid 1 1 0 0
+CA327QL4_M00-utt4 ref  pa  ni
+CA327QL4_M00-utt4 hyp  pa  ni
+CA327QL4_M00-utt4 op    C   C
+CA327QL4_M00-utt4 #csid 2 0 0 0
+CA327QL4_M00-utt40 ref  ze  bu  xo
+CA327QL4_M00-utt40 hyp  ze  bu  xo
+CA327QL4_M00-utt40 op    C   C   C
+CA327QL4_M00-utt40 #csid 3 0 0 0
+CA327QL4_M00-utt41 ref  rre  ti  ra  da
+CA327QL4_M00-utt41 hyp  rre  ti  ra  da
+CA327QL4_M00-utt41 op    C    C   C   C
+CA327QL4_M00-utt41 #csid 4 0 0 0
+CA327QL4_M00-utt42 ref  nu  me  so
+CA327QL4_M00-utt42 hyp  nu  me  so
+CA327QL4_M00-utt42 op    C   C   C
+CA327QL4_M00-utt42 #csid 3 0 0 0
+CA327QL4_M00-utt43 ref  ta  le  bo
+CA327QL4_M00-utt43 hyp  ta  le  bo
+CA327QL4_M00-utt43 op    C   C   C
+CA327QL4_M00-utt43 #csid 3 0 0 0
+CA327QL4_M00-utt44 ref  me  di  zi  na
+CA327QL4_M00-utt44 hyp  me  di  zi  na
+CA327QL4_M00-utt44 op    C   C   C   C
+CA327QL4_M00-utt44 #csid 4 0 0 0
+CA327QL4_M00-utt45 ref  zi  se
+CA327QL4_M00-utt45 hyp  zi  se
+CA327QL4_M00-utt45 op    C   C
+CA327QL4_M00-utt45 #csid 2 0 0 0
+CA327QL4_M00-utt46 ref  fe  xi
+CA327QL4_M00-utt46 hyp  fe  xi
+CA327QL4_M00-utt46 op    C   C
+CA327QL4_M00-utt46 #csid 2 0 0 0
+CA327QL4_M00-utt47 ref  bi  fu  pe  si
+CA327QL4_M00-utt47 hyp  bi  fu  pe  si
+CA327QL4_M00-utt47 op    C   C   C   C
+CA327QL4_M00-utt47 #csid 4 0 0 0
+CA327QL4_M00-utt5 ref  za  bo  lu
+CA327QL4_M00-utt5 hyp  za  bo  lu
+CA327QL4_M00-utt5 op    C   C   C
+CA327QL4_M00-utt5 #csid 3 0 0 0
+CA327QL4_M00-utt6 ref  ma  no  ta  zo
+CA327QL4_M00-utt6 hyp  ma  no  ta  zo
+CA327QL4_M00-utt6 op    C   C   C   C
+CA327QL4_M00-utt6 #csid 4 0 0 0
+CA327QL4_M00-utt7 ref  ba  rre  yo
+CA327QL4_M00-utt7 hyp  ba  rre  yo
+CA327QL4_M00-utt7 op    C   C    C
+CA327QL4_M00-utt7 #csid 3 0 0 0
+CA327QL4_M00-utt8 ref  se  nyo  ri  da
+CA327QL4_M00-utt8 hyp  se  nyo  ri  da
+CA327QL4_M00-utt8 op    C   C    C   C
+CA327QL4_M00-utt8 #csid 4 0 0 0
+CA327QL4_M00-utt9 ref  tu  zo
+CA327QL4_M00-utt9 hyp  tu  zo
+CA327QL4_M00-utt9 op    C   C
+CA327QL4_M00-utt9 #csid 2 0 0 0

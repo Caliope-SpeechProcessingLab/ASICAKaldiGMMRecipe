@@ -1,0 +1,779 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CL001QL1_H54    raw         48        132        120         12          0          0         12         11
+CL001QL1_H54    sys         48        132      90.91       9.09       0.00       0.00       9.09      22.92
+CL001QL2_H54    raw         47        129        121          8          0          0          8          8
+CL001QL2_H54    sys         47        129      93.80       6.20       0.00       0.00       6.20      17.02
+CL001QL3_H54    raw         48        132        120         12          1          0         13         11
+CL001QL3_H54    sys         48        132      90.91       9.09       0.76       0.00       9.85      22.92
+CL001QL4_H54    raw         48        132        117         15          2          0         17         16
+CL001QL4_H54    sys         48        132      88.64      11.36       1.52       0.00      12.88      33.33
+SUM             raw        191        525        478         47          3          0         50         46
+SUM             sys        191        525      91.05       8.95       0.57       0.00       9.52      24.08
+
+--------------------------------------------------------------------
+CL001QL1_H54-utt0 ref  ya  te
+CL001QL1_H54-utt0 hyp  ya  te
+CL001QL1_H54-utt0 op    C   C
+CL001QL1_H54-utt0 #csid 2 0 0 0
+CL001QL1_H54-utt1 ref  no  lu
+CL001QL1_H54-utt1 hyp  no  lu
+CL001QL1_H54-utt1 op    C   C
+CL001QL1_H54-utt1 #csid 2 0 0 0
+CL001QL1_H54-utt10 ref  chu  lo
+CL001QL1_H54-utt10 hyp  chu  lo
+CL001QL1_H54-utt10 op    C    C
+CL001QL1_H54-utt10 #csid 2 0 0 0
+CL001QL1_H54-utt11 ref  pa  ba  ri  no
+CL001QL1_H54-utt11 hyp  pa  ba  ti  no
+CL001QL1_H54-utt11 op    C   C   S   C
+CL001QL1_H54-utt11 #csid 3 1 0 0
+CL001QL1_H54-utt12 ref  ko  pa  di
+CL001QL1_H54-utt12 hyp  ko  pa  di
+CL001QL1_H54-utt12 op    C   C   C
+CL001QL1_H54-utt12 #csid 3 0 0 0
+CL001QL1_H54-utt13 ref  li  ga
+CL001QL1_H54-utt13 hyp  li  ga
+CL001QL1_H54-utt13 op    C   C
+CL001QL1_H54-utt13 #csid 2 0 0 0
+CL001QL1_H54-utt14 ref  be  yo  lu
+CL001QL1_H54-utt14 hyp  be  yo  lu
+CL001QL1_H54-utt14 op    C   C   C
+CL001QL1_H54-utt14 #csid 3 0 0 0
+CL001QL1_H54-utt15 ref  so  te  lo
+CL001QL1_H54-utt15 hyp  so  te  lo
+CL001QL1_H54-utt15 op    C   C   C
+CL001QL1_H54-utt15 #csid 3 0 0 0
+CL001QL1_H54-utt16 ref  ma   re  xa  za
+CL001QL1_H54-utt16 hyp  ma  rre  xa  za
+CL001QL1_H54-utt16 op    C   S    C   C
+CL001QL1_H54-utt16 #csid 3 1 0 0
+CL001QL1_H54-utt17 ref  nu  me  ro
+CL001QL1_H54-utt17 hyp  nu  me  ro
+CL001QL1_H54-utt17 op    C   C   C
+CL001QL1_H54-utt17 #csid 3 0 0 0
+CL001QL1_H54-utt18 ref  ka  pi  tu  bo
+CL001QL1_H54-utt18 hyp  ka  pi  tu  bo
+CL001QL1_H54-utt18 op    C   C   C   C
+CL001QL1_H54-utt18 #csid 4 0 0 0
+CL001QL1_H54-utt19 ref  bi  ka
+CL001QL1_H54-utt19 hyp  bi  ka
+CL001QL1_H54-utt19 op    C   C
+CL001QL1_H54-utt19 #csid 2 0 0 0
+CL001QL1_H54-utt2 ref  ba  fe
+CL001QL1_H54-utt2 hyp  ba  ze
+CL001QL1_H54-utt2 op    C   S
+CL001QL1_H54-utt2 #csid 1 1 0 0
+CL001QL1_H54-utt20 ref  ti  bo
+CL001QL1_H54-utt20 hyp  ti  bo
+CL001QL1_H54-utt20 op    C   C
+CL001QL1_H54-utt20 #csid 2 0 0 0
+CL001QL1_H54-utt21 ref  ka  yi
+CL001QL1_H54-utt21 hyp  ka  yi
+CL001QL1_H54-utt21 op    C   C
+CL001QL1_H54-utt21 #csid 2 0 0 0
+CL001QL1_H54-utt22 ref  fo  bo  xe  ma
+CL001QL1_H54-utt22 hyp  fo  bo  xe  ma
+CL001QL1_H54-utt22 op    C   C   C   C
+CL001QL1_H54-utt22 #csid 4 0 0 0
+CL001QL1_H54-utt23 ref  pa  ne
+CL001QL1_H54-utt23 hyp  pa  ne
+CL001QL1_H54-utt23 op    C   C
+CL001QL1_H54-utt23 #csid 2 0 0 0
+CL001QL1_H54-utt24 ref  tu  fo
+CL001QL1_H54-utt24 hyp  tu  fo
+CL001QL1_H54-utt24 op    C   C
+CL001QL1_H54-utt24 #csid 2 0 0 0
+CL001QL1_H54-utt25 ref  sa  te  li  to
+CL001QL1_H54-utt25 hyp  sa  ze  li  to
+CL001QL1_H54-utt25 op    C   S   C   C
+CL001QL1_H54-utt25 #csid 3 1 0 0
+CL001QL1_H54-utt26 ref  fe  cha
+CL001QL1_H54-utt26 hyp  ze  cha
+CL001QL1_H54-utt26 op    S   C 
+CL001QL1_H54-utt26 #csid 1 1 0 0
+CL001QL1_H54-utt27 ref  pe  mi
+CL001QL1_H54-utt27 hyp  pe  ni
+CL001QL1_H54-utt27 op    C   S
+CL001QL1_H54-utt27 #csid 1 1 0 0
+CL001QL1_H54-utt28 ref  di  ne  so
+CL001QL1_H54-utt28 hyp  di  ne  so
+CL001QL1_H54-utt28 op    C   C   C
+CL001QL1_H54-utt28 #csid 3 0 0 0
+CL001QL1_H54-utt29 ref  ka  ba  ye  te
+CL001QL1_H54-utt29 hyp  ka  ba  ye  te
+CL001QL1_H54-utt29 op    C   C   C   C
+CL001QL1_H54-utt29 #csid 4 0 0 0
+CL001QL1_H54-utt3 ref  ti  tu  lo
+CL001QL1_H54-utt3 hyp  ti  tu  lo
+CL001QL1_H54-utt3 op    C   C   C
+CL001QL1_H54-utt3 #csid 3 0 0 0
+CL001QL1_H54-utt30 ref  ko  li  za
+CL001QL1_H54-utt30 hyp  ko  li  za
+CL001QL1_H54-utt30 op    C   C   C
+CL001QL1_H54-utt30 #csid 3 0 0 0
+CL001QL1_H54-utt31 ref  ka  rro  ma  do
+CL001QL1_H54-utt31 hyp  ka  rro  ma  do
+CL001QL1_H54-utt31 op    C   C    C   C
+CL001QL1_H54-utt31 #csid 4 0 0 0
+CL001QL1_H54-utt32 ref  gi  nyo
+CL001QL1_H54-utt32 hyp  gi  nyo
+CL001QL1_H54-utt32 op    C   C 
+CL001QL1_H54-utt32 #csid 2 0 0 0
+CL001QL1_H54-utt33 ref  ma  nya  da
+CL001QL1_H54-utt33 hyp  ma  nyo  da
+CL001QL1_H54-utt33 op    C   S    C
+CL001QL1_H54-utt33 #csid 2 1 0 0
+CL001QL1_H54-utt34 ref  za  fe  lu  di
+CL001QL1_H54-utt34 hyp  za  ze  lu  di
+CL001QL1_H54-utt34 op    C   S   C   C
+CL001QL1_H54-utt34 #csid 3 1 0 0
+CL001QL1_H54-utt35 ref  la  ro
+CL001QL1_H54-utt35 hyp  la  ro
+CL001QL1_H54-utt35 op    C   C
+CL001QL1_H54-utt35 #csid 2 0 0 0
+CL001QL1_H54-utt36 ref  zi  ne
+CL001QL1_H54-utt36 hyp  zi  ne
+CL001QL1_H54-utt36 op    C   C
+CL001QL1_H54-utt36 #csid 2 0 0 0
+CL001QL1_H54-utt37 ref  se  nyo  ri  ta
+CL001QL1_H54-utt37 hyp  se  nyo  ri  ta
+CL001QL1_H54-utt37 op    C   C    C   C
+CL001QL1_H54-utt37 #csid 4 0 0 0
+CL001QL1_H54-utt38 ref  no  fe
+CL001QL1_H54-utt38 hyp  no  fe
+CL001QL1_H54-utt38 op    C   C
+CL001QL1_H54-utt38 #csid 2 0 0 0
+CL001QL1_H54-utt39 ref  pe  li  ku  la
+CL001QL1_H54-utt39 hyp  pe  di  ku  lo
+CL001QL1_H54-utt39 op    C   S   C   S
+CL001QL1_H54-utt39 #csid 2 2 0 0
+CL001QL1_H54-utt4 ref  mo  de
+CL001QL1_H54-utt4 hyp  mo  de
+CL001QL1_H54-utt4 op    C   C
+CL001QL1_H54-utt4 #csid 2 0 0 0
+CL001QL1_H54-utt40 ref  ku  xo  ba
+CL001QL1_H54-utt40 hyp  ku  xo  ba
+CL001QL1_H54-utt40 op    C   C   C
+CL001QL1_H54-utt40 #csid 3 0 0 0
+CL001QL1_H54-utt41 ref  fu  xo
+CL001QL1_H54-utt41 hyp  fu  xo
+CL001QL1_H54-utt41 op    C   C
+CL001QL1_H54-utt41 #csid 2 0 0 0
+CL001QL1_H54-utt42 ref  se  ku
+CL001QL1_H54-utt42 hyp  se  ku
+CL001QL1_H54-utt42 op    C   C
+CL001QL1_H54-utt42 #csid 2 0 0 0
+CL001QL1_H54-utt43 ref  to  rre
+CL001QL1_H54-utt43 hyp  to  rre
+CL001QL1_H54-utt43 op    C   C 
+CL001QL1_H54-utt43 #csid 2 0 0 0
+CL001QL1_H54-utt44 ref  do  fe
+CL001QL1_H54-utt44 hyp  do  fe
+CL001QL1_H54-utt44 op    C   C
+CL001QL1_H54-utt44 #csid 2 0 0 0
+CL001QL1_H54-utt45 ref  ba  rre  nyo
+CL001QL1_H54-utt45 hyp  ba  rre  nyo
+CL001QL1_H54-utt45 op    C   C    C 
+CL001QL1_H54-utt45 #csid 3 0 0 0
+CL001QL1_H54-utt46 ref  me  la  ni  to
+CL001QL1_H54-utt46 hyp  me  la  ni  to
+CL001QL1_H54-utt46 op    C   C   C   C
+CL001QL1_H54-utt46 #csid 4 0 0 0
+CL001QL1_H54-utt47 ref  ta  le  go
+CL001QL1_H54-utt47 hyp  ta  le  go
+CL001QL1_H54-utt47 op    C   C   C
+CL001QL1_H54-utt47 #csid 3 0 0 0
+CL001QL1_H54-utt5 ref  pe  no
+CL001QL1_H54-utt5 hyp  pe  no
+CL001QL1_H54-utt5 op    C   C
+CL001QL1_H54-utt5 #csid 2 0 0 0
+CL001QL1_H54-utt6 ref  xe  ra
+CL001QL1_H54-utt6 hyp  xe  ta
+CL001QL1_H54-utt6 op    C   S
+CL001QL1_H54-utt6 #csid 1 1 0 0
+CL001QL1_H54-utt7 ref  pa  le  ti  ya
+CL001QL1_H54-utt7 hyp  pa  re  ti  ya
+CL001QL1_H54-utt7 op    C   S   C   C
+CL001QL1_H54-utt7 #csid 3 1 0 0
+CL001QL1_H54-utt8 ref  ka  rro  fa
+CL001QL1_H54-utt8 hyp  ka  rro  fa
+CL001QL1_H54-utt8 op    C   C    C
+CL001QL1_H54-utt8 #csid 3 0 0 0
+CL001QL1_H54-utt9 ref  ma  po
+CL001QL1_H54-utt9 hyp  ma  po
+CL001QL1_H54-utt9 op    C   C
+CL001QL1_H54-utt9 #csid 2 0 0 0
+CL001QL2_H54-utt0 ref  so  ya
+CL001QL2_H54-utt0 hyp  so  ya
+CL001QL2_H54-utt0 op    C   C
+CL001QL2_H54-utt0 #csid 2 0 0 0
+CL001QL2_H54-utt1 ref  be  ta
+CL001QL2_H54-utt1 hyp  de  ta
+CL001QL2_H54-utt1 op    S   C
+CL001QL2_H54-utt1 #csid 1 1 0 0
+CL001QL2_H54-utt10 ref  me  ze  do  ta
+CL001QL2_H54-utt10 hyp  me  se  do  ta
+CL001QL2_H54-utt10 op    C   S   C   C
+CL001QL2_H54-utt10 #csid 3 1 0 0
+CL001QL2_H54-utt11 ref  ko  li  ya
+CL001QL2_H54-utt11 hyp  ko  li  ya
+CL001QL2_H54-utt11 op    C   C   C
+CL001QL2_H54-utt11 #csid 3 0 0 0
+CL001QL2_H54-utt12 ref  bu  de
+CL001QL2_H54-utt12 hyp  bu  de
+CL001QL2_H54-utt12 op    C   C
+CL001QL2_H54-utt12 #csid 2 0 0 0
+CL001QL2_H54-utt13 ref  mo  ku
+CL001QL2_H54-utt13 hyp  mo  ku
+CL001QL2_H54-utt13 op    C   C
+CL001QL2_H54-utt13 #csid 2 0 0 0
+CL001QL2_H54-utt14 ref  lo  ra
+CL001QL2_H54-utt14 hyp  lo  ra
+CL001QL2_H54-utt14 op    C   C
+CL001QL2_H54-utt14 #csid 2 0 0 0
+CL001QL2_H54-utt15 ref  xe  ta
+CL001QL2_H54-utt15 hyp  xe  ta
+CL001QL2_H54-utt15 op    C   C
+CL001QL2_H54-utt15 #csid 2 0 0 0
+CL001QL2_H54-utt16 ref  bu  fe  lu
+CL001QL2_H54-utt16 hyp  bu  fe  lu
+CL001QL2_H54-utt16 op    C   C   C
+CL001QL2_H54-utt16 #csid 3 0 0 0
+CL001QL2_H54-utt17 ref  ma  ni  be  za
+CL001QL2_H54-utt17 hyp  ma  ni  be  za
+CL001QL2_H54-utt17 op    C   C   C   C
+CL001QL2_H54-utt17 #csid 4 0 0 0
+CL001QL2_H54-utt18 ref  ma  re  xa  la
+CL001QL2_H54-utt18 hyp  ma  re  xa  da
+CL001QL2_H54-utt18 op    C   C   C   S
+CL001QL2_H54-utt18 #csid 3 1 0 0
+CL001QL2_H54-utt19 ref  pe  so
+CL001QL2_H54-utt19 hyp  pe  so
+CL001QL2_H54-utt19 op    C   C
+CL001QL2_H54-utt19 #csid 2 0 0 0
+CL001QL2_H54-utt2 ref  sa  te  li  te
+CL001QL2_H54-utt2 hyp  sa  ze  li  te
+CL001QL2_H54-utt2 op    C   S   C   C
+CL001QL2_H54-utt2 #csid 3 1 0 0
+CL001QL2_H54-utt20 ref  di  ra  ni
+CL001QL2_H54-utt20 hyp  di  ra  ni
+CL001QL2_H54-utt20 op    C   C   C
+CL001QL2_H54-utt20 #csid 3 0 0 0
+CL001QL2_H54-utt21 ref  ti  fe  du  ne
+CL001QL2_H54-utt21 hyp  ti  ze  du  ne
+CL001QL2_H54-utt21 op    C   S   C   C
+CL001QL2_H54-utt21 #csid 3 1 0 0
+CL001QL2_H54-utt22 ref  ti  yo
+CL001QL2_H54-utt22 hyp  ti  yo
+CL001QL2_H54-utt22 op    C   C
+CL001QL2_H54-utt22 #csid 2 0 0 0
+CL001QL2_H54-utt23 ref  no  fe
+CL001QL2_H54-utt23 hyp  no  fe
+CL001QL2_H54-utt23 op    C   C
+CL001QL2_H54-utt23 #csid 2 0 0 0
+CL001QL2_H54-utt24 ref  pe  ta  ti
+CL001QL2_H54-utt24 hyp  pe  ta  ti
+CL001QL2_H54-utt24 op    C   C   C
+CL001QL2_H54-utt24 #csid 3 0 0 0
+CL001QL2_H54-utt25 ref  la  do
+CL001QL2_H54-utt25 hyp  la  do
+CL001QL2_H54-utt25 op    C   C
+CL001QL2_H54-utt25 #csid 2 0 0 0
+CL001QL2_H54-utt26 ref  mu  no
+CL001QL2_H54-utt26 hyp  mu  no
+CL001QL2_H54-utt26 op    C   C
+CL001QL2_H54-utt26 #csid 2 0 0 0
+CL001QL2_H54-utt27 ref  za  lu
+CL001QL2_H54-utt27 hyp  za  lu
+CL001QL2_H54-utt27 op    C   C
+CL001QL2_H54-utt27 #csid 2 0 0 0
+CL001QL2_H54-utt28 ref  ka  rro  ma  to
+CL001QL2_H54-utt28 hyp  ka  rro  ma  to
+CL001QL2_H54-utt28 op    C   C    C   C
+CL001QL2_H54-utt28 #csid 4 0 0 0
+CL001QL2_H54-utt29 ref  mu  si  ma
+CL001QL2_H54-utt29 hyp  mu  si  ma
+CL001QL2_H54-utt29 op    C   C   C
+CL001QL2_H54-utt29 #csid 3 0 0 0
+CL001QL2_H54-utt3 ref  rri  bu  po
+CL001QL2_H54-utt3 hyp  rri  bu  po
+CL001QL2_H54-utt3 op    C    C   C
+CL001QL2_H54-utt3 #csid 3 0 0 0
+CL001QL2_H54-utt30 ref  de  ba  ti
+CL001QL2_H54-utt30 hyp  de  ba  ti
+CL001QL2_H54-utt30 op    C   C   C
+CL001QL2_H54-utt30 #csid 3 0 0 0
+CL001QL2_H54-utt31 ref  di  ne  ro
+CL001QL2_H54-utt31 hyp  di  ne  ro
+CL001QL2_H54-utt31 op    C   C   C
+CL001QL2_H54-utt31 #csid 3 0 0 0
+CL001QL2_H54-utt32 ref  ni  fu  ba  mi
+CL001QL2_H54-utt32 hyp  ni  fu  ba  mi
+CL001QL2_H54-utt32 op    C   C   C   C
+CL001QL2_H54-utt32 #csid 4 0 0 0
+CL001QL2_H54-utt33 ref  mo  te
+CL001QL2_H54-utt33 hyp  mo  te
+CL001QL2_H54-utt33 op    C   C
+CL001QL2_H54-utt33 #csid 2 0 0 0
+CL001QL2_H54-utt34 ref  ko  da
+CL001QL2_H54-utt34 hyp  ko  da
+CL001QL2_H54-utt34 op    C   C
+CL001QL2_H54-utt34 #csid 2 0 0 0
+CL001QL2_H54-utt35 ref  ko  zi
+CL001QL2_H54-utt35 hyp  ko  zi
+CL001QL2_H54-utt35 op    C   C
+CL001QL2_H54-utt35 #csid 2 0 0 0
+CL001QL2_H54-utt36 ref  di  ku  li  te
+CL001QL2_H54-utt36 hyp  di  ku  li  te
+CL001QL2_H54-utt36 op    C   C   C   C
+CL001QL2_H54-utt36 #csid 4 0 0 0
+CL001QL2_H54-utt37 ref  ko  pa  te
+CL001QL2_H54-utt37 hyp  ko  pa  te
+CL001QL2_H54-utt37 op    C   C   C
+CL001QL2_H54-utt37 #csid 3 0 0 0
+CL001QL2_H54-utt38 ref  do  bu
+CL001QL2_H54-utt38 hyp  do  bu
+CL001QL2_H54-utt38 op    C   C
+CL001QL2_H54-utt38 #csid 2 0 0 0
+CL001QL2_H54-utt39 ref  no  che
+CL001QL2_H54-utt39 hyp  no  che
+CL001QL2_H54-utt39 op    C   C 
+CL001QL2_H54-utt39 #csid 2 0 0 0
+CL001QL2_H54-utt4 ref  me  po
+CL001QL2_H54-utt4 hyp  me  po
+CL001QL2_H54-utt4 op    C   C
+CL001QL2_H54-utt4 #csid 2 0 0 0
+CL001QL2_H54-utt40 ref  fi  lo  zo  fo
+CL001QL2_H54-utt40 hyp  zi  lo  zo  fo
+CL001QL2_H54-utt40 op    S   C   C   C
+CL001QL2_H54-utt40 #csid 3 1 0 0
+CL001QL2_H54-utt41 ref  pa  do
+CL001QL2_H54-utt41 hyp  pa  do
+CL001QL2_H54-utt41 op    C   C
+CL001QL2_H54-utt41 #csid 2 0 0 0
+CL001QL2_H54-utt42 ref  ka  yo
+CL001QL2_H54-utt42 hyp  ka  yo
+CL001QL2_H54-utt42 op    C   C
+CL001QL2_H54-utt42 #csid 2 0 0 0
+CL001QL2_H54-utt43 ref  ka  pi  tu  lo
+CL001QL2_H54-utt43 hyp  ka  pi  tu  lu
+CL001QL2_H54-utt43 op    C   C   C   S
+CL001QL2_H54-utt43 #csid 3 1 0 0
+CL001QL2_H54-utt44 ref  lu  xa
+CL001QL2_H54-utt44 hyp  lu  xa
+CL001QL2_H54-utt44 op    C   C
+CL001QL2_H54-utt44 #csid 2 0 0 0
+CL001QL2_H54-utt45 ref  ba  ye
+CL001QL2_H54-utt45 hyp  ba  ye
+CL001QL2_H54-utt45 op    C   C
+CL001QL2_H54-utt45 #csid 2 0 0 0
+CL001QL2_H54-utt46 ref  ka  ba  ye  mo
+CL001QL2_H54-utt46 hyp  ka  ba  ye  mo
+CL001QL2_H54-utt46 op    C   C   C   C
+CL001QL2_H54-utt46 #csid 4 0 0 0
+CL001QL2_H54-utt5 ref  ma  nya  na
+CL001QL2_H54-utt5 hyp  ma  nya  da
+CL001QL2_H54-utt5 op    C   C    S
+CL001QL2_H54-utt5 #csid 2 1 0 0
+CL001QL2_H54-utt6 ref  zi  da
+CL001QL2_H54-utt6 hyp  zi  da
+CL001QL2_H54-utt6 op    C   C
+CL001QL2_H54-utt6 #csid 2 0 0 0
+CL001QL2_H54-utt7 ref  ka  rro  nya
+CL001QL2_H54-utt7 hyp  ka  rro  nya
+CL001QL2_H54-utt7 op    C   C    C 
+CL001QL2_H54-utt7 #csid 3 0 0 0
+CL001QL2_H54-utt8 ref  bi  ga
+CL001QL2_H54-utt8 hyp  bi  ga
+CL001QL2_H54-utt8 op    C   C
+CL001QL2_H54-utt8 #csid 2 0 0 0
+CL001QL2_H54-utt9 ref  mo  pe  di  ta
+CL001QL2_H54-utt9 hyp  mo  pe  di  ta
+CL001QL2_H54-utt9 op    C   C   C   C
+CL001QL2_H54-utt9 #csid 4 0 0 0
+CL001QL3_H54-utt0 ref  so  ri
+CL001QL3_H54-utt0 hyp  so  ri
+CL001QL3_H54-utt0 op    C   C
+CL001QL3_H54-utt0 #csid 2 0 0 0
+CL001QL3_H54-utt1 ref  ye  da
+CL001QL3_H54-utt1 hyp  ye  la
+CL001QL3_H54-utt1 op    C   S
+CL001QL3_H54-utt1 #csid 1 1 0 0
+CL001QL3_H54-utt10 ref  ku  ***  fe
+CL001QL3_H54-utt10 hyp  ku   u   ze
+CL001QL3_H54-utt10 op    C   I    S
+CL001QL3_H54-utt10 #csid 1 1 1 0
+CL001QL3_H54-utt11 ref  so  ma
+CL001QL3_H54-utt11 hyp  so  ma
+CL001QL3_H54-utt11 op    C   C
+CL001QL3_H54-utt11 #csid 2 0 0 0
+CL001QL3_H54-utt12 ref  ka  ba  ye  ro
+CL001QL3_H54-utt12 hyp  ka  ba  ye  ro
+CL001QL3_H54-utt12 op    C   C   C   C
+CL001QL3_H54-utt12 #csid 4 0 0 0
+CL001QL3_H54-utt13 ref  be  na
+CL001QL3_H54-utt13 hyp  be  na
+CL001QL3_H54-utt13 op    C   C
+CL001QL3_H54-utt13 #csid 2 0 0 0
+CL001QL3_H54-utt14 ref  mu  si  ka
+CL001QL3_H54-utt14 hyp  mu  si  ka
+CL001QL3_H54-utt14 op    C   C   C
+CL001QL3_H54-utt14 #csid 3 0 0 0
+CL001QL3_H54-utt15 ref  di  ku
+CL001QL3_H54-utt15 hyp  di  ku
+CL001QL3_H54-utt15 op    C   C
+CL001QL3_H54-utt15 #csid 2 0 0 0
+CL001QL3_H54-utt16 ref  ka  mi  ro
+CL001QL3_H54-utt16 hyp  ka  mi  to
+CL001QL3_H54-utt16 op    C   C   S
+CL001QL3_H54-utt16 #csid 2 1 0 0
+CL001QL3_H54-utt17 ref  me  ze  do   ra
+CL001QL3_H54-utt17 hyp  me  ze  du  rra
+CL001QL3_H54-utt17 op    C   C   S   S 
+CL001QL3_H54-utt17 #csid 2 2 0 0
+CL001QL3_H54-utt18 ref  ze  bi
+CL001QL3_H54-utt18 hyp  se  bi
+CL001QL3_H54-utt18 op    S   C
+CL001QL3_H54-utt18 #csid 1 1 0 0
+CL001QL3_H54-utt19 ref  ka  xo
+CL001QL3_H54-utt19 hyp  ka  xo
+CL001QL3_H54-utt19 op    C   C
+CL001QL3_H54-utt19 #csid 2 0 0 0
+CL001QL3_H54-utt2 ref  pa  li  xo
+CL001QL3_H54-utt2 hyp  pa  ni  xo
+CL001QL3_H54-utt2 op    C   S   C
+CL001QL3_H54-utt2 #csid 2 1 0 0
+CL001QL3_H54-utt20 ref  bi  la
+CL001QL3_H54-utt20 hyp  bi  la
+CL001QL3_H54-utt20 op    C   C
+CL001QL3_H54-utt20 #csid 2 0 0 0
+CL001QL3_H54-utt21 ref  me  di  zi  ra
+CL001QL3_H54-utt21 hyp  me  di  zi  ra
+CL001QL3_H54-utt21 op    C   C   C   C
+CL001QL3_H54-utt21 #csid 4 0 0 0
+CL001QL3_H54-utt22 ref  la  ti  ga  fo
+CL001QL3_H54-utt22 hyp  la  ti  ga  fo
+CL001QL3_H54-utt22 op    C   C   C   C
+CL001QL3_H54-utt22 #csid 4 0 0 0
+CL001QL3_H54-utt23 ref  no  fe  ba
+CL001QL3_H54-utt23 hyp  no  ze  ba
+CL001QL3_H54-utt23 op    C   S   C
+CL001QL3_H54-utt23 #csid 2 1 0 0
+CL001QL3_H54-utt24 ref  lu  fo
+CL001QL3_H54-utt24 hyp  lu  fo
+CL001QL3_H54-utt24 op    C   C
+CL001QL3_H54-utt24 #csid 2 0 0 0
+CL001QL3_H54-utt25 ref  ka  po  di  no
+CL001QL3_H54-utt25 hyp  ka  po  di  no
+CL001QL3_H54-utt25 op    C   C   C   C
+CL001QL3_H54-utt25 #csid 4 0 0 0
+CL001QL3_H54-utt26 ref  fi  lo  so  fo
+CL001QL3_H54-utt26 hyp  zi  lo  so  fo
+CL001QL3_H54-utt26 op    S   C   C   C
+CL001QL3_H54-utt26 #csid 3 1 0 0
+CL001QL3_H54-utt27 ref  ni  bo  fe  ma
+CL001QL3_H54-utt27 hyp  ni  bo  fe  ma
+CL001QL3_H54-utt27 op    C   C   C   C
+CL001QL3_H54-utt27 #csid 4 0 0 0
+CL001QL3_H54-utt28 ref  mi  ri  ya
+CL001QL3_H54-utt28 hyp  mi  ri  ya
+CL001QL3_H54-utt28 op    C   C   C
+CL001QL3_H54-utt28 #csid 3 0 0 0
+CL001QL3_H54-utt29 ref  zi  bu  fe  ni
+CL001QL3_H54-utt29 hyp  zi  bu  fe  ni
+CL001QL3_H54-utt29 op    C   C   C   C
+CL001QL3_H54-utt29 #csid 4 0 0 0
+CL001QL3_H54-utt3 ref  so  ga
+CL001QL3_H54-utt3 hyp  so  ga
+CL001QL3_H54-utt3 op    C   C
+CL001QL3_H54-utt3 #csid 2 0 0 0
+CL001QL3_H54-utt30 ref  mo  pa  so  ka
+CL001QL3_H54-utt30 hyp  mo  pa  so  ka
+CL001QL3_H54-utt30 op    C   C   C   C
+CL001QL3_H54-utt30 #csid 4 0 0 0
+CL001QL3_H54-utt31 ref  ma  ni  be  la
+CL001QL3_H54-utt31 hyp  ma  ni  be  la
+CL001QL3_H54-utt31 op    C   C   C   C
+CL001QL3_H54-utt31 #csid 4 0 0 0
+CL001QL3_H54-utt32 ref  pe  ta  te
+CL001QL3_H54-utt32 hyp  pe  ta  ti
+CL001QL3_H54-utt32 op    C   C   S
+CL001QL3_H54-utt32 #csid 2 1 0 0
+CL001QL3_H54-utt33 ref  de  ba  te
+CL001QL3_H54-utt33 hyp  de  ba  te
+CL001QL3_H54-utt33 op    C   C   C
+CL001QL3_H54-utt33 #csid 3 0 0 0
+CL001QL3_H54-utt34 ref  lu  cha
+CL001QL3_H54-utt34 hyp  lu  cha
+CL001QL3_H54-utt34 op    C   C 
+CL001QL3_H54-utt34 #csid 2 0 0 0
+CL001QL3_H54-utt35 ref  ka  mo
+CL001QL3_H54-utt35 hyp  ka  mo
+CL001QL3_H54-utt35 op    C   C
+CL001QL3_H54-utt35 #csid 2 0 0 0
+CL001QL3_H54-utt36 ref  ko  di  so
+CL001QL3_H54-utt36 hyp  ko  di  so
+CL001QL3_H54-utt36 op    C   C   C
+CL001QL3_H54-utt36 #csid 3 0 0 0
+CL001QL3_H54-utt37 ref  so  ma  zi
+CL001QL3_H54-utt37 hyp  so  ma  zi
+CL001QL3_H54-utt37 op    C   C   C
+CL001QL3_H54-utt37 #csid 3 0 0 0
+CL001QL3_H54-utt38 ref  lo  na
+CL001QL3_H54-utt38 hyp  lo  na
+CL001QL3_H54-utt38 op    C   C
+CL001QL3_H54-utt38 #csid 2 0 0 0
+CL001QL3_H54-utt39 ref  rro  ko
+CL001QL3_H54-utt39 hyp  rro  ko
+CL001QL3_H54-utt39 op    C    C
+CL001QL3_H54-utt39 #csid 2 0 0 0
+CL001QL3_H54-utt4 ref  ko  pa
+CL001QL3_H54-utt4 hyp  ko  pa
+CL001QL3_H54-utt4 op    C   C
+CL001QL3_H54-utt4 #csid 2 0 0 0
+CL001QL3_H54-utt40 ref  pe  ta  ma
+CL001QL3_H54-utt40 hyp  pe  ta  ma
+CL001QL3_H54-utt40 op    C   C   C
+CL001QL3_H54-utt40 #csid 3 0 0 0
+CL001QL3_H54-utt41 ref  ge  za
+CL001QL3_H54-utt41 hyp  ge  za
+CL001QL3_H54-utt41 op    C   C
+CL001QL3_H54-utt41 #csid 2 0 0 0
+CL001QL3_H54-utt42 ref  ma  no  ta  go
+CL001QL3_H54-utt42 hyp  ma  no  ta  go
+CL001QL3_H54-utt42 op    C   C   C   C
+CL001QL3_H54-utt42 #csid 4 0 0 0
+CL001QL3_H54-utt43 ref  bu  ke
+CL001QL3_H54-utt43 hyp  bu  ki
+CL001QL3_H54-utt43 op    C   S
+CL001QL3_H54-utt43 #csid 1 1 0 0
+CL001QL3_H54-utt44 ref  me  pe
+CL001QL3_H54-utt44 hyp  me  pe
+CL001QL3_H54-utt44 op    C   C
+CL001QL3_H54-utt44 #csid 2 0 0 0
+CL001QL3_H54-utt45 ref  pe  ta
+CL001QL3_H54-utt45 hyp  pe  ta
+CL001QL3_H54-utt45 op    C   C
+CL001QL3_H54-utt45 #csid 2 0 0 0
+CL001QL3_H54-utt46 ref  rre  ti  ra  za
+CL001QL3_H54-utt46 hyp  rre  ti  da  za
+CL001QL3_H54-utt46 op    C    C   S   C
+CL001QL3_H54-utt46 #csid 3 1 0 0
+CL001QL3_H54-utt47 ref  ti  bu
+CL001QL3_H54-utt47 hyp  ti  bu
+CL001QL3_H54-utt47 op    C   C
+CL001QL3_H54-utt47 #csid 2 0 0 0
+CL001QL3_H54-utt5 ref  be  ya  fe
+CL001QL3_H54-utt5 hyp  be  ya  fe
+CL001QL3_H54-utt5 op    C   C   C
+CL001QL3_H54-utt5 #csid 3 0 0 0
+CL001QL3_H54-utt6 ref  mu  lo
+CL001QL3_H54-utt6 hyp  mu  lo
+CL001QL3_H54-utt6 op    C   C
+CL001QL3_H54-utt6 #csid 2 0 0 0
+CL001QL3_H54-utt7 ref  zi  ma
+CL001QL3_H54-utt7 hyp  zi  ma
+CL001QL3_H54-utt7 op    C   C
+CL001QL3_H54-utt7 #csid 2 0 0 0
+CL001QL3_H54-utt8 ref  no  be  ya
+CL001QL3_H54-utt8 hyp  no  be  ya
+CL001QL3_H54-utt8 op    C   C   C
+CL001QL3_H54-utt8 #csid 3 0 0 0
+CL001QL3_H54-utt9 ref  ni  gu
+CL001QL3_H54-utt9 hyp  ni  gu
+CL001QL3_H54-utt9 op    C   C
+CL001QL3_H54-utt9 #csid 2 0 0 0
+CL001QL4_H54-utt0 ref  chu  so
+CL001QL4_H54-utt0 hyp  chu  so
+CL001QL4_H54-utt0 op    C    C
+CL001QL4_H54-utt0 #csid 2 0 0 0
+CL001QL4_H54-utt1 ref  fe  za
+CL001QL4_H54-utt1 hyp  ze  za
+CL001QL4_H54-utt1 op    S   C
+CL001QL4_H54-utt1 #csid 1 1 0 0
+CL001QL4_H54-utt10 ref  pe  ta  ka
+CL001QL4_H54-utt10 hyp  pe  ta  ka
+CL001QL4_H54-utt10 op    C   C   C
+CL001QL4_H54-utt10 #csid 3 0 0 0
+CL001QL4_H54-utt11 ref  do  ya
+CL001QL4_H54-utt11 hyp  do  ya
+CL001QL4_H54-utt11 op    C   C
+CL001QL4_H54-utt11 #csid 2 0 0 0
+CL001QL4_H54-utt12 ref  li  ya
+CL001QL4_H54-utt12 hyp  li  ya
+CL001QL4_H54-utt12 op    C   C
+CL001QL4_H54-utt12 #csid 2 0 0 0
+CL001QL4_H54-utt13 ref  ka  mi  no
+CL001QL4_H54-utt13 hyp  ka  mi  no
+CL001QL4_H54-utt13 op    C   C   C
+CL001QL4_H54-utt13 #csid 3 0 0 0
+CL001QL4_H54-utt14 ref  pa  de  so
+CL001QL4_H54-utt14 hyp  pa  ye  so
+CL001QL4_H54-utt14 op    C   S   C
+CL001QL4_H54-utt14 #csid 2 1 0 0
+CL001QL4_H54-utt15 ref  so  da
+CL001QL4_H54-utt15 hyp  so  ga
+CL001QL4_H54-utt15 op    C   S
+CL001QL4_H54-utt15 #csid 1 1 0 0
+CL001QL4_H54-utt16 ref  ti  tu  mo
+CL001QL4_H54-utt16 hyp  ti  tu  bo
+CL001QL4_H54-utt16 op    C   C   S
+CL001QL4_H54-utt16 #csid 2 1 0 0
+CL001QL4_H54-utt17 ref  di  ma  ko
+CL001QL4_H54-utt17 hyp  di  ma  ko
+CL001QL4_H54-utt17 op    C   C   C
+CL001QL4_H54-utt17 #csid 3 0 0 0
+CL001QL4_H54-utt18 ref  ka  no
+CL001QL4_H54-utt18 hyp  ka  ro
+CL001QL4_H54-utt18 op    C   S
+CL001QL4_H54-utt18 #csid 1 1 0 0
+CL001QL4_H54-utt19 ref  ko  ga
+CL001QL4_H54-utt19 hyp  ko  ga
+CL001QL4_H54-utt19 op    C   C
+CL001QL4_H54-utt19 #csid 2 0 0 0
+CL001QL4_H54-utt2 ref  ye  ma
+CL001QL4_H54-utt2 hyp  ye  ma
+CL001QL4_H54-utt2 op    C   C
+CL001QL4_H54-utt2 #csid 2 0 0 0
+CL001QL4_H54-utt20 ref  mo  pe
+CL001QL4_H54-utt20 hyp  mo  pe
+CL001QL4_H54-utt20 op    C   C
+CL001QL4_H54-utt20 #csid 2 0 0 0
+CL001QL4_H54-utt21 ref  na  fe
+CL001QL4_H54-utt21 hyp  na  ze
+CL001QL4_H54-utt21 op    C   S
+CL001QL4_H54-utt21 #csid 1 1 0 0
+CL001QL4_H54-utt22 ref  ge  rra
+CL001QL4_H54-utt22 hyp  ge  rra
+CL001QL4_H54-utt22 op    C   C 
+CL001QL4_H54-utt22 #csid 2 0 0 0
+CL001QL4_H54-utt23 ref  so  ga  li  na
+CL001QL4_H54-utt23 hyp  so  ga  li  na
+CL001QL4_H54-utt23 op    C   C   C   C
+CL001QL4_H54-utt23 #csid 4 0 0 0
+CL001QL4_H54-utt24 ref  pe  li  ku  za
+CL001QL4_H54-utt24 hyp  pe  li  ku  za
+CL001QL4_H54-utt24 op    C   C   C   C
+CL001QL4_H54-utt24 #csid 4 0 0 0
+CL001QL4_H54-utt25 ref  di  la
+CL001QL4_H54-utt25 hyp  di  la
+CL001QL4_H54-utt25 op    C   C
+CL001QL4_H54-utt25 #csid 2 0 0 0
+CL001QL4_H54-utt26 ref  no  be  la
+CL001QL4_H54-utt26 hyp  no  be  la
+CL001QL4_H54-utt26 op    C   C   C
+CL001QL4_H54-utt26 #csid 3 0 0 0
+CL001QL4_H54-utt27 ref  pe  ku  ga  ta
+CL001QL4_H54-utt27 hyp  pe  ku  ga  ta
+CL001QL4_H54-utt27 op    C   C   C   C
+CL001QL4_H54-utt27 #csid 4 0 0 0
+CL001QL4_H54-utt28 ref  la  ti  ga  zo
+CL001QL4_H54-utt28 hyp  la  ti  ga  zo
+CL001QL4_H54-utt28 op    C   C   C   C
+CL001QL4_H54-utt28 #csid 4 0 0 0
+CL001QL4_H54-utt29 ref  rro  ka
+CL001QL4_H54-utt29 hyp  rro  ka
+CL001QL4_H54-utt29 op    C    C
+CL001QL4_H54-utt29 #csid 2 0 0 0
+CL001QL4_H54-utt3 ref  zi  fo
+CL001QL4_H54-utt3 hyp  zi  fo
+CL001QL4_H54-utt3 op    C   C
+CL001QL4_H54-utt3 #csid 2 0 0 0
+CL001QL4_H54-utt30 ref  pa  le  ti  rra
+CL001QL4_H54-utt30 hyp  pa  ne  ti  rra
+CL001QL4_H54-utt30 op    C   S   C   C 
+CL001QL4_H54-utt30 #csid 3 1 0 0
+CL001QL4_H54-utt31 ref  ze  bo
+CL001QL4_H54-utt31 hyp  ze  bo
+CL001QL4_H54-utt31 op    C   C
+CL001QL4_H54-utt31 #csid 2 0 0 0
+CL001QL4_H54-utt32 ref  pa  li  yo
+CL001QL4_H54-utt32 hyp  pa  li  yo
+CL001QL4_H54-utt32 op    C   C   C
+CL001QL4_H54-utt32 #csid 3 0 0 0
+CL001QL4_H54-utt33 ref  ka  ba  ye  to
+CL001QL4_H54-utt33 hyp  ka  ba  ye  to
+CL001QL4_H54-utt33 op    C   C   C   C
+CL001QL4_H54-utt33 #csid 4 0 0 0
+CL001QL4_H54-utt34 ref  lo  fe  du  ne
+CL001QL4_H54-utt34 hyp  lo  fe  du  ne
+CL001QL4_H54-utt34 op    C   C   C   C
+CL001QL4_H54-utt34 #csid 4 0 0 0
+CL001QL4_H54-utt35 ref  ya  to
+CL001QL4_H54-utt35 hyp  ya  to
+CL001QL4_H54-utt35 op    C   C
+CL001QL4_H54-utt35 #csid 2 0 0 0
+CL001QL4_H54-utt36 ref  gi  ***  cho
+CL001QL4_H54-utt36 hyp  gi  chu   do
+CL001QL4_H54-utt36 op    C   I    S 
+CL001QL4_H54-utt36 #csid 1 1 1 0
+CL001QL4_H54-utt37 ref  pe  na  ***
+CL001QL4_H54-utt37 hyp  pe  na   da
+CL001QL4_H54-utt37 op    C   C   I 
+CL001QL4_H54-utt37 #csid 2 0 1 0
+CL001QL4_H54-utt38 ref  bi  ya
+CL001QL4_H54-utt38 hyp  bi  ya
+CL001QL4_H54-utt38 op    C   C
+CL001QL4_H54-utt38 #csid 2 0 0 0
+CL001QL4_H54-utt39 ref  to  ye
+CL001QL4_H54-utt39 hyp  to  ye
+CL001QL4_H54-utt39 op    C   C
+CL001QL4_H54-utt39 #csid 2 0 0 0
+CL001QL4_H54-utt4 ref  pa  ni
+CL001QL4_H54-utt4 hyp  pa  ni
+CL001QL4_H54-utt4 op    C   C
+CL001QL4_H54-utt4 #csid 2 0 0 0
+CL001QL4_H54-utt40 ref  fe  bu  xo
+CL001QL4_H54-utt40 hyp  ze  bu  xo
+CL001QL4_H54-utt40 op    S   C   C
+CL001QL4_H54-utt40 #csid 2 1 0 0
+CL001QL4_H54-utt41 ref  rre  ti  ra  da
+CL001QL4_H54-utt41 hyp  rre  ti  ra  da
+CL001QL4_H54-utt41 op    C    C   C   C
+CL001QL4_H54-utt41 #csid 4 0 0 0
+CL001QL4_H54-utt42 ref  nu  me  so
+CL001QL4_H54-utt42 hyp  mu  me  so
+CL001QL4_H54-utt42 op    S   C   C
+CL001QL4_H54-utt42 #csid 2 1 0 0
+CL001QL4_H54-utt43 ref  ta  le  bo
+CL001QL4_H54-utt43 hyp  ta  le  po
+CL001QL4_H54-utt43 op    C   C   S
+CL001QL4_H54-utt43 #csid 2 1 0 0
+CL001QL4_H54-utt44 ref  me  di  zi  na
+CL001QL4_H54-utt44 hyp  me  li  zi  na
+CL001QL4_H54-utt44 op    C   S   C   C
+CL001QL4_H54-utt44 #csid 3 1 0 0
+CL001QL4_H54-utt45 ref  zi  se
+CL001QL4_H54-utt45 hyp  zi  se
+CL001QL4_H54-utt45 op    C   C
+CL001QL4_H54-utt45 #csid 2 0 0 0
+CL001QL4_H54-utt46 ref  fe  xi
+CL001QL4_H54-utt46 hyp  ze  xi
+CL001QL4_H54-utt46 op    S   C
+CL001QL4_H54-utt46 #csid 1 1 0 0
+CL001QL4_H54-utt47 ref  bi  fu  pe  si
+CL001QL4_H54-utt47 hyp  bi  fu  pe  si
+CL001QL4_H54-utt47 op    C   C   C   C
+CL001QL4_H54-utt47 #csid 4 0 0 0
+CL001QL4_H54-utt5 ref  za  bo  lu
+CL001QL4_H54-utt5 hyp  za  bo  lu
+CL001QL4_H54-utt5 op    C   C   C
+CL001QL4_H54-utt5 #csid 3 0 0 0
+CL001QL4_H54-utt6 ref  ma  no  ta  zo
+CL001QL4_H54-utt6 hyp  ma  no  ta  zo
+CL001QL4_H54-utt6 op    C   C   C   C
+CL001QL4_H54-utt6 #csid 4 0 0 0
+CL001QL4_H54-utt7 ref  ba  rre  yo
+CL001QL4_H54-utt7 hyp  ba  rre  yo
+CL001QL4_H54-utt7 op    C   C    C
+CL001QL4_H54-utt7 #csid 3 0 0 0
+CL001QL4_H54-utt8 ref  se  nyo  ri  da
+CL001QL4_H54-utt8 hyp  se  nyo  ri  ta
+CL001QL4_H54-utt8 op    C   C    C   S
+CL001QL4_H54-utt8 #csid 3 1 0 0
+CL001QL4_H54-utt9 ref  tu  zo
+CL001QL4_H54-utt9 hyp  tu  fo
+CL001QL4_H54-utt9 op    C   S
+CL001QL4_H54-utt9 #csid 1 1 0 0

@@ -1,0 +1,783 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CA228QL1_M30    raw         48        132        124          8          0          0          8          8
+CA228QL1_M30    sys         48        132      93.94       6.06       0.00       0.00       6.06      16.67
+CA228QL2_M30    raw         48        132        121         11          0          0         11         10
+CA228QL2_M30    sys         48        132      91.67       8.33       0.00       0.00       8.33      20.83
+CA228QL3_M30    raw         48        132        123          9          0          0          9          9
+CA228QL3_M30    sys         48        132      93.18       6.82       0.00       0.00       6.82      18.75
+CA228QL4_M30    raw         48        132        127          5          0          0          5          5
+CA228QL4_M30    sys         48        132      96.21       3.79       0.00       0.00       3.79      10.42
+SUM             raw        192        528        495         33          0          0         33         32
+SUM             sys        192        528      93.75       6.25       0.00       0.00       6.25      16.67
+
+--------------------------------------------------------------------
+CA228QL1_M30-utt0 ref  ya  te
+CA228QL1_M30-utt0 hyp  ya  te
+CA228QL1_M30-utt0 op    C   C
+CA228QL1_M30-utt0 #csid 2 0 0 0
+CA228QL1_M30-utt1 ref  no  lu
+CA228QL1_M30-utt1 hyp  la  lu
+CA228QL1_M30-utt1 op    S   C
+CA228QL1_M30-utt1 #csid 1 1 0 0
+CA228QL1_M30-utt10 ref  chu  lo
+CA228QL1_M30-utt10 hyp  chu  lo
+CA228QL1_M30-utt10 op    C    C
+CA228QL1_M30-utt10 #csid 2 0 0 0
+CA228QL1_M30-utt11 ref  pa  ba  ri  mo
+CA228QL1_M30-utt11 hyp  pa  ba  ri  mo
+CA228QL1_M30-utt11 op    C   C   C   C
+CA228QL1_M30-utt11 #csid 4 0 0 0
+CA228QL1_M30-utt12 ref  ko  pa  di
+CA228QL1_M30-utt12 hyp  ko  pa  di
+CA228QL1_M30-utt12 op    C   C   C
+CA228QL1_M30-utt12 #csid 3 0 0 0
+CA228QL1_M30-utt13 ref  li   a
+CA228QL1_M30-utt13 hyp  li  la
+CA228QL1_M30-utt13 op    C   S
+CA228QL1_M30-utt13 #csid 1 1 0 0
+CA228QL1_M30-utt14 ref  be  yo  lu
+CA228QL1_M30-utt14 hyp  be  yo  lu
+CA228QL1_M30-utt14 op    C   C   C
+CA228QL1_M30-utt14 #csid 3 0 0 0
+CA228QL1_M30-utt15 ref  so  te  to
+CA228QL1_M30-utt15 hyp  so  te  to
+CA228QL1_M30-utt15 op    C   C   C
+CA228QL1_M30-utt15 #csid 3 0 0 0
+CA228QL1_M30-utt16 ref  ma  re  xa  za
+CA228QL1_M30-utt16 hyp  ma  re  xa  za
+CA228QL1_M30-utt16 op    C   C   C   C
+CA228QL1_M30-utt16 #csid 4 0 0 0
+CA228QL1_M30-utt17 ref  nu  me  ro
+CA228QL1_M30-utt17 hyp  no  me  ro
+CA228QL1_M30-utt17 op    S   C   C
+CA228QL1_M30-utt17 #csid 2 1 0 0
+CA228QL1_M30-utt18 ref  ka  pi  tu  bo
+CA228QL1_M30-utt18 hyp  ka  pi  tu  bo
+CA228QL1_M30-utt18 op    C   C   C   C
+CA228QL1_M30-utt18 #csid 4 0 0 0
+CA228QL1_M30-utt19 ref  bi  ka
+CA228QL1_M30-utt19 hyp  bi  ka
+CA228QL1_M30-utt19 op    C   C
+CA228QL1_M30-utt19 #csid 2 0 0 0
+CA228QL1_M30-utt2 ref  ba  fe
+CA228QL1_M30-utt2 hyp  ba  ze
+CA228QL1_M30-utt2 op    C   S
+CA228QL1_M30-utt2 #csid 1 1 0 0
+CA228QL1_M30-utt20 ref  ti  bo
+CA228QL1_M30-utt20 hyp  ti  bo
+CA228QL1_M30-utt20 op    C   C
+CA228QL1_M30-utt20 #csid 2 0 0 0
+CA228QL1_M30-utt21 ref  ka  yi
+CA228QL1_M30-utt21 hyp  ka  li
+CA228QL1_M30-utt21 op    C   S
+CA228QL1_M30-utt21 #csid 1 1 0 0
+CA228QL1_M30-utt22 ref  fo  bo  xe  ma
+CA228QL1_M30-utt22 hyp  fo  bo  xe  ma
+CA228QL1_M30-utt22 op    C   C   C   C
+CA228QL1_M30-utt22 #csid 4 0 0 0
+CA228QL1_M30-utt23 ref  pa  ne
+CA228QL1_M30-utt23 hyp  pa  ne
+CA228QL1_M30-utt23 op    C   C
+CA228QL1_M30-utt23 #csid 2 0 0 0
+CA228QL1_M30-utt24 ref  tu  fo
+CA228QL1_M30-utt24 hyp  tu  fo
+CA228QL1_M30-utt24 op    C   C
+CA228QL1_M30-utt24 #csid 2 0 0 0
+CA228QL1_M30-utt25 ref  sa  te  li  to
+CA228QL1_M30-utt25 hyp  sa  te  li  to
+CA228QL1_M30-utt25 op    C   C   C   C
+CA228QL1_M30-utt25 #csid 4 0 0 0
+CA228QL1_M30-utt26 ref  fe  cha
+CA228QL1_M30-utt26 hyp  fe  cha
+CA228QL1_M30-utt26 op    C   C 
+CA228QL1_M30-utt26 #csid 2 0 0 0
+CA228QL1_M30-utt27 ref  pe  mi
+CA228QL1_M30-utt27 hyp  pe  mi
+CA228QL1_M30-utt27 op    C   C
+CA228QL1_M30-utt27 #csid 2 0 0 0
+CA228QL1_M30-utt28 ref  di  ne  so
+CA228QL1_M30-utt28 hyp  di  ne  so
+CA228QL1_M30-utt28 op    C   C   C
+CA228QL1_M30-utt28 #csid 3 0 0 0
+CA228QL1_M30-utt29 ref  ka  ba  ye  te
+CA228QL1_M30-utt29 hyp  ka  ba  ye  te
+CA228QL1_M30-utt29 op    C   C   C   C
+CA228QL1_M30-utt29 #csid 4 0 0 0
+CA228QL1_M30-utt3 ref  ti  tu  lo
+CA228QL1_M30-utt3 hyp  ti  tu  lo
+CA228QL1_M30-utt3 op    C   C   C
+CA228QL1_M30-utt3 #csid 3 0 0 0
+CA228QL1_M30-utt30 ref  ko  li  za
+CA228QL1_M30-utt30 hyp  ko  li  za
+CA228QL1_M30-utt30 op    C   C   C
+CA228QL1_M30-utt30 #csid 3 0 0 0
+CA228QL1_M30-utt31 ref  ka  rro  ma  do
+CA228QL1_M30-utt31 hyp  ka  rra  ma  do
+CA228QL1_M30-utt31 op    C   S    C   C
+CA228QL1_M30-utt31 #csid 3 1 0 0
+CA228QL1_M30-utt32 ref  gi  nyo
+CA228QL1_M30-utt32 hyp  gi  nyo
+CA228QL1_M30-utt32 op    C   C 
+CA228QL1_M30-utt32 #csid 2 0 0 0
+CA228QL1_M30-utt33 ref  ma  nya  da
+CA228QL1_M30-utt33 hyp  ma  nya  da
+CA228QL1_M30-utt33 op    C   C    C
+CA228QL1_M30-utt33 #csid 3 0 0 0
+CA228QL1_M30-utt34 ref  za  fe  lu  di
+CA228QL1_M30-utt34 hyp  za  fe  lu  di
+CA228QL1_M30-utt34 op    C   C   C   C
+CA228QL1_M30-utt34 #csid 4 0 0 0
+CA228QL1_M30-utt35 ref  la  ro
+CA228QL1_M30-utt35 hyp  la  ro
+CA228QL1_M30-utt35 op    C   C
+CA228QL1_M30-utt35 #csid 2 0 0 0
+CA228QL1_M30-utt36 ref  zi  ne
+CA228QL1_M30-utt36 hyp  zi  ne
+CA228QL1_M30-utt36 op    C   C
+CA228QL1_M30-utt36 #csid 2 0 0 0
+CA228QL1_M30-utt37 ref  se  nyo  ri  ta
+CA228QL1_M30-utt37 hyp  se  nyo  ri  ta
+CA228QL1_M30-utt37 op    C   C    C   C
+CA228QL1_M30-utt37 #csid 4 0 0 0
+CA228QL1_M30-utt38 ref  no  fe
+CA228QL1_M30-utt38 hyp  no  fe
+CA228QL1_M30-utt38 op    C   C
+CA228QL1_M30-utt38 #csid 2 0 0 0
+CA228QL1_M30-utt39 ref  pe  li  ku  la
+CA228QL1_M30-utt39 hyp  pe  li  ku  la
+CA228QL1_M30-utt39 op    C   C   C   C
+CA228QL1_M30-utt39 #csid 4 0 0 0
+CA228QL1_M30-utt4 ref  mo  de
+CA228QL1_M30-utt4 hyp  mo  de
+CA228QL1_M30-utt4 op    C   C
+CA228QL1_M30-utt4 #csid 2 0 0 0
+CA228QL1_M30-utt40 ref  ku  xo  ba
+CA228QL1_M30-utt40 hyp  ku  xo  ba
+CA228QL1_M30-utt40 op    C   C   C
+CA228QL1_M30-utt40 #csid 3 0 0 0
+CA228QL1_M30-utt41 ref  fu  xo
+CA228QL1_M30-utt41 hyp  fu  xo
+CA228QL1_M30-utt41 op    C   C
+CA228QL1_M30-utt41 #csid 2 0 0 0
+CA228QL1_M30-utt42 ref  se  ku
+CA228QL1_M30-utt42 hyp  se  ku
+CA228QL1_M30-utt42 op    C   C
+CA228QL1_M30-utt42 #csid 2 0 0 0
+CA228QL1_M30-utt43 ref  to  rre
+CA228QL1_M30-utt43 hyp  to  rre
+CA228QL1_M30-utt43 op    C   C 
+CA228QL1_M30-utt43 #csid 2 0 0 0
+CA228QL1_M30-utt44 ref  do  fe
+CA228QL1_M30-utt44 hyp  do  fe
+CA228QL1_M30-utt44 op    C   C
+CA228QL1_M30-utt44 #csid 2 0 0 0
+CA228QL1_M30-utt45 ref  ba  rre  nyo
+CA228QL1_M30-utt45 hyp  ba  rre  nyo
+CA228QL1_M30-utt45 op    C   C    C 
+CA228QL1_M30-utt45 #csid 3 0 0 0
+CA228QL1_M30-utt46 ref  me  la  ni  to
+CA228QL1_M30-utt46 hyp  me  la  ni  to
+CA228QL1_M30-utt46 op    C   C   C   C
+CA228QL1_M30-utt46 #csid 4 0 0 0
+CA228QL1_M30-utt47 ref  ta  le  go
+CA228QL1_M30-utt47 hyp  ta  le  bo
+CA228QL1_M30-utt47 op    C   C   S
+CA228QL1_M30-utt47 #csid 2 1 0 0
+CA228QL1_M30-utt5 ref  pe  no
+CA228QL1_M30-utt5 hyp  pe  no
+CA228QL1_M30-utt5 op    C   C
+CA228QL1_M30-utt5 #csid 2 0 0 0
+CA228QL1_M30-utt6 ref  xe  ra
+CA228QL1_M30-utt6 hyp  xe  ra
+CA228QL1_M30-utt6 op    C   C
+CA228QL1_M30-utt6 #csid 2 0 0 0
+CA228QL1_M30-utt7 ref  pa  le  ti  ya
+CA228QL1_M30-utt7 hyp  pa  le  ti  ya
+CA228QL1_M30-utt7 op    C   C   C   C
+CA228QL1_M30-utt7 #csid 4 0 0 0
+CA228QL1_M30-utt8 ref  ka  rro  fa
+CA228QL1_M30-utt8 hyp  ka   ro  fa
+CA228QL1_M30-utt8 op    C   S    C
+CA228QL1_M30-utt8 #csid 2 1 0 0
+CA228QL1_M30-utt9 ref  ma  po
+CA228QL1_M30-utt9 hyp  ma  po
+CA228QL1_M30-utt9 op    C   C
+CA228QL1_M30-utt9 #csid 2 0 0 0
+CA228QL2_M30-utt0 ref  so  ya
+CA228QL2_M30-utt0 hyp  so  ya
+CA228QL2_M30-utt0 op    C   C
+CA228QL2_M30-utt0 #csid 2 0 0 0
+CA228QL2_M30-utt1 ref  be  ta
+CA228QL2_M30-utt1 hyp  be  ta
+CA228QL2_M30-utt1 op    C   C
+CA228QL2_M30-utt1 #csid 2 0 0 0
+CA228QL2_M30-utt10 ref  me  ze  do  ta
+CA228QL2_M30-utt10 hyp  me  ze  do  ta
+CA228QL2_M30-utt10 op    C   C   C   C
+CA228QL2_M30-utt10 #csid 4 0 0 0
+CA228QL2_M30-utt11 ref  ko  li  ya
+CA228QL2_M30-utt11 hyp  ko  li  ya
+CA228QL2_M30-utt11 op    C   C   C
+CA228QL2_M30-utt11 #csid 3 0 0 0
+CA228QL2_M30-utt12 ref  bu  de
+CA228QL2_M30-utt12 hyp  bu  de
+CA228QL2_M30-utt12 op    C   C
+CA228QL2_M30-utt12 #csid 2 0 0 0
+CA228QL2_M30-utt13 ref  mo  ku
+CA228QL2_M30-utt13 hyp  mo  ku
+CA228QL2_M30-utt13 op    C   C
+CA228QL2_M30-utt13 #csid 2 0 0 0
+CA228QL2_M30-utt14 ref  lo  ra
+CA228QL2_M30-utt14 hyp  lo  ra
+CA228QL2_M30-utt14 op    C   C
+CA228QL2_M30-utt14 #csid 2 0 0 0
+CA228QL2_M30-utt15 ref  mi  ri  za
+CA228QL2_M30-utt15 hyp  mi  ri  za
+CA228QL2_M30-utt15 op    C   C   C
+CA228QL2_M30-utt15 #csid 3 0 0 0
+CA228QL2_M30-utt16 ref  xe  ta
+CA228QL2_M30-utt16 hyp  xe  ta
+CA228QL2_M30-utt16 op    C   C
+CA228QL2_M30-utt16 #csid 2 0 0 0
+CA228QL2_M30-utt17 ref  bu  fe  lu
+CA228QL2_M30-utt17 hyp  bu  fe  ro
+CA228QL2_M30-utt17 op    C   C   S
+CA228QL2_M30-utt17 #csid 2 1 0 0
+CA228QL2_M30-utt18 ref  ma  ni  be  za
+CA228QL2_M30-utt18 hyp  ma  ni  me  za
+CA228QL2_M30-utt18 op    C   C   S   C
+CA228QL2_M30-utt18 #csid 3 1 0 0
+CA228QL2_M30-utt19 ref  ma  de  xa  da
+CA228QL2_M30-utt19 hyp  ma  re  xa  da
+CA228QL2_M30-utt19 op    C   S   C   C
+CA228QL2_M30-utt19 #csid 3 1 0 0
+CA228QL2_M30-utt2 ref  sa  te  li  te
+CA228QL2_M30-utt2 hyp  sa  te  li  te
+CA228QL2_M30-utt2 op    C   C   C   C
+CA228QL2_M30-utt2 #csid 4 0 0 0
+CA228QL2_M30-utt20 ref  pe  so
+CA228QL2_M30-utt20 hyp  pe  so
+CA228QL2_M30-utt20 op    C   C
+CA228QL2_M30-utt20 #csid 2 0 0 0
+CA228QL2_M30-utt21 ref  di  ra  ni
+CA228QL2_M30-utt21 hyp  gi  ra  ni
+CA228QL2_M30-utt21 op    S   C   C
+CA228QL2_M30-utt21 #csid 2 1 0 0
+CA228QL2_M30-utt22 ref  ti  fe  du  ne
+CA228QL2_M30-utt22 hyp  ti  fe  do  ne
+CA228QL2_M30-utt22 op    C   C   S   C
+CA228QL2_M30-utt22 #csid 3 1 0 0
+CA228QL2_M30-utt23 ref  ti  yo
+CA228QL2_M30-utt23 hyp  ti  yo
+CA228QL2_M30-utt23 op    C   C
+CA228QL2_M30-utt23 #csid 2 0 0 0
+CA228QL2_M30-utt24 ref  no  fe
+CA228QL2_M30-utt24 hyp  no  fe
+CA228QL2_M30-utt24 op    C   C
+CA228QL2_M30-utt24 #csid 2 0 0 0
+CA228QL2_M30-utt25 ref  pe  ta  ti
+CA228QL2_M30-utt25 hyp  pe  ta  ti
+CA228QL2_M30-utt25 op    C   C   C
+CA228QL2_M30-utt25 #csid 3 0 0 0
+CA228QL2_M30-utt26 ref  la  do
+CA228QL2_M30-utt26 hyp  la  do
+CA228QL2_M30-utt26 op    C   C
+CA228QL2_M30-utt26 #csid 2 0 0 0
+CA228QL2_M30-utt27 ref  mu  no
+CA228QL2_M30-utt27 hyp  mo  no
+CA228QL2_M30-utt27 op    S   C
+CA228QL2_M30-utt27 #csid 1 1 0 0
+CA228QL2_M30-utt28 ref  za  lu
+CA228QL2_M30-utt28 hyp  za  lu
+CA228QL2_M30-utt28 op    C   C
+CA228QL2_M30-utt28 #csid 2 0 0 0
+CA228QL2_M30-utt29 ref  ka  rro  ma  to
+CA228QL2_M30-utt29 hyp  ka  rra  ma  to
+CA228QL2_M30-utt29 op    C   S    C   C
+CA228QL2_M30-utt29 #csid 3 1 0 0
+CA228QL2_M30-utt3 ref  rri  bu  po
+CA228QL2_M30-utt3 hyp  rri  bu  po
+CA228QL2_M30-utt3 op    C    C   C
+CA228QL2_M30-utt3 #csid 3 0 0 0
+CA228QL2_M30-utt30 ref  mu  si  ma
+CA228QL2_M30-utt30 hyp  mu  si  mo
+CA228QL2_M30-utt30 op    C   C   S
+CA228QL2_M30-utt30 #csid 2 1 0 0
+CA228QL2_M30-utt31 ref   de  ba  ti
+CA228QL2_M30-utt31 hyp  rre  ba  ti
+CA228QL2_M30-utt31 op    S    C   C
+CA228QL2_M30-utt31 #csid 2 1 0 0
+CA228QL2_M30-utt32 ref  di  ne  ro
+CA228QL2_M30-utt32 hyp  di  ne  ro
+CA228QL2_M30-utt32 op    C   C   C
+CA228QL2_M30-utt32 #csid 3 0 0 0
+CA228QL2_M30-utt33 ref  ni  fu  ba  mi
+CA228QL2_M30-utt33 hyp  ni  fu  ba  mi
+CA228QL2_M30-utt33 op    C   C   C   C
+CA228QL2_M30-utt33 #csid 4 0 0 0
+CA228QL2_M30-utt34 ref  mo  te
+CA228QL2_M30-utt34 hyp  mo  te
+CA228QL2_M30-utt34 op    C   C
+CA228QL2_M30-utt34 #csid 2 0 0 0
+CA228QL2_M30-utt35 ref  ko  da
+CA228QL2_M30-utt35 hyp  ko  da
+CA228QL2_M30-utt35 op    C   C
+CA228QL2_M30-utt35 #csid 2 0 0 0
+CA228QL2_M30-utt36 ref  ko  zi
+CA228QL2_M30-utt36 hyp  ko  zi
+CA228QL2_M30-utt36 op    C   C
+CA228QL2_M30-utt36 #csid 2 0 0 0
+CA228QL2_M30-utt37 ref  di  ku  li  te
+CA228QL2_M30-utt37 hyp  di  ku  li  te
+CA228QL2_M30-utt37 op    C   C   C   C
+CA228QL2_M30-utt37 #csid 4 0 0 0
+CA228QL2_M30-utt38 ref  ko  pa  te
+CA228QL2_M30-utt38 hyp  ko  pa  te
+CA228QL2_M30-utt38 op    C   C   C
+CA228QL2_M30-utt38 #csid 3 0 0 0
+CA228QL2_M30-utt39 ref  do  bu
+CA228QL2_M30-utt39 hyp  do  bu
+CA228QL2_M30-utt39 op    C   C
+CA228QL2_M30-utt39 #csid 2 0 0 0
+CA228QL2_M30-utt4 ref  me  po
+CA228QL2_M30-utt4 hyp  me  po
+CA228QL2_M30-utt4 op    C   C
+CA228QL2_M30-utt4 #csid 2 0 0 0
+CA228QL2_M30-utt40 ref  no  che
+CA228QL2_M30-utt40 hyp  no  che
+CA228QL2_M30-utt40 op    C   C 
+CA228QL2_M30-utt40 #csid 2 0 0 0
+CA228QL2_M30-utt41 ref  fi  lo  so  fo
+CA228QL2_M30-utt41 hyp  fi  lo  so  fo
+CA228QL2_M30-utt41 op    C   C   C   C
+CA228QL2_M30-utt41 #csid 4 0 0 0
+CA228QL2_M30-utt42 ref  pa  do
+CA228QL2_M30-utt42 hyp  pa  do
+CA228QL2_M30-utt42 op    C   C
+CA228QL2_M30-utt42 #csid 2 0 0 0
+CA228QL2_M30-utt43 ref  ka  yo
+CA228QL2_M30-utt43 hyp  ka  yo
+CA228QL2_M30-utt43 op    C   C
+CA228QL2_M30-utt43 #csid 2 0 0 0
+CA228QL2_M30-utt44 ref  ka  pi  tu  lo
+CA228QL2_M30-utt44 hyp  ka  pi  tu  lo
+CA228QL2_M30-utt44 op    C   C   C   C
+CA228QL2_M30-utt44 #csid 4 0 0 0
+CA228QL2_M30-utt45 ref  lu  xa
+CA228QL2_M30-utt45 hyp  lu  xa
+CA228QL2_M30-utt45 op    C   C
+CA228QL2_M30-utt45 #csid 2 0 0 0
+CA228QL2_M30-utt46 ref  ba  ye
+CA228QL2_M30-utt46 hyp  ba  ye
+CA228QL2_M30-utt46 op    C   C
+CA228QL2_M30-utt46 #csid 2 0 0 0
+CA228QL2_M30-utt47 ref  ka  ba  ye  mo
+CA228QL2_M30-utt47 hyp  ka  ba  ye  mo
+CA228QL2_M30-utt47 op    C   C   C   C
+CA228QL2_M30-utt47 #csid 4 0 0 0
+CA228QL2_M30-utt5 ref  ma  nya  na
+CA228QL2_M30-utt5 hyp  ma  nya  na
+CA228QL2_M30-utt5 op    C   C    C
+CA228QL2_M30-utt5 #csid 3 0 0 0
+CA228QL2_M30-utt6 ref  zi  da
+CA228QL2_M30-utt6 hyp  zi  da
+CA228QL2_M30-utt6 op    C   C
+CA228QL2_M30-utt6 #csid 2 0 0 0
+CA228QL2_M30-utt7 ref  ka  rro  nya
+CA228QL2_M30-utt7 hyp  ka  rra  nyo
+CA228QL2_M30-utt7 op    C   S    S 
+CA228QL2_M30-utt7 #csid 1 2 0 0
+CA228QL2_M30-utt8 ref  bi  ga
+CA228QL2_M30-utt8 hyp  bi  ga
+CA228QL2_M30-utt8 op    C   C
+CA228QL2_M30-utt8 #csid 2 0 0 0
+CA228QL2_M30-utt9 ref  mo  pe  di  ta
+CA228QL2_M30-utt9 hyp  mo  pe  di  ta
+CA228QL2_M30-utt9 op    C   C   C   C
+CA228QL2_M30-utt9 #csid 4 0 0 0
+CA228QL3_M30-utt0 ref  so  ri
+CA228QL3_M30-utt0 hyp  so  ri
+CA228QL3_M30-utt0 op    C   C
+CA228QL3_M30-utt0 #csid 2 0 0 0
+CA228QL3_M30-utt1 ref  ye  da
+CA228QL3_M30-utt1 hyp  de  da
+CA228QL3_M30-utt1 op    S   C
+CA228QL3_M30-utt1 #csid 1 1 0 0
+CA228QL3_M30-utt10 ref  ku  fe
+CA228QL3_M30-utt10 hyp  ku  fe
+CA228QL3_M30-utt10 op    C   C
+CA228QL3_M30-utt10 #csid 2 0 0 0
+CA228QL3_M30-utt11 ref  so  ma
+CA228QL3_M30-utt11 hyp  so  ma
+CA228QL3_M30-utt11 op    C   C
+CA228QL3_M30-utt11 #csid 2 0 0 0
+CA228QL3_M30-utt12 ref  ka  ba  ye  ro
+CA228QL3_M30-utt12 hyp  ka  ba  ye  ro
+CA228QL3_M30-utt12 op    C   C   C   C
+CA228QL3_M30-utt12 #csid 4 0 0 0
+CA228QL3_M30-utt13 ref  be  na
+CA228QL3_M30-utt13 hyp  me  na
+CA228QL3_M30-utt13 op    S   C
+CA228QL3_M30-utt13 #csid 1 1 0 0
+CA228QL3_M30-utt14 ref  mu  si  ka
+CA228QL3_M30-utt14 hyp  mu  si  ka
+CA228QL3_M30-utt14 op    C   C   C
+CA228QL3_M30-utt14 #csid 3 0 0 0
+CA228QL3_M30-utt15 ref  di  ku
+CA228QL3_M30-utt15 hyp  di  ku
+CA228QL3_M30-utt15 op    C   C
+CA228QL3_M30-utt15 #csid 2 0 0 0
+CA228QL3_M30-utt16 ref  ka  mi  ro
+CA228QL3_M30-utt16 hyp  ka  mi  ro
+CA228QL3_M30-utt16 op    C   C   C
+CA228QL3_M30-utt16 #csid 3 0 0 0
+CA228QL3_M30-utt17 ref  me  ze  do  ra
+CA228QL3_M30-utt17 hyp  me  ze  do  ra
+CA228QL3_M30-utt17 op    C   C   C   C
+CA228QL3_M30-utt17 #csid 4 0 0 0
+CA228QL3_M30-utt18 ref  ze  bi
+CA228QL3_M30-utt18 hyp  fe  bi
+CA228QL3_M30-utt18 op    S   C
+CA228QL3_M30-utt18 #csid 1 1 0 0
+CA228QL3_M30-utt19 ref  ka  xo
+CA228QL3_M30-utt19 hyp  ka  xo
+CA228QL3_M30-utt19 op    C   C
+CA228QL3_M30-utt19 #csid 2 0 0 0
+CA228QL3_M30-utt2 ref  pa  li  xo
+CA228QL3_M30-utt2 hyp  pa  li  xo
+CA228QL3_M30-utt2 op    C   C   C
+CA228QL3_M30-utt2 #csid 3 0 0 0
+CA228QL3_M30-utt20 ref  bi  la
+CA228QL3_M30-utt20 hyp  bi  la
+CA228QL3_M30-utt20 op    C   C
+CA228QL3_M30-utt20 #csid 2 0 0 0
+CA228QL3_M30-utt21 ref  me  di  zi  ra
+CA228QL3_M30-utt21 hyp  me  di  zi  ra
+CA228QL3_M30-utt21 op    C   C   C   C
+CA228QL3_M30-utt21 #csid 4 0 0 0
+CA228QL3_M30-utt22 ref  la  ti  ga  fo
+CA228QL3_M30-utt22 hyp  la  ti  ga  fo
+CA228QL3_M30-utt22 op    C   C   C   C
+CA228QL3_M30-utt22 #csid 4 0 0 0
+CA228QL3_M30-utt23 ref  no  fe  ba
+CA228QL3_M30-utt23 hyp  no  fe  ba
+CA228QL3_M30-utt23 op    C   C   C
+CA228QL3_M30-utt23 #csid 3 0 0 0
+CA228QL3_M30-utt24 ref  lu  fo
+CA228QL3_M30-utt24 hyp  lu  fo
+CA228QL3_M30-utt24 op    C   C
+CA228QL3_M30-utt24 #csid 2 0 0 0
+CA228QL3_M30-utt25 ref  ta  po  di  no
+CA228QL3_M30-utt25 hyp  ta  po  di  no
+CA228QL3_M30-utt25 op    C   C   C   C
+CA228QL3_M30-utt25 #csid 4 0 0 0
+CA228QL3_M30-utt26 ref  fi  lo  so  fo
+CA228QL3_M30-utt26 hyp  fi  lo  so  fo
+CA228QL3_M30-utt26 op    C   C   C   C
+CA228QL3_M30-utt26 #csid 4 0 0 0
+CA228QL3_M30-utt27 ref  ni  bo  fe  ma
+CA228QL3_M30-utt27 hyp  ni  bo  fe  ma
+CA228QL3_M30-utt27 op    C   C   C   C
+CA228QL3_M30-utt27 #csid 4 0 0 0
+CA228QL3_M30-utt28 ref  mi  ri  ya
+CA228QL3_M30-utt28 hyp  mi  ri  ya
+CA228QL3_M30-utt28 op    C   C   C
+CA228QL3_M30-utt28 #csid 3 0 0 0
+CA228QL3_M30-utt29 ref  zi  bu  fe  ni
+CA228QL3_M30-utt29 hyp  zi  bu  fe  ni
+CA228QL3_M30-utt29 op    C   C   C   C
+CA228QL3_M30-utt29 #csid 4 0 0 0
+CA228QL3_M30-utt3 ref  so  ga
+CA228QL3_M30-utt3 hyp  so  da
+CA228QL3_M30-utt3 op    C   S
+CA228QL3_M30-utt3 #csid 1 1 0 0
+CA228QL3_M30-utt30 ref  mo  pa  so  ka
+CA228QL3_M30-utt30 hyp  mo  pa  so  ka
+CA228QL3_M30-utt30 op    C   C   C   C
+CA228QL3_M30-utt30 #csid 4 0 0 0
+CA228QL3_M30-utt31 ref  ma  ni  be  la
+CA228QL3_M30-utt31 hyp  ma  ni  be  la
+CA228QL3_M30-utt31 op    C   C   C   C
+CA228QL3_M30-utt31 #csid 4 0 0 0
+CA228QL3_M30-utt32 ref  pe  ta  te
+CA228QL3_M30-utt32 hyp  pe  ta  te
+CA228QL3_M30-utt32 op    C   C   C
+CA228QL3_M30-utt32 #csid 3 0 0 0
+CA228QL3_M30-utt33 ref  de  ba  te
+CA228QL3_M30-utt33 hyp  me  ba  te
+CA228QL3_M30-utt33 op    S   C   C
+CA228QL3_M30-utt33 #csid 2 1 0 0
+CA228QL3_M30-utt34 ref  lu  cha
+CA228QL3_M30-utt34 hyp  lu  cha
+CA228QL3_M30-utt34 op    C   C 
+CA228QL3_M30-utt34 #csid 2 0 0 0
+CA228QL3_M30-utt35 ref  ka  mo
+CA228QL3_M30-utt35 hyp  ka  mo
+CA228QL3_M30-utt35 op    C   C
+CA228QL3_M30-utt35 #csid 2 0 0 0
+CA228QL3_M30-utt36 ref  ko  di  so
+CA228QL3_M30-utt36 hyp  ko  di  so
+CA228QL3_M30-utt36 op    C   C   C
+CA228QL3_M30-utt36 #csid 3 0 0 0
+CA228QL3_M30-utt37 ref  so  ma  fi
+CA228QL3_M30-utt37 hyp  so  ma  zi
+CA228QL3_M30-utt37 op    C   C   S
+CA228QL3_M30-utt37 #csid 2 1 0 0
+CA228QL3_M30-utt38 ref  lo  na
+CA228QL3_M30-utt38 hyp  lo  na
+CA228QL3_M30-utt38 op    C   C
+CA228QL3_M30-utt38 #csid 2 0 0 0
+CA228QL3_M30-utt39 ref  rro  ko
+CA228QL3_M30-utt39 hyp  rro  ko
+CA228QL3_M30-utt39 op    C    C
+CA228QL3_M30-utt39 #csid 2 0 0 0
+CA228QL3_M30-utt4 ref  ko  pa
+CA228QL3_M30-utt4 hyp  ko  pa
+CA228QL3_M30-utt4 op    C   C
+CA228QL3_M30-utt4 #csid 2 0 0 0
+CA228QL3_M30-utt40 ref  pe  ta  ma
+CA228QL3_M30-utt40 hyp  pe  ta  ma
+CA228QL3_M30-utt40 op    C   C   C
+CA228QL3_M30-utt40 #csid 3 0 0 0
+CA228QL3_M30-utt41 ref  ge  za
+CA228QL3_M30-utt41 hyp  ge  za
+CA228QL3_M30-utt41 op    C   C
+CA228QL3_M30-utt41 #csid 2 0 0 0
+CA228QL3_M30-utt42 ref  ma  no  ta  go
+CA228QL3_M30-utt42 hyp  ma  no  ta  go
+CA228QL3_M30-utt42 op    C   C   C   C
+CA228QL3_M30-utt42 #csid 4 0 0 0
+CA228QL3_M30-utt43 ref  bu  ke
+CA228QL3_M30-utt43 hyp  bu  ke
+CA228QL3_M30-utt43 op    C   C
+CA228QL3_M30-utt43 #csid 2 0 0 0
+CA228QL3_M30-utt44 ref  me  pe
+CA228QL3_M30-utt44 hyp  me  pe
+CA228QL3_M30-utt44 op    C   C
+CA228QL3_M30-utt44 #csid 2 0 0 0
+CA228QL3_M30-utt45 ref  pe  ta
+CA228QL3_M30-utt45 hyp  pe  ta
+CA228QL3_M30-utt45 op    C   C
+CA228QL3_M30-utt45 #csid 2 0 0 0
+CA228QL3_M30-utt46 ref  rre  ti  ra  za
+CA228QL3_M30-utt46 hyp  rre  ti  ra  za
+CA228QL3_M30-utt46 op    C    C   C   C
+CA228QL3_M30-utt46 #csid 4 0 0 0
+CA228QL3_M30-utt47 ref  ti  bu
+CA228QL3_M30-utt47 hyp  ti  bo
+CA228QL3_M30-utt47 op    C   S
+CA228QL3_M30-utt47 #csid 1 1 0 0
+CA228QL3_M30-utt5 ref  be  ya  fe
+CA228QL3_M30-utt5 hyp  me  ya  fe
+CA228QL3_M30-utt5 op    S   C   C
+CA228QL3_M30-utt5 #csid 2 1 0 0
+CA228QL3_M30-utt6 ref  mu  lo
+CA228QL3_M30-utt6 hyp  mu  lo
+CA228QL3_M30-utt6 op    C   C
+CA228QL3_M30-utt6 #csid 2 0 0 0
+CA228QL3_M30-utt7 ref  zi  ma
+CA228QL3_M30-utt7 hyp  zi  ma
+CA228QL3_M30-utt7 op    C   C
+CA228QL3_M30-utt7 #csid 2 0 0 0
+CA228QL3_M30-utt8 ref  no  be  ya
+CA228QL3_M30-utt8 hyp  no  be  ya
+CA228QL3_M30-utt8 op    C   C   C
+CA228QL3_M30-utt8 #csid 3 0 0 0
+CA228QL3_M30-utt9 ref  ni  gu
+CA228QL3_M30-utt9 hyp  ni  go
+CA228QL3_M30-utt9 op    C   S
+CA228QL3_M30-utt9 #csid 1 1 0 0
+CA228QL4_M30-utt0 ref  chu  so
+CA228QL4_M30-utt0 hyp  chu  so
+CA228QL4_M30-utt0 op    C    C
+CA228QL4_M30-utt0 #csid 2 0 0 0
+CA228QL4_M30-utt1 ref  fe  za
+CA228QL4_M30-utt1 hyp  fe  za
+CA228QL4_M30-utt1 op    C   C
+CA228QL4_M30-utt1 #csid 2 0 0 0
+CA228QL4_M30-utt10 ref  pe  ta  ka
+CA228QL4_M30-utt10 hyp  pe  ta  ka
+CA228QL4_M30-utt10 op    C   C   C
+CA228QL4_M30-utt10 #csid 3 0 0 0
+CA228QL4_M30-utt11 ref  do  ya
+CA228QL4_M30-utt11 hyp  do  ya
+CA228QL4_M30-utt11 op    C   C
+CA228QL4_M30-utt11 #csid 2 0 0 0
+CA228QL4_M30-utt12 ref  li  ya
+CA228QL4_M30-utt12 hyp  li  ya
+CA228QL4_M30-utt12 op    C   C
+CA228QL4_M30-utt12 #csid 2 0 0 0
+CA228QL4_M30-utt13 ref  ka  mi  no
+CA228QL4_M30-utt13 hyp  ka  mi  no
+CA228QL4_M30-utt13 op    C   C   C
+CA228QL4_M30-utt13 #csid 3 0 0 0
+CA228QL4_M30-utt14 ref  pa  de  so
+CA228QL4_M30-utt14 hyp  pa  de  so
+CA228QL4_M30-utt14 op    C   C   C
+CA228QL4_M30-utt14 #csid 3 0 0 0
+CA228QL4_M30-utt15 ref  so  da
+CA228QL4_M30-utt15 hyp  so  da
+CA228QL4_M30-utt15 op    C   C
+CA228QL4_M30-utt15 #csid 2 0 0 0
+CA228QL4_M30-utt16 ref  ti  tu  mo
+CA228QL4_M30-utt16 hyp  ti  tu  mo
+CA228QL4_M30-utt16 op    C   C   C
+CA228QL4_M30-utt16 #csid 3 0 0 0
+CA228QL4_M30-utt17 ref  di  ma  ko
+CA228QL4_M30-utt17 hyp  di  ma  ko
+CA228QL4_M30-utt17 op    C   C   C
+CA228QL4_M30-utt17 #csid 3 0 0 0
+CA228QL4_M30-utt18 ref  ka  nyo
+CA228QL4_M30-utt18 hyp  ka  nyo
+CA228QL4_M30-utt18 op    C   C 
+CA228QL4_M30-utt18 #csid 2 0 0 0
+CA228QL4_M30-utt19 ref  ko  ga
+CA228QL4_M30-utt19 hyp  ko  ga
+CA228QL4_M30-utt19 op    C   C
+CA228QL4_M30-utt19 #csid 2 0 0 0
+CA228QL4_M30-utt2 ref  ye  ma
+CA228QL4_M30-utt2 hyp  ye  ma
+CA228QL4_M30-utt2 op    C   C
+CA228QL4_M30-utt2 #csid 2 0 0 0
+CA228QL4_M30-utt20 ref  mo  pe
+CA228QL4_M30-utt20 hyp  mo  pe
+CA228QL4_M30-utt20 op    C   C
+CA228QL4_M30-utt20 #csid 2 0 0 0
+CA228QL4_M30-utt21 ref  na  fe
+CA228QL4_M30-utt21 hyp  ma  fe
+CA228QL4_M30-utt21 op    S   C
+CA228QL4_M30-utt21 #csid 1 1 0 0
+CA228QL4_M30-utt22 ref  ge  rra
+CA228QL4_M30-utt22 hyp  ge  rra
+CA228QL4_M30-utt22 op    C   C 
+CA228QL4_M30-utt22 #csid 2 0 0 0
+CA228QL4_M30-utt23 ref  so  ga  li  na
+CA228QL4_M30-utt23 hyp  so  ga  li  na
+CA228QL4_M30-utt23 op    C   C   C   C
+CA228QL4_M30-utt23 #csid 4 0 0 0
+CA228QL4_M30-utt24 ref  pe  li  ku  za
+CA228QL4_M30-utt24 hyp  pe  li  ku  za
+CA228QL4_M30-utt24 op    C   C   C   C
+CA228QL4_M30-utt24 #csid 4 0 0 0
+CA228QL4_M30-utt25 ref  di  la
+CA228QL4_M30-utt25 hyp  di  la
+CA228QL4_M30-utt25 op    C   C
+CA228QL4_M30-utt25 #csid 2 0 0 0
+CA228QL4_M30-utt26 ref  no  be  la
+CA228QL4_M30-utt26 hyp  no  be  la
+CA228QL4_M30-utt26 op    C   C   C
+CA228QL4_M30-utt26 #csid 3 0 0 0
+CA228QL4_M30-utt27 ref  pe  ku  ga  ta
+CA228QL4_M30-utt27 hyp  pe  ku  ga  ta
+CA228QL4_M30-utt27 op    C   C   C   C
+CA228QL4_M30-utt27 #csid 4 0 0 0
+CA228QL4_M30-utt28 ref  la  ti  ga  zo
+CA228QL4_M30-utt28 hyp  la  ti  ga  zo
+CA228QL4_M30-utt28 op    C   C   C   C
+CA228QL4_M30-utt28 #csid 4 0 0 0
+CA228QL4_M30-utt29 ref  rro  ka
+CA228QL4_M30-utt29 hyp  rro  ka
+CA228QL4_M30-utt29 op    C    C
+CA228QL4_M30-utt29 #csid 2 0 0 0
+CA228QL4_M30-utt3 ref  zi  fo
+CA228QL4_M30-utt3 hyp  zi  fo
+CA228QL4_M30-utt3 op    C   C
+CA228QL4_M30-utt3 #csid 2 0 0 0
+CA228QL4_M30-utt30 ref  pa  le  ti  rra
+CA228QL4_M30-utt30 hyp  pa  le  te  rra
+CA228QL4_M30-utt30 op    C   C   S   C 
+CA228QL4_M30-utt30 #csid 3 1 0 0
+CA228QL4_M30-utt31 ref  fe  bo
+CA228QL4_M30-utt31 hyp  fe  bo
+CA228QL4_M30-utt31 op    C   C
+CA228QL4_M30-utt31 #csid 2 0 0 0
+CA228QL4_M30-utt32 ref  pa  li  yo
+CA228QL4_M30-utt32 hyp  pa  li  yo
+CA228QL4_M30-utt32 op    C   C   C
+CA228QL4_M30-utt32 #csid 3 0 0 0
+CA228QL4_M30-utt33 ref  ka  ba  ye  to
+CA228QL4_M30-utt33 hyp  ka  ba  ye  to
+CA228QL4_M30-utt33 op    C   C   C   C
+CA228QL4_M30-utt33 #csid 4 0 0 0
+CA228QL4_M30-utt34 ref  lo  fe  du  ne
+CA228QL4_M30-utt34 hyp  lo  fe  du  ne
+CA228QL4_M30-utt34 op    C   C   C   C
+CA228QL4_M30-utt34 #csid 4 0 0 0
+CA228QL4_M30-utt35 ref  ya  to
+CA228QL4_M30-utt35 hyp  ya  to
+CA228QL4_M30-utt35 op    C   C
+CA228QL4_M30-utt35 #csid 2 0 0 0
+CA228QL4_M30-utt36 ref  gi  cho
+CA228QL4_M30-utt36 hyp  gi  cho
+CA228QL4_M30-utt36 op    C   C 
+CA228QL4_M30-utt36 #csid 2 0 0 0
+CA228QL4_M30-utt37 ref  pe  na
+CA228QL4_M30-utt37 hyp  pe  na
+CA228QL4_M30-utt37 op    C   C
+CA228QL4_M30-utt37 #csid 2 0 0 0
+CA228QL4_M30-utt38 ref  bi  ya
+CA228QL4_M30-utt38 hyp  bi  ya
+CA228QL4_M30-utt38 op    C   C
+CA228QL4_M30-utt38 #csid 2 0 0 0
+CA228QL4_M30-utt39 ref  to  ye
+CA228QL4_M30-utt39 hyp  to  ye
+CA228QL4_M30-utt39 op    C   C
+CA228QL4_M30-utt39 #csid 2 0 0 0
+CA228QL4_M30-utt4 ref  pa  ni
+CA228QL4_M30-utt4 hyp  pa  ni
+CA228QL4_M30-utt4 op    C   C
+CA228QL4_M30-utt4 #csid 2 0 0 0
+CA228QL4_M30-utt40 ref  fe  bu  xo
+CA228QL4_M30-utt40 hyp  fe  bu  xo
+CA228QL4_M30-utt40 op    C   C   C
+CA228QL4_M30-utt40 #csid 3 0 0 0
+CA228QL4_M30-utt41 ref  rre  ti  ra  da
+CA228QL4_M30-utt41 hyp  rre  ri  ra  da
+CA228QL4_M30-utt41 op    C    S   C   C
+CA228QL4_M30-utt41 #csid 3 1 0 0
+CA228QL4_M30-utt42 ref  nu  me  so
+CA228QL4_M30-utt42 hyp  no  me  so
+CA228QL4_M30-utt42 op    S   C   C
+CA228QL4_M30-utt42 #csid 2 1 0 0
+CA228QL4_M30-utt43 ref  ta  le  bo
+CA228QL4_M30-utt43 hyp  ta  le  bo
+CA228QL4_M30-utt43 op    C   C   C
+CA228QL4_M30-utt43 #csid 3 0 0 0
+CA228QL4_M30-utt44 ref  me  di  zi  na
+CA228QL4_M30-utt44 hyp  me  bi  zi  na
+CA228QL4_M30-utt44 op    C   S   C   C
+CA228QL4_M30-utt44 #csid 3 1 0 0
+CA228QL4_M30-utt45 ref  zi  se
+CA228QL4_M30-utt45 hyp  zi  se
+CA228QL4_M30-utt45 op    C   C
+CA228QL4_M30-utt45 #csid 2 0 0 0
+CA228QL4_M30-utt46 ref  fe  xi
+CA228QL4_M30-utt46 hyp  fe  xi
+CA228QL4_M30-utt46 op    C   C
+CA228QL4_M30-utt46 #csid 2 0 0 0
+CA228QL4_M30-utt47 ref  bi  fu  pe  si
+CA228QL4_M30-utt47 hyp  bi  fu  pe  si
+CA228QL4_M30-utt47 op    C   C   C   C
+CA228QL4_M30-utt47 #csid 4 0 0 0
+CA228QL4_M30-utt5 ref  za  bo  lu
+CA228QL4_M30-utt5 hyp  za  bo  lu
+CA228QL4_M30-utt5 op    C   C   C
+CA228QL4_M30-utt5 #csid 3 0 0 0
+CA228QL4_M30-utt6 ref  ma  no  ta  zo
+CA228QL4_M30-utt6 hyp  ma  no  ta  zo
+CA228QL4_M30-utt6 op    C   C   C   C
+CA228QL4_M30-utt6 #csid 4 0 0 0
+CA228QL4_M30-utt7 ref  ba  rre  yo
+CA228QL4_M30-utt7 hyp  ba  rre  yo
+CA228QL4_M30-utt7 op    C   C    C
+CA228QL4_M30-utt7 #csid 3 0 0 0
+CA228QL4_M30-utt8 ref  se  nyo  ri  da
+CA228QL4_M30-utt8 hyp  se  nyo  ri  da
+CA228QL4_M30-utt8 op    C   C    C   C
+CA228QL4_M30-utt8 #csid 4 0 0 0
+CA228QL4_M30-utt9 ref  tu  zo
+CA228QL4_M30-utt9 hyp  tu  zo
+CA228QL4_M30-utt9 op    C   C
+CA228QL4_M30-utt9 #csid 2 0 0 0

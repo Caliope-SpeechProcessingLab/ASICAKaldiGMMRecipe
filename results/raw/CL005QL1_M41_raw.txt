@@ -1,0 +1,791 @@
+
+--------------------------------------------------------------------
+SPEAKER         id       #SENT      #WORD       Corr        Sub        Ins        Del        Err      S.Err
+CL005QL1_M41    raw         51        138        128         10          0          0         10         10
+CL005QL1_M41    sys         51        138      92.75       7.25       0.00       0.00       7.25      19.61
+CL005QL2_M41    raw         48        132        125          7          0          0          7          7
+CL005QL2_M41    sys         48        132      94.70       5.30       0.00       0.00       5.30      14.58
+CL005QL3_M41    raw         48        132        124          8          0          0          8          7
+CL005QL3_M41    sys         48        132      93.94       6.06       0.00       0.00       6.06      14.58
+CL005QL4_M41    raw         47        129        118         10          0          1         11         10
+CL005QL4_M41    sys         47        129      91.47       7.75       0.00       0.78       8.53      21.28
+SUM             raw        194        531        495         35          0          1         36         34
+SUM             sys        194        531      93.22       6.59       0.00       0.19       6.78      17.53
+
+--------------------------------------------------------------------
+CL005QL1_M41-utt0 ref  ka  sa
+CL005QL1_M41-utt0 hyp  ka  se
+CL005QL1_M41-utt0 op    C   S
+CL005QL1_M41-utt0 #csid 1 1 0 0
+CL005QL1_M41-utt1 ref  fo  ka
+CL005QL1_M41-utt1 hyp  fo  ka
+CL005QL1_M41-utt1 op    C   C
+CL005QL1_M41-utt1 #csid 2 0 0 0
+CL005QL1_M41-utt10 ref  pa  le  ti  ya
+CL005QL1_M41-utt10 hyp  pa  le  ti  ya
+CL005QL1_M41-utt10 op    C   C   C   C
+CL005QL1_M41-utt10 #csid 4 0 0 0
+CL005QL1_M41-utt11 ref  ka  rro  fa
+CL005QL1_M41-utt11 hyp  ka  rro  za
+CL005QL1_M41-utt11 op    C   C    S
+CL005QL1_M41-utt11 #csid 2 1 0 0
+CL005QL1_M41-utt12 ref  ma  po
+CL005QL1_M41-utt12 hyp  ma  po
+CL005QL1_M41-utt12 op    C   C
+CL005QL1_M41-utt12 #csid 2 0 0 0
+CL005QL1_M41-utt13 ref  chu  lo
+CL005QL1_M41-utt13 hyp  chu  lo
+CL005QL1_M41-utt13 op    C    C
+CL005QL1_M41-utt13 #csid 2 0 0 0
+CL005QL1_M41-utt14 ref  pa  ba  ri  mo
+CL005QL1_M41-utt14 hyp  pa  ba  ri  bu
+CL005QL1_M41-utt14 op    C   C   C   S
+CL005QL1_M41-utt14 #csid 3 1 0 0
+CL005QL1_M41-utt15 ref  ko  pa  di
+CL005QL1_M41-utt15 hyp  ko  pa  ru
+CL005QL1_M41-utt15 op    C   C   S
+CL005QL1_M41-utt15 #csid 2 1 0 0
+CL005QL1_M41-utt16 ref  li  ga
+CL005QL1_M41-utt16 hyp  li  ga
+CL005QL1_M41-utt16 op    C   C
+CL005QL1_M41-utt16 #csid 2 0 0 0
+CL005QL1_M41-utt17 ref  be  yo  lu
+CL005QL1_M41-utt17 hyp  be  yo  lu
+CL005QL1_M41-utt17 op    C   C   C
+CL005QL1_M41-utt17 #csid 3 0 0 0
+CL005QL1_M41-utt18 ref  so  te  lo
+CL005QL1_M41-utt18 hyp  so  te  lo
+CL005QL1_M41-utt18 op    C   C   C
+CL005QL1_M41-utt18 #csid 3 0 0 0
+CL005QL1_M41-utt19 ref  ma  re  xa  za
+CL005QL1_M41-utt19 hyp  ma  re  xa  za
+CL005QL1_M41-utt19 op    C   C   C   C
+CL005QL1_M41-utt19 #csid 4 0 0 0
+CL005QL1_M41-utt2 ref  le  ma
+CL005QL1_M41-utt2 hyp  le  ma
+CL005QL1_M41-utt2 op    C   C
+CL005QL1_M41-utt2 #csid 2 0 0 0
+CL005QL1_M41-utt20 ref  nu  me  ro
+CL005QL1_M41-utt20 hyp  nu  me  ro
+CL005QL1_M41-utt20 op    C   C   C
+CL005QL1_M41-utt20 #csid 3 0 0 0
+CL005QL1_M41-utt21 ref  ka  pi  tu  bo
+CL005QL1_M41-utt21 hyp  ka  pi  tu  bo
+CL005QL1_M41-utt21 op    C   C   C   C
+CL005QL1_M41-utt21 #csid 4 0 0 0
+CL005QL1_M41-utt22 ref  bi  ka
+CL005QL1_M41-utt22 hyp  bi  ta
+CL005QL1_M41-utt22 op    C   S
+CL005QL1_M41-utt22 #csid 1 1 0 0
+CL005QL1_M41-utt23 ref  ti  bo
+CL005QL1_M41-utt23 hyp  ti  bo
+CL005QL1_M41-utt23 op    C   C
+CL005QL1_M41-utt23 #csid 2 0 0 0
+CL005QL1_M41-utt24 ref  ka  yi
+CL005QL1_M41-utt24 hyp  ta  yi
+CL005QL1_M41-utt24 op    S   C
+CL005QL1_M41-utt24 #csid 1 1 0 0
+CL005QL1_M41-utt25 ref  fo  bo  xe  ma
+CL005QL1_M41-utt25 hyp  fo  bo  xe  ma
+CL005QL1_M41-utt25 op    C   C   C   C
+CL005QL1_M41-utt25 #csid 4 0 0 0
+CL005QL1_M41-utt26 ref  pa  ne
+CL005QL1_M41-utt26 hyp  pa  ne
+CL005QL1_M41-utt26 op    C   C
+CL005QL1_M41-utt26 #csid 2 0 0 0
+CL005QL1_M41-utt27 ref  tu  fo
+CL005QL1_M41-utt27 hyp  tu  fo
+CL005QL1_M41-utt27 op    C   C
+CL005QL1_M41-utt27 #csid 2 0 0 0
+CL005QL1_M41-utt28 ref  sa  te  li  to
+CL005QL1_M41-utt28 hyp  sa  te  li  to
+CL005QL1_M41-utt28 op    C   C   C   C
+CL005QL1_M41-utt28 #csid 4 0 0 0
+CL005QL1_M41-utt29 ref  fe  cha
+CL005QL1_M41-utt29 hyp  ze  cha
+CL005QL1_M41-utt29 op    S   C 
+CL005QL1_M41-utt29 #csid 1 1 0 0
+CL005QL1_M41-utt3 ref  ya  te
+CL005QL1_M41-utt3 hyp  ya  te
+CL005QL1_M41-utt3 op    C   C
+CL005QL1_M41-utt3 #csid 2 0 0 0
+CL005QL1_M41-utt30 ref  pe  mi
+CL005QL1_M41-utt30 hyp  pe  mi
+CL005QL1_M41-utt30 op    C   C
+CL005QL1_M41-utt30 #csid 2 0 0 0
+CL005QL1_M41-utt31 ref  di  ne  so
+CL005QL1_M41-utt31 hyp  di  ne  so
+CL005QL1_M41-utt31 op    C   C   C
+CL005QL1_M41-utt31 #csid 3 0 0 0
+CL005QL1_M41-utt32 ref  ka  ba  ye  te
+CL005QL1_M41-utt32 hyp  ka  ba  ye  te
+CL005QL1_M41-utt32 op    C   C   C   C
+CL005QL1_M41-utt32 #csid 4 0 0 0
+CL005QL1_M41-utt33 ref  ko  li  za
+CL005QL1_M41-utt33 hyp  ko  li  za
+CL005QL1_M41-utt33 op    C   C   C
+CL005QL1_M41-utt33 #csid 3 0 0 0
+CL005QL1_M41-utt34 ref  ka  rro  ma  do
+CL005QL1_M41-utt34 hyp  ka  rro  ma  do
+CL005QL1_M41-utt34 op    C   C    C   C
+CL005QL1_M41-utt34 #csid 4 0 0 0
+CL005QL1_M41-utt35 ref  gi  nyo
+CL005QL1_M41-utt35 hyp  gi  nyo
+CL005QL1_M41-utt35 op    C   C 
+CL005QL1_M41-utt35 #csid 2 0 0 0
+CL005QL1_M41-utt36 ref  ma  nya  da
+CL005QL1_M41-utt36 hyp  ma  nya  da
+CL005QL1_M41-utt36 op    C   C    C
+CL005QL1_M41-utt36 #csid 3 0 0 0
+CL005QL1_M41-utt37 ref  za  fe  lu  di
+CL005QL1_M41-utt37 hyp  za  fe  lu  di
+CL005QL1_M41-utt37 op    C   C   C   C
+CL005QL1_M41-utt37 #csid 4 0 0 0
+CL005QL1_M41-utt38 ref  la  ro
+CL005QL1_M41-utt38 hyp  la  ro
+CL005QL1_M41-utt38 op    C   C
+CL005QL1_M41-utt38 #csid 2 0 0 0
+CL005QL1_M41-utt39 ref  zi  ne
+CL005QL1_M41-utt39 hyp  zi  ni
+CL005QL1_M41-utt39 op    C   S
+CL005QL1_M41-utt39 #csid 1 1 0 0
+CL005QL1_M41-utt4 ref  no  lu
+CL005QL1_M41-utt4 hyp  no  lu
+CL005QL1_M41-utt4 op    C   C
+CL005QL1_M41-utt4 #csid 2 0 0 0
+CL005QL1_M41-utt40 ref  se  nyo  ri  ta
+CL005QL1_M41-utt40 hyp  se  nyo  ri  ta
+CL005QL1_M41-utt40 op    C   C    C   C
+CL005QL1_M41-utt40 #csid 4 0 0 0
+CL005QL1_M41-utt41 ref  no  fe
+CL005QL1_M41-utt41 hyp  no  fe
+CL005QL1_M41-utt41 op    C   C
+CL005QL1_M41-utt41 #csid 2 0 0 0
+CL005QL1_M41-utt42 ref  pe  li  ku  la
+CL005QL1_M41-utt42 hyp  pe  li  ku  la
+CL005QL1_M41-utt42 op    C   C   C   C
+CL005QL1_M41-utt42 #csid 4 0 0 0
+CL005QL1_M41-utt43 ref  ku  xo  ba
+CL005QL1_M41-utt43 hyp  ku  xo  ba
+CL005QL1_M41-utt43 op    C   C   C
+CL005QL1_M41-utt43 #csid 3 0 0 0
+CL005QL1_M41-utt44 ref  fu  xo
+CL005QL1_M41-utt44 hyp  fu  xo
+CL005QL1_M41-utt44 op    C   C
+CL005QL1_M41-utt44 #csid 2 0 0 0
+CL005QL1_M41-utt45 ref  se  ku
+CL005QL1_M41-utt45 hyp  se  ku
+CL005QL1_M41-utt45 op    C   C
+CL005QL1_M41-utt45 #csid 2 0 0 0
+CL005QL1_M41-utt46 ref  to  rre
+CL005QL1_M41-utt46 hyp  to  rre
+CL005QL1_M41-utt46 op    C   C 
+CL005QL1_M41-utt46 #csid 2 0 0 0
+CL005QL1_M41-utt47 ref  do  fe
+CL005QL1_M41-utt47 hyp  do  fe
+CL005QL1_M41-utt47 op    C   C
+CL005QL1_M41-utt47 #csid 2 0 0 0
+CL005QL1_M41-utt48 ref  ba  rre  nyo
+CL005QL1_M41-utt48 hyp  ba  rre  nyo
+CL005QL1_M41-utt48 op    C   C    C 
+CL005QL1_M41-utt48 #csid 3 0 0 0
+CL005QL1_M41-utt49 ref  me  la  ni  to
+CL005QL1_M41-utt49 hyp  me  la  ni  to
+CL005QL1_M41-utt49 op    C   C   C   C
+CL005QL1_M41-utt49 #csid 4 0 0 0
+CL005QL1_M41-utt5 ref  ba  fe
+CL005QL1_M41-utt5 hyp  ba  ze
+CL005QL1_M41-utt5 op    C   S
+CL005QL1_M41-utt5 #csid 1 1 0 0
+CL005QL1_M41-utt50 ref  ta  le  go
+CL005QL1_M41-utt50 hyp  ta  le  po
+CL005QL1_M41-utt50 op    C   C   S
+CL005QL1_M41-utt50 #csid 2 1 0 0
+CL005QL1_M41-utt6 ref  ti  tu  lo
+CL005QL1_M41-utt6 hyp  ti  tu  lo
+CL005QL1_M41-utt6 op    C   C   C
+CL005QL1_M41-utt6 #csid 3 0 0 0
+CL005QL1_M41-utt7 ref  mo  de
+CL005QL1_M41-utt7 hyp  mo  de
+CL005QL1_M41-utt7 op    C   C
+CL005QL1_M41-utt7 #csid 2 0 0 0
+CL005QL1_M41-utt8 ref  pe  no
+CL005QL1_M41-utt8 hyp  pe  no
+CL005QL1_M41-utt8 op    C   C
+CL005QL1_M41-utt8 #csid 2 0 0 0
+CL005QL1_M41-utt9 ref  xe  ra
+CL005QL1_M41-utt9 hyp  xe  ra
+CL005QL1_M41-utt9 op    C   C
+CL005QL1_M41-utt9 #csid 2 0 0 0
+CL005QL2_M41-utt0 ref  so  ya
+CL005QL2_M41-utt0 hyp  so  ya
+CL005QL2_M41-utt0 op    C   C
+CL005QL2_M41-utt0 #csid 2 0 0 0
+CL005QL2_M41-utt1 ref  be  ta
+CL005QL2_M41-utt1 hyp  be  ta
+CL005QL2_M41-utt1 op    C   C
+CL005QL2_M41-utt1 #csid 2 0 0 0
+CL005QL2_M41-utt10 ref  me  ze  do  ta
+CL005QL2_M41-utt10 hyp  me  ze  do  ta
+CL005QL2_M41-utt10 op    C   C   C   C
+CL005QL2_M41-utt10 #csid 4 0 0 0
+CL005QL2_M41-utt11 ref  ko  li  ya
+CL005QL2_M41-utt11 hyp  ko  li  ya
+CL005QL2_M41-utt11 op    C   C   C
+CL005QL2_M41-utt11 #csid 3 0 0 0
+CL005QL2_M41-utt12 ref  bu  de
+CL005QL2_M41-utt12 hyp  bu  de
+CL005QL2_M41-utt12 op    C   C
+CL005QL2_M41-utt12 #csid 2 0 0 0
+CL005QL2_M41-utt13 ref  mo  ku
+CL005QL2_M41-utt13 hyp  mo  ku
+CL005QL2_M41-utt13 op    C   C
+CL005QL2_M41-utt13 #csid 2 0 0 0
+CL005QL2_M41-utt14 ref  lo  ra
+CL005QL2_M41-utt14 hyp  lo  ra
+CL005QL2_M41-utt14 op    C   C
+CL005QL2_M41-utt14 #csid 2 0 0 0
+CL005QL2_M41-utt15 ref  mi  ri  za
+CL005QL2_M41-utt15 hyp  ni  ri  za
+CL005QL2_M41-utt15 op    S   C   C
+CL005QL2_M41-utt15 #csid 2 1 0 0
+CL005QL2_M41-utt16 ref  xe  ta
+CL005QL2_M41-utt16 hyp  xe  ta
+CL005QL2_M41-utt16 op    C   C
+CL005QL2_M41-utt16 #csid 2 0 0 0
+CL005QL2_M41-utt17 ref  bu  fe  lu
+CL005QL2_M41-utt17 hyp  bu  fe  lu
+CL005QL2_M41-utt17 op    C   C   C
+CL005QL2_M41-utt17 #csid 3 0 0 0
+CL005QL2_M41-utt18 ref  ma  ni  be  za
+CL005QL2_M41-utt18 hyp  ma  ni  be  za
+CL005QL2_M41-utt18 op    C   C   C   C
+CL005QL2_M41-utt18 #csid 4 0 0 0
+CL005QL2_M41-utt19 ref  ma  re  xa  da
+CL005QL2_M41-utt19 hyp  ma  re  xa  da
+CL005QL2_M41-utt19 op    C   C   C   C
+CL005QL2_M41-utt19 #csid 4 0 0 0
+CL005QL2_M41-utt2 ref  sa  te  li  te
+CL005QL2_M41-utt2 hyp  sa  te  li  te
+CL005QL2_M41-utt2 op    C   C   C   C
+CL005QL2_M41-utt2 #csid 4 0 0 0
+CL005QL2_M41-utt20 ref  pe  so
+CL005QL2_M41-utt20 hyp  pe  so
+CL005QL2_M41-utt20 op    C   C
+CL005QL2_M41-utt20 #csid 2 0 0 0
+CL005QL2_M41-utt21 ref  di  ra  ni
+CL005QL2_M41-utt21 hyp  di  ra  ni
+CL005QL2_M41-utt21 op    C   C   C
+CL005QL2_M41-utt21 #csid 3 0 0 0
+CL005QL2_M41-utt22 ref  ti  fe  du  ne
+CL005QL2_M41-utt22 hyp  ti  fe  du  ne
+CL005QL2_M41-utt22 op    C   C   C   C
+CL005QL2_M41-utt22 #csid 4 0 0 0
+CL005QL2_M41-utt23 ref  ti  yo
+CL005QL2_M41-utt23 hyp  ti  yo
+CL005QL2_M41-utt23 op    C   C
+CL005QL2_M41-utt23 #csid 2 0 0 0
+CL005QL2_M41-utt24 ref  no  fe
+CL005QL2_M41-utt24 hyp  no  fe
+CL005QL2_M41-utt24 op    C   C
+CL005QL2_M41-utt24 #csid 2 0 0 0
+CL005QL2_M41-utt25 ref  pe  ta  ti
+CL005QL2_M41-utt25 hyp  pe  ta  te
+CL005QL2_M41-utt25 op    C   C   S
+CL005QL2_M41-utt25 #csid 2 1 0 0
+CL005QL2_M41-utt26 ref  la  do
+CL005QL2_M41-utt26 hyp  la  ro
+CL005QL2_M41-utt26 op    C   S
+CL005QL2_M41-utt26 #csid 1 1 0 0
+CL005QL2_M41-utt27 ref  mu  no
+CL005QL2_M41-utt27 hyp  mu  no
+CL005QL2_M41-utt27 op    C   C
+CL005QL2_M41-utt27 #csid 2 0 0 0
+CL005QL2_M41-utt28 ref  za  lu
+CL005QL2_M41-utt28 hyp  za  lu
+CL005QL2_M41-utt28 op    C   C
+CL005QL2_M41-utt28 #csid 2 0 0 0
+CL005QL2_M41-utt29 ref  ka  rro  ma  to
+CL005QL2_M41-utt29 hyp  ka  rro  ma  ta
+CL005QL2_M41-utt29 op    C   C    C   S
+CL005QL2_M41-utt29 #csid 3 1 0 0
+CL005QL2_M41-utt3 ref  rri  bu  po
+CL005QL2_M41-utt3 hyp  rri  bu  po
+CL005QL2_M41-utt3 op    C    C   C
+CL005QL2_M41-utt3 #csid 3 0 0 0
+CL005QL2_M41-utt30 ref  mu  si  ma
+CL005QL2_M41-utt30 hyp  mu  si  ma
+CL005QL2_M41-utt30 op    C   C   C
+CL005QL2_M41-utt30 #csid 3 0 0 0
+CL005QL2_M41-utt31 ref  de  ba  ti
+CL005QL2_M41-utt31 hyp  de  ba  ti
+CL005QL2_M41-utt31 op    C   C   C
+CL005QL2_M41-utt31 #csid 3 0 0 0
+CL005QL2_M41-utt32 ref  di  ne  ro
+CL005QL2_M41-utt32 hyp  di  ne  ro
+CL005QL2_M41-utt32 op    C   C   C
+CL005QL2_M41-utt32 #csid 3 0 0 0
+CL005QL2_M41-utt33 ref  ni  fu  ba  mi
+CL005QL2_M41-utt33 hyp  di  fu  ba  mi
+CL005QL2_M41-utt33 op    S   C   C   C
+CL005QL2_M41-utt33 #csid 3 1 0 0
+CL005QL2_M41-utt34 ref  mo  te
+CL005QL2_M41-utt34 hyp  mo  te
+CL005QL2_M41-utt34 op    C   C
+CL005QL2_M41-utt34 #csid 2 0 0 0
+CL005QL2_M41-utt35 ref  ko  da
+CL005QL2_M41-utt35 hyp  ko  da
+CL005QL2_M41-utt35 op    C   C
+CL005QL2_M41-utt35 #csid 2 0 0 0
+CL005QL2_M41-utt36 ref  ko  zi
+CL005QL2_M41-utt36 hyp  ko  zi
+CL005QL2_M41-utt36 op    C   C
+CL005QL2_M41-utt36 #csid 2 0 0 0
+CL005QL2_M41-utt37 ref  di  ku  li  te
+CL005QL2_M41-utt37 hyp  di  ku  li  te
+CL005QL2_M41-utt37 op    C   C   C   C
+CL005QL2_M41-utt37 #csid 4 0 0 0
+CL005QL2_M41-utt38 ref  ko  pa  te
+CL005QL2_M41-utt38 hyp  ko  pa  te
+CL005QL2_M41-utt38 op    C   C   C
+CL005QL2_M41-utt38 #csid 3 0 0 0
+CL005QL2_M41-utt39 ref  do  bu
+CL005QL2_M41-utt39 hyp  do  bu
+CL005QL2_M41-utt39 op    C   C
+CL005QL2_M41-utt39 #csid 2 0 0 0
+CL005QL2_M41-utt4 ref  me  po
+CL005QL2_M41-utt4 hyp  me  po
+CL005QL2_M41-utt4 op    C   C
+CL005QL2_M41-utt4 #csid 2 0 0 0
+CL005QL2_M41-utt40 ref  no  che
+CL005QL2_M41-utt40 hyp  no  che
+CL005QL2_M41-utt40 op    C   C 
+CL005QL2_M41-utt40 #csid 2 0 0 0
+CL005QL2_M41-utt41 ref  fi  lo  zo  fo
+CL005QL2_M41-utt41 hyp  fi  lo  za  fo
+CL005QL2_M41-utt41 op    C   C   S   C
+CL005QL2_M41-utt41 #csid 3 1 0 0
+CL005QL2_M41-utt42 ref  pa  do
+CL005QL2_M41-utt42 hyp  pa  do
+CL005QL2_M41-utt42 op    C   C
+CL005QL2_M41-utt42 #csid 2 0 0 0
+CL005QL2_M41-utt43 ref  ka  yo
+CL005QL2_M41-utt43 hyp  ka  yo
+CL005QL2_M41-utt43 op    C   C
+CL005QL2_M41-utt43 #csid 2 0 0 0
+CL005QL2_M41-utt44 ref  ka  pi  tu  lo
+CL005QL2_M41-utt44 hyp  ka  pi  tu  lo
+CL005QL2_M41-utt44 op    C   C   C   C
+CL005QL2_M41-utt44 #csid 4 0 0 0
+CL005QL2_M41-utt45 ref  lu  xa
+CL005QL2_M41-utt45 hyp  lu  xa
+CL005QL2_M41-utt45 op    C   C
+CL005QL2_M41-utt45 #csid 2 0 0 0
+CL005QL2_M41-utt46 ref  ba  ye
+CL005QL2_M41-utt46 hyp  ba  ye
+CL005QL2_M41-utt46 op    C   C
+CL005QL2_M41-utt46 #csid 2 0 0 0
+CL005QL2_M41-utt47 ref  ka  ba  ye  mo
+CL005QL2_M41-utt47 hyp  ka  ba  ye  mo
+CL005QL2_M41-utt47 op    C   C   C   C
+CL005QL2_M41-utt47 #csid 4 0 0 0
+CL005QL2_M41-utt5 ref  ma  nya  na
+CL005QL2_M41-utt5 hyp  na  nya  na
+CL005QL2_M41-utt5 op    S   C    C
+CL005QL2_M41-utt5 #csid 2 1 0 0
+CL005QL2_M41-utt6 ref  zi  da
+CL005QL2_M41-utt6 hyp  zi  da
+CL005QL2_M41-utt6 op    C   C
+CL005QL2_M41-utt6 #csid 2 0 0 0
+CL005QL2_M41-utt7 ref  ka  rro  nya
+CL005QL2_M41-utt7 hyp  ka  rro  nya
+CL005QL2_M41-utt7 op    C   C    C 
+CL005QL2_M41-utt7 #csid 3 0 0 0
+CL005QL2_M41-utt8 ref  bi  ga
+CL005QL2_M41-utt8 hyp  bi  ga
+CL005QL2_M41-utt8 op    C   C
+CL005QL2_M41-utt8 #csid 2 0 0 0
+CL005QL2_M41-utt9 ref  mo  pe  di  ta
+CL005QL2_M41-utt9 hyp  mo  pe  di  ta
+CL005QL2_M41-utt9 op    C   C   C   C
+CL005QL2_M41-utt9 #csid 4 0 0 0
+CL005QL3_M41-utt0 ref  so  ri
+CL005QL3_M41-utt0 hyp  so  ri
+CL005QL3_M41-utt0 op    C   C
+CL005QL3_M41-utt0 #csid 2 0 0 0
+CL005QL3_M41-utt1 ref  ye  da
+CL005QL3_M41-utt1 hyp  ye  ra
+CL005QL3_M41-utt1 op    C   S
+CL005QL3_M41-utt1 #csid 1 1 0 0
+CL005QL3_M41-utt10 ref  ku  fe
+CL005QL3_M41-utt10 hyp  ku  fe
+CL005QL3_M41-utt10 op    C   C
+CL005QL3_M41-utt10 #csid 2 0 0 0
+CL005QL3_M41-utt11 ref  so  ma
+CL005QL3_M41-utt11 hyp  so  ma
+CL005QL3_M41-utt11 op    C   C
+CL005QL3_M41-utt11 #csid 2 0 0 0
+CL005QL3_M41-utt12 ref  ka  ba  ye  ro
+CL005QL3_M41-utt12 hyp  ka  ba  ye  ro
+CL005QL3_M41-utt12 op    C   C   C   C
+CL005QL3_M41-utt12 #csid 4 0 0 0
+CL005QL3_M41-utt13 ref  be  na
+CL005QL3_M41-utt13 hyp  be  na
+CL005QL3_M41-utt13 op    C   C
+CL005QL3_M41-utt13 #csid 2 0 0 0
+CL005QL3_M41-utt14 ref  mu  si  ka
+CL005QL3_M41-utt14 hyp  mu  si  ka
+CL005QL3_M41-utt14 op    C   C   C
+CL005QL3_M41-utt14 #csid 3 0 0 0
+CL005QL3_M41-utt15 ref  di  ku
+CL005QL3_M41-utt15 hyp  di  ku
+CL005QL3_M41-utt15 op    C   C
+CL005QL3_M41-utt15 #csid 2 0 0 0
+CL005QL3_M41-utt16 ref  ka  mi  ro
+CL005QL3_M41-utt16 hyp  ka  mi  ro
+CL005QL3_M41-utt16 op    C   C   C
+CL005QL3_M41-utt16 #csid 3 0 0 0
+CL005QL3_M41-utt17 ref  me  ze  do  ra
+CL005QL3_M41-utt17 hyp  mi  zi  do  ra
+CL005QL3_M41-utt17 op    S   S   C   C
+CL005QL3_M41-utt17 #csid 2 2 0 0
+CL005QL3_M41-utt18 ref  ze  bi
+CL005QL3_M41-utt18 hyp  ze  di
+CL005QL3_M41-utt18 op    C   S
+CL005QL3_M41-utt18 #csid 1 1 0 0
+CL005QL3_M41-utt19 ref  ka  xo
+CL005QL3_M41-utt19 hyp  ka  xo
+CL005QL3_M41-utt19 op    C   C
+CL005QL3_M41-utt19 #csid 2 0 0 0
+CL005QL3_M41-utt2 ref  pa  li  xo
+CL005QL3_M41-utt2 hyp  pa  li  xo
+CL005QL3_M41-utt2 op    C   C   C
+CL005QL3_M41-utt2 #csid 3 0 0 0
+CL005QL3_M41-utt20 ref  bi  la
+CL005QL3_M41-utt20 hyp  bi  la
+CL005QL3_M41-utt20 op    C   C
+CL005QL3_M41-utt20 #csid 2 0 0 0
+CL005QL3_M41-utt21 ref  me  di  zi  ra
+CL005QL3_M41-utt21 hyp  me  di  zi  ra
+CL005QL3_M41-utt21 op    C   C   C   C
+CL005QL3_M41-utt21 #csid 4 0 0 0
+CL005QL3_M41-utt22 ref  la  ti  ga  fo
+CL005QL3_M41-utt22 hyp  la  ti  ta  fo
+CL005QL3_M41-utt22 op    C   C   S   C
+CL005QL3_M41-utt22 #csid 3 1 0 0
+CL005QL3_M41-utt23 ref  no  fe  ba
+CL005QL3_M41-utt23 hyp  no  fe  ba
+CL005QL3_M41-utt23 op    C   C   C
+CL005QL3_M41-utt23 #csid 3 0 0 0
+CL005QL3_M41-utt24 ref  lu  fo
+CL005QL3_M41-utt24 hyp  lu  fo
+CL005QL3_M41-utt24 op    C   C
+CL005QL3_M41-utt24 #csid 2 0 0 0
+CL005QL3_M41-utt25 ref  ka  po  di  no
+CL005QL3_M41-utt25 hyp  ka  po  di  no
+CL005QL3_M41-utt25 op    C   C   C   C
+CL005QL3_M41-utt25 #csid 4 0 0 0
+CL005QL3_M41-utt26 ref  fi  lo  so  fo
+CL005QL3_M41-utt26 hyp  fi  lo  so  fo
+CL005QL3_M41-utt26 op    C   C   C   C
+CL005QL3_M41-utt26 #csid 4 0 0 0
+CL005QL3_M41-utt27 ref  ni  bo  fe  ma
+CL005QL3_M41-utt27 hyp  ni  bo  fe  ma
+CL005QL3_M41-utt27 op    C   C   C   C
+CL005QL3_M41-utt27 #csid 4 0 0 0
+CL005QL3_M41-utt28 ref  mi  ri  ya
+CL005QL3_M41-utt28 hyp  mi  ri  ya
+CL005QL3_M41-utt28 op    C   C   C
+CL005QL3_M41-utt28 #csid 3 0 0 0
+CL005QL3_M41-utt29 ref  zi  bu  fe  ni
+CL005QL3_M41-utt29 hyp  zi  bu  fe  ni
+CL005QL3_M41-utt29 op    C   C   C   C
+CL005QL3_M41-utt29 #csid 4 0 0 0
+CL005QL3_M41-utt3 ref  so  ga
+CL005QL3_M41-utt3 hyp  so  ga
+CL005QL3_M41-utt3 op    C   C
+CL005QL3_M41-utt3 #csid 2 0 0 0
+CL005QL3_M41-utt30 ref  mo  pa  so  ka
+CL005QL3_M41-utt30 hyp  po  pa  so  ka
+CL005QL3_M41-utt30 op    S   C   C   C
+CL005QL3_M41-utt30 #csid 3 1 0 0
+CL005QL3_M41-utt31 ref  ma  ni  be  la
+CL005QL3_M41-utt31 hyp  ma  ni  be  la
+CL005QL3_M41-utt31 op    C   C   C   C
+CL005QL3_M41-utt31 #csid 4 0 0 0
+CL005QL3_M41-utt32 ref  pe  ta  te
+CL005QL3_M41-utt32 hyp  pe  ta  te
+CL005QL3_M41-utt32 op    C   C   C
+CL005QL3_M41-utt32 #csid 3 0 0 0
+CL005QL3_M41-utt33 ref  de  ba  te
+CL005QL3_M41-utt33 hyp  de  ba  te
+CL005QL3_M41-utt33 op    C   C   C
+CL005QL3_M41-utt33 #csid 3 0 0 0
+CL005QL3_M41-utt34 ref  lu  cha
+CL005QL3_M41-utt34 hyp  lu  cha
+CL005QL3_M41-utt34 op    C   C 
+CL005QL3_M41-utt34 #csid 2 0 0 0
+CL005QL3_M41-utt35 ref  ka  mo
+CL005QL3_M41-utt35 hyp  ka  ma
+CL005QL3_M41-utt35 op    C   S
+CL005QL3_M41-utt35 #csid 1 1 0 0
+CL005QL3_M41-utt36 ref  ko  di  so
+CL005QL3_M41-utt36 hyp  ko  di  so
+CL005QL3_M41-utt36 op    C   C   C
+CL005QL3_M41-utt36 #csid 3 0 0 0
+CL005QL3_M41-utt37 ref  so  ma  zi
+CL005QL3_M41-utt37 hyp  so  ma  zi
+CL005QL3_M41-utt37 op    C   C   C
+CL005QL3_M41-utt37 #csid 3 0 0 0
+CL005QL3_M41-utt38 ref  lo  na
+CL005QL3_M41-utt38 hyp  lo  na
+CL005QL3_M41-utt38 op    C   C
+CL005QL3_M41-utt38 #csid 2 0 0 0
+CL005QL3_M41-utt39 ref  rro  ko
+CL005QL3_M41-utt39 hyp  rro  ko
+CL005QL3_M41-utt39 op    C    C
+CL005QL3_M41-utt39 #csid 2 0 0 0
+CL005QL3_M41-utt4 ref  ko  pa
+CL005QL3_M41-utt4 hyp  ko  pa
+CL005QL3_M41-utt4 op    C   C
+CL005QL3_M41-utt4 #csid 2 0 0 0
+CL005QL3_M41-utt40 ref  pe  ta  ma
+CL005QL3_M41-utt40 hyp  pe  ta  ma
+CL005QL3_M41-utt40 op    C   C   C
+CL005QL3_M41-utt40 #csid 3 0 0 0
+CL005QL3_M41-utt41 ref  ge  za
+CL005QL3_M41-utt41 hyp  ge  za
+CL005QL3_M41-utt41 op    C   C
+CL005QL3_M41-utt41 #csid 2 0 0 0
+CL005QL3_M41-utt42 ref  ma  no  ta  go
+CL005QL3_M41-utt42 hyp  ma  no  ta  go
+CL005QL3_M41-utt42 op    C   C   C   C
+CL005QL3_M41-utt42 #csid 4 0 0 0
+CL005QL3_M41-utt43 ref  bu  ke
+CL005QL3_M41-utt43 hyp  bu  ke
+CL005QL3_M41-utt43 op    C   C
+CL005QL3_M41-utt43 #csid 2 0 0 0
+CL005QL3_M41-utt44 ref  me  pe
+CL005QL3_M41-utt44 hyp  me  pe
+CL005QL3_M41-utt44 op    C   C
+CL005QL3_M41-utt44 #csid 2 0 0 0
+CL005QL3_M41-utt45 ref  pe  ta
+CL005QL3_M41-utt45 hyp  pe  ta
+CL005QL3_M41-utt45 op    C   C
+CL005QL3_M41-utt45 #csid 2 0 0 0
+CL005QL3_M41-utt46 ref  rre  ti  ra  za
+CL005QL3_M41-utt46 hyp  rre  ti  ra  za
+CL005QL3_M41-utt46 op    C    C   C   C
+CL005QL3_M41-utt46 #csid 4 0 0 0
+CL005QL3_M41-utt47 ref  ti  bu
+CL005QL3_M41-utt47 hyp  zi  bu
+CL005QL3_M41-utt47 op    S   C
+CL005QL3_M41-utt47 #csid 1 1 0 0
+CL005QL3_M41-utt5 ref  be  ya  fe
+CL005QL3_M41-utt5 hyp  be  ya  fe
+CL005QL3_M41-utt5 op    C   C   C
+CL005QL3_M41-utt5 #csid 3 0 0 0
+CL005QL3_M41-utt6 ref  mu  lo
+CL005QL3_M41-utt6 hyp  mu  lo
+CL005QL3_M41-utt6 op    C   C
+CL005QL3_M41-utt6 #csid 2 0 0 0
+CL005QL3_M41-utt7 ref  zi  ma
+CL005QL3_M41-utt7 hyp  zi  ma
+CL005QL3_M41-utt7 op    C   C
+CL005QL3_M41-utt7 #csid 2 0 0 0
+CL005QL3_M41-utt8 ref  no  be  ya
+CL005QL3_M41-utt8 hyp  no  be  ya
+CL005QL3_M41-utt8 op    C   C   C
+CL005QL3_M41-utt8 #csid 3 0 0 0
+CL005QL3_M41-utt9 ref  ni  gu
+CL005QL3_M41-utt9 hyp  ni  gu
+CL005QL3_M41-utt9 op    C   C
+CL005QL3_M41-utt9 #csid 2 0 0 0
+CL005QL4_M41-utt0 ref  chu  so
+CL005QL4_M41-utt0 hyp  chu  so
+CL005QL4_M41-utt0 op    C    C
+CL005QL4_M41-utt0 #csid 2 0 0 0
+CL005QL4_M41-utt1 ref  fe  za
+CL005QL4_M41-utt1 hyp  ze  za
+CL005QL4_M41-utt1 op    S   C
+CL005QL4_M41-utt1 #csid 1 1 0 0
+CL005QL4_M41-utt10 ref  do  ya
+CL005QL4_M41-utt10 hyp  do  ya
+CL005QL4_M41-utt10 op    C   C
+CL005QL4_M41-utt10 #csid 2 0 0 0
+CL005QL4_M41-utt11 ref  li  ya
+CL005QL4_M41-utt11 hyp  li  ya
+CL005QL4_M41-utt11 op    C   C
+CL005QL4_M41-utt11 #csid 2 0 0 0
+CL005QL4_M41-utt12 ref  ka  mi  no
+CL005QL4_M41-utt12 hyp  ka  mi  no
+CL005QL4_M41-utt12 op    C   C   C
+CL005QL4_M41-utt12 #csid 3 0 0 0
+CL005QL4_M41-utt13 ref  pa  de  so
+CL005QL4_M41-utt13 hyp  pa  de  so
+CL005QL4_M41-utt13 op    C   C   C
+CL005QL4_M41-utt13 #csid 3 0 0 0
+CL005QL4_M41-utt14 ref  so  da
+CL005QL4_M41-utt14 hyp  so  da
+CL005QL4_M41-utt14 op    C   C
+CL005QL4_M41-utt14 #csid 2 0 0 0
+CL005QL4_M41-utt15 ref  ti  tu  mo
+CL005QL4_M41-utt15 hyp  ti  tu  no
+CL005QL4_M41-utt15 op    C   C   S
+CL005QL4_M41-utt15 #csid 2 1 0 0
+CL005QL4_M41-utt16 ref  di  ma  ko
+CL005QL4_M41-utt16 hyp  bi  ma  ko
+CL005QL4_M41-utt16 op    S   C   C
+CL005QL4_M41-utt16 #csid 2 1 0 0
+CL005QL4_M41-utt17 ref  ka  no
+CL005QL4_M41-utt17 hyp  ka  no
+CL005QL4_M41-utt17 op    C   C
+CL005QL4_M41-utt17 #csid 2 0 0 0
+CL005QL4_M41-utt18 ref  ko  ga
+CL005QL4_M41-utt18 hyp  ko  ga
+CL005QL4_M41-utt18 op    C   C
+CL005QL4_M41-utt18 #csid 2 0 0 0
+CL005QL4_M41-utt19 ref  mo  pe
+CL005QL4_M41-utt19 hyp  mo  pe
+CL005QL4_M41-utt19 op    C   C
+CL005QL4_M41-utt19 #csid 2 0 0 0
+CL005QL4_M41-utt2 ref  ye  ma
+CL005QL4_M41-utt2 hyp  ye  ma
+CL005QL4_M41-utt2 op    C   C
+CL005QL4_M41-utt2 #csid 2 0 0 0
+CL005QL4_M41-utt20 ref  na  fe
+CL005QL4_M41-utt20 hyp  na  ze
+CL005QL4_M41-utt20 op    C   S
+CL005QL4_M41-utt20 #csid 1 1 0 0
+CL005QL4_M41-utt21 ref  ge  rra
+CL005QL4_M41-utt21 hyp  ge  rra
+CL005QL4_M41-utt21 op    C   C 
+CL005QL4_M41-utt21 #csid 2 0 0 0
+CL005QL4_M41-utt22 ref  so  ga  li  na
+CL005QL4_M41-utt22 hyp  so  ga  li  na
+CL005QL4_M41-utt22 op    C   C   C   C
+CL005QL4_M41-utt22 #csid 4 0 0 0
+CL005QL4_M41-utt23 ref  pe  li  ku  za
+CL005QL4_M41-utt23 hyp  ze  yi  ku  za
+CL005QL4_M41-utt23 op    S   S   C   C
+CL005QL4_M41-utt23 #csid 2 2 0 0
+CL005QL4_M41-utt24 ref  di  la
+CL005QL4_M41-utt24 hyp  di  la
+CL005QL4_M41-utt24 op    C   C
+CL005QL4_M41-utt24 #csid 2 0 0 0
+CL005QL4_M41-utt25 ref  no  be  la
+CL005QL4_M41-utt25 hyp  no  be  la
+CL005QL4_M41-utt25 op    C   C   C
+CL005QL4_M41-utt25 #csid 3 0 0 0
+CL005QL4_M41-utt26 ref  pe  gu  ga  ta
+CL005QL4_M41-utt26 hyp  pe  gu  ga  ka
+CL005QL4_M41-utt26 op    C   C   C   S
+CL005QL4_M41-utt26 #csid 3 1 0 0
+CL005QL4_M41-utt27 ref  la  ti  ga  zo
+CL005QL4_M41-utt27 hyp  la  ti  da  zo
+CL005QL4_M41-utt27 op    C   C   S   C
+CL005QL4_M41-utt27 #csid 3 1 0 0
+CL005QL4_M41-utt28 ref  rro  ka
+CL005QL4_M41-utt28 hyp  rro  ka
+CL005QL4_M41-utt28 op    C    C
+CL005QL4_M41-utt28 #csid 2 0 0 0
+CL005QL4_M41-utt29 ref  pa  le   ti  rra
+CL005QL4_M41-utt29 hyp  pa  le  tir  rra
+CL005QL4_M41-utt29 op    C   C   S    C 
+CL005QL4_M41-utt29 #csid 3 1 0 0
+CL005QL4_M41-utt3 ref  zi  fo
+CL005QL4_M41-utt3 hyp  zi  fo
+CL005QL4_M41-utt3 op    C   C
+CL005QL4_M41-utt3 #csid 2 0 0 0
+CL005QL4_M41-utt30 ref  ze  bo
+CL005QL4_M41-utt30 hyp  ze  bo
+CL005QL4_M41-utt30 op    C   C
+CL005QL4_M41-utt30 #csid 2 0 0 0
+CL005QL4_M41-utt31 ref  pa  li  yo
+CL005QL4_M41-utt31 hyp  pa  li  yo
+CL005QL4_M41-utt31 op    C   C   C
+CL005QL4_M41-utt31 #csid 3 0 0 0
+CL005QL4_M41-utt32 ref  ka  ba  ye  to
+CL005QL4_M41-utt32 hyp  ka  ba  ye  to
+CL005QL4_M41-utt32 op    C   C   C   C
+CL005QL4_M41-utt32 #csid 4 0 0 0
+CL005QL4_M41-utt33 ref  lo  fe  du  ne
+CL005QL4_M41-utt33 hyp  lo  fe  du  ne
+CL005QL4_M41-utt33 op    C   C   C   C
+CL005QL4_M41-utt33 #csid 4 0 0 0
+CL005QL4_M41-utt34 ref  ya  to
+CL005QL4_M41-utt34 hyp  ya  to
+CL005QL4_M41-utt34 op    C   C
+CL005QL4_M41-utt34 #csid 2 0 0 0
+CL005QL4_M41-utt35 ref  gi  cho
+CL005QL4_M41-utt35 hyp  gi  cho
+CL005QL4_M41-utt35 op    C   C 
+CL005QL4_M41-utt35 #csid 2 0 0 0
+CL005QL4_M41-utt36 ref  pe  na
+CL005QL4_M41-utt36 hyp  pe  na
+CL005QL4_M41-utt36 op    C   C
+CL005QL4_M41-utt36 #csid 2 0 0 0
+CL005QL4_M41-utt37 ref  bi  ya
+CL005QL4_M41-utt37 hyp  bi  ya
+CL005QL4_M41-utt37 op    C   C
+CL005QL4_M41-utt37 #csid 2 0 0 0
+CL005QL4_M41-utt38 ref  to  ye
+CL005QL4_M41-utt38 hyp  to  ye
+CL005QL4_M41-utt38 op    C   C
+CL005QL4_M41-utt38 #csid 2 0 0 0
+CL005QL4_M41-utt39 ref  fe  bu  xo
+CL005QL4_M41-utt39 hyp  fe  bu  xo
+CL005QL4_M41-utt39 op    C   C   C
+CL005QL4_M41-utt39 #csid 3 0 0 0
+CL005QL4_M41-utt4 ref  pa  ni
+CL005QL4_M41-utt4 hyp  pa  ni
+CL005QL4_M41-utt4 op    C   C
+CL005QL4_M41-utt4 #csid 2 0 0 0
+CL005QL4_M41-utt40 ref  rre  ti  ra   da
+CL005QL4_M41-utt40 hyp  rre  ti  ra  ***
+CL005QL4_M41-utt40 op    C    C   C   D 
+CL005QL4_M41-utt40 #csid 3 0 0 1
+CL005QL4_M41-utt41 ref  nu  me  so
+CL005QL4_M41-utt41 hyp  nu  me  so
+CL005QL4_M41-utt41 op    C   C   C
+CL005QL4_M41-utt41 #csid 3 0 0 0
+CL005QL4_M41-utt42 ref  ta  le  bo
+CL005QL4_M41-utt42 hyp  ka  le  bo
+CL005QL4_M41-utt42 op    S   C   C
+CL005QL4_M41-utt42 #csid 2 1 0 0
+CL005QL4_M41-utt43 ref  me  di  zi  na
+CL005QL4_M41-utt43 hyp  me  di  zi  na
+CL005QL4_M41-utt43 op    C   C   C   C
+CL005QL4_M41-utt43 #csid 4 0 0 0
+CL005QL4_M41-utt44 ref  zi  se
+CL005QL4_M41-utt44 hyp  zi  se
+CL005QL4_M41-utt44 op    C   C
+CL005QL4_M41-utt44 #csid 2 0 0 0
+CL005QL4_M41-utt45 ref  fe  xi
+CL005QL4_M41-utt45 hyp  fe  xi
+CL005QL4_M41-utt45 op    C   C
+CL005QL4_M41-utt45 #csid 2 0 0 0
+CL005QL4_M41-utt46 ref  bi  fu  pe  si
+CL005QL4_M41-utt46 hyp  bi  fu  pe  si
+CL005QL4_M41-utt46 op    C   C   C   C
+CL005QL4_M41-utt46 #csid 4 0 0 0
+CL005QL4_M41-utt5 ref  ma  no  ta  zo
+CL005QL4_M41-utt5 hyp  ma  no  ta  zo
+CL005QL4_M41-utt5 op    C   C   C   C
+CL005QL4_M41-utt5 #csid 4 0 0 0
+CL005QL4_M41-utt6 ref  ba  rre  yo
+CL005QL4_M41-utt6 hyp  ba  rre  yo
+CL005QL4_M41-utt6 op    C   C    C
+CL005QL4_M41-utt6 #csid 3 0 0 0
+CL005QL4_M41-utt7 ref  se  nyo  ri  da
+CL005QL4_M41-utt7 hyp  se  nyo  ri  da
+CL005QL4_M41-utt7 op    C   C    C   C
+CL005QL4_M41-utt7 #csid 4 0 0 0
+CL005QL4_M41-utt8 ref  tu  zo
+CL005QL4_M41-utt8 hyp  tu  zo
+CL005QL4_M41-utt8 op    C   C
+CL005QL4_M41-utt8 #csid 2 0 0 0
+CL005QL4_M41-utt9 ref  pe  ta  ka
+CL005QL4_M41-utt9 hyp  pe  ta  ka
+CL005QL4_M41-utt9 op    C   C   C
+CL005QL4_M41-utt9 #csid 3 0 0 0
