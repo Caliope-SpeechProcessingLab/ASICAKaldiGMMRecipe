@@ -160,7 +160,8 @@ def save_raw_result(results_decode_path):
         output = open('results/raw/'+speaker+'_raw.txt','+w')
         output.write(r)
 
-        result_format.extract_results(True, speaker)
+    output.close()
+    result_format.extract_results(True, speaker)
     return speaker
 # end save_raw_result
 
