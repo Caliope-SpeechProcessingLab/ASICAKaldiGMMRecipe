@@ -143,8 +143,6 @@ if args.test:
     pathTo_perSpk = 'exp/tri1/decode/scoring_kaldi/wer_details/per_spk'
     result_format.simpleFormat(pathTo_perSpk,'results/' + resultFilename)
 
-    import result_format
-
 # end if
 
 print("--- %s seconds ---" % (time.time() - start_time))

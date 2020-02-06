@@ -258,11 +258,36 @@ def kal_annot_to_textgrid_annot(kaldi_annotated_path, textgrid_path, textgrid_an
     for file in os.listdir(kaldi_annotated_path):
 
         kaldi_annotated_file = open(os.path.join(kaldi_annotated_path, file))
+        kaldi_annotated_file_tier2 = open(os.path.join(kaldi_annotated_path, file))
         textgrid_file = open(os.path.join(textgrid_path, file[:-4]+".TextGrid"),'r')
         textgrid_annotated_file = open(os.path.join(textgrid_annotated_path, file[:-4]+".TextGrid"),'w')
 
+        tier2 = list()
         for i, line in enumerate(textgrid_file):
             line_aux = line
+            line_aux_tier2 = line
+
+            # Need to create another file with tier2
+            if i > 7:
+                if "sounding" in line:
+                    fonol_kaldi = kaldi_annotated_file_tier2.readline()
+                    fonol_kaldi = fonol_kaldi.split()
+                    fonol_kaldi = fonol_kaldi[-int((len(fonol_kaldi)-2)/2):]
+
+                    # Fix manuaaly the letters to avoid symbols like ' " [ ] ...
+                    line_to_file = ''
+                    for words in fonol_kaldi:
+                        line_to_file = line_to_file + words + ' '
+                    line_to_file = line_to_file[:-1]
+
+                    tier2.append(line_aux_tier2.replace('sounding', line_to_file))
+                elif "silences" in line:
+                    tier2.append(line_aux_tier2.replace('silences', "fonol."))
+                elif "item [1]" in line:
+                    tier2.append(line_aux_tier2.replace('item [1]', "item [2]"))
+                else:
+                    tier2.append(line_aux_tier2)
+            # end if i > 7
 
             if "sounding" in line:
                 word_kaldi = kaldi_annotated_file.readline()
@@ -276,10 +301,17 @@ def kal_annot_to_textgrid_annot(kaldi_annotated_path, textgrid_path, textgrid_an
                 line_to_file = line_to_file[:-1]
 
                 textgrid_annotated_file.write(line_aux.replace('sounding', line_to_file))
+            elif "silences" in line:
+                textgrid_annotated_file.write(line_aux.replace('silences', "Transcripción"))
+            elif "size = 1" in line:
+                textgrid_annotated_file.write(line_aux.replace('1', "2"))
             else:
                 textgrid_annotated_file.write(line_aux)
            # end if
         # end for
+
+        for line in tier2:
+            textgrid_annotated_file.write(line)
 
         kaldi_annotated_file.close()
         textgrid_file.close()
