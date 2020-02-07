@@ -26,6 +26,7 @@ Thumbs.db
 *.kal
 *.TextGrid
 *.txt
+resultSimple*
 utt*
 spk*
 *.xlsx
