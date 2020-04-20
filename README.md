@@ -96,7 +96,7 @@ In order to facilitate creating these .kal files, you can use Praat textGrids. I
 ##### 5. Running a basic experiment with ASICAKaldiGMMRecipe
 
   - 1º: Place the audio files in the folder audio/experiment_lm (if you prefer another location, you must specify in config.py, configTrain.py, configTest.py)
-  - 2º: Place the training .kal files in info_user/control
+  - 2º: Place the training .kal files in info_user/train
   - 3º  Place the testing .kal files in info_user/test 
   - 4º: In the terminal, type "python3 check_format.py" in ASICAKaldiNNETRecipe path. If there are errors, please edit the .kal files
   - 5º: Type the following command in CLI (main script): "python3 run.py --train -- test". 
