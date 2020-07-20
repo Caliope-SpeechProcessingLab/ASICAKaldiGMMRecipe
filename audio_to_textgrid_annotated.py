@@ -42,8 +42,6 @@
 # Funtion to interrupt program with CTRL-C
 #
 
-
-
 import os
 import re
 import sys
@@ -51,18 +49,17 @@ import shutil
 import subprocess
 import parselmouth
 from parselmouth.praat import call
-import pandas as pd
-
-import result_format
+#import pandas as pd
+#import result_format
 import crossval_spk_functions
-
-
 
 # ----------------------------- FUNCTIONS  ---------------------------------- #
 def create_data_path(path_name):
-    # create_data_path takes path_name and create a folder with that path. If exits, removes it before creation
-    #   path_name: name of the path to create
+    """Takes path_name and create a folder with that path. If exits, removes it before creation.
 
+    :param path_name: name of the path to create.
+    :returns: None.
+    """
     if os.path.exists(path_name):
         shutil.rmtree(path_name)
     # end if
@@ -71,10 +68,12 @@ def create_data_path(path_name):
 
 
 def audio_to_textgrid(audio_no_annot_path, textgrid_path):
-    # audio_to_textgrid generates .TextGrid files from audio using Praat
-    #   audio_no_annot_path: path with audio not annotated
-    #   textgrid_path: path with textgrid generated
+    """Generates .TextGrid files from audio using Praat.
 
+    :param audio_no_annot_path: path with audio not annotated.
+    :param textgrid_path: path with textgrid generated.
+    :returns: None.
+    """
     create_data_path(textgrid_path)
 
     audio_files = os.listdir(audio_no_annot_path)
@@ -100,8 +99,7 @@ def audio_to_textgrid(audio_no_annot_path, textgrid_path):
                 print(str(int(index_mod/data_mod * 10))+"% ",end="\r")
         except:
             print('',end="\r")
-
-        #end if
+        #end try
         index_mod += 1
     # end for
 
@@ -116,10 +114,15 @@ def audio_to_textgrid(audio_no_annot_path, textgrid_path):
 
 
 def modelate_audio(path_name):
-    # modelate_audio takes a path with manually generated kaldi files and calculates diferent metric
+    """Takes a path with manually generated kaldi files and calculates diferent metric.
+
+    :param path_name: path with audio not annotated.
+    :param textgrid_path: path with annotations.
+    :returns separation_between_words: Separations between words in order to identify wrong silents.
+    """
     # path_name = info_user_train_path
 
-    ## Calculate separation between words in order to identify wrong silents
+    # Calculate separation between words in order to identify wrong silents
     separation_between_words = []    # save length of 'sounding' period separation
     # kal_file ='CA562QL1_H50.kal'
     for kal_file in os.listdir(path_name):
@@ -135,7 +138,6 @@ def modelate_audio(path_name):
 
             for i in range(int(num_words)-1):
                 separation_between_words.append(float(kaldi_text[(i+1)*4]) - float(kaldi_text[i*4]))
-            # end for
          # end if
     # end for
 
@@ -144,10 +146,12 @@ def modelate_audio(path_name):
 
 
 def textgrid_to_kal(textgrid_path, kaldi_path):
-    # textgrid_to_kal takes textgrid and convert to kal
-    #   textgrid_path:
-    #   kaldi_path:
+    """Takes textgrid and convert to kal.
 
+    :param textgrid_path: path with textgrid annotations.
+    :param kaldi_path: folder when saving kaldi files.
+    :returns: None.
+    """
     create_data_path(kaldi_path)
 
     for file in os.listdir(textgrid_path):
@@ -190,10 +194,13 @@ def textgrid_to_kal(textgrid_path, kaldi_path):
 
 
 def results_to_kal_annot(results_raw_path,kaldi_path,kaldi_annotated_path):
-    # results_to_kal_annot
-    #   results_raw_path
-    #   kaldi_annotated_path
+    """Save results to kaldi format file annotations.
 
+    :param results_raw_path: folder with results/raw after testing.
+    :param kaldi_path: folder with kaldi files.
+    :param kaldi_annotated_path: folder when saving kaldi files.
+    :returns: None.
+    """
     create_data_path(kaldi_annotated_path)
 
     for file in os.listdir(results_raw_path):
@@ -249,10 +256,13 @@ def results_to_kal_annot(results_raw_path,kaldi_path,kaldi_annotated_path):
 
 
 def kal_annot_to_textgrid_annot(kaldi_annotated_path, textgrid_path, textgrid_annotated_path):
-    # kal_annot_to_textgrid_annot takes
-    #   kaldi_annotated_path:
-    #   kaldi_path:
+    """Save annotations in kaldi format to textgrid format.
 
+    :param kaldi_annotated_path: path to kaldi annotations folder.
+    :param textgrid_path: textgrid orginal path.
+    :param textgrid_annotated_path: textgrid with annotated path.
+    :returns: None.
+    """
     create_data_path(textgrid_annotated_path)
 
     for file in os.listdir(kaldi_annotated_path):
@@ -320,8 +330,12 @@ def kal_annot_to_textgrid_annot(kaldi_annotated_path, textgrid_path, textgrid_an
 # end kal_annot_to_textgrid_annot
 
 
-
 def main(argv):
+    """Main script
+
+    :param argv: arguments of script.
+    :returns: None.
+    """
 
     # ----------------------- ARGUMENT PARSING -------------------------------#
     modeTrain = True
@@ -418,14 +432,13 @@ def main(argv):
     # From kaldi annotated to textgrid annotated
     kal_annot_to_textgrid_annot(kaldi_annotated_path, textgrid_path, textgrid_annotated_path)
 
-# end function main
-
+# end main
 
 
 # ----------------------------- MAIN SECTION -------------------------------- #
 if __name__ == "__main__":
    main(sys.argv)
-
+# end if
 
 
 
