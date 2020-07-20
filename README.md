@@ -12,7 +12,7 @@ ASICAKaldiGMMRecipe is a set of Python scripts developed in our lab, but it also
 In order to use ASICAKaldiNNETRecipe:
 
 - A UNIX-type OS must be used.
-- Kaldi is correctly installed in your system
+- Kaldi is correctly installed in your system, visit https://kaldi-asr.org/doc/install.html.
 - Python3 is correctly installed, and the following libraries: pandas, time, subprocess, os, errno, csv, shutil
 - You must have a training and testing corpus (see section 4).
 
