@@ -26,11 +26,11 @@ git clone https://github.com/Caliope-SpeechProcessingLab/ASICAKaldiGMMRecipe.git
 
 The main python script is: 
 
-     run.py
+     run.py --> main steps for train and test process.
 
 Auxiliary python and shell scripts called by "run":
 
-- config.py ---> Extract .kal information to set all kaldi folders.
+- configTest.py, configTrain.py ---> Extract .kal information to set all kaldi folders.
 - local/resetDirectory.sh ---> Reset current kaldi data directory.
 - local/makeFeats.sh ---> Execute a mfcc/cvmn feature extraction of a certain group of speaker/s and a another set of testing speakers.
 - local/makeLanguageModel.sh ---> Execute a kaldi recipe to prepare and create a language Model.
