@@ -5,7 +5,6 @@
 # crossval_spk_functions.py
 #
 
-
 import os
 import csv
 import shutil
@@ -18,16 +17,16 @@ import pandas as pd
 #import crossval_spk_functions
 
 
-
 # ----------------------- FUNCTIONS  -----------------------------------------#
 
 def clean_wave_files(train_spks_info, audio_path, no_kal_path):
-    # clean_wave_files check if audio files in /audio/ have .kal file in infor_user/train/
-    #   train_spks_info: list of .kal files in info_user/train
-    #   audio_path: path with audio .wav files /audio/
-    #   no_kal_path: path with audios with no .kal files asociated to them
+    """Check if audio files in /audio/ have .kal file in infor_user/train/
 
-
+    :param train_spks_info: list of .kal files in info_user/train.
+    :param audio_path: path with audio .wav files /audio/.
+    :param no_kal_path: path with audios with no .kal files asociated to them.
+    :returns: None.
+    """
     # If folder doesn't exist, then create it.
     if not os.path.isdir(no_kal_path):
         os.makedirs(no_kal_path)
@@ -56,17 +55,16 @@ def clean_wave_files(train_spks_info, audio_path, no_kal_path):
             shutil.move(os.path.join(no_kal_path,f), audio_path)
         # end if
     # end for
-
-# end function
+# end clean_wave_files
 
 
 def check_kal_wav(audio_wav_list, file_kal_list):
-    # check_kal_wav check if every audio .wav in audio_wav_list has it corresponding .kal file in file_kal_list
-    #   audio_wav_list: audio .wav list from /audio/
-    #   file_kal_list: .kal file list from info_user/train/
-    #
-    #   Output: it prints the list of missing audio files without .kal files
+    """Check if every audio .wav in audio_wav_list has it corresponding .kal file in file_kal_list
 
+    :param audio_wav_list: audio .wav list from /audio/.
+    :param file_kal_list: .kal file list from info_user/train/.
+    :returns: it prints the list of missing audio files without .kal files.
+    """
     list_missing_file=list();
 
     for wav in audio_wav_list:
@@ -77,14 +75,15 @@ def check_kal_wav(audio_wav_list, file_kal_list):
     #end for
 
     print(list_missing_file)
-
-#end function
+#end check_kal_wav
 
 
 def global_result_reformat(result_reformat):
-    # global_result_reformat takes every .csv file in results/reformat and merge in a single .txt file to SPSS
-    #   result_reformat: path results/reformat/'
+    """Takes every .csv file in results/reformat and merge in a single .txt file to SPSS
 
+    :param result_reformat: path results/reformat/'.
+    :returns: None.
+    """
     file_global = result_reformat+'global_result_reformat.txt'
     if os.path.exists(file_global):
         os.remove(file_global)
@@ -123,7 +122,13 @@ def global_result_reformat(result_reformat):
     # end with
 # end global_result_reformat
 
+
 def save_raw_result(results_decode_path):
+    """Save results in result/raw format
+
+    :param results_decode_path: path results.
+    :returns speaker: Speaker id.
+    """
     # Extract output
     #   results_decode_path = 'exp/nnet2/nnet2_simple/decode/scoring_kaldi/wer_details/'
     #   results_decode_path = 'exp/tri1/decode/scoring_kaldi/wer_details/'
@@ -167,9 +172,12 @@ def save_raw_result(results_decode_path):
 
 
 def results_ml_al(speaker_id,mode):
-    # AM AL model is modified in file /local/score.sh min_lmwt y max_lmwt.
-    # It limits the inverse of AM weight, i.e: higher lmwt means high influence of ML language model
+    """AM AL model is modified in file /local/score.sh min_lmwt y max_lmwt. It limits the inverse of AM weight, i.e: higher lmwt means high influence of ML language model
 
+    :param speaker_id: speaker id.
+    :param mode: indicated if using GMM or Nnet implementations.
+    :returns: None.
+    """
     df = pd.DataFrame(columns=('Speaker ID', 'AMAL', 'WInst', 'WER', 'Ins', 'Del', 'Sub'))
     path = ''
     if mode == 'gmm':

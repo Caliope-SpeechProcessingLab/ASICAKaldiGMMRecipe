@@ -6,11 +6,19 @@
 #
 #
 # You have three options:
-#    python3 Andres_ASICA_cross_val all             to test ALL spk IDs. That is, complete cross evaluation.
-#    python3 Andres_ASICA_cross_val + 001 123 ...   test specific spk IDs, 001 and 123 in this example will be used in cross validation.
-#    python3 Andres_ASICA_cross_val - 001 123 ...   test ALL spk IDs except specified. Test every speaker in cross validation except indicated.
 #
-# Default parameter is all
+#    python3 crossval_spk.py -a
+#    python3 crossval_spk.py --all)                   to test ALL spk IDs. That is, complete cross evaluation.
+#
+#    python3 crossval_spk.py -p 001 123 ...
+#    python3 crossval_spk.py --plus 001 123 ...       test specific spk IDs, 001 and 123 will be used in cross validation.
+#
+#    python3 crossval_spk.py -m  001 123 ...
+#    python3 crossval_spk.py --minus 001 123 ...      test ALL spk IDs except specified. Test every speaker except indicated.
+#
+#   python3 crossval_spk.py -p 001 123 -f mfcc plp pitch
+#
+# Default parameter is --all -f mfcc
 #
 #
 # Speaker's ID are recovered from the audio files as follows.
@@ -43,46 +51,44 @@
 import os
 import sys
 import shutil
+import argparse
 import subprocess
-#import result_format
 import crossval_spk_functions
-#import pandas as pd
-
-#import csv
-#import ASICA
-#import config
-
-#import configTrain
-#import configTest
-#import check_format
-#import time
-#import argparse
-#import subprocess
-#import run_iteration
-
-
 
 # ----------------------- FUNCTIONS  -----------------------------------------#
 def main(argv):
 
     # ----------------------- ARGUMENT PARSING -------------------------------#
-    speakers_plus_minus = list()    # speakers included in + or excluded in -
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-a', '--all', action='store_true', help='Use all speakers.')
+    parser.add_argument('-p', '--plus',  nargs='+', help='Test only indicated speakers')
+    parser.add_argument('-m', '--minus',  nargs='+', help='Test all except indicated speakers')
+    parser.add_argument('-f', '--feats',  nargs='+', help='Features to use, compulsory to include one e.g. -l mfcc')
+    args = parser.parse_args()
 
-    if len(sys.argv) == 1:
+    speakers_plus_minus = list()
+    if args.all:
+        print("CrossVal mode set to \"all\"")
+        crossVal_mode = "all"
+    elif args.plus!=None:
+        speakers_plus_minus = args.plus
+        crossVal_mode = "+"
+    elif args.minus!=None:
+        speakers_plus_minus = args.minus
+        crossVal_mode = "-"
+    else:
         print("\nNo argument indicated. CrossVal mode set to \"all\"")
         crossVal_mode = "all"
-    else:
-        crossVal_mode = sys.argv[1]
-        speakers_plus_minus = sys.argv[2:]
-
-        if not( crossVal_mode=="all" or crossVal_mode=="+" or crossVal_mode=="-"):
-           print("\nNo adecuated argument indicated. Only possible values: all, +, -. CrossVal mode set to \"all\"")
-           crossVal_mode = "all"
-        elif not(speakers_plus_minus):
-           print("\nNo list of speakers argument indicated. CrossVal mode set to \"all\"")
-           crossVal_mode = "all"
     # end if
 
+    # Features
+    features_list = list()
+    if args.feats==None:
+        print("\nNo features indicated. Using only mfcc")
+        features_list = list(['mfcc'])
+    else:
+        features_list = args.feats
+    # end if
 
     # -------------------------- USER VARIABLES ------------------------------#
 
@@ -97,14 +103,14 @@ def main(argv):
 
     # Internal file Paths:
     result_spk= 'results/'
-#    result_amal= 'results_AMAL/'
-#    result_spk_raw= 'results/raw/'
     result_reformat = 'results/reformat/'
-#    global_spk = 'results/global_spk.txt'
+    #    result_amal= 'results_AMAL/'
+    #    result_spk_raw= 'results/raw/'
+    #    global_spk = 'results/global_spk.txt'
 
     # Result filename path:
     resultFilename = 'resultIniciales'
-
+    combined_features_path = 'combined_features';
 
 
     # ------------------------ MAIN SECTION ----------------------------------#
@@ -187,6 +193,14 @@ def main(argv):
     print("---------------------------------------------------")
     print("---------------------------------------------------")
 
+    bashCommand = "rm -rf " + combined_features_path
+    process = subprocess.Popen(bashCommand,shell=True)
+    output, error = process.communicate()
+
+    bashCommand = "mkdir " + combined_features_path
+    process = subprocess.Popen(bashCommand,shell=True)
+    output, error = process.communicate()
+
     speakers_list_modified = list()
 
     if crossVal_mode == "all":
@@ -226,9 +240,10 @@ def main(argv):
             # --------------------- NNET2 CROSS VAL --------------------------#
             # ----------------------------------------------------------------#
 
-            bashCommand = "python3 run.py --train --test"
-            # bashCommand = "python3 run.py --test"
-            # bashCommand = "python3 run.py --train"
+            bashCommand = "python3 run.py --train --test -f " + ' '.join(features_list)
+
+            # bashCommand = "python3 run.py --test -f " + ' '.join(features_list)
+            # bashCommand = "python3 run.py --train -f " + ' '.join(features_list)
             process = subprocess.Popen(bashCommand,shell=True)
             output, error = process.communicate()
 
@@ -265,10 +280,12 @@ def main(argv):
 
         # Move back all test files to train folder
         files = os.listdir(info_test_path)
-        for f in files:
-            shutil.move(os.path.join(info_test_path,f), info_train_path)
+        #for f in files:
+        #    shutil.move(os.path.join(info_test_path,f), info_train_path)
 
     # end try
+    for f in os.listdir(combined_features_path):
+            os.remove(os.path.join(combined_features_path, f))
 
     print("\n---------------------------------------------------")
     print("---------------------------------------------------")
@@ -276,22 +293,26 @@ def main(argv):
     print("---------------------------------------------------")
     print("---------------------------------------------------")
 
+    # result_spk= 'results/'
+    # result_reformat = 'results/reformat/'
+
     # Take .csv result and reformat for SPSS analysis
     for file in os.listdir(result_spk):
         if file.endswith(".csv"):
-            bashCommand = "python3 result_reformat.py " + os.path.join(result_spk,file) + " " + os.path.join(result_reformat,file[:-4])+'_reformat.csv'
+            bashCommand = "python3 result_reformat4.py " + os.path.join(result_spk,file) + " " + os.path.join(result_reformat,file[:-4])+'_reformat.csv'
             process = subprocess.Popen(bashCommand,shell=True)
             output, error = process.communicate()
 
     # Global results for SPSS
+    # """ SE HA COMENTADO PARA HACER LOS CÁLCULOS POR PARTES """
     crossval_spk_functions.global_result_reformat(result_reformat)
+    # """ SE HA COMENTADO PARA HACER LOS CÁLCULOS POR PARTES """
 
-# end function
+# end main
 
 
-# ----------------------------------------------------- MAIN SECTION ------------------------------------------------------------------------------#
-
+# ----------------------------- MAIN SECTION -------------------------------- #
 if __name__ == "__main__":
    main(sys.argv)
-
+# end if
 
