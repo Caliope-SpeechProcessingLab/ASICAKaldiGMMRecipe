@@ -1,0 +1,71 @@
+# extract-segments scp,p:data/train/wav.scp exp/make_plp/train/segments.3 ark:- | compute-plp-feats --write-utt2dur=ark,t:exp/make_plp/train/utt2dur.3 --verbose=2 --config=conf/plp.conf ark:- ark:- | copy-feats --compress=true --write-num-frames=ark,t:exp/make_plp/train/utt2num_frames.3 ark:- ark,scp:/home/andres/kaldi/egs/ASICAKaldiGMM-SVM/plp/raw_plp_train.3.ark,/home/andres/kaldi/egs/ASICAKaldiGMM-SVM/plp/raw_plp_train.3.scp 
+# Started at Thu Jul  9 15:11:41 CEST 2020
+#
+extract-segments scp,p:data/train/wav.scp exp/make_plp/train/segments.3 ark:- 
+compute-plp-feats --write-utt2dur=ark,t:exp/make_plp/train/utt2dur.3 --verbose=2 --config=conf/plp.conf ark:- ark:- 
+copy-feats --compress=true --write-num-frames=ark,t:exp/make_plp/train/utt2num_frames.3 ark:- ark,scp:/home/andres/kaldi/egs/ASICAKaldiGMM-SVM/plp/raw_plp_train.3.ark,/home/andres/kaldi/egs/ASICAKaldiGMM-SVM/plp/raw_plp_train.3.scp 
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt18
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt19
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt2
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt3
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt4
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt5
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt6
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt7
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt8
+LOG (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:181) Processed 10 utterances
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS07Sil_M99-utt9
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt0
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt1
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt10
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt11
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt12
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt13
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt14
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt15
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt16
+LOG (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:181) Processed 20 utterances
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt17
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt18
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt19
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt2
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt3
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt4
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt5
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt6
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt7
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt8
+LOG (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:181) Processed 30 utterances
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS08Sil_M99-utt9
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt0
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt1
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt10
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt11
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt12
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt13
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt14
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt15
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt16
+LOG (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:181) Processed 40 utterances
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt17
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt18
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt19
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt2
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt3
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt4
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt5
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt6
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt7
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt8
+LOG (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:181) Processed 50 utterances
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS09Sil_M99-utt9
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS10Sil_M99-utt0
+LOG (extract-segments[5.5.481~1-ad09b]:main():extract-segments.cc:194) Successfully processed 55 lines out of 55 in the segments file. 
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS10Sil_M99-utt1
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS10Sil_M99-utt10
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS10Sil_M99-utt11
+VLOG[2] (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:182) Processed features for key CAS10Sil_M99-utt12
+LOG (compute-plp-feats[5.5.481~1-ad09b]:main():compute-plp-feats.cc:185)  Done 55 out of 55 utterances.
+LOG (copy-feats[5.5.481~1-ad09b]:main():copy-feats.cc:143) Copied 55 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Thu Jul  9 15:11:41 CEST 2020, elapsed time 0 seconds
