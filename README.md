@@ -78,16 +78,10 @@ In order to train (and test) the system, it will be necessary to make a phonetic
 For each audio file, we must creat an annotation file. This file must have the same filename as the corresponding audio, and the .kal extension. This is how a .kal file looks like: 
 
             1.3425095235733477  1.8208389765000808  cho sa  ch_o s_a
-            8.00054689313044  8.527616576060607 xe za x_e z_a
             13.704390989000565  14.131627803540477  ye ma y_e m_a
             19.760438417205425  20.261476233957108  zi fo z_i f_o
             24.894236194595347  25.234239423975374  pa ni p_a n_i
-            30.19150576626139 30.9468108298102  za po du  z_a p_o d_u
-            36.874888510817264  38.345799488787485  ma no ta zo m_a n_o t_a z_o
-            44.439531042553945  45.681633646173246  ba rre yo b_a rr_e y_o
-            50.81347861375824 52.51319796607939 se nyo ri ba  s_e ny_o r_i b_a
-            58.15169004829857 58.994848481745684  tu zo t_u z_o
-
+           
 Each line corresponds to a single utterance in the audio file, and it is composed of four tab-separted fields: 
 
   - start position of the utterance in the wav file
@@ -95,7 +89,7 @@ Each line corresponds to a single utterance in the audio file, and it is compose
   - syllable list (separated with spaces) 
   - phone list (this is like the previous field but the phones within each syllable are separated with "_")
 
-In order to facilitate creating these .kal files, you can use Praat textGrids. In Praat you should create two annotation tiers, one for syllables (tier 1) and another for phonemes (tier 2) using the syntax described above (fileds 3 and for). Then you can export using our Praat script Praat2Kaldi.praat and saving them with .kal extension.
+In order to facilitate creating these .kal files, you can use Praat textGrids. In Praat you should create two annotation tiers, one for syllables (tier 1) and another for phonemes (tier 2) using the syntax described above (fileds 3 and for). Then you can export using our Praat script Praat2Kaldi.praat (in /praat/) and saving them with .kal extension.
 
 ##### 5. Running a basic experiment with ASICAKaldiGMMRecipe
 
@@ -110,7 +104,14 @@ In order to facilitate creating these .kal files, you can use Praat textGrids. I
 
 In steps 5, if you only type python3 run.py --train it performs training with kal failes in info_user/train. Train is necesary before testing data.
 
+##### 5.1 Running cross-validation experiment with combination of features using ASICAKaldiGMMRecipe
 
+  - 1º: Place the audio files in the folder audio/experiment_lm (if you prefer another location, you must specify in configTrain.py, configTest.py and crossval_spk.py)
+  - 2º: Place all .kal files in info_user/train
+  - 3º: Type the following command in terminal: "python3 crossval_spk.py -a -f mfcc plp". This test all speakers using mfcc + plp features. 
+ 
+  Now you should find the predicted transcriptions (results) in the folder "results". In folder results/reformat it's generated global_result_reformat with global results for all speakers tested.
+  
 
 
 
