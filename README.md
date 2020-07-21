@@ -42,6 +42,10 @@ Useful python scripts:
 
     check_format.py ---> Check if the .kal files are well formatted.
     result_format.py ---> Extract all the resulting raw files and creates a .txt file resuming each results syllable by syllable.
+    crossval_spk.py ---> Make cross validation process.
+    htk_to_kaldi.py --> Generates audios files and annotations from HTK annotation for kaldi processing.
+    merge_kaldi_features.py --> Allows custom features to be used and combined into kaldi processing.
+    split_words.py ---> Split audio and kal file in words and pseudowords (easy and difficult). Test with pseudowords in cross validation.
 
 ##### 4. The corpora for training and testing 
 
