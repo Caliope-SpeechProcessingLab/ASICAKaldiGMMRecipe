@@ -6,22 +6,23 @@
 
 bash path.sh
 
-#------------------------------------------------------------------- EXTRACT FEATURES ---------------------------------------------------------------------------------------------
+#------------------------------ EXTRACT FEATURES ---------------------------- #
 train_cmd="utils/run.pl"
 decode_cmd="utils/run.pl"
 
 
 
 
-nj=4
 
 x=$1
+nj=$2 # used to be nj=4 nº of split in scp
+
 # x == train or test
 utils/data/fix_data_dir.sh data/$x
 
 # DATA PREPARATION.
-# echo ${@:2}
-for f in ${@:2}; do
+#echo ${@:3}
+for f in ${@:3}; do
     #echo $f
     featuredir=$f
     if [ ! -d $featuredir ]
@@ -34,7 +35,7 @@ for f in ${@:2}; do
 done
 
 # merge features
-python3 merge_kaldi_features.py ${@:2} combined_features
+python3 merge_kaldi_features.py ${@:3} combined_features
 bash local/copy_scp_all.sh $x
 
 # Compute cepstral mean and variance normalization statistics
@@ -44,7 +45,7 @@ steps/compute_cmvn_stats.sh data/$x exp/make_combined_features/$x combined_featu
 utils/validate_data_dir.sh data/$x
 
 # Se borran los resultados parciales
-for f in ${@:2}; do
+for f in ${@:3}; do
     rm -rf $f
 done
 # ----------------------------------- Old script used only for mfcc calculation
