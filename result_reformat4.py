@@ -120,6 +120,7 @@ if (len(argumentList) != 2):
 
 entrada=open(argumentList[0],"r");
 salida=open(argumentList[1],"w");
+# entrada=open('results/CA204INT_H48_F00_T00.csv',"r");
 
 n=0
 
@@ -180,22 +181,22 @@ for linea in entrada:
         lista2=linea.split('\t')
         #print("Nueva lista de datos: ",lista2)
         #print("NCampos: ",len(lista2))
-        ultimo=lista2[11]
-        lista2[11]=ultimo[:1]
+        ultimo=lista2[-1]
+        lista2[-1]=ultimo[:1]
 #        lista2.pop(len(lista2)-1)
         #print("Nueva lista2 de datos: ",lista2)
         #print("NCampos: ",len(lista2))
 
-        targetUtt=lista2[8]
+        targetUtt=lista2[lista1.index('Target Utterance')]
 
-        if (lista2[6]=="D"):
+        if (lista2[lista1.index('Hit')]=="D"):
              typeUtt="InsDel"
-        elif (lista2[6]=="I"):
+        elif (lista2[lista1.index('Hit')]=="I"):
              typeUtt="InsDel"
         else:
             typeUtt=tipo_palabra(targetUtt)
 
-        evaluation=lista2[3]
+        evaluation=lista2[lista1.index('Evaluation')]
         groupoEdad=ageGroup(evaluation)
         sexo=sex(evaluation)
 
@@ -204,13 +205,14 @@ for linea in entrada:
         #print("lista2[10] vale: ",lista2[10])
 
 
-        silabaN=lista2[10]+lista2[11] # Concateno para tener un identificador único de sílaba
+        silabaN=lista2[lista1.index('Number of Syllables')]+lista2[lista1.index('Syllable position')]    # 10 y 11
+        # Concateno para tener un identificador único de sílaba
 
 
-        targetSil=lista2[4]
+        targetSil=lista2[lista1.index('Target')] #4
         targetC=extraeCons(targetSil)
         targetV=extraeVocal(targetSil)
-        respSil=lista2[5]
+        respSil=lista2[lista1.index('Response')] #5
         respC=extraeCons(respSil)
         respV=extraeVocal(respSil)
 

@@ -31,7 +31,7 @@ def simpleFormat(pathTo_perSpk, filename):
 
 def extract_results(crossVal_mode, speaker):
 
-    df = pd.DataFrame(columns=('Speaker ID', 'Task', 'Evaluation', 'Target', 'Response','Hit','Correct', 'Target Utterance', 'Responsed Utterance', 'Number of Syllables', 'Syllable position'))
+    df = pd.DataFrame(columns=('Speaker ID', 'Task', 'Evaluation', 'Toma', 'Target', 'Response','Hit','Correct', 'Target Utterance', 'Responsed Utterance', 'Number of Syllables', 'Syllable position'))
 
     cnt = 0
     try:
@@ -53,13 +53,25 @@ def extract_results(crossVal_mode, speaker):
                     #Filename processing
                     id = content[0]
                     name_fields = id.split('_')
-                    spk = name_fields[0]
+                    spk = name_fields[0][0:5]
                     ev = name_fields[1]
                     ev = ev.split('-')
                     ev = ev[0]
                     s = spk.find('Q')
-                    spk_id = spk[:s]
-                    task = spk[s:]
+                    if s>0: # it means Q is found
+                        spk_id = spk[:s]
+                        task = spk[s:]
+                    else:
+                        spk_id = spk
+                        task = name_fields[2]
+                    # end if
+
+                    toma = name_fields[-1]
+                    if toma.find('T')>=0:
+                        tom = toma[0:3]
+                    else:
+                        tom = '***'
+                    # end if
 
                     refs = content[1:]
                     refs = remove_SpaceItems(refs)
@@ -99,7 +111,7 @@ def extract_results(crossVal_mode, speaker):
                         else:
                             correct = 0
 
-                        df.loc[cnt] = [spk_id] + [task] + [ev] + [refs[z]] + [hyps[z]] + [hits[z]] + [correct] + [ref_utt] + [hyps_utt] + [len(refs)] + [z+1]
+                        df.loc[cnt] = [spk_id] + [task] + [ev] + [tom] + [refs[z]] + [hyps[z]] + [hits[z]] + [correct] + [ref_utt] + [hyps_utt] + [len(refs)] + [z+1]
                         cnt = cnt + 1
 
 

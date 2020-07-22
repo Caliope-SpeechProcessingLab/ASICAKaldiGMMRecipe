@@ -12,7 +12,6 @@
 # Funtion to interrupt program with CTRL-C
 #
 
-
 import os
 import time
 import argparse
@@ -22,6 +21,7 @@ import configTest
 import configTrain
 import check_format
 import result_format
+import relocate_features
 
 
 start_time = time.time()
@@ -30,9 +30,9 @@ start_time = time.time()
 parser = argparse.ArgumentParser()
 parser.add_argument('-t', '--train',action='store_true', help='make training')
 parser.add_argument('-r', '--test',action='store_true', help='make testing')
+parser.add_argument('-f', '--feats',  nargs='+', help='Features to use.')
 
 args = parser.parse_args()
-
 
 #--------------------------- USER VARIABLES --------------------------------- #
 
@@ -45,6 +45,7 @@ trainInfo_path = 'info_user/train/'
 
 # Result filename path:
 resultFilename = 'resultSimple'
+featuresCombined_path = 'combined_features'
 
 
 # ----------------------- CHECK .KAL FORMAT --------------------------------- #
@@ -84,14 +85,14 @@ if len(audioTestFilenames) == 0 or len(audioTrainFilenames) == 0 or len(dataTest
     # print("ABORTING EXECUTION BECAUSE SOME FOLDER IS EMPTY")
     # exit()
 
-
+# The number of splits in .ark and .scp files for kaldi feature calculation
+number_split = min([4,len(dataTestFilenames)])
 #---------------------------------------------------------------------------- #
-
 
 if args.train:
 
     print("\n-----------------RESET DATA----------------------\n")
-    bashCommand = "bash local/resetDirectory.sh"
+    bashCommand = "bash local/resetDirectory.sh " + ' '.join(args.feats)
     process = subprocess.Popen(bashCommand,shell=True)
     output, error = process.communicate()
 
@@ -100,17 +101,24 @@ if args.train:
     # Se ha corregido para que no muestre todos los nombres
     # Se corrige los path de audio y user_data
 
-
     print("\n-----------------MAKE FEATS----------------------\n")
-    bashCommand = "bash local/makeFeats.sh train"
-    process = subprocess.Popen(bashCommand,shell=True)
-    output, error = process.communicate()
+    if os.listdir(featuresCombined_path):
+        # if its empty
+        relocate_features.main('train')
+        relocate = True
+    else:
+        # if not exists combined_features must calculated again.
+        print('CALCULANDO')
+        relocate = False
+        bashCommand = "bash local/makeFeats.sh train " + str(number_split) + " " + ' '.join(args.feats)
+        process = subprocess.Popen(bashCommand,shell=True)
+        output, error = process.communicate()
+    # end if
 
     print("\n-----------------MAKE LANGUAGE MODEL----------------------\n")
     bashCommand = "bash local/makeLanguageModel.sh"
     process = subprocess.Popen(bashCommand,shell=True)
     output, error = process.communicate()
-
 
     print("\n-----------------TRAIN----------------------\n")
     bashCommand = "bash local/train.sh {}".format(trainInfo_path)
@@ -126,23 +134,26 @@ if args.test:
     configTest.main(dataTestFilenames, audioTestPath, testInfo_path)
     # Se ha corregido para que no muestre todos los nombres
 
-
     print("\n-----------------MAKE FEATS----------------------\n")
-    bashCommand = "bash local/makeFeats.sh test"
-    process = subprocess.Popen(bashCommand,shell=True)
-    output, error = process.communicate()
-
+    if relocate:
+        relocate_features.main('test')
+    else:
+        print('CALCULANDO')
+        bashCommand = "bash local/makeFeats.sh test " + str(number_split) + " " + ' '.join(args.feats)
+        process = subprocess.Popen(bashCommand,shell=True)
+        output, error = process.communicate()
+    # end if
 
     print("\n-----------------TEST----------------------\n")
     bashCommand = "bash local/test.sh {}".format(testInfo_path)
     process = subprocess.Popen(bashCommand,shell=True)
     output, error = process.communicate()
 
-
     print("\n-----------------EXTRACT RESULTS----------------------\n")
     pathTo_perSpk = 'exp/tri1/decode/scoring_kaldi/wer_details/per_spk'
     result_format.simpleFormat(pathTo_perSpk,'results/' + resultFilename)
 
+    print("\n-----------------END TESTING----------------------\n")
 # end if
 
 print("--- %s seconds ---" % (time.time() - start_time))

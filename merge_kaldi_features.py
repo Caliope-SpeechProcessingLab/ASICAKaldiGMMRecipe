@@ -141,7 +141,7 @@ if __name__ == "__main__":
     args = args_function(sys.argv)
     # print(sys.argv)
     # parent_path = os.path.dirname(os.getcwd())
-
+    print(sys.argv)
     folder_in = args[:-1]
     folder_out = args[-1]
     data_name = 'data'
