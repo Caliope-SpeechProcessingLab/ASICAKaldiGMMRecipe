@@ -113,6 +113,14 @@ In steps 5, if you only type python3 run.py --train it performs training with ka
   Now you should find the predicted transcriptions (results) in the folder "results". In folder results/reformat it's generated global_result_reformat with global results for all speakers tested.
   
 
+# Authors and grants
+
+The present set of scripts has been developed with the participation of:
+- Salvador Florido (Desiged the bulk of the system and wrote the majority of the code until march 2020)
+- Andrés Lozano (Programmer: april 2020 - may 2021)
+- Ignacio Moreno-Torres and Enrique Nava: Supervision
+
+This work was supported by a grant from the Spanish Ministerio de Ciencia e Innovación to Ignacio Moreno-Torres and Enrique Nava (RTI2018-094846-B-I00)
 
 
 
