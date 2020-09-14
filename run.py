@@ -33,7 +33,13 @@ parser.add_argument('-r', '--test',action='store_true', help='make testing')
 parser.add_argument('-f', '--feats',  nargs='+', help='Features to use.')
 
 args = parser.parse_args()
+#print(args)
 
+# Features
+if args.feats==None:
+    print("\nNo features indicated. Using only mfcc \n")
+    args.feats = list(['mfcc'])
+# end if
 #--------------------------- USER VARIABLES --------------------------------- #
 
 # .wav and .kal file paths:
@@ -47,6 +53,7 @@ trainInfo_path = 'info_user/train/'
 resultFilename = 'resultSimple'
 featuresCombined_path = 'combined_features'
 
+relocate = False
 
 # ----------------------- CHECK .KAL FORMAT --------------------------------- #
 check_format.checker(testInfo_path)
@@ -87,6 +94,7 @@ if len(audioTestFilenames) == 0 or len(audioTrainFilenames) == 0 or len(dataTest
 
 # The number of splits in .ark and .scp files for kaldi feature calculation
 number_split = min([4,len(dataTestFilenames)])
+if number_split < 4: number_split=4 # end if
 #---------------------------------------------------------------------------- #
 
 if args.train:
