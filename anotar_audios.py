@@ -59,7 +59,7 @@ def main():
                 kal_file.close()
 
                 ## Anotación audios archivo .textgrid
-                tgrid_file = open(tgrid_path+'/'+spk_name+'.kal','w')
+                tgrid_file = open(tgrid_path+'/'+spk_name+'.TextGrid','w')
                 for line in tgrid_example:
                     if 'END' in line:
                         line = line.replace('END', end)
